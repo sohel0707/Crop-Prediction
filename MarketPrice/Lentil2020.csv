@@ -1,0 +1,1240 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Chattisgarh,Balodabazar,Bhatapara,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4100,4191,4150
+Chattisgarh,Balodabazar,Bhatapara,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,4005,4301,4290
+Chattisgarh,Balodabazar,Bhatapara,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,3600,4250,3900
+Chattisgarh,Balodabazar,Bhatapara,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4350,4451,4400
+Chattisgarh,Balodabazar,Bhatapara,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,3950,4336,4271
+Chattisgarh,Balodabazar,Bhatapara,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4151,4351,4311
+Chattisgarh,Balodabazar,Bhatapara,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4200,4371,4371
+Chattisgarh,Balodabazar,Bhatapara,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4280,4381,4301
+Chattisgarh,Balodabazar,Bhatapara,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4281,4381,4326
+Chattisgarh,Balodabazar,Bhatapara,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,4250,4351,4311
+Chattisgarh,Balodabazar,Bhatapara,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,4050,4331,4331
+Chattisgarh,Bemetara,Bemetara,"Lentil (Masur)(Whole)",Other,02/01/2020,4800,4800,4800
+Chattisgarh,Mungeli,Munguli,"Lentil (Masur)(Whole)",Other,01/01/2020,4680,4710,4690
+Chattisgarh,Mungeli,Munguli,"Lentil (Masur)(Whole)",Other,02/01/2020,4390,4390,4390
+Chattisgarh,Mungeli,Munguli,"Lentil (Masur)(Whole)",Other,03/01/2020,4790,4790,4790
+Chattisgarh,Mungeli,Munguli,"Lentil (Masur)(Whole)",Other,04/01/2020,4730,4730,4730
+Chattisgarh,Mungeli,Munguli,"Lentil (Masur)(Whole)",Other,08/01/2020,4590,4590,4590
+Chattisgarh,Mungeli,Munguli,"Lentil (Masur)(Whole)",Other,10/01/2020,4640,4640,4640
+Chattisgarh,Mungeli,Munguli,"Lentil (Masur)(Whole)",Other,11/01/2020,1980,2070,2030
+Chattisgarh,Mungeli,Munguli,"Lentil (Masur)(Whole)",Other,13/01/2020,4350,4740,4570
+Chattisgarh,Mungeli,Munguli,"Lentil (Masur)(Whole)",Other,14/01/2020,4300,4560,4440
+Chattisgarh,Rajnandgaon,Rajnandgaon,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4450,4725,4600
+Chattisgarh,Rajnandgaon,Rajnandgaon,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4501,4882,4702
+Chattisgarh,Rajnandgaon,Rajnandgaon,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4500,4711,4650
+Chattisgarh,Rajnandgaon,Rajnandgaon,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4430,4500,4430
+Chattisgarh,Rajnandgaon,Rajnandgaon,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4480,4480,4480
+Chattisgarh,Rajnandgaon,Rajnandgaon,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4250,4475,4450
+Chattisgarh,Rajnandgaon,Rajnandgaon,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4401,4550,4450
+Chattisgarh,Rajnandgaon,Rajnandgaon,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4200,4200,4200
+Jharkhand,Ranchi,Khunti,"Lentil (Masur)(Whole)",Other,02/01/2020,4600,5000,4800
+Jharkhand,Ranchi,Khunti,"Lentil (Masur)(Whole)",Other,03/01/2020,4600,5000,4800
+Jharkhand,Ranchi,Khunti,"Lentil (Masur)(Whole)",Other,04/01/2020,4600,5000,4800
+Jharkhand,Ranchi,Khunti,"Lentil (Masur)(Whole)",Other,07/01/2020,4600,5000,4800
+Jharkhand,Ranchi,Khunti,"Lentil (Masur)(Whole)",Other,10/01/2020,4650,5050,4850
+Jharkhand,Ranchi,Khunti,"Lentil (Masur)(Whole)",Other,12/01/2020,4650,5050,4850
+Jharkhand,Ranchi,Khunti,"Lentil (Masur)(Whole)",Other,14/01/2020,4850,5250,5050
+"Madhya Pradesh",Anupur,Jaithari,"Lentil (Masur)(Whole)",Other,14/01/2020,3750,3750,3750
+"Madhya Pradesh",Ashoknagar,Ashoknagar,"Lentil (Masur)(Whole)",Other,06/01/2020,3660,4771,4744
+"Madhya Pradesh",Ashoknagar,Ashoknagar,"Lentil (Masur)(Whole)",Other,07/01/2020,4151,4729,4600
+"Madhya Pradesh",Ashoknagar,Ashoknagar,"Lentil (Masur)(Whole)",Other,08/01/2020,4570,4725,4640
+"Madhya Pradesh",Ashoknagar,Ashoknagar,"Lentil (Masur)(Whole)",Other,09/01/2020,4500,4750,4620
+"Madhya Pradesh",Ashoknagar,Ashoknagar,"Lentil (Masur)(Whole)",Other,10/01/2020,4250,4720,4650
+"Madhya Pradesh",Ashoknagar,Isagarh,"Lentil (Masur)(Whole)","Kala Masoor New",11/01/2020,4300,4300,4300
+"Madhya Pradesh",Ashoknagar,Mungawali,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,4400,4600,4500
+"Madhya Pradesh",Ashoknagar,Mungawali,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,4600,4680,4640
+"Madhya Pradesh",Ashoknagar,Mungawali,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,4500,4500,4500
+"Madhya Pradesh",Ashoknagar,Mungawali,"Lentil (Masur)(Whole)","Kala Masoor New",09/01/2020,4600,4690,4625
+"Madhya Pradesh",Ashoknagar,Mungawali,"Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,4575,4630,4600
+"Madhya Pradesh",Betul,Betul,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4001,4351,4201
+"Madhya Pradesh",Betul,Betul,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,3950,3950,3950
+"Madhya Pradesh",Bhopal,Berasia,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4205,4205,4205
+"Madhya Pradesh",Bhopal,Berasia,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,3900,4400,4180
+"Madhya Pradesh",Bhopal,Berasia,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,3900,4400,4180
+"Madhya Pradesh",Bhopal,Berasia,"Lentil (Masur)(Whole)",Other,03/01/2020,4205,4205,4205
+"Madhya Pradesh",Bhopal,Berasia,"Lentil (Masur)(Whole)",Other,07/01/2020,3900,4400,4180
+"Madhya Pradesh",Bhopal,Berasia,"Lentil (Masur)(Whole)",Other,08/01/2020,3900,4400,4180
+"Madhya Pradesh",Bhopal,Bhopal,"Lentil (Masur)(Whole)",Other,07/01/2020,3300,4500,4500
+"Madhya Pradesh",Bhopal,Bhopal,"Lentil (Masur)(Whole)",Other,09/01/2020,3255,3255,3255
+"Madhya Pradesh",Chhatarpur,"LavKush Nagar(Laundi)","Lentil (Masur)(Whole)",Other,02/01/2020,4600,4600,4600
+"Madhya Pradesh",Chhatarpur,"LavKush Nagar(Laundi)","Lentil (Masur)(Whole)",Other,04/01/2020,4500,4650,4575
+"Madhya Pradesh",Chhatarpur,"LavKush Nagar(Laundi)","Lentil (Masur)(Whole)",Other,06/01/2020,4500,4625,4565
+"Madhya Pradesh",Chhatarpur,"LavKush Nagar(Laundi)","Lentil (Masur)(Whole)",Other,07/01/2020,4650,4700,4675
+"Madhya Pradesh",Chhatarpur,"LavKush Nagar(Laundi)","Lentil (Masur)(Whole)",Other,09/01/2020,4455,4455,4455
+"Madhya Pradesh",Chhatarpur,"LavKush Nagar(Laundi)","Lentil (Masur)(Whole)",Other,10/01/2020,4350,4600,4475
+"Madhya Pradesh",Chhatarpur,Rajnagar,"Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,3550,3620,3600
+"Madhya Pradesh",Chhatarpur,Rajnagar,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,3550,3650,3600
+"Madhya Pradesh",Chhatarpur,Rajnagar,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,3550,3625,3600
+"Madhya Pradesh",Chhindwara,Chaurai,"Lentil (Masur)(Whole)",Other,07/01/2020,3865,3865,3865
+"Madhya Pradesh",Damoh,Damoh,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4375,4920,4790
+"Madhya Pradesh",Datia,Bhander,"Lentil (Masur)(Whole)",Other,09/01/2020,4550,4800,4590
+"Madhya Pradesh",Datia,Bhander,"Lentil (Masur)(Whole)",Other,10/01/2020,4400,4400,4400
+"Madhya Pradesh",Datia,Sevda,"Lentil (Masur)(Whole)",Other,04/01/2020,3840,3850,3845
+"Madhya Pradesh",Datia,Sevda,"Lentil (Masur)(Whole)",Other,08/01/2020,3800,3800,3800
+"Madhya Pradesh",Datia,Sevda,"Lentil (Masur)(Whole)",Other,10/01/2020,4440,4510,4495
+"Madhya Pradesh",Datia,Sevda,"Lentil (Masur)(Whole)",Other,14/01/2020,4400,4400,4400
+"Madhya Pradesh",Dewas,Dewas,"Lentil (Masur)(Whole)",Other,02/01/2020,4500,4800,4700
+"Madhya Pradesh",Dewas,Dewas,"Lentil (Masur)(Whole)",Other,03/01/2020,4200,4800,4300
+"Madhya Pradesh",Dewas,Dewas,"Lentil (Masur)(Whole)",Other,04/01/2020,4200,4800,4350
+"Madhya Pradesh",Dewas,Dewas,"Lentil (Masur)(Whole)",Other,06/01/2020,4000,4800,4400
+"Madhya Pradesh",Dewas,Dewas,"Lentil (Masur)(Whole)",Other,08/01/2020,4000,4200,4100
+"Madhya Pradesh",Dewas,Dewas,"Lentil (Masur)(Whole)",Other,09/01/2020,4200,4650,4500
+"Madhya Pradesh",Dewas,Dewas,"Lentil (Masur)(Whole)",Other,10/01/2020,4200,4400,4300
+"Madhya Pradesh",Dewas,Dewas,"Lentil (Masur)(Whole)",Other,13/01/2020,4200,4650,4350
+"Madhya Pradesh",Dhar,Badnawar,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,4405,4405,4405
+"Madhya Pradesh",Dhar,Dhar,"Lentil (Masur)(Whole)",Other,03/01/2020,4624,4674,4650
+"Madhya Pradesh",Dhar,Dhar,"Lentil (Masur)(Whole)",Other,06/01/2020,4502,4550,4530
+"Madhya Pradesh",Dhar,Dhar,"Lentil (Masur)(Whole)",Other,07/01/2020,4365,4482,4430
+"Madhya Pradesh",Dhar,Dhar,"Lentil (Masur)(Whole)",Other,10/01/2020,3005,4367,3750
+"Madhya Pradesh",Dhar,Dhar,"Lentil (Masur)(Whole)",Other,13/01/2020,4300,4375,4340
+"Madhya Pradesh",Dhar,Dhar,"Lentil (Masur)(Whole)",Other,14/01/2020,3500,3750,3630
+"Madhya Pradesh",Dindori,Dindori,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4011,4200,4100
+"Madhya Pradesh",Dindori,Dindori,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,4000,4000,4000
+"Madhya Pradesh",Dindori,Dindori,"Lentil (Masur)(Whole)",Other,05/01/2020,4100,4315,4200
+"Madhya Pradesh",Dindori,Dindori,"Lentil (Masur)(Whole)",Other,07/01/2020,4000,4100,4000
+"Madhya Pradesh",Dindori,Gorakhpur,"Lentil (Masur)(Whole)",Other,06/01/2020,3800,4800,4300
+"Madhya Pradesh",Dindori,Gorakhpur,"Lentil (Masur)(Whole)",Other,11/01/2020,4120,4165,4143
+"Madhya Pradesh",Dindori,Gorakhpur,"Lentil (Masur)(Whole)",Other,12/01/2020,4500,4500,4500
+"Madhya Pradesh",Dindori,Gorakhpur,"Lentil (Masur)(Whole)",Other,13/01/2020,4500,4500,4500
+"Madhya Pradesh",Guna,Aron,"Lentil (Masur)(Whole)",Other,02/01/2020,0,0,4675
+"Madhya Pradesh",Guna,Aron,"Lentil (Masur)(Whole)",Other,07/01/2020,0,0,4500
+"Madhya Pradesh",Guna,Aron,"Lentil (Masur)(Whole)",Other,10/01/2020,0,0,3450
+"Madhya Pradesh",Guna,Aron,"Lentil (Masur)(Whole)",Other,13/01/2020,0,0,4415
+"Madhya Pradesh",Guna,Guna,"Lentil (Masur)(Whole)",Other,03/01/2020,4150,4450,4150
+"Madhya Pradesh",Guna,Guna,"Lentil (Masur)(Whole)",Other,04/01/2020,4600,4795,4705
+"Madhya Pradesh",Guna,Guna,"Lentil (Masur)(Whole)",Other,06/01/2020,4450,4450,4450
+"Madhya Pradesh",Guna,Guna,"Lentil (Masur)(Whole)",Other,08/01/2020,3800,4680,3800
+"Madhya Pradesh",Guna,Guna,"Lentil (Masur)(Whole)",Other,09/01/2020,4425,4650,4570
+"Madhya Pradesh",Guna,Guna,"Lentil (Masur)(Whole)",Other,13/01/2020,4190,4190,4190
+"Madhya Pradesh",Gwalior,Dabra,"Lentil (Masur)(Whole)",Other,13/01/2020,4800,5000,4900
+"Madhya Pradesh",Harda,Harda,"Lentil (Masur)(Whole)","Kala Masoor New",01/01/2020,3400,3400,3400
+"Madhya Pradesh",Harda,Harda,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,3700,3700,3700
+"Madhya Pradesh",Hoshangabad,Pipariya,"Lentil (Masur)(Whole)",Other,01/01/2020,2050,4805,4805
+"Madhya Pradesh",Hoshangabad,Pipariya,"Lentil (Masur)(Whole)",Other,02/01/2020,4845,5011,4911
+"Madhya Pradesh",Hoshangabad,Pipariya,"Lentil (Masur)(Whole)",Other,03/01/2020,4800,5060,4950
+"Madhya Pradesh",Hoshangabad,Pipariya,"Lentil (Masur)(Whole)",Other,06/01/2020,4500,4875,4790
+"Madhya Pradesh",Hoshangabad,Pipariya,"Lentil (Masur)(Whole)",Other,07/01/2020,4476,4775,4700
+"Madhya Pradesh",Hoshangabad,Pipariya,"Lentil (Masur)(Whole)",Other,09/01/2020,4301,4825,4770
+"Madhya Pradesh",Indore,Indore,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,4220,4350,4350
+"Madhya Pradesh",Indore,Indore,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,4700,4740,4740
+"Madhya Pradesh",Indore,Indore,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,4270,4760,4760
+"Madhya Pradesh",Indore,Indore,"Lentil (Masur)(Whole)","Kala Masoor New",13/01/2020,3800,4680,4680
+"Madhya Pradesh",Jabalpur,Jabalpur,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,4000,4830,4530
+"Madhya Pradesh",Jabalpur,Jabalpur,"Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,3800,4850,4765
+"Madhya Pradesh",Jabalpur,Jabalpur,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,4460,5000,4800
+"Madhya Pradesh",Jabalpur,Jabalpur,"Lentil (Masur)(Whole)","Kala Masoor New",09/01/2020,4500,4725,4690
+"Madhya Pradesh",Jabalpur,Jabalpur,"Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,4400,4800,4650
+"Madhya Pradesh",Jabalpur,Jabalpur,"Lentil (Masur)(Whole)","Kala Masoor New",13/01/2020,4450,4795,4570
+"Madhya Pradesh",Jabalpur,Jabalpur,"Lentil (Masur)(Whole)","Kala Masoor New",14/01/2020,4150,4730,4550
+"Madhya Pradesh",Jabalpur,Paatan,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4900,4980,4950
+"Madhya Pradesh",Jabalpur,Paatan,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4900,5025,4935
+"Madhya Pradesh",Jabalpur,Paatan,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4000,5075,4910
+"Madhya Pradesh",Jabalpur,Paatan,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4655,4845,4700
+"Madhya Pradesh",Jabalpur,Shahpura(Jabalpur),"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,5000,5025,5010
+"Madhya Pradesh",Jabalpur,Shahpura(Jabalpur),"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4950,5005,4990
+"Madhya Pradesh",Jabalpur,Shahpura(Jabalpur),"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,4750,4750,4750
+"Madhya Pradesh",Jabalpur,Sihora,"Lentil (Masur)(Whole)",Other,02/01/2020,4900,5151,4961
+"Madhya Pradesh",Jabalpur,Sihora,"Lentil (Masur)(Whole)",Other,03/01/2020,4500,5170,4851
+"Madhya Pradesh",Jabalpur,Sihora,"Lentil (Masur)(Whole)",Other,04/01/2020,4380,4996,4860
+"Madhya Pradesh",Jabalpur,Sihora,"Lentil (Masur)(Whole)",Other,06/01/2020,4626,5011,4938
+"Madhya Pradesh",Jabalpur,Sihora,"Lentil (Masur)(Whole)",Other,07/01/2020,4728,4847,4751
+"Madhya Pradesh",Jabalpur,Sihora,"Lentil (Masur)(Whole)",Other,08/01/2020,4741,4741,4741
+"Madhya Pradesh",Jabalpur,Sihora,"Lentil (Masur)(Whole)",Other,09/01/2020,4250,4941,4796
+"Madhya Pradesh",Jabalpur,Sihora,"Lentil (Masur)(Whole)",Other,10/01/2020,3860,4941,4601
+"Madhya Pradesh",Jabalpur,Sihora,"Lentil (Masur)(Whole)",Other,14/01/2020,4715,4915,4877
+"Madhya Pradesh",Katni,Katni,"Lentil (Masur)(Whole)",Other,02/01/2020,4500,5190,4800
+"Madhya Pradesh",Katni,Katni,"Lentil (Masur)(Whole)",Other,03/01/2020,4460,5132,5075
+"Madhya Pradesh",Katni,Katni,"Lentil (Masur)(Whole)",Other,04/01/2020,4175,4940,4600
+"Madhya Pradesh",Katni,Katni,"Lentil (Masur)(Whole)",Other,06/01/2020,4400,4975,4775
+"Madhya Pradesh",Katni,Katni,"Lentil (Masur)(Whole)",Other,07/01/2020,4250,4812,4600
+"Madhya Pradesh",Katni,Katni,"Lentil (Masur)(Whole)",Other,08/01/2020,4650,4901,4700
+"Madhya Pradesh",Katni,Katni,"Lentil (Masur)(Whole)",Other,09/01/2020,4450,4948,4755
+"Madhya Pradesh",Katni,Katni,"Lentil (Masur)(Whole)",Other,10/01/2020,4414,5050,4885
+"Madhya Pradesh",Katni,Katni,"Lentil (Masur)(Whole)",Other,13/01/2020,4000,5050,4860
+"Madhya Pradesh",Mandla,Nainpur,"Lentil (Masur)(Whole)",Other,03/01/2020,4000,4475,4475
+"Madhya Pradesh",Mandla,Nainpur,"Lentil (Masur)(Whole)",Other,06/01/2020,4050,4475,4475
+"Madhya Pradesh",Mandsaur,Mandsaur,"Lentil (Masur)(Whole)",Other,02/01/2020,4000,5151,4600
+"Madhya Pradesh",Mandsaur,Mandsaur,"Lentil (Masur)(Whole)",Other,03/01/2020,3700,5150,4420
+"Madhya Pradesh",Mandsaur,Mandsaur,"Lentil (Masur)(Whole)",Other,04/01/2020,3900,4951,4420
+"Madhya Pradesh",Mandsaur,Mandsaur,"Lentil (Masur)(Whole)",Other,06/01/2020,4300,4899,4590
+"Madhya Pradesh",Mandsaur,Mandsaur,"Lentil (Masur)(Whole)",Other,07/01/2020,4201,4811,4500
+"Madhya Pradesh",Mandsaur,Mandsaur,"Lentil (Masur)(Whole)",Other,09/01/2020,4310,4898,4610
+"Madhya Pradesh",Mandsaur,Mandsaur,"Lentil (Masur)(Whole)",Other,10/01/2020,4551,4899,4720
+"Madhya Pradesh",Mandsaur,Mandsaur,"Lentil (Masur)(Whole)",Other,13/01/2020,4000,4800,4400
+"Madhya Pradesh",Mandsaur,Piplya,"Lentil (Masur)(Whole)",Other,06/01/2020,4391,4650,4450
+"Madhya Pradesh",Mandsaur,Piplya,"Lentil (Masur)(Whole)",Other,10/01/2020,3901,4301,4100
+"Madhya Pradesh",Mandsaur,Piplya,"Lentil (Masur)(Whole)",Other,13/01/2020,4481,4600,4500
+"Madhya Pradesh",Mandsaur,Shamgarh,"Lentil (Masur)(Whole)",Other,03/01/2020,4750,4750,4750
+"Madhya Pradesh",Mandsaur,Shamgarh,"Lentil (Masur)(Whole)",Other,09/01/2020,5200,5200,5200
+"Madhya Pradesh",Narsinghpur,Gadarwada,"Lentil (Masur)(Whole)",Other,02/01/2020,4400,4400,4400
+"Madhya Pradesh",Narsinghpur,Gadarwada,"Lentil (Masur)(Whole)",Other,03/01/2020,4753,4900,4850
+"Madhya Pradesh",Narsinghpur,Gotegaon,"Lentil (Masur)(Whole)",Other,07/01/2020,4525,4525,4525
+"Madhya Pradesh",Narsinghpur,Gotegaon,"Lentil (Masur)(Whole)",Other,10/01/2020,4500,4600,4550
+"Madhya Pradesh",Narsinghpur,Kareli,"Lentil (Masur)(Whole)",Other,02/01/2020,4750,5118,4934
+"Madhya Pradesh",Narsinghpur,Kareli,"Lentil (Masur)(Whole)",Other,03/01/2020,4850,5161,5005
+"Madhya Pradesh",Narsinghpur,Kareli,"Lentil (Masur)(Whole)",Other,04/01/2020,4750,5055,4902
+"Madhya Pradesh",Narsinghpur,Kareli,"Lentil (Masur)(Whole)",Other,07/01/2020,4550,4900,4725
+"Madhya Pradesh",Narsinghpur,Kareli,"Lentil (Masur)(Whole)",Other,09/01/2020,4760,4950,4855
+"Madhya Pradesh",Narsinghpur,Narsinghpur,"Lentil (Masur)(Whole)",Other,01/01/2020,4750,4902,4870
+"Madhya Pradesh",Narsinghpur,Narsinghpur,"Lentil (Masur)(Whole)",Other,03/01/2020,4870,5161,5095
+"Madhya Pradesh",Narsinghpur,Narsinghpur,"Lentil (Masur)(Whole)",Other,04/01/2020,4358,5180,4950
+"Madhya Pradesh",Narsinghpur,Narsinghpur,"Lentil (Masur)(Whole)",Other,06/01/2020,4530,4908,4811
+"Madhya Pradesh",Narsinghpur,Narsinghpur,"Lentil (Masur)(Whole)",Other,07/01/2020,3900,4785,4620
+"Madhya Pradesh",Narsinghpur,Narsinghpur,"Lentil (Masur)(Whole)",Other,10/01/2020,4400,4876,4610
+"Madhya Pradesh",Narsinghpur,Narsinghpur,"Lentil (Masur)(Whole)",Other,11/01/2020,4150,4952,4580
+"Madhya Pradesh",Narsinghpur,Tendukheda,"Lentil (Masur)(Whole)",Other,04/01/2020,4300,4700,4500
+"Madhya Pradesh",Neemuch,Manasa,"Lentil (Masur)(Whole)",Other,04/01/2020,4561,4561,4561
+"Madhya Pradesh",Neemuch,Manasa,"Lentil (Masur)(Whole)",Other,06/01/2020,4391,4391,4391
+"Madhya Pradesh",Neemuch,Manasa,"Lentil (Masur)(Whole)",Other,08/01/2020,4700,4700,4700
+"Madhya Pradesh",Neemuch,Manasa,"Lentil (Masur)(Whole)",Other,10/01/2020,4600,4650,4625
+"Madhya Pradesh",Neemuch,Neemuch,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4400,5181,4950
+"Madhya Pradesh",Neemuch,Neemuch,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,3151,4809,4650
+"Madhya Pradesh",Neemuch,Neemuch,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4611,5101,4725
+"Madhya Pradesh",Neemuch,Neemuch,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4700,5216,4800
+"Madhya Pradesh",Neemuch,Neemuch,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,3675,5151,4800
+"Madhya Pradesh",Neemuch,Neemuch,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,2455,4711,4550
+"Madhya Pradesh",Panna,Devandranagar,"Lentil (Masur)(Whole)",Other,07/01/2020,4700,4770,4770
+"Madhya Pradesh",Panna,Devandranagar,"Lentil (Masur)(Whole)",Other,08/01/2020,4718,4770,4770
+"Madhya Pradesh",Panna,Devandranagar,"Lentil (Masur)(Whole)",Other,09/01/2020,4742,4792,4750
+"Madhya Pradesh",Panna,Devandranagar,"Lentil (Masur)(Whole)",Other,10/01/2020,4686,4703,4686
+"Madhya Pradesh",Panna,Panna,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4840,4900,4880
+"Madhya Pradesh",Panna,Panna,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4558,4791,4699
+"Madhya Pradesh",Panna,Panna,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4695,4722,4699
+"Madhya Pradesh",Panna,Panna,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4580,4720,4636
+"Madhya Pradesh",Panna,Panna,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4760,4800,4765
+"Madhya Pradesh",Raisen,Bareli,"Lentil (Masur)(Whole)",Other,02/01/2020,4790,4820,4805
+"Madhya Pradesh",Raisen,Bareli,"Lentil (Masur)(Whole)",Other,03/01/2020,4805,4835,4820
+"Madhya Pradesh",Raisen,Bareli,"Lentil (Masur)(Whole)",Other,07/01/2020,4400,4400,4400
+"Madhya Pradesh",Raisen,Bareli,"Lentil (Masur)(Whole)",Other,09/01/2020,4850,4905,4878
+"Madhya Pradesh",Raisen,Gairatganj,"Lentil (Masur)(Whole)",Other,02/01/2020,4601,4601,4601
+"Madhya Pradesh",Raisen,Gairatganj,"Lentil (Masur)(Whole)",Other,03/01/2020,4081,4813,4789
+"Madhya Pradesh",Raisen,Gairatganj,"Lentil (Masur)(Whole)",Other,04/01/2020,4690,4690,4690
+"Madhya Pradesh",Raisen,Gairatganj,"Lentil (Masur)(Whole)",Other,07/01/2020,4601,4601,4601
+"Madhya Pradesh",Raisen,Gairatganj,"Lentil (Masur)(Whole)",Other,09/01/2020,3621,4500,4281
+"Madhya Pradesh",Raisen,Gairatganj,"Lentil (Masur)(Whole)",Other,10/01/2020,4272,4725,4425
+"Madhya Pradesh",Raisen,Gairatganj,"Lentil (Masur)(Whole)",Other,13/01/2020,4600,4600,4600
+"Madhya Pradesh",Raisen,Gairatganj,"Lentil (Masur)(Whole)",Other,14/01/2020,4300,4639,4639
+"Madhya Pradesh",Raisen,Raisen,"Lentil (Masur)(Whole)",Other,13/01/2020,4400,4400,4400
+"Madhya Pradesh",Raisen,Silvani,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,4400,4800,4600
+"Madhya Pradesh",Raisen,Silvani,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,4400,4750,4600
+"Madhya Pradesh",Raisen,Silvani,"Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,4200,4400,4400
+"Madhya Pradesh",Raisen,Silvani,"Lentil (Masur)(Whole)","Kala Masoor New",09/01/2020,4400,4700,4500
+"Madhya Pradesh",Rajgarh,Biaora,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4005,5250,4510
+"Madhya Pradesh",Rajgarh,Biaora,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,3880,5225,4010
+"Madhya Pradesh",Rajgarh,Biaora,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,3980,5050,4150
+"Madhya Pradesh",Rajgarh,Biaora,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4005,4980,4580
+"Madhya Pradesh",Rajgarh,Chhapiheda,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,5105,5105,5105
+"Madhya Pradesh",Rajgarh,Chhapiheda,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,5091,5091,5091
+"Madhya Pradesh",Rajgarh,Jeerapur,"Lentil (Masur)(Whole)",Other,02/01/2020,5100,5300,5200
+"Madhya Pradesh",Rajgarh,Jeerapur,"Lentil (Masur)(Whole)",Other,03/01/2020,4700,5400,5200
+"Madhya Pradesh",Rajgarh,Jeerapur,"Lentil (Masur)(Whole)",Other,04/01/2020,5100,5400,5300
+"Madhya Pradesh",Rajgarh,Jeerapur,"Lentil (Masur)(Whole)",Other,06/01/2020,4900,5200,5000
+"Madhya Pradesh",Rajgarh,Jeerapur,"Lentil (Masur)(Whole)",Other,07/01/2020,4800,5100,4900
+"Madhya Pradesh",Rajgarh,Jeerapur,"Lentil (Masur)(Whole)",Other,09/01/2020,4800,5200,5000
+"Madhya Pradesh",Rajgarh,Jeerapur,"Lentil (Masur)(Whole)",Other,10/01/2020,4000,5075,4800
+"Madhya Pradesh",Rajgarh,Jeerapur,"Lentil (Masur)(Whole)",Other,11/01/2020,4000,4800,4500
+"Madhya Pradesh",Rajgarh,Jeerapur,"Lentil (Masur)(Whole)",Other,13/01/2020,4500,5100,5000
+"Madhya Pradesh",Rajgarh,Jeerapur,"Lentil (Masur)(Whole)",Other,14/01/2020,4500,4700,4600
+"Madhya Pradesh",Rajgarh,Khilchipur,"Lentil (Masur)(Whole)",Other,02/01/2020,4875,5405,5405
+"Madhya Pradesh",Rajgarh,Khilchipur,"Lentil (Masur)(Whole)",Other,03/01/2020,5300,5405,5405
+"Madhya Pradesh",Rajgarh,Khilchipur,"Lentil (Masur)(Whole)",Other,04/01/2020,4000,5255,5255
+"Madhya Pradesh",Rajgarh,Khilchipur,"Lentil (Masur)(Whole)",Other,07/01/2020,5100,5200,5200
+"Madhya Pradesh",Rajgarh,Khujner,"Lentil (Masur)(Whole)",Other,03/01/2020,5190,5190,5190
+"Madhya Pradesh",Rajgarh,Khujner,"Lentil (Masur)(Whole)",Other,04/01/2020,5185,5250,5220
+"Madhya Pradesh",Rajgarh,Khujner,"Lentil (Masur)(Whole)",Other,06/01/2020,5050,5240,5210
+"Madhya Pradesh",Rajgarh,Khujner,"Lentil (Masur)(Whole)",Other,07/01/2020,4890,5095,4940
+"Madhya Pradesh",Rajgarh,Khujner,"Lentil (Masur)(Whole)",Other,08/01/2020,4930,5000,4980
+"Madhya Pradesh",Rajgarh,Khujner,"Lentil (Masur)(Whole)",Other,10/01/2020,4940,5045,5045
+"Madhya Pradesh",Rajgarh,Khujner,"Lentil (Masur)(Whole)",Other,11/01/2020,4900,5050,5030
+"Madhya Pradesh",Rajgarh,Khujner,"Lentil (Masur)(Whole)",Other,14/01/2020,4770,5135,5030
+"Madhya Pradesh",Rajgarh,Kurawar,"Lentil (Masur)(Whole)",Other,01/01/2020,4000,4911,4800
+"Madhya Pradesh",Rajgarh,Kurawar,"Lentil (Masur)(Whole)",Other,03/01/2020,4000,4990,4800
+"Madhya Pradesh",Rajgarh,Kurawar,"Lentil (Masur)(Whole)",Other,04/01/2020,4000,4951,4900
+"Madhya Pradesh",Rajgarh,Kurawar,"Lentil (Masur)(Whole)",Other,06/01/2020,4000,4890,4800
+"Madhya Pradesh",Rajgarh,Kurawar,"Lentil (Masur)(Whole)",Other,07/01/2020,4000,4820,4750
+"Madhya Pradesh",Rajgarh,Kurawar,"Lentil (Masur)(Whole)",Other,10/01/2020,4000,4800,4700
+"Madhya Pradesh",Rajgarh,Kurawar,"Lentil (Masur)(Whole)",Other,11/01/2020,4000,4800,4700
+"Madhya Pradesh",Rajgarh,Narsinghgarh,"Lentil (Masur)(Whole)",Other,02/01/2020,4000,4700,4600
+"Madhya Pradesh",Rajgarh,Narsinghgarh,"Lentil (Masur)(Whole)",Other,03/01/2020,3600,4500,3900
+"Madhya Pradesh",Rajgarh,Narsinghgarh,"Lentil (Masur)(Whole)",Other,04/01/2020,3800,4500,3900
+"Madhya Pradesh",Rajgarh,Narsinghgarh,"Lentil (Masur)(Whole)",Other,06/01/2020,4000,4500,4400
+"Madhya Pradesh",Rajgarh,Narsinghgarh,"Lentil (Masur)(Whole)",Other,07/01/2020,3700,4600,4500
+"Madhya Pradesh",Rajgarh,Narsinghgarh,"Lentil (Masur)(Whole)",Other,08/01/2020,3800,4800,4200
+"Madhya Pradesh",Rajgarh,Narsinghgarh,"Lentil (Masur)(Whole)",Other,10/01/2020,3800,4700,4200
+"Madhya Pradesh",Rajgarh,Narsinghgarh,"Lentil (Masur)(Whole)",Other,11/01/2020,3800,4650,4300
+"Madhya Pradesh",Rajgarh,Pachaur,"Lentil (Masur)(Whole)",Other,02/01/2020,4600,5380,4900
+"Madhya Pradesh",Rajgarh,Pachaur,"Lentil (Masur)(Whole)",Other,03/01/2020,4200,5130,4850
+"Madhya Pradesh",Rajgarh,Pachaur,"Lentil (Masur)(Whole)",Other,04/01/2020,4200,5005,4900
+"Madhya Pradesh",Rajgarh,Pachaur,"Lentil (Masur)(Whole)",Other,07/01/2020,4200,4885,4700
+"Madhya Pradesh",Rajgarh,Pachaur,"Lentil (Masur)(Whole)",Other,09/01/2020,4700,4945,4800
+"Madhya Pradesh",Rajgarh,Pachaur,"Lentil (Masur)(Whole)",Other,10/01/2020,4700,4970,4805
+"Madhya Pradesh",Rajgarh,Pachaur,"Lentil (Masur)(Whole)",Other,11/01/2020,4400,5095,4750
+"Madhya Pradesh",Rajgarh,Pachaur,"Lentil (Masur)(Whole)",Other,14/01/2020,4500,4885,4600
+"Madhya Pradesh",Rajgarh,Sarangpur,"Lentil (Masur)(Whole)",Other,01/01/2020,4551,4551,4551
+"Madhya Pradesh",Rajgarh,Sarangpur,"Lentil (Masur)(Whole)",Other,06/01/2020,4799,4799,4799
+"Madhya Pradesh",Rajgarh,Sarangpur,"Lentil (Masur)(Whole)",Other,07/01/2020,4690,4690,4690
+"Madhya Pradesh",Rajgarh,Sarangpur,"Lentil (Masur)(Whole)",Other,08/01/2020,3901,3901,3901
+"Madhya Pradesh",Rajgarh,Sarangpur,"Lentil (Masur)(Whole)",Other,09/01/2020,4599,5500,5000
+"Madhya Pradesh",Ratlam,Jaora,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,4850,5180,4900
+"Madhya Pradesh",Ratlam,Jaora,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,4400,4901,4500
+"Madhya Pradesh",Ratlam,Jaora,"Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,4320,4811,4600
+"Madhya Pradesh",Ratlam,Jaora,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,4343,4753,4500
+"Madhya Pradesh",Ratlam,Jaora,"Lentil (Masur)(Whole)","Kala Masoor New",09/01/2020,4008,4842,4500
+"Madhya Pradesh",Ratlam,Jaora,"Lentil (Masur)(Whole)","Kala Masoor New",13/01/2020,4815,4840,4820
+"Madhya Pradesh",Ratlam,Jaora,"Lentil (Masur)(Whole)","Kala Masoor New",14/01/2020,4461,4461,4461
+"Madhya Pradesh",Ratlam,Ratlam,"Lentil (Masur)(Whole)",Other,03/01/2020,4700,4700,4700
+"Madhya Pradesh",Ratlam,Ratlam,"Lentil (Masur)(Whole)",Other,04/01/2020,4800,5000,5000
+"Madhya Pradesh",Ratlam,Ratlam,"Lentil (Masur)(Whole)",Other,06/01/2020,4750,4750,4750
+"Madhya Pradesh",Ratlam,Ratlam,"Lentil (Masur)(Whole)",Other,08/01/2020,4500,4575,4575
+"Madhya Pradesh",Ratlam,Ratlam,"Lentil (Masur)(Whole)",Other,13/01/2020,4100,4502,4403
+"Madhya Pradesh",Rewa,Baikunthpur,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4300,4875,4740
+"Madhya Pradesh",Rewa,Baikunthpur,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,4300,4300,4300
+"Madhya Pradesh",Rewa,Baikunthpur,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4300,4675,4500
+"Madhya Pradesh",Rewa,Baikunthpur,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4300,4600,4600
+"Madhya Pradesh",Rewa,Baikunthpur,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4564,4586,4586
+"Madhya Pradesh",Rewa,Baikunthpur,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4300,4450,4450
+"Madhya Pradesh",Rewa,Baikunthpur,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,4450,4611,4600
+"Madhya Pradesh",Rewa,Hanumana,"Lentil (Masur)(Whole)",Other,03/01/2020,4200,4500,4300
+"Madhya Pradesh",Rewa,Hanumana,"Lentil (Masur)(Whole)",Other,07/01/2020,4300,4500,4400
+"Madhya Pradesh",Rewa,Hanumana,"Lentil (Masur)(Whole)",Other,08/01/2020,4400,4500,4500
+"Madhya Pradesh",Rewa,Hanumana,"Lentil (Masur)(Whole)",Other,09/01/2020,4300,4500,4480
+"Madhya Pradesh",Rewa,Rewa,"Lentil (Masur)(Whole)",Other,02/01/2020,4700,4912,4868
+"Madhya Pradesh",Rewa,Rewa,"Lentil (Masur)(Whole)",Other,03/01/2020,4720,4897,4790
+"Madhya Pradesh",Rewa,Rewa,"Lentil (Masur)(Whole)",Other,04/01/2020,4600,4821,4750
+"Madhya Pradesh",Rewa,Rewa,"Lentil (Masur)(Whole)",Other,06/01/2020,4600,4680,4650
+"Madhya Pradesh",Rewa,Rewa,"Lentil (Masur)(Whole)",Other,07/01/2020,3874,4658,4600
+"Madhya Pradesh",Rewa,Rewa,"Lentil (Masur)(Whole)",Other,08/01/2020,4551,4636,4600
+"Madhya Pradesh",Rewa,Rewa,"Lentil (Masur)(Whole)",Other,09/01/2020,4600,4649,4649
+"Madhya Pradesh",Rewa,Rewa,"Lentil (Masur)(Whole)",Other,10/01/2020,4350,4500,4500
+"Madhya Pradesh",Rewa,Rewa,"Lentil (Masur)(Whole)",Other,11/01/2020,4491,4635,4600
+"Madhya Pradesh",Rewa,Rewa,"Lentil (Masur)(Whole)",Other,13/01/2020,4412,4460,4440
+"Madhya Pradesh",Sagar,Bamora,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4600,4680,4650
+"Madhya Pradesh",Sagar,Bamora,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4650,4650,4650
+"Madhya Pradesh",Sagar,Bamora,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4650,4650,4650
+"Madhya Pradesh",Sagar,Bamora,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,4425,4700,4590
+"Madhya Pradesh",Sagar,Bamora,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,4600,4600,4600
+"Madhya Pradesh",Sagar,Banda,"Lentil (Masur)(Whole)",Other,07/01/2020,4500,4700,4570
+"Madhya Pradesh",Sagar,Banda,"Lentil (Masur)(Whole)",Other,08/01/2020,4200,4500,4250
+"Madhya Pradesh",Sagar,Banda,"Lentil (Masur)(Whole)",Other,09/01/2020,3900,4100,4000
+"Madhya Pradesh",Sagar,Bina,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,4455,5045,4710
+"Madhya Pradesh",Sagar,Bina,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4900,5140,5070
+"Madhya Pradesh",Sagar,Bina,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4350,5300,4750
+"Madhya Pradesh",Sagar,Bina,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4800,5010,4905
+"Madhya Pradesh",Sagar,Bina,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4510,4950,4800
+"Madhya Pradesh",Sagar,Bina,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4415,4925,4725
+"Madhya Pradesh",Sagar,Bina,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4510,4750,4525
+"Madhya Pradesh",Sagar,Bina,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4600,4915,4730
+"Madhya Pradesh",Sagar,Deori,"Lentil (Masur)(Whole)",Other,02/01/2020,4700,4870,4800
+"Madhya Pradesh",Sagar,Deori,"Lentil (Masur)(Whole)",Other,03/01/2020,4500,4825,4750
+"Madhya Pradesh",Sagar,Deori,"Lentil (Masur)(Whole)",Other,04/01/2020,4620,4810,4750
+"Madhya Pradesh",Sagar,Deori,"Lentil (Masur)(Whole)",Other,06/01/2020,4700,4775,4750
+"Madhya Pradesh",Sagar,Deori,"Lentil (Masur)(Whole)",Other,07/01/2020,4550,4610,4600
+"Madhya Pradesh",Sagar,Deori,"Lentil (Masur)(Whole)",Other,08/01/2020,4100,4625,4600
+"Madhya Pradesh",Sagar,Deori,"Lentil (Masur)(Whole)",Other,09/01/2020,4680,4680,4680
+"Madhya Pradesh",Sagar,Deori,"Lentil (Masur)(Whole)",Other,10/01/2020,4200,4600,4500
+"Madhya Pradesh",Sagar,Deori,"Lentil (Masur)(Whole)",Other,11/01/2020,4550,4700,4600
+"Madhya Pradesh",Sagar,Deori,"Lentil (Masur)(Whole)",Other,13/01/2020,4500,4760,4700
+"Madhya Pradesh",Sagar,Deori,"Lentil (Masur)(Whole)",Other,14/01/2020,4100,4680,4550
+"Madhya Pradesh",Sagar,Garhakota,"Lentil (Masur)(Whole)",Other,02/01/2020,3900,4100,3950
+"Madhya Pradesh",Sagar,Garhakota,"Lentil (Masur)(Whole)",Other,03/01/2020,3850,4300,3900
+"Madhya Pradesh",Sagar,Garhakota,"Lentil (Masur)(Whole)",Other,04/01/2020,3900,4250,3970
+"Madhya Pradesh",Sagar,Garhakota,"Lentil (Masur)(Whole)",Other,06/01/2020,3800,4300,3950
+"Madhya Pradesh",Sagar,Garhakota,"Lentil (Masur)(Whole)",Other,07/01/2020,3950,4300,4100
+"Madhya Pradesh",Sagar,Garhakota,"Lentil (Masur)(Whole)",Other,08/01/2020,3900,4300,4150
+"Madhya Pradesh",Sagar,Garhakota,"Lentil (Masur)(Whole)",Other,09/01/2020,3950,4350,4200
+"Madhya Pradesh",Sagar,Khurai,"Lentil (Masur)(Whole)",Other,01/01/2020,4000,4630,4300
+"Madhya Pradesh",Sagar,Khurai,"Lentil (Masur)(Whole)",Other,03/01/2020,4250,4938,4500
+"Madhya Pradesh",Sagar,Khurai,"Lentil (Masur)(Whole)",Other,04/01/2020,4262,4925,4600
+"Madhya Pradesh",Sagar,Khurai,"Lentil (Masur)(Whole)",Other,06/01/2020,3600,5000,4700
+"Madhya Pradesh",Sagar,Khurai,"Lentil (Masur)(Whole)",Other,07/01/2020,3400,4800,4300
+"Madhya Pradesh",Sagar,Khurai,"Lentil (Masur)(Whole)",Other,08/01/2020,4100,4800,4500
+"Madhya Pradesh",Sagar,Khurai,"Lentil (Masur)(Whole)",Other,11/01/2020,4000,4801,4400
+"Madhya Pradesh",Sagar,Rahatgarh,"Lentil (Masur)(Whole)",Other,04/01/2020,4500,4800,4650
+"Madhya Pradesh",Sagar,Rahatgarh,"Lentil (Masur)(Whole)",Other,06/01/2020,4750,4800,4775
+"Madhya Pradesh",Sagar,Rahatgarh,"Lentil (Masur)(Whole)",Other,08/01/2020,4400,4450,4425
+"Madhya Pradesh",Sagar,Rahatgarh,"Lentil (Masur)(Whole)",Other,11/01/2020,4400,4500,4450
+"Madhya Pradesh",Sagar,Rahatgarh,"Lentil (Masur)(Whole)",Other,14/01/2020,4800,4800,4800
+"Madhya Pradesh",Sagar,Rehli,"Lentil (Masur)(Whole)",Other,05/01/2020,4300,4700,4500
+"Madhya Pradesh",Sagar,Rehli,"Lentil (Masur)(Whole)",Other,07/01/2020,4200,4600,4400
+"Madhya Pradesh",Sagar,Rehli,"Lentil (Masur)(Whole)",Other,09/01/2020,4300,4700,4500
+"Madhya Pradesh",Sagar,Rehli,"Lentil (Masur)(Whole)",Other,12/01/2020,4200,4600,4400
+"Madhya Pradesh",Sagar,Sagar,"Lentil (Masur)(Whole)",Other,02/01/2020,4200,5900,4990
+"Madhya Pradesh",Sagar,Sagar,"Lentil (Masur)(Whole)",Other,03/01/2020,4300,6505,5100
+"Madhya Pradesh",Sagar,Sagar,"Lentil (Masur)(Whole)",Other,04/01/2020,4300,5950,5000
+"Madhya Pradesh",Sagar,Sagar,"Lentil (Masur)(Whole)",Other,06/01/2020,4200,6100,5100
+"Madhya Pradesh",Sagar,Sagar,"Lentil (Masur)(Whole)",Other,07/01/2020,4175,6200,4800
+"Madhya Pradesh",Sagar,Sagar,"Lentil (Masur)(Whole)",Other,09/01/2020,4000,5200,4750
+"Madhya Pradesh",Sagar,Sagar,"Lentil (Masur)(Whole)",Other,10/01/2020,4050,6000,4710
+"Madhya Pradesh",Sagar,Sagar,"Lentil (Masur)(Whole)",Other,11/01/2020,4200,5800,4715
+"Madhya Pradesh",Sagar,Sagar,"Lentil (Masur)(Whole)",Other,14/01/2020,4150,5950,4765
+"Madhya Pradesh",Satna,Mehar,"Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,4530,4610,4570
+"Madhya Pradesh",Satna,Ramnagar,"Lentil (Masur)(Whole)",Other,04/01/2020,4200,4200,4200
+"Madhya Pradesh",Satna,Ramnagar,"Lentil (Masur)(Whole)",Other,08/01/2020,4300,4300,4300
+"Madhya Pradesh",Satna,Satna,"Lentil (Masur)(Whole)",Other,02/01/2020,4351,4899,4771
+"Madhya Pradesh",Satna,Satna,"Lentil (Masur)(Whole)",Other,03/01/2020,3701,5025,4770
+"Madhya Pradesh",Satna,Satna,"Lentil (Masur)(Whole)",Other,04/01/2020,4177,4900,4676
+"Madhya Pradesh",Satna,Satna,"Lentil (Masur)(Whole)",Other,06/01/2020,3800,4779,4404
+"Madhya Pradesh",Satna,Satna,"Lentil (Masur)(Whole)",Other,07/01/2020,4283,4850,4440
+"Madhya Pradesh",Satna,Satna,"Lentil (Masur)(Whole)",Other,08/01/2020,4283,4852,4440
+"Madhya Pradesh",Satna,Satna,"Lentil (Masur)(Whole)",Other,09/01/2020,4276,4776,4400
+"Madhya Pradesh",Sehore,Ashta,"Lentil (Masur)(Whole)",Other,02/01/2020,4031,4900,4681
+"Madhya Pradesh",Sehore,Ashta,"Lentil (Masur)(Whole)",Other,03/01/2020,2350,4780,4401
+"Madhya Pradesh",Sehore,Ashta,"Lentil (Masur)(Whole)",Other,04/01/2020,3200,4791,4651
+"Madhya Pradesh",Sehore,Ashta,"Lentil (Masur)(Whole)",Other,06/01/2020,4281,4841,4481
+"Madhya Pradesh",Sehore,Ashta,"Lentil (Masur)(Whole)",Other,07/01/2020,4281,4701,4401
+"Madhya Pradesh",Sehore,Ashta,"Lentil (Masur)(Whole)",Other,08/01/2020,3701,4751,4480
+"Madhya Pradesh",Sehore,Ashta,"Lentil (Masur)(Whole)",Other,09/01/2020,2370,4720,4500
+"Madhya Pradesh",Sehore,Ashta,"Lentil (Masur)(Whole)",Other,10/01/2020,3651,4770,4600
+"Madhya Pradesh",Sehore,Ashta,"Lentil (Masur)(Whole)",Other,13/01/2020,3801,4561,4401
+"Madhya Pradesh",Sehore,Ashta,"Lentil (Masur)(Whole)",Other,14/01/2020,4600,4721,4680
+"Madhya Pradesh",Sehore,Ashta,"Lentil (Masur)(Whole)",Other,15/01/2020,3600,4581,4401
+"Madhya Pradesh",Sehore,Jawar,"Lentil (Masur)(Whole)",Other,03/01/2020,4680,4890,4680
+"Madhya Pradesh",Sehore,Jawar,"Lentil (Masur)(Whole)",Other,07/01/2020,4505,4505,4505
+"Madhya Pradesh",Sehore,Jawar,"Lentil (Masur)(Whole)",Other,10/01/2020,4500,4500,4500
+"Madhya Pradesh",Shajapur,Agar,"Lentil (Masur)(Whole)",Other,02/01/2020,4500,5160,4900
+"Madhya Pradesh",Shajapur,Agar,"Lentil (Masur)(Whole)",Other,03/01/2020,3600,5150,5050
+"Madhya Pradesh",Shajapur,Agar,"Lentil (Masur)(Whole)",Other,04/01/2020,4890,5128,5050
+"Madhya Pradesh",Shajapur,Agar,"Lentil (Masur)(Whole)",Other,06/01/2020,3700,5265,5000
+"Madhya Pradesh",Shajapur,Agar,"Lentil (Masur)(Whole)",Other,07/01/2020,4200,5150,5000
+"Madhya Pradesh",Shajapur,Agar,"Lentil (Masur)(Whole)",Other,08/01/2020,4700,5125,4890
+"Madhya Pradesh",Shajapur,Agar,"Lentil (Masur)(Whole)",Other,09/01/2020,4000,5200,4700
+"Madhya Pradesh",Shajapur,Agar,"Lentil (Masur)(Whole)",Other,10/01/2020,4600,5125,4900
+"Madhya Pradesh",Shajapur,Agar,"Lentil (Masur)(Whole)",Other,13/01/2020,4200,5160,4800
+"Madhya Pradesh",Shajapur,Agar,"Lentil (Masur)(Whole)",Other,14/01/2020,2950,4995,4850
+"Madhya Pradesh",Shajapur,Akodia,"Lentil (Masur)(Whole)",Other,02/01/2020,3500,4180,4000
+"Madhya Pradesh",Shajapur,Akodia,"Lentil (Masur)(Whole)",Other,06/01/2020,3500,4151,4100
+"Madhya Pradesh",Shajapur,Akodia,"Lentil (Masur)(Whole)",Other,07/01/2020,3500,4281,4050
+"Madhya Pradesh",Shajapur,Akodia,"Lentil (Masur)(Whole)",Other,08/01/2020,4111,4111,4111
+"Madhya Pradesh",Shajapur,Kalapipal,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,4105,5090,4515
+"Madhya Pradesh",Shajapur,Kalapipal,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4000,4971,4405
+"Madhya Pradesh",Shajapur,Kalapipal,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,3100,4895,4590
+"Madhya Pradesh",Shajapur,Kalapipal,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,3675,4950,4825
+"Madhya Pradesh",Shajapur,Kalapipal,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,3770,4931,4775
+"Madhya Pradesh",Shajapur,Kalapipal,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,3675,4940,4790
+"Madhya Pradesh",Shajapur,Kalapipal,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,3785,5025,4815
+"Madhya Pradesh",Shajapur,Kalapipal,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,3700,5030,4815
+"Madhya Pradesh",Shajapur,Kalapipal,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,3615,5026,4905
+"Madhya Pradesh",Shajapur,Kalapipal,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,4200,4946,4798
+"Madhya Pradesh",Shajapur,Kalapipal,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,3550,5150,4500
+"Madhya Pradesh",Shajapur,Momanbadodiya,"Lentil (Masur)(Whole)",Other,02/01/2020,4750,4800,4775
+"Madhya Pradesh",Shajapur,Nalkehda,"Lentil (Masur)(Whole)",Other,02/01/2020,5175,5351,5200
+"Madhya Pradesh",Shajapur,Nalkehda,"Lentil (Masur)(Whole)",Other,03/01/2020,4800,5300,5000
+"Madhya Pradesh",Shajapur,Nalkehda,"Lentil (Masur)(Whole)",Other,04/01/2020,5000,5300,5150
+"Madhya Pradesh",Shajapur,Nalkehda,"Lentil (Masur)(Whole)",Other,05/01/2020,5000,5000,5000
+"Madhya Pradesh",Shajapur,Nalkehda,"Lentil (Masur)(Whole)",Other,06/01/2020,4900,5081,5000
+"Madhya Pradesh",Shajapur,Nalkehda,"Lentil (Masur)(Whole)",Other,07/01/2020,4900,5051,5000
+"Madhya Pradesh",Shajapur,Nalkehda,"Lentil (Masur)(Whole)",Other,08/01/2020,4590,5153,4850
+"Madhya Pradesh",Shajapur,Nalkehda,"Lentil (Masur)(Whole)",Other,09/01/2020,4500,4989,4790
+"Madhya Pradesh",Shajapur,Nalkehda,"Lentil (Masur)(Whole)",Other,10/01/2020,4891,4891,4891
+"Madhya Pradesh",Shajapur,Nalkehda,"Lentil (Masur)(Whole)",Other,11/01/2020,4500,4950,4700
+"Madhya Pradesh",Shajapur,Nalkehda,"Lentil (Masur)(Whole)",Other,12/01/2020,4600,5000,4800
+"Madhya Pradesh",Shajapur,Nalkehda,"Lentil (Masur)(Whole)",Other,13/01/2020,4730,5000,4800
+"Madhya Pradesh",Shajapur,Nalkehda,"Lentil (Masur)(Whole)",Other,15/01/2020,4600,5000,4800
+"Madhya Pradesh",Shajapur,Shajapur,"Lentil (Masur)(Whole)",Other,02/01/2020,4600,4880,4700
+"Madhya Pradesh",Shajapur,Shajapur,"Lentil (Masur)(Whole)",Other,03/01/2020,3960,4810,4700
+"Madhya Pradesh",Shajapur,Shajapur,"Lentil (Masur)(Whole)",Other,04/01/2020,4550,4760,4760
+"Madhya Pradesh",Shajapur,Shajapur,"Lentil (Masur)(Whole)",Other,06/01/2020,4500,4500,4500
+"Madhya Pradesh",Shajapur,Shajapur,"Lentil (Masur)(Whole)",Other,09/01/2020,4710,4710,4710
+"Madhya Pradesh",Shajapur,Shajapur,"Lentil (Masur)(Whole)",Other,13/01/2020,4000,4965,4760
+"Madhya Pradesh",Shajapur,Shajapur,"Lentil (Masur)(Whole)",Other,14/01/2020,4800,4800,4800
+"Madhya Pradesh",Shajapur,Shujalpur,"Lentil (Masur)(Whole)",Other,02/01/2020,4000,4966,4600
+"Madhya Pradesh",Shajapur,Shujalpur,"Lentil (Masur)(Whole)",Other,03/01/2020,4971,4971,4971
+"Madhya Pradesh",Shajapur,Shujalpur,"Lentil (Masur)(Whole)",Other,04/01/2020,4000,4931,4600
+"Madhya Pradesh",Shajapur,Shujalpur,"Lentil (Masur)(Whole)",Other,06/01/2020,4000,4821,4650
+"Madhya Pradesh",Shajapur,Shujalpur,"Lentil (Masur)(Whole)",Other,07/01/2020,4000,4775,4650
+"Madhya Pradesh",Shajapur,Shujalpur,"Lentil (Masur)(Whole)",Other,08/01/2020,4000,4800,4500
+"Madhya Pradesh",Shajapur,Shujalpur,"Lentil (Masur)(Whole)",Other,09/01/2020,4000,4750,4600
+"Madhya Pradesh",Shajapur,Shujalpur,"Lentil (Masur)(Whole)",Other,10/01/2020,4200,4800,4500
+"Madhya Pradesh",Shajapur,Shujalpur,"Lentil (Masur)(Whole)",Other,13/01/2020,4000,4650,4200
+"Madhya Pradesh",Shajapur,Soyatkalan,"Lentil (Masur)(Whole)",Other,01/01/2020,4700,5300,5000
+"Madhya Pradesh",Shajapur,Soyatkalan,"Lentil (Masur)(Whole)",Other,04/01/2020,5190,5550,5300
+"Madhya Pradesh",Shajapur,Soyatkalan,"Lentil (Masur)(Whole)",Other,06/01/2020,5400,5400,5400
+"Madhya Pradesh",Shajapur,Soyatkalan,"Lentil (Masur)(Whole)",Other,07/01/2020,5165,5165,5165
+"Madhya Pradesh",Shajapur,Soyatkalan,"Lentil (Masur)(Whole)",Other,08/01/2020,5000,5500,5200
+"Madhya Pradesh",Shajapur,Soyatkalan,"Lentil (Masur)(Whole)",Other,09/01/2020,5000,5600,5300
+"Madhya Pradesh",Shajapur,Soyatkalan,"Lentil (Masur)(Whole)",Other,11/01/2020,5000,5400,5200
+"Madhya Pradesh",Shajapur,Susner,"Lentil (Masur)(Whole)",Other,07/01/2020,4800,4800,4800
+"Madhya Pradesh",Shivpuri,Kolaras,"Lentil (Masur)(Whole)",Other,02/01/2020,4370,4703,4450
+"Madhya Pradesh",Shivpuri,Kolaras,"Lentil (Masur)(Whole)",Other,04/01/2020,4680,4850,4841
+"Madhya Pradesh",Shivpuri,Kolaras,"Lentil (Masur)(Whole)",Other,07/01/2020,4180,4690,4300
+"Madhya Pradesh",Shivpuri,Kolaras,"Lentil (Masur)(Whole)",Other,08/01/2020,4151,4595,4565
+"Madhya Pradesh",Shivpuri,Kolaras,"Lentil (Masur)(Whole)",Other,09/01/2020,4275,4630,4455
+"Madhya Pradesh",Shivpuri,Kolaras,"Lentil (Masur)(Whole)",Other,13/01/2020,4199,4686,4455
+"Madhya Pradesh",Shivpuri,Kolaras,"Lentil (Masur)(Whole)",Other,15/01/2020,4000,4601,4301
+"Madhya Pradesh",Sidhi,Sidhi,"Lentil (Masur)(Whole)",Other,02/01/2020,4476,4476,4476
+"Madhya Pradesh",Sidhi,Sidhi,"Lentil (Masur)(Whole)",Other,03/01/2020,3999,4001,4000
+"Madhya Pradesh",Sidhi,Sidhi,"Lentil (Masur)(Whole)",Other,04/01/2020,4050,4051,4050
+"Madhya Pradesh",Sidhi,Sidhi,"Lentil (Masur)(Whole)",Other,06/01/2020,3800,4300,4000
+"Madhya Pradesh",Ujjain,Badnagar,"Lentil (Masur)(Whole)",Other,02/01/2020,4099,4099,4099
+"Madhya Pradesh",Ujjain,Badnagar,"Lentil (Masur)(Whole)",Other,03/01/2020,4300,4850,4400
+"Madhya Pradesh",Ujjain,Badnagar,"Lentil (Masur)(Whole)",Other,04/01/2020,4300,4600,4430
+"Madhya Pradesh",Ujjain,Badnagar,"Lentil (Masur)(Whole)",Other,06/01/2020,2800,4673,4400
+"Madhya Pradesh",Ujjain,Badnagar,"Lentil (Masur)(Whole)",Other,07/01/2020,3000,4600,4300
+"Madhya Pradesh",Ujjain,Badnagar,"Lentil (Masur)(Whole)",Other,08/01/2020,3999,4571,4501
+"Madhya Pradesh",Ujjain,Badnagar,"Lentil (Masur)(Whole)",Other,10/01/2020,4299,4700,4500
+"Madhya Pradesh",Ujjain,Badnagar,"Lentil (Masur)(Whole)",Other,11/01/2020,4100,4100,4100
+"Madhya Pradesh",Ujjain,Badnagar,"Lentil (Masur)(Whole)",Other,13/01/2020,4400,4600,4551
+"Madhya Pradesh",Ujjain,Badnagar,"Lentil (Masur)(Whole)",Other,14/01/2020,4300,4300,4300
+"Madhya Pradesh",Ujjain,Badnagar,"Lentil (Masur)(Whole)",Other,15/01/2020,3150,4525,3500
+"Madhya Pradesh",Ujjain,Nagda,"Lentil (Masur)(Whole)",Other,11/01/2020,3700,3700,3700
+"Madhya Pradesh",Umariya,Umariya,"Lentil (Masur)(Whole)",Other,04/01/2020,4000,4500,4300
+"Madhya Pradesh",Umariya,Umariya,"Lentil (Masur)(Whole)",Other,06/01/2020,3600,3700,3650
+"Madhya Pradesh",Vidisha,Ganjbasoda,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,3500,4960,4840
+"Madhya Pradesh",Vidisha,Ganjbasoda,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,3000,4900,4780
+"Madhya Pradesh",Vidisha,Ganjbasoda,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,3000,4850,4675
+"Madhya Pradesh",Vidisha,Ganjbasoda,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,2000,4890,4630
+"Madhya Pradesh",Vidisha,Ganjbasoda,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,2500,4960,4760
+"Madhya Pradesh",Vidisha,Ganjbasoda,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,3500,4880,4655
+"Madhya Pradesh",Vidisha,Lateri,"Lentil (Masur)(Whole)",Other,03/01/2020,4380,4425,4405
+"Madhya Pradesh",Vidisha,Lateri,"Lentil (Masur)(Whole)",Other,04/01/2020,4705,4800,4705
+"Madhya Pradesh",Vidisha,Lateri,"Lentil (Masur)(Whole)",Other,06/01/2020,3800,4405,3800
+"Madhya Pradesh",Vidisha,Lateri,"Lentil (Masur)(Whole)",Other,07/01/2020,4355,4405,4355
+"Madhya Pradesh",Vidisha,Shamshabad,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4351,4351,4351
+"Madhya Pradesh",Vidisha,Shamshabad,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,4201,4201,4201
+"Madhya Pradesh",Vidisha,Sironj,"Lentil (Masur)(Whole)",Other,02/01/2020,4600,4600,4600
+"Madhya Pradesh",Vidisha,Sironj,"Lentil (Masur)(Whole)",Other,06/01/2020,4500,4798,4649
+"Madhya Pradesh",Vidisha,Sironj,"Lentil (Masur)(Whole)",Other,07/01/2020,4560,4792,4676
+"Madhya Pradesh",Vidisha,Sironj,"Lentil (Masur)(Whole)",Other,08/01/2020,4575,4720,4647
+"Madhya Pradesh",Vidisha,Sironj,"Lentil (Masur)(Whole)",Other,09/01/2020,4485,4862,4672
+"Madhya Pradesh",Vidisha,Sironj,"Lentil (Masur)(Whole)",Other,13/01/2020,3765,4832,4298
+"Madhya Pradesh",Vidisha,Vidisha,"Lentil (Masur)(Whole)",Other,01/01/2020,4050,4900,4400
+"Madhya Pradesh",Vidisha,Vidisha,"Lentil (Masur)(Whole)",Other,02/01/2020,4080,4925,4420
+"Madhya Pradesh",Vidisha,Vidisha,"Lentil (Masur)(Whole)",Other,03/01/2020,4000,4950,4450
+"Madhya Pradesh",Vidisha,Vidisha,"Lentil (Masur)(Whole)",Other,04/01/2020,4080,4856,4410
+"Madhya Pradesh",Vidisha,Vidisha,"Lentil (Masur)(Whole)",Other,06/01/2020,4110,4750,4480
+"Madhya Pradesh",Vidisha,Vidisha,"Lentil (Masur)(Whole)",Other,09/01/2020,4210,4660,4450
+"Madhya Pradesh",Vidisha,Vidisha,"Lentil (Masur)(Whole)",Other,10/01/2020,4050,4700,4480
+Maharashtra,Mumbai,Mumbai,"Lentil (Masur)(Whole)",Other,01/01/2020,4800,5200,5000
+Maharashtra,Mumbai,Mumbai,"Lentil (Masur)(Whole)",Other,03/01/2020,4800,5200,5000
+Maharashtra,Mumbai,Mumbai,"Lentil (Masur)(Whole)",Other,04/01/2020,4800,5200,5000
+Maharashtra,Mumbai,Mumbai,"Lentil (Masur)(Whole)",Other,06/01/2020,4800,5200,5000
+Maharashtra,Mumbai,Mumbai,"Lentil (Masur)(Whole)",Other,07/01/2020,4800,5200,5000
+Maharashtra,Mumbai,Mumbai,"Lentil (Masur)(Whole)",Other,08/01/2020,4800,5200,5000
+Maharashtra,Mumbai,Mumbai,"Lentil (Masur)(Whole)",Other,09/01/2020,5000,5400,5200
+Maharashtra,Mumbai,Mumbai,"Lentil (Masur)(Whole)",Other,10/01/2020,5000,5400,5200
+Maharashtra,Mumbai,Mumbai,"Lentil (Masur)(Whole)",Other,11/01/2020,5000,5400,5200
+Maharashtra,Mumbai,Mumbai,"Lentil (Masur)(Whole)",Other,13/01/2020,5000,5400,5200
+Maharashtra,Mumbai,Mumbai,"Lentil (Masur)(Whole)",Other,14/01/2020,5000,5400,5200
+Maharashtra,Mumbai,Mumbai,"Lentil (Masur)(Whole)",Other,15/01/2020,5000,5400,5200
+Maharashtra,Pune,Pune,"Lentil (Masur)(Whole)",Other,01/01/2020,5400,5700,5600
+Maharashtra,Pune,Pune,"Lentil (Masur)(Whole)",Other,02/01/2020,5200,5900,5550
+Maharashtra,Pune,Pune,"Lentil (Masur)(Whole)",Other,03/01/2020,5200,5900,5550
+Maharashtra,Pune,Pune,"Lentil (Masur)(Whole)",Other,04/01/2020,5200,5700,5450
+Maharashtra,Pune,Pune,"Lentil (Masur)(Whole)",Other,06/01/2020,5300,5600,5450
+Maharashtra,Pune,Pune,"Lentil (Masur)(Whole)",Other,07/01/2020,5500,5750,5650
+Maharashtra,Pune,Pune,"Lentil (Masur)(Whole)",Other,08/01/2020,5500,5750,5650
+Maharashtra,Pune,Pune,"Lentil (Masur)(Whole)",Other,09/01/2020,5500,6000,5750
+Maharashtra,Pune,Pune,"Lentil (Masur)(Whole)",Other,10/01/2020,5300,5800,5600
+Maharashtra,Pune,Pune,"Lentil (Masur)(Whole)",Other,11/01/2020,5300,5800,5600
+Maharashtra,Pune,Pune,"Lentil (Masur)(Whole)",Other,13/01/2020,5200,5800,5500
+Maharashtra,Pune,Pune,"Lentil (Masur)(Whole)",Other,14/01/2020,5400,5800,5600
+Maharashtra,Pune,Pune,"Lentil (Masur)(Whole)",Other,15/01/2020,5500,5900,5700
+Maharashtra,Sangli,Sangli,"Lentil (Masur)(Whole)",Other,04/01/2020,5500,6000,5750
+Maharashtra,Sangli,Sangli,"Lentil (Masur)(Whole)",Other,07/01/2020,5500,6000,5750
+Rajasthan,Bhilwara,Bhilwara,"Lentil (Masur)(Whole)",Other,07/01/2020,5200,5500,5350
+Rajasthan,Bhilwara,Bhilwara,"Lentil (Masur)(Whole)",Other,09/01/2020,5200,5500,5350
+Rajasthan,Bundi,Bundi,"Lentil (Masur)(Whole)",Other,04/01/2020,5251,5251,5251
+Rajasthan,Bundi,Bundi,"Lentil (Masur)(Whole)",Other,06/01/2020,5500,5500,5500
+Rajasthan,Chittorgarh,Pratapgarh,"Lentil (Masur)(Whole)",Other,04/01/2020,4000,5053,4526
+Rajasthan,Chittorgarh,Pratapgarh,"Lentil (Masur)(Whole)",Other,06/01/2020,3901,5131,4516
+Rajasthan,Chittorgarh,Pratapgarh,"Lentil (Masur)(Whole)",Other,07/01/2020,2300,5181,3740
+Rajasthan,Chittorgarh,Pratapgarh,"Lentil (Masur)(Whole)",Other,08/01/2020,3600,5166,4383
+Rajasthan,Chittorgarh,Pratapgarh,"Lentil (Masur)(Whole)",Other,09/01/2020,3702,5060,4381
+Rajasthan,Chittorgarh,Pratapgarh,"Lentil (Masur)(Whole)",Other,10/01/2020,4812,5141,4976
+Rajasthan,Chittorgarh,Pratapgarh,"Lentil (Masur)(Whole)",Other,13/01/2020,4425,5050,4737
+Rajasthan,Chittorgarh,Pratapgarh,"Lentil (Masur)(Whole)",Other,15/01/2020,4871,5000,4935
+Rajasthan,Kota,Kota,"Lentil (Masur)(Whole)",Other,06/01/2020,6000,6000,6000
+Rajasthan,Kota,Kota,"Lentil (Masur)(Whole)",Other,07/01/2020,6082,6082,6082
+Rajasthan,Tonk,Deoli,"Lentil (Masur)(Whole)",Other,03/01/2020,5851,6100,5976
+Rajasthan,Tonk,Deoli,"Lentil (Masur)(Whole)",Other,04/01/2020,5750,5801,5776
+Rajasthan,Tonk,Deoli,"Lentil (Masur)(Whole)",Other,06/01/2020,5451,6000,5726
+Rajasthan,Tonk,Deoli,"Lentil (Masur)(Whole)",Other,07/01/2020,5300,5700,5500
+Rajasthan,Tonk,Deoli,"Lentil (Masur)(Whole)",Other,08/01/2020,5000,5700,5350
+Rajasthan,Tonk,Deoli,"Lentil (Masur)(Whole)",Other,09/01/2020,5600,5650,5625
+Rajasthan,Tonk,Deoli,"Lentil (Masur)(Whole)",Other,10/01/2020,5400,5600,5500
+Rajasthan,Tonk,Deoli,"Lentil (Masur)(Whole)",Other,13/01/2020,5000,5460,5230
+Rajasthan,Tonk,Deoli,"Lentil (Masur)(Whole)",Other,14/01/2020,5200,5500,5350
+"Uttar Pradesh",Agra,Agra,"Lentil (Masur)(Whole)","Kala Masoor New",01/01/2020,5200,5350,5270
+"Uttar Pradesh",Agra,Agra,"Lentil (Masur)(Whole)","Kala Masoor New",02/01/2020,5150,5350,5250
+"Uttar Pradesh",Agra,Agra,"Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,5200,5350,5260
+"Uttar Pradesh",Agra,Agra,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,5150,5350,5240
+"Uttar Pradesh",Agra,Agra,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,5100,5300,5200
+"Uttar Pradesh",Agra,Agra,"Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,5150,5350,5250
+"Uttar Pradesh",Agra,Agra,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,5200,5350,5270
+"Uttar Pradesh",Agra,Agra,"Lentil (Masur)(Whole)","Kala Masoor New",09/01/2020,5150,5350,5240
+"Uttar Pradesh",Agra,Agra,"Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,5100,5300,5200
+"Uttar Pradesh",Agra,Agra,"Lentil (Masur)(Whole)","Kala Masoor New",13/01/2020,5200,5350,5280
+"Uttar Pradesh",Agra,Agra,"Lentil (Masur)(Whole)","Kala Masoor New",14/01/2020,5150,5350,5250
+"Uttar Pradesh",Agra,Agra,"Lentil (Masur)(Whole)","Kala Masoor New",15/01/2020,5200,5350,5280
+"Uttar Pradesh",Aligarh,Aligarh,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,5200,5300,5250
+"Uttar Pradesh",Aligarh,Aligarh,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5150,5250,5200
+"Uttar Pradesh",Aligarh,Aligarh,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,5200,5300,5250
+"Uttar Pradesh",Aligarh,Aligarh,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,5150,5250,5200
+"Uttar Pradesh",Aligarh,Aligarh,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5200,5300,5250
+"Uttar Pradesh",Aligarh,Aligarh,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,5150,5250,5200
+"Uttar Pradesh",Aligarh,Aligarh,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5150,5250,5200
+"Uttar Pradesh",Aligarh,Aligarh,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,5150,5250,5200
+"Uttar Pradesh",Aligarh,Aligarh,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,5200,5300,5250
+"Uttar Pradesh",Aligarh,Aligarh,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,5200,5300,5250
+"Uttar Pradesh",Aligarh,Aligarh,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,5150,5250,5200
+"Uttar Pradesh",Aligarh,Aligarh,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,5200,5300,5250
+"Uttar Pradesh",Ambedkarnagar,Akbarpur,"Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,5200,5300,5260
+"Uttar Pradesh",Ambedkarnagar,Akbarpur,"Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,5350,5480,5460
+"Uttar Pradesh",Azamgarh,Azamgarh,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,5015,5100,5060
+"Uttar Pradesh",Azamgarh,Azamgarh,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,5000,5100,5060
+"Uttar Pradesh",Azamgarh,Azamgarh,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5020,5100,5065
+"Uttar Pradesh",Azamgarh,Azamgarh,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,5025,5085,5060
+"Uttar Pradesh",Azamgarh,Azamgarh,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,5000,5100,5060
+"Uttar Pradesh",Azamgarh,Azamgarh,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5040,5120,5075
+"Uttar Pradesh",Azamgarh,Azamgarh,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,5050,5100,5075
+"Uttar Pradesh",Azamgarh,Azamgarh,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5050,5100,5075
+"Uttar Pradesh",Azamgarh,Azamgarh,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4990,5090,5040
+"Uttar Pradesh",Azamgarh,Azamgarh,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,5000,5100,5045
+"Uttar Pradesh",Badaun,Badayoun,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4900,5010,4960
+"Uttar Pradesh",Badaun,Badayoun,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4900,5050,4950
+"Uttar Pradesh",Bahraich,Mihipurwa,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,5600,5800,5700
+"Uttar Pradesh",Bahraich,Naanpara,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,6170,6230,6200
+"Uttar Pradesh",Bahraich,Naanpara,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,6170,6230,6200
+"Uttar Pradesh",Bahraich,Naanpara,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,6170,6230,6200
+"Uttar Pradesh",Bahraich,Naanpara,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,6110,6200,6150
+"Uttar Pradesh",Bahraich,Naanpara,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,6070,6130,6100
+"Uttar Pradesh",Bahraich,Naanpara,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,6070,6130,6100
+"Uttar Pradesh",Bahraich,Naanpara,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,6070,6130,6100
+"Uttar Pradesh",Bahraich,Naanpara,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,6070,6140,6100
+"Uttar Pradesh",Bahraich,Naanpara,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,6070,6140,6100
+"Uttar Pradesh",Bahraich,Naanpara,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,6100,6150,6125
+"Uttar Pradesh",Bahraich,Naanpara,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,6100,6160,6125
+"Uttar Pradesh",Bahraich,Naanpara,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,6070,6130,6100
+"Uttar Pradesh",Bahraich,Naanpara,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,6070,6130,6100
+"Uttar Pradesh",Bahraich,Risia,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,5310,5560,5440
+"Uttar Pradesh",Bahraich,Risia,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5320,5555,5440
+"Uttar Pradesh",Bahraich,Risia,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,5320,5550,5440
+"Uttar Pradesh",Bahraich,Risia,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,5320,5560,5440
+"Uttar Pradesh",Bahraich,Risia,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5410,5570,5440
+"Uttar Pradesh",Bahraich,Risia,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,5310,5560,5440
+"Uttar Pradesh",Bahraich,Risia,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5415,5560,5440
+"Uttar Pradesh",Bahraich,Risia,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,5320,5550,5440
+"Uttar Pradesh",Bahraich,Risia,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,5320,5560,5440
+"Uttar Pradesh",Bahraich,Risia,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,5305,5575,5440
+"Uttar Pradesh",Bahraich,Risia,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,5320,5560,5440
+"Uttar Pradesh",Bahraich,Risia,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,5320,5560,5440
+"Uttar Pradesh",Ballia,Ballia,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,5100,5160,5130
+"Uttar Pradesh",Ballia,Ballia,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5090,5230,5160
+"Uttar Pradesh",Ballia,Ballia,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,5150,5260,5200
+"Uttar Pradesh",Ballia,Ballia,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,5160,5280,5220
+"Uttar Pradesh",Ballia,Ballia,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5165,5290,5225
+"Uttar Pradesh",Ballia,Ballia,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,5180,5310,5240
+"Uttar Pradesh",Ballia,Ballia,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5170,5290,5230
+"Uttar Pradesh",Ballia,Ballia,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,5200,5280,5240
+"Uttar Pradesh",Ballia,Ballia,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,5140,5320,5260
+"Uttar Pradesh",Balrampur,Tulsipur,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,5325,5400,5350
+"Uttar Pradesh",Balrampur,Tulsipur,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,5320,5400,5360
+"Uttar Pradesh",Balrampur,Tulsipur,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,5425,5500,5470
+"Uttar Pradesh",Balrampur,Tulsipur,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,5400,5470,5425
+"Uttar Pradesh",Balrampur,Tulsipur,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,5380,5425,5400
+"Uttar Pradesh",Balrampur,Tulsipur,"Lentil (Masur)(Whole)",Other,01/01/2020,5350,5470,5400
+"Uttar Pradesh",Balrampur,Tulsipur,"Lentil (Masur)(Whole)",Other,02/01/2020,5400,5470,5425
+"Uttar Pradesh",Balrampur,Tulsipur,"Lentil (Masur)(Whole)",Other,03/01/2020,5400,5480,5430
+"Uttar Pradesh",Balrampur,Tulsipur,"Lentil (Masur)(Whole)",Other,04/01/2020,5300,5400,5350
+"Uttar Pradesh",Balrampur,Tulsipur,"Lentil (Masur)(Whole)",Other,05/01/2020,5320,5400,5350
+"Uttar Pradesh",Balrampur,Tulsipur,"Lentil (Masur)(Whole)",Other,07/01/2020,5320,5400,5360
+"Uttar Pradesh",Balrampur,Tulsipur,"Lentil (Masur)(Whole)",Other,08/01/2020,5325,5400,5370
+"Uttar Pradesh",Balrampur,Tulsipur,"Lentil (Masur)(Whole)",Other,09/01/2020,5300,5420,5350
+"Uttar Pradesh",Balrampur,Utraula,"Lentil (Masur)(Whole)","Kala Masoor New",01/01/2020,5200,5400,5300
+"Uttar Pradesh",Balrampur,Utraula,"Lentil (Masur)(Whole)","Kala Masoor New",02/01/2020,5300,5400,5350
+"Uttar Pradesh",Balrampur,Utraula,"Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,5200,5400,5300
+"Uttar Pradesh",Balrampur,Utraula,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,5250,5400,5300
+"Uttar Pradesh",Balrampur,Utraula,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,5400,5600,5500
+"Uttar Pradesh",Balrampur,Utraula,"Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,5300,5400,5350
+"Uttar Pradesh",Balrampur,Utraula,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,5300,5500,5400
+"Uttar Pradesh",Balrampur,Utraula,"Lentil (Masur)(Whole)","Kala Masoor New",09/01/2020,5300,5400,5375
+"Uttar Pradesh",Balrampur,Utraula,"Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,5380,5450,5400
+"Uttar Pradesh",Balrampur,Utraula,"Lentil (Masur)(Whole)","Kala Masoor New",11/01/2020,5300,5450,5410
+"Uttar Pradesh",Balrampur,Utraula,"Lentil (Masur)(Whole)","Kala Masoor New",13/01/2020,5350,5450,5400
+"Uttar Pradesh",Balrampur,Utraula,"Lentil (Masur)(Whole)","Kala Masoor New",14/01/2020,5350,5400,5390
+"Uttar Pradesh",Banda,Atarra,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4550,4650,4600
+"Uttar Pradesh",Banda,Atarra,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,4750,4825,4800
+"Uttar Pradesh",Banda,Atarra,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4800,4900,4850
+"Uttar Pradesh",Banda,Atarra,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,4750,4850,4800
+"Uttar Pradesh",Banda,Atarra,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4730,4820,4775
+"Uttar Pradesh",Banda,Atarra,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4700,4800,4750
+"Uttar Pradesh",Banda,Atarra,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4650,4750,4700
+"Uttar Pradesh",Banda,Atarra,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4675,4775,4725
+"Uttar Pradesh",Banda,Atarra,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4700,4800,4750
+"Uttar Pradesh",Banda,Atarra,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,4700,4800,4750
+"Uttar Pradesh",Banda,Atarra,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,4525,4625,4565
+"Uttar Pradesh",Banda,Baberu,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,4560,4760,4660
+"Uttar Pradesh",Banda,Baberu,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4580,4740,4660
+"Uttar Pradesh",Banda,Baberu,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4600,4800,4700
+"Uttar Pradesh",Banda,Baberu,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,4620,4780,4700
+"Uttar Pradesh",Banda,Baberu,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4630,4790,4710
+"Uttar Pradesh",Banda,Baberu,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4620,4780,4700
+"Uttar Pradesh",Banda,Baberu,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4570,4730,4650
+"Uttar Pradesh",Banda,Baberu,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4550,4750,4650
+"Uttar Pradesh",Banda,Baberu,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4590,4750,4675
+"Uttar Pradesh",Banda,Baberu,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,4600,4780,4690
+"Uttar Pradesh",Banda,Baberu,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,4595,4755,4675
+"Uttar Pradesh",Banda,Banda,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4800,4850,4825
+"Uttar Pradesh",Banda,Banda,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,4840,4945,4875
+"Uttar Pradesh",Banda,Banda,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4825,4910,4875
+"Uttar Pradesh",Banda,Banda,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4725,4840,4775
+"Uttar Pradesh",Banda,Banda,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,4725,4830,4775
+"Uttar Pradesh",Banda,Banda,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4675,4760,4725
+"Uttar Pradesh",Banda,Banda,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4650,4750,4700
+"Uttar Pradesh",Banda,Banda,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4650,4750,4700
+"Uttar Pradesh",Banda,Banda,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4680,4760,4725
+"Uttar Pradesh",Banda,Banda,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4680,4765,4725
+"Uttar Pradesh",Banda,Banda,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,4680,4760,4725
+"Uttar Pradesh",Banda,Banda,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,4675,4760,4725
+"Uttar Pradesh",Barabanki,Safdarganj,"Lentil (Masur)(Whole)","Kala Masoor New",02/01/2020,5220,5250,5230
+"Uttar Pradesh",Barabanki,Safdarganj,"Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,5220,5260,5240
+"Uttar Pradesh",Barabanki,Safdarganj,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,5220,5260,5240
+"Uttar Pradesh",Barabanki,Safdarganj,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,5200,5280,5240
+"Uttar Pradesh",Barabanki,Safdarganj,"Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,5220,5260,5240
+"Uttar Pradesh",Barabanki,Safdarganj,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,5210,5250,5230
+"Uttar Pradesh",Barabanki,Safdarganj,"Lentil (Masur)(Whole)","Kala Masoor New",09/01/2020,5200,5250,5225
+"Uttar Pradesh",Barabanki,Safdarganj,"Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,5200,5235,5225
+"Uttar Pradesh",Barabanki,Safdarganj,"Lentil (Masur)(Whole)","Kala Masoor New",11/01/2020,5210,5250,5230
+"Uttar Pradesh",Barabanki,Safdarganj,"Lentil (Masur)(Whole)","Kala Masoor New",13/01/2020,5200,5240,5220
+"Uttar Pradesh",Barabanki,Safdarganj,"Lentil (Masur)(Whole)","Kala Masoor New",14/01/2020,5210,5250,5230
+"Uttar Pradesh",Barabanki,Safdarganj,"Lentil (Masur)(Whole)","Kala Masoor New",15/01/2020,5210,5250,5230
+"Uttar Pradesh",Bareilly,Bareilly,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4800,4925,4850
+"Uttar Pradesh",Bareilly,Bareilly,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4800,4925,4850
+"Uttar Pradesh",Bareilly,Bareilly,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4800,4925,4850
+"Uttar Pradesh",Bareilly,Bareilly,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4750,4900,4825
+"Uttar Pradesh",Bareilly,Bareilly,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4750,4850,4815
+"Uttar Pradesh",Bareilly,Bareilly,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4750,4900,4825
+"Uttar Pradesh",Bareilly,Bareilly,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,4800,4900,4850
+"Uttar Pradesh",Bareilly,Bareilly,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,4375,4625,4550
+"Uttar Pradesh",Bareilly,Bareilly,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,4525,4650,4600
+"Uttar Pradesh",Basti,Basti,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5000,5100,5050
+"Uttar Pradesh",Basti,Basti,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5000,5100,5050
+"Uttar Pradesh",Basti,Basti,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,5010,5115,5060
+"Uttar Pradesh",Basti,Basti,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,5000,5100,5040
+"Uttar Pradesh",Basti,Basti,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,5000,5080,5040
+"Uttar Pradesh",Bijnor,Bijnaur,"Lentil (Masur)(Whole)","Kala Masoor New",02/01/2020,4825,4925,4885
+"Uttar Pradesh",Bijnor,Bijnaur,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,4825,4900,4870
+"Uttar Pradesh",Bijnor,Bijnaur,"Lentil (Masur)(Whole)","Kala Masoor New",09/01/2020,4800,4875,4830
+"Uttar Pradesh",Bijnor,Bijnaur,"Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,4800,4900,4840
+"Uttar Pradesh",Bijnor,Bijnaur,"Lentil (Masur)(Whole)","Kala Masoor New",14/01/2020,4800,4900,4840
+"Uttar Pradesh",Chitrakut,Karvi,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4500,4590,4550
+"Uttar Pradesh",Chitrakut,Karvi,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4485,4570,4520
+"Uttar Pradesh",Chitrakut,Karvi,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4615,4700,4650
+"Uttar Pradesh",Chitrakut,Karvi,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,4625,4700,4680
+"Uttar Pradesh",Chitrakut,Karvi,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4625,4700,4670
+"Uttar Pradesh",Chitrakut,Karvi,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4600,4685,4635
+"Uttar Pradesh",Chitrakut,Karvi,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4570,4650,4600
+"Uttar Pradesh",Chitrakut,Karvi,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4520,4600,4560
+"Uttar Pradesh",Chitrakut,Karvi,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4550,4615,4590
+"Uttar Pradesh",Chitrakut,Karvi,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,4570,4650,4600
+"Uttar Pradesh",Faizabad,Faizabad,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,5200,5250,5225
+"Uttar Pradesh",Faizabad,Faizabad,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5225,5300,5250
+"Uttar Pradesh",Faizabad,Faizabad,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,5225,5300,5250
+"Uttar Pradesh",Faizabad,Faizabad,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,5275,5330,5300
+"Uttar Pradesh",Faizabad,Faizabad,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,5275,5330,5300
+"Uttar Pradesh",Faizabad,Faizabad,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5275,5330,5300
+"Uttar Pradesh",Faizabad,Faizabad,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,5375,5500,5400
+"Uttar Pradesh",Faizabad,Faizabad,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,5425,5500,5450
+"Uttar Pradesh",Faizabad,Faizabad,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,5470,5550,5500
+"Uttar Pradesh",Faizabad,Faizabad,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,5470,5550,5500
+"Uttar Pradesh",Faizabad,Faizabad,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,5470,5550,5500
+"Uttar Pradesh",Faizabad,Faizabad,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,5500,5560,5525
+"Uttar Pradesh",Faizabad,Faizabad,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,5500,5560,5525
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,5400,5500,5450
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5400,5500,5450
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,5430,5530,5480
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,5350,5450,5400
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,5350,5450,5400
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5350,5450,5400
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5300,5400,5350
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,5300,5400,5350
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,5350,5450,5400
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,5350,5450,5400
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,5300,5400,5350
+"Uttar Pradesh",Ghazipur,Gazipur,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4970,5030,5000
+"Uttar Pradesh",Ghazipur,Gazipur,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,5000,5040,5020
+"Uttar Pradesh",Ghazipur,Gazipur,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5000,5040,5020
+"Uttar Pradesh",Ghazipur,Gazipur,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4960,5000,4980
+"Uttar Pradesh",Ghazipur,Gazipur,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4960,5000,4980
+"Uttar Pradesh",Ghazipur,Gazipur,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4950,5010,4980
+"Uttar Pradesh",Ghazipur,Gazipur,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4970,4990,4980
+"Uttar Pradesh",Ghazipur,Gazipur,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4960,5000,4980
+"Uttar Pradesh",Ghazipur,Gazipur,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,5170,5240,5200
+"Uttar Pradesh",Ghazipur,Gazipur,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,5170,5230,5200
+"Uttar Pradesh",Ghazipur,Gazipur,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,5170,5230,5200
+"Uttar Pradesh",Ghazipur,Gazipur,"Lentil (Masur)(Whole)","Masoor Gola",16/01/2020,5180,5220,5200
+"Uttar Pradesh",Ghazipur,Jangipura,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4930,4980,4960
+"Uttar Pradesh",Ghazipur,Jangipura,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,4930,4980,4960
+"Uttar Pradesh",Ghazipur,Jangipura,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4930,5000,4960
+"Uttar Pradesh",Ghazipur,Jangipura,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4950,5000,4970
+"Uttar Pradesh",Ghazipur,Jangipura,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,4950,5000,4970
+"Uttar Pradesh",Ghazipur,Jangipura,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4950,5000,4970
+"Uttar Pradesh",Ghazipur,Jangipura,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4950,5000,4970
+"Uttar Pradesh",Ghazipur,Jangipura,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4960,5000,4980
+"Uttar Pradesh",Ghazipur,Jangipura,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4960,5100,4980
+"Uttar Pradesh",Ghazipur,Jangipura,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,5170,5240,5200
+"Uttar Pradesh",Ghazipur,Jangipura,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,5170,5230,5200
+"Uttar Pradesh",Ghazipur,Jangipura,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,5170,5230,5200
+"Uttar Pradesh",Gonda,Gonda,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,5350,5370,5360
+"Uttar Pradesh",Gonda,Gonda,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,5350,5370,5360
+"Uttar Pradesh",Gonda,Gonda,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5350,5370,5360
+"Uttar Pradesh",Gonda,Gonda,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,5650,5660,5655
+"Uttar Pradesh",Gonda,Gonda,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5320,5470,5350
+"Uttar Pradesh",Gonda,Gonda,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,5340,5360,5350
+"Uttar Pradesh",Gonda,Gonda,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5330,5380,5350
+"Uttar Pradesh",Gonda,Gonda,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,5330,5350,5340
+"Uttar Pradesh",Gonda,Gonda,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,5350,5370,5360
+"Uttar Pradesh",Gonda,Gonda,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,5350,5365,5360
+"Uttar Pradesh",Gonda,Gonda,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,5350,5370,5360
+"Uttar Pradesh",Gorakhpur,Gorakhpur,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4940,5050,4980
+"Uttar Pradesh",Hamirpur,Muskara,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4490,4600,4550
+"Uttar Pradesh",Hamirpur,Muskara,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,4460,4600,4560
+"Uttar Pradesh",Hamirpur,Muskara,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4550,4640,4600
+"Uttar Pradesh",Hamirpur,Muskara,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4540,4630,4580
+"Uttar Pradesh",Hamirpur,Muskara,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,4550,4700,4650
+"Uttar Pradesh",Hamirpur,Muskara,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4550,4700,4650
+"Uttar Pradesh",Hamirpur,Muskara,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4550,4650,4600
+"Uttar Pradesh",Hamirpur,Muskara,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4550,4660,4600
+"Uttar Pradesh",Hamirpur,Muskara,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4500,4650,4560
+"Uttar Pradesh",Hamirpur,Muskara,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4500,4640,4550
+"Uttar Pradesh",Hamirpur,Muskara,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,4500,4670,4580
+"Uttar Pradesh",Hamirpur,Muskara,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,4550,4650,4600
+"Uttar Pradesh",Hamirpur,Raath,"Lentil (Masur)(Whole)","Kala Masoor New",02/01/2020,4800,4900,4850
+"Uttar Pradesh",Hamirpur,Raath,"Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,4900,5000,4950
+"Uttar Pradesh",Hamirpur,Raath,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,4900,4975,4950
+"Uttar Pradesh",Hamirpur,Raath,"Lentil (Masur)(Whole)","Kala Masoor New",05/01/2020,4900,5000,4950
+"Uttar Pradesh",Hamirpur,Raath,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,5100,5200,5150
+"Uttar Pradesh",Hamirpur,Raath,"Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,4500,4600,4550
+"Uttar Pradesh",Hamirpur,Raath,"Lentil (Masur)(Whole)","Kala Masoor New",09/01/2020,4550,4650,4600
+"Uttar Pradesh",Hamirpur,Raath,"Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,4600,4700,4650
+"Uttar Pradesh",Hamirpur,Raath,"Lentil (Masur)(Whole)","Kala Masoor New",11/01/2020,4700,4800,4750
+"Uttar Pradesh",Hamirpur,Raath,"Lentil (Masur)(Whole)","Kala Masoor New",13/01/2020,4600,4700,4650
+"Uttar Pradesh",Hardoi,Madhoganj,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,5100,5150,5130
+"Uttar Pradesh",Hardoi,Madhoganj,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,5000,5100,5050
+"Uttar Pradesh",Hardoi,Madhoganj,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5000,5100,5050
+"Uttar Pradesh",Hardoi,Madhoganj,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,5050,5150,5100
+"Uttar Pradesh",Hardoi,Madhoganj,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,5100,5150,5130
+"Uttar Pradesh",Hardoi,Madhoganj,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5100,5150,5120
+"Uttar Pradesh",Hardoi,Madhoganj,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,5100,5150,5130
+"Uttar Pradesh",Hardoi,Madhoganj,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5000,5100,5050
+"Uttar Pradesh",Hardoi,Madhoganj,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,5100,5150,5130
+"Uttar Pradesh",Hardoi,Madhoganj,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,5100,5200,5150
+"Uttar Pradesh",Hardoi,Madhoganj,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,5100,5150,5130
+"Uttar Pradesh",Hardoi,Madhoganj,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,5100,5200,5140
+"Uttar Pradesh",Hardoi,"Shahabad(New Mandi)","Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,5000,5100,5050
+"Uttar Pradesh",Hardoi,"Shahabad(New Mandi)","Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,5000,5100,5050
+"Uttar Pradesh",Hardoi,"Shahabad(New Mandi)","Lentil (Masur)(Whole)","Kala Masoor New",05/01/2020,5000,5100,5050
+"Uttar Pradesh",Hardoi,"Shahabad(New Mandi)","Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,5000,5100,5050
+"Uttar Pradesh",Hardoi,"Shahabad(New Mandi)","Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,4950,5050,5000
+"Uttar Pradesh",Hardoi,"Shahabad(New Mandi)","Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,5100,5200,5150
+"Uttar Pradesh",Hardoi,"Shahabad(New Mandi)","Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,5100,5200,5150
+"Uttar Pradesh",Hardoi,"Shahabad(New Mandi)","Lentil (Masur)(Whole)","Kala Masoor New",11/01/2020,5100,5200,5150
+"Uttar Pradesh",Hardoi,"Shahabad(New Mandi)","Lentil (Masur)(Whole)","Kala Masoor New",13/01/2020,5050,5150,5100
+"Uttar Pradesh",Hathras,Haathras,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4900,5100,5000
+"Uttar Pradesh",Hathras,Haathras,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4400,4500,4430
+"Uttar Pradesh",Hathras,Haathras,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4900,5000,4962
+"Uttar Pradesh",Hathras,Haathras,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,5000,5300,5200
+"Uttar Pradesh",Hathras,Haathras,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5200,5400,5300
+"Uttar Pradesh",Hathras,Haathras,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,5200,5400,5300
+"Uttar Pradesh",Hathras,Haathras,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5100,5200,5175
+"Uttar Pradesh",Hathras,Haathras,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,5100,5200,5175
+"Uttar Pradesh",Hathras,Haathras,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,5300,5400,5325
+"Uttar Pradesh",Hathras,Haathras,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,4500,4600,4551
+"Uttar Pradesh","Jalaun (Orai)",Jalaun,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4600,4680,4680
+"Uttar Pradesh","Jalaun (Orai)",Jalaun,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,4500,4661,4661
+"Uttar Pradesh","Jalaun (Orai)",Jalaun,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4600,4700,4700
+"Uttar Pradesh","Jalaun (Orai)",Jalaun,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4500,4550,4550
+"Uttar Pradesh","Jalaun (Orai)",Jalaun,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,4500,4565,4565
+"Uttar Pradesh","Jalaun (Orai)",Jalaun,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4300,4400,4400
+"Uttar Pradesh","Jalaun (Orai)",Jalaun,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4350,4400,4400
+"Uttar Pradesh","Jalaun (Orai)",Jalaun,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4350,4400,4400
+"Uttar Pradesh","Jalaun (Orai)",Jalaun,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4300,4401,4401
+"Uttar Pradesh","Jalaun (Orai)",Jalaun,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4300,4400,4400
+"Uttar Pradesh","Jalaun (Orai)",Jalaun,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,4300,4400,4400
+"Uttar Pradesh","Jalaun (Orai)",Jalaun,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,4300,4400,4400
+"Uttar Pradesh","Jalaun (Orai)",Jalaun,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,4000,4100,4100
+"Uttar Pradesh","Jalaun (Orai)",Orai,"Lentil (Masur)(Whole)","Kala Masoor New",01/01/2020,4800,4850,4820
+"Uttar Pradesh","Jalaun (Orai)",Orai,"Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,4700,4800,4750
+"Uttar Pradesh","Jalaun (Orai)",Orai,"Lentil (Masur)(Whole)","Kala Masoor New",05/01/2020,4550,4630,4600
+"Uttar Pradesh","Jalaun (Orai)",Orai,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,4600,4650,4625
+"Uttar Pradesh","Jalaun (Orai)",Orai,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,4600,4689,4650
+"Uttar Pradesh","Jalaun (Orai)",Orai,"Lentil (Masur)(Whole)","Kala Masoor New",12/01/2020,4650,4720,4680
+"Uttar Pradesh","Jalaun (Orai)",Orai,"Lentil (Masur)(Whole)","Kala Masoor New",13/01/2020,4600,4675,4650
+"Uttar Pradesh",Jhansi,Gurusarai,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4260,4360,4300
+"Uttar Pradesh",Jhansi,Gurusarai,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,4200,4350,4300
+"Uttar Pradesh",Jhansi,Gurusarai,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4200,4350,4300
+"Uttar Pradesh",Jhansi,Gurusarai,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,4200,4400,4300
+"Uttar Pradesh",Jhansi,Gurusarai,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4250,4300,4300
+"Uttar Pradesh",Jhansi,Gurusarai,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4215,4340,4300
+"Uttar Pradesh",Jhansi,Gurusarai,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4250,4360,4300
+"Uttar Pradesh",Jhansi,Gurusarai,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4280,4400,4350
+"Uttar Pradesh",Jhansi,Gurusarai,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,4285,4415,4350
+"Uttar Pradesh",Jhansi,Gurusarai,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,0,0,4350
+"Uttar Pradesh",Jhansi,Jhansi,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4450,4550,4500
+"Uttar Pradesh",Jhansi,Jhansi,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4410,4610,4510
+"Uttar Pradesh",Jhansi,Jhansi,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4425,4625,4525
+"Uttar Pradesh",Jhansi,Jhansi,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4420,4620,4520
+"Uttar Pradesh",Jhansi,Jhansi,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4415,4615,4515
+"Uttar Pradesh",Jhansi,Jhansi,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4420,4620,4520
+"Uttar Pradesh",Jhansi,Jhansi,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,4420,4630,4525
+"Uttar Pradesh",Jhansi,Jhansi,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,4410,4615,4515
+"Uttar Pradesh",Jhansi,Mauranipur,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4450,4600,4560
+"Uttar Pradesh",Jhansi,Mauranipur,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,4550,4600,4600
+"Uttar Pradesh",Jhansi,Mauranipur,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4550,4650,4610
+"Uttar Pradesh",Jhansi,Mauranipur,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4550,4645,4600
+"Uttar Pradesh",Jhansi,Mauranipur,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4500,4740,4685
+"Uttar Pradesh",Jhansi,Mauranipur,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4565,4710,4680
+"Uttar Pradesh",Jhansi,Mauranipur,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4550,4710,4675
+"Uttar Pradesh",Jhansi,Mauranipur,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,0,0,4675
+"Uttar Pradesh",Jhansi,Mauranipur,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,0,0,4670
+"Uttar Pradesh",Jhansi,Mauranipur,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,0,0,4675
+"Uttar Pradesh",Jhansi,Mauranipur,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,4600,4700,4650
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Lentil (Masur)(Whole)","Kala Masoor New",01/01/2020,4150,4300,4200
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Lentil (Masur)(Whole)","Kala Masoor New",02/01/2020,4200,4300,4250
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,4200,4450,4300
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,4200,4350,4275
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,4250,4400,4300
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,4500,4700,4600
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,4400,4600,4500
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Lentil (Masur)(Whole)","Kala Masoor New",09/01/2020,4300,4500,4400
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,4300,4500,4400
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Lentil (Masur)(Whole)","Kala Masoor New",11/01/2020,4350,4450,4400
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Lentil (Masur)(Whole)","Kala Masoor New",13/01/2020,4400,4550,4475
+"Uttar Pradesh",Lakhimpur,Golagokarnath,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,5100,5300,5210
+"Uttar Pradesh",Lakhimpur,Golagokarnath,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,5100,5300,5200
+"Uttar Pradesh",Lakhimpur,Golagokarnath,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,5100,5300,5210
+"Uttar Pradesh",Lakhimpur,Golagokarnath,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5100,5300,5200
+"Uttar Pradesh",Lakhimpur,Golagokarnath,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5100,5300,5210
+"Uttar Pradesh",Lakhimpur,Golagokarnath,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,5100,5300,5200
+"Uttar Pradesh",Lakhimpur,Golagokarnath,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,5100,5300,5210
+"Uttar Pradesh",Lakhimpur,Golagokarnath,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,5100,5300,5200
+"Uttar Pradesh",Lakhimpur,Lakhimpur,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,5250,5350,5300
+"Uttar Pradesh",Lakhimpur,Lakhimpur,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,5290,5330,5310
+"Uttar Pradesh",Lakhimpur,Lakhimpur,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5280,5340,5320
+"Uttar Pradesh",Lakhimpur,Lakhimpur,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,5300,5400,5330
+"Uttar Pradesh",Lakhimpur,Lakhimpur,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,5280,5380,5320
+"Uttar Pradesh",Lakhimpur,Lakhimpur,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5300,5400,5350
+"Uttar Pradesh",Lakhimpur,Lakhimpur,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,5320,5420,5370
+"Uttar Pradesh",Lakhimpur,Lakhimpur,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5330,5390,5360
+"Uttar Pradesh",Lakhimpur,Lakhimpur,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,5330,5370,5350
+"Uttar Pradesh",Lakhimpur,Lakhimpur,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,5300,5400,5340
+"Uttar Pradesh",Lakhimpur,Lakhimpur,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,5300,5400,5350
+"Uttar Pradesh",Lakhimpur,Lakhimpur,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,5320,5420,5370
+"Uttar Pradesh",Lakhimpur,Lakhimpur,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,5350,5450,5400
+"Uttar Pradesh",Lakhimpur,Lakhimpur,"Lentil (Masur)(Whole)","Masoor Gola",16/01/2020,5350,5450,5400
+"Uttar Pradesh",Lalitpur,Lalitpur,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4400,4450,4425
+"Uttar Pradesh",Lalitpur,Lalitpur,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4380,4480,4435
+"Uttar Pradesh",Lalitpur,Lalitpur,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4400,4500,4450
+"Uttar Pradesh",Lalitpur,Lalitpur,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4450,4550,4500
+"Uttar Pradesh",Lalitpur,Lalitpur,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4480,4580,4525
+"Uttar Pradesh",Lalitpur,Lalitpur,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4500,4600,4550
+"Uttar Pradesh",Lalitpur,Lalitpur,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4500,4585,4545
+"Uttar Pradesh",Lalitpur,Lalitpur,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4480,4580,4535
+"Uttar Pradesh",Lalitpur,Lalitpur,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,4480,4580,4545
+"Uttar Pradesh",Lalitpur,Mehrauni,"Lentil (Masur)(Whole)","Kala Masoor New",02/01/2020,3800,3910,3900
+"Uttar Pradesh",Lalitpur,Mehrauni,"Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,3700,3900,3800
+"Uttar Pradesh",Lalitpur,Mehrauni,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,3700,3900,3800
+"Uttar Pradesh",Lalitpur,Mehrauni,"Lentil (Masur)(Whole)","Kala Masoor New",05/01/2020,3800,3920,3870
+"Uttar Pradesh",Lalitpur,Mehrauni,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,3700,3900,3800
+"Uttar Pradesh",Lalitpur,Mehrauni,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,3800,3920,3900
+"Uttar Pradesh",Lalitpur,Mehrauni,"Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,3800,3920,3900
+"Uttar Pradesh",Lalitpur,Mehrauni,"Lentil (Masur)(Whole)","Kala Masoor New",12/01/2020,3800,3930,3900
+"Uttar Pradesh",Lalitpur,Mehrauni,"Lentil (Masur)(Whole)","Kala Masoor New",13/01/2020,3700,3900,3800
+"Uttar Pradesh",Maharajganj,Gadaura,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4400,4600,4500
+"Uttar Pradesh",Maharajganj,Gadaura,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,4400,4600,4500
+"Uttar Pradesh",Maharajganj,Gadaura,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4400,4600,4500
+"Uttar Pradesh",Maharajganj,Gadaura,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4400,4600,4500
+"Uttar Pradesh",Maharajganj,Gadaura,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,4200,4400,4300
+"Uttar Pradesh",Maharajganj,Gadaura,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4200,4400,4300
+"Uttar Pradesh",Maharajganj,Gadaura,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4200,4400,4300
+"Uttar Pradesh",Maharajganj,Gadaura,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4200,4400,4300
+"Uttar Pradesh",Maharajganj,Gadaura,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4200,4400,4300
+"Uttar Pradesh",Maharajganj,Gadaura,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4200,4400,4300
+"Uttar Pradesh",Maharajganj,Gadaura,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4100,4300,4200
+"Uttar Pradesh",Maharajganj,Gadaura,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,4200,4400,4300
+"Uttar Pradesh",Maharajganj,Gadaura,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,4200,4400,4300
+"Uttar Pradesh",Maharajganj,Partaval,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4700,4900,4800
+"Uttar Pradesh",Maharajganj,Partaval,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,4750,4850,4810
+"Uttar Pradesh",Maharajganj,Partaval,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4750,4850,4810
+"Uttar Pradesh",Maharajganj,Partaval,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4800,4850,4825
+"Uttar Pradesh",Maharajganj,Partaval,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4800,4850,4825
+"Uttar Pradesh",Maharajganj,Partaval,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4750,4875,4825
+"Uttar Pradesh",Maharajganj,Partaval,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4800,4850,4820
+"Uttar Pradesh",Maharajganj,Partaval,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4800,4850,4820
+"Uttar Pradesh",Maharajganj,Partaval,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4800,4850,4825
+"Uttar Pradesh",Mahoba,Charkhari,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,4100,4200,4150
+"Uttar Pradesh",Mahoba,Mahoba,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4315,4385,4350
+"Uttar Pradesh",Mahoba,Mahoba,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4300,4385,4340
+"Uttar Pradesh",Mahoba,Mahoba,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,4320,4380,4360
+"Uttar Pradesh",Mahoba,Mahoba,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4360,4440,4400
+"Uttar Pradesh",Mahoba,Mahoba,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4380,4435,4410
+"Uttar Pradesh",Mahoba,Mahoba,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4425,4500,4450
+"Uttar Pradesh",Mahoba,Mahoba,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4450,4500,4475
+"Uttar Pradesh",Mahoba,Mahoba,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4420,4480,4460
+"Uttar Pradesh",Mahoba,Mahoba,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,4410,4470,4450
+"Uttar Pradesh",Mahoba,Mahoba,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,4450,4490,4465
+"Uttar Pradesh",Mahoba,Mahoba,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,4500,4550,4515
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,5000,5100,5055
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,5000,5100,5060
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5000,5100,5060
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,5000,5100,5050
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,5000,5100,5060
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5000,5100,5065
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,5000,5100,5065
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5000,5100,5045
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,5000,5100,5040
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,5000,5100,5040
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,5000,5100,5050
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,5000,5100,5050
+"Uttar Pradesh",Mau(Maunathbhanjan),Mau,"Lentil (Masur)(Whole)","Kala Masoor New",02/01/2020,5000,5100,5055
+"Uttar Pradesh",Mau(Maunathbhanjan),Mau,"Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,5000,5100,5060
+"Uttar Pradesh",Mau(Maunathbhanjan),Mau,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,5000,5100,5050
+"Uttar Pradesh",Mau(Maunathbhanjan),Mau,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,5000,5100,5060
+"Uttar Pradesh",Mau(Maunathbhanjan),Mau,"Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,5000,5100,5065
+"Uttar Pradesh",Mau(Maunathbhanjan),Mau,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,5000,5100,5065
+"Uttar Pradesh",Mau(Maunathbhanjan),Mau,"Lentil (Masur)(Whole)","Kala Masoor New",09/01/2020,5000,5100,5045
+"Uttar Pradesh",Mirzapur,Mirzapur,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,5210,5245,5225
+"Uttar Pradesh",Mirzapur,Mirzapur,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,5225,5275,5250
+"Uttar Pradesh",Mirzapur,Mirzapur,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,5225,5260,5245
+"Uttar Pradesh",Mirzapur,Mirzapur,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,5200,5245,5225
+"Uttar Pradesh",Mirzapur,Mirzapur,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5250,5300,5275
+"Uttar Pradesh",Mirzapur,Mirzapur,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,5265,5300,5285
+"Uttar Pradesh",Muradabad,Muradabad,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4980,5080,5030
+"Uttar Pradesh",Muradabad,Muradabad,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,4970,5070,5020
+"Uttar Pradesh",Muradabad,Muradabad,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4900,5000,4950
+"Uttar Pradesh",Muradabad,Muradabad,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4920,5020,4970
+"Uttar Pradesh",Muradabad,Muradabad,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,5000,5100,5040
+"Uttar Pradesh",Muradabad,Muradabad,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,5000,5100,5050
+"Uttar Pradesh",Muradabad,Muradabad,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,5000,5100,5060
+"Uttar Pradesh",Muradabad,Muradabad,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5000,5100,5050
+"Uttar Pradesh",Muradabad,Muradabad,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4950,5050,5000
+"Uttar Pradesh",Muradabad,Muradabad,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4910,5000,4960
+"Uttar Pradesh",Muradabad,Muradabad,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,4920,5000,4970
+"Uttar Pradesh",Muradabad,Muradabad,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,4930,5000,4980
+"Uttar Pradesh",Muradabad,Muradabad,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,4940,5040,4990
+"Uttar Pradesh",Muzaffarnagar,Muzzafarnagar,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,5300,5460,5370
+"Uttar Pradesh",Muzaffarnagar,Muzzafarnagar,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5300,5480,5375
+"Uttar Pradesh",Muzaffarnagar,Muzzafarnagar,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5300,5480,5375
+"Uttar Pradesh",Muzaffarnagar,Muzzafarnagar,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,5300,5450,5360
+"Uttar Pradesh",Muzaffarnagar,Muzzafarnagar,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5250,5450,5350
+"Uttar Pradesh",Muzaffarnagar,Muzzafarnagar,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,5250,5460,5350
+"Uttar Pradesh",Muzaffarnagar,Muzzafarnagar,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,5250,5460,5350
+"Uttar Pradesh",Muzaffarnagar,Muzzafarnagar,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,5250,5450,5350
+"Uttar Pradesh",Muzaffarnagar,Muzzafarnagar,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,5260,5470,5350
+"Uttar Pradesh",Muzaffarnagar,Muzzafarnagar,"Lentil (Masur)(Whole)","Masoor Gola",15/01/2020,5250,5450,5340
+"Uttar Pradesh",Muzaffarnagar,Shamli,"Lentil (Masur)(Whole)",Other,01/01/2020,5200,5450,5375
+"Uttar Pradesh",Muzaffarnagar,Shamli,"Lentil (Masur)(Whole)",Other,06/01/2020,5300,5450,5375
+"Uttar Pradesh",Muzaffarnagar,Shamli,"Lentil (Masur)(Whole)",Other,07/01/2020,5325,5460,5370
+"Uttar Pradesh",Muzaffarnagar,Shamli,"Lentil (Masur)(Whole)",Other,08/01/2020,5300,5450,5350
+"Uttar Pradesh",Padrauna(Kusinagar),"Tamkuhi Road","Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,4400,4500,4450
+"Uttar Pradesh",Padrauna(Kusinagar),"Tamkuhi Road","Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,4400,4500,4450
+"Uttar Pradesh",Padrauna(Kusinagar),"Tamkuhi Road","Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,4400,4500,4450
+"Uttar Pradesh",Padrauna(Kusinagar),"Tamkuhi Road","Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4400,4500,4450
+"Uttar Pradesh",Padrauna(Kusinagar),"Tamkuhi Road","Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4400,4500,4450
+"Uttar Pradesh",Padrauna(Kusinagar),"Tamkuhi Road","Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4400,4500,4450
+"Uttar Pradesh",Padrauna(Kusinagar),"Tamkuhi Road","Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,4400,4500,4450
+"Uttar Pradesh",Padrauna(Kusinagar),"Tamkuhi Road","Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,4400,4500,4450
+"Uttar Pradesh",Padrauna(Kusinagar),"Tamkuhi Road","Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4400,4500,4450
+"Uttar Pradesh",Padrauna(Kusinagar),"Tamkuhi Road","Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,4400,4500,4450
+"Uttar Pradesh",Padrauna(Kusinagar),"Tamkuhi Road","Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,4400,4500,4450
+"Uttar Pradesh",Padrauna(Kusinagar),"Tamkuhi Road","Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,4400,4500,4450
+"Uttar Pradesh",Pillibhit,Pilibhit,"Lentil (Masur)(Whole)","Kala Masoor New",01/01/2020,4855,4955,4900
+"Uttar Pradesh",Pillibhit,Pilibhit,"Lentil (Masur)(Whole)","Kala Masoor New",02/01/2020,4870,4975,4920
+"Uttar Pradesh",Pillibhit,Pilibhit,"Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,4880,4980,4930
+"Uttar Pradesh",Pillibhit,Pilibhit,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,4865,4980,4935
+"Uttar Pradesh",Pillibhit,Pilibhit,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,4885,4995,4940
+"Uttar Pradesh",Pillibhit,Pilibhit,"Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,4890,5015,4950
+"Uttar Pradesh",Pillibhit,Pilibhit,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,4885,4995,4940
+"Uttar Pradesh",Pillibhit,Pilibhit,"Lentil (Masur)(Whole)","Kala Masoor New",09/01/2020,4860,4985,4926
+"Uttar Pradesh",Pillibhit,Pilibhit,"Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,4840,4955,4900
+"Uttar Pradesh",Pillibhit,Pilibhit,"Lentil (Masur)(Whole)","Kala Masoor New",11/01/2020,4835,4895,4870
+"Uttar Pradesh",Pillibhit,Pilibhit,"Lentil (Masur)(Whole)","Kala Masoor New",13/01/2020,4800,4865,4830
+"Uttar Pradesh",Pillibhit,Pilibhit,"Lentil (Masur)(Whole)","Kala Masoor New",14/01/2020,4805,4875,4840
+"Uttar Pradesh",Pillibhit,Pilibhit,"Lentil (Masur)(Whole)","Kala Masoor New",15/01/2020,4830,4880,4855
+"Uttar Pradesh",Pillibhit,Vishalpur,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,4510,4570,4550
+"Uttar Pradesh",Rampur,Rampur,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,5020,5090,5050
+"Uttar Pradesh",Rampur,Rampur,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5020,5090,5050
+"Uttar Pradesh",Rampur,Rampur,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,4970,5025,5000
+"Uttar Pradesh",Rampur,Rampur,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,4970,5025,5000
+"Uttar Pradesh",Rampur,Rampur,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,4970,5035,5000
+"Uttar Pradesh",Rampur,Rampur,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5000,5070,5040
+"Uttar Pradesh",Rampur,Rampur,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5000,5090,5040
+"Uttar Pradesh",Rampur,Rampur,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,5010,5080,5040
+"Uttar Pradesh",Saharanpur,Saharanpur,"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,5220,5485,5350
+"Uttar Pradesh",Saharanpur,Saharanpur,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,5220,5500,5360
+"Uttar Pradesh",Saharanpur,Saharanpur,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5220,5500,5365
+"Uttar Pradesh",Saharanpur,Saharanpur,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,5150,5450,5300
+"Uttar Pradesh",Saharanpur,Saharanpur,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,5225,5480,5300
+"Uttar Pradesh",Saharanpur,Saharanpur,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5150,5435,5300
+"Uttar Pradesh",Saharanpur,Saharanpur,"Lentil (Masur)(Whole)","Masoor Gola",08/01/2020,5150,5450,5300
+"Uttar Pradesh",Saharanpur,Saharanpur,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5135,5450,5300
+"Uttar Pradesh",Saharanpur,Saharanpur,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,5150,5435,5300
+"Uttar Pradesh",Saharanpur,Saharanpur,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,5170,5435,5300
+"Uttar Pradesh",Saharanpur,Saharanpur,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,5145,5450,5300
+"Uttar Pradesh","Siddharth Nagar",Sahiyapur,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5000,5100,5050
+"Uttar Pradesh","Siddharth Nagar",Sahiyapur,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,5000,5100,5050
+"Uttar Pradesh","Siddharth Nagar",Sahiyapur,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5000,5100,5050
+"Uttar Pradesh","Siddharth Nagar",Soharatgarh,"Lentil (Masur)(Whole)","Masoor Gola",02/01/2020,5010,5030,5020
+"Uttar Pradesh","Siddharth Nagar",Soharatgarh,"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5020,5040,5030
+"Uttar Pradesh","Siddharth Nagar",Soharatgarh,"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,5015,5035,5025
+"Uttar Pradesh","Siddharth Nagar",Soharatgarh,"Lentil (Masur)(Whole)","Masoor Gola",05/01/2020,5030,5060,5040
+"Uttar Pradesh","Siddharth Nagar",Soharatgarh,"Lentil (Masur)(Whole)","Masoor Gola",06/01/2020,5045,5065,5055
+"Uttar Pradesh","Siddharth Nagar",Soharatgarh,"Lentil (Masur)(Whole)","Masoor Gola",07/01/2020,4990,5010,5000
+"Uttar Pradesh","Siddharth Nagar",Soharatgarh,"Lentil (Masur)(Whole)","Masoor Gola",09/01/2020,5010,5030,5020
+"Uttar Pradesh","Siddharth Nagar",Soharatgarh,"Lentil (Masur)(Whole)","Masoor Gola",10/01/2020,4990,5010,5000
+"Uttar Pradesh","Siddharth Nagar",Soharatgarh,"Lentil (Masur)(Whole)","Masoor Gola",11/01/2020,5000,5020,5010
+"Uttar Pradesh","Siddharth Nagar",Soharatgarh,"Lentil (Masur)(Whole)","Masoor Gola",12/01/2020,5005,5025,5015
+"Uttar Pradesh","Siddharth Nagar",Soharatgarh,"Lentil (Masur)(Whole)","Masoor Gola",13/01/2020,5020,5040,5030
+"Uttar Pradesh","Siddharth Nagar",Soharatgarh,"Lentil (Masur)(Whole)","Masoor Gola",14/01/2020,5010,5030,5020
+"Uttar Pradesh",Sitapur,Sitapur,"Lentil (Masur)(Whole)","Kala Masoor New",02/01/2020,5500,5700,5600
+"Uttar Pradesh",Sitapur,Sitapur,"Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,5500,5600,5550
+"Uttar Pradesh",Sitapur,Sitapur,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,5600,5700,5640
+"Uttar Pradesh",Sitapur,Sitapur,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,5700,5800,5750
+"Uttar Pradesh",Sitapur,Sitapur,"Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,5700,5800,5740
+"Uttar Pradesh",Sitapur,Sitapur,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,5600,5700,5650
+"Uttar Pradesh",Sitapur,Sitapur,"Lentil (Masur)(Whole)","Kala Masoor New",09/01/2020,5600,5800,5700
+"Uttar Pradesh",Sitapur,Sitapur,"Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,5600,5700,5650
+"Uttar Pradesh",Sitapur,Sitapur,"Lentil (Masur)(Whole)","Kala Masoor New",11/01/2020,5600,5700,5640
+"Uttar Pradesh",Sitapur,Sitapur,"Lentil (Masur)(Whole)","Kala Masoor New",13/01/2020,5600,5700,5650
+"Uttar Pradesh",Sitapur,Sitapur,"Lentil (Masur)(Whole)","Kala Masoor New",14/01/2020,5600,5700,5650
+"Uttar Pradesh",Sitapur,Sitapur,"Lentil (Masur)(Whole)","Kala Masoor New",15/01/2020,5600,5700,5650
+"Uttar Pradesh",Sitapur,Viswan,"Lentil (Masur)(Whole)",Other,01/01/2020,4200,4400,4300
+"Uttar Pradesh",Sitapur,Viswan,"Lentil (Masur)(Whole)",Other,02/01/2020,4200,4400,4300
+"Uttar Pradesh",Sitapur,Viswan,"Lentil (Masur)(Whole)",Other,03/01/2020,4200,4400,4300
+"Uttar Pradesh",Sitapur,Viswan,"Lentil (Masur)(Whole)",Other,04/01/2020,4200,4400,4300
+"Uttar Pradesh",Sitapur,Viswan,"Lentil (Masur)(Whole)",Other,05/01/2020,4300,4500,4400
+"Uttar Pradesh",Sitapur,Viswan,"Lentil (Masur)(Whole)",Other,06/01/2020,4200,4400,4300
+"Uttar Pradesh",Sitapur,Viswan,"Lentil (Masur)(Whole)",Other,07/01/2020,4200,4400,4300
+"Uttar Pradesh",Sitapur,Viswan,"Lentil (Masur)(Whole)",Other,09/01/2020,4200,4400,4300
+"Uttar Pradesh",Sitapur,Viswan,"Lentil (Masur)(Whole)",Other,10/01/2020,4200,4400,4300
+"Uttar Pradesh",Sitapur,Viswan,"Lentil (Masur)(Whole)",Other,11/01/2020,4200,4300,4250
+"Uttar Pradesh",Sitapur,Viswan,"Lentil (Masur)(Whole)",Other,12/01/2020,4200,4400,4300
+"Uttar Pradesh",Sitapur,Viswan,"Lentil (Masur)(Whole)",Other,13/01/2020,4200,4400,4300
+"Uttar Pradesh",Sonbhadra,Robertsganj,"Lentil (Masur)(Whole)","Kala Masoor New",02/01/2020,4900,5085,4985
+"Uttar Pradesh",Sonbhadra,Robertsganj,"Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,4900,5095,4995
+"Uttar Pradesh",Sonbhadra,Robertsganj,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,4900,6000,4990
+"Uttar Pradesh",Sonbhadra,Robertsganj,"Lentil (Masur)(Whole)","Kala Masoor New",05/01/2020,4900,6000,4975
+"Uttar Pradesh",Sonbhadra,Robertsganj,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,4900,5000,4945
+"Uttar Pradesh",Sonbhadra,Robertsganj,"Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,4850,5000,4925
+"Uttar Pradesh",Sonbhadra,Robertsganj,"Lentil (Masur)(Whole)","Kala Masoor New",09/01/2020,4850,5000,4920
+"Uttar Pradesh",Sonbhadra,Robertsganj,"Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,4865,5000,4925
+"Uttar Pradesh",Sonbhadra,Robertsganj,"Lentil (Masur)(Whole)","Kala Masoor New",11/01/2020,4865,4975,4900
+"Uttar Pradesh",Sonbhadra,Robertsganj,"Lentil (Masur)(Whole)","Kala Masoor New",12/01/2020,4850,4965,4900
+"Uttar Pradesh",Sonbhadra,Robertsganj,"Lentil (Masur)(Whole)","Kala Masoor New",13/01/2020,4855,5035,4910
+"Uttar Pradesh",Sonbhadra,Robertsganj,"Lentil (Masur)(Whole)","Kala Masoor New",14/01/2020,4865,5000,4915
+"Uttar Pradesh",Sultanpur,Jafarganj,"Lentil (Masur)(Whole)","Kala Masoor New",01/01/2020,4800,4900,4850
+"Uttar Pradesh",Sultanpur,Jafarganj,"Lentil (Masur)(Whole)","Kala Masoor New",02/01/2020,4800,4900,4840
+"Uttar Pradesh",Sultanpur,Jafarganj,"Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,4790,4850,4820
+"Uttar Pradesh",Sultanpur,Jafarganj,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,4750,4850,4800
+"Uttar Pradesh",Sultanpur,Jafarganj,"Lentil (Masur)(Whole)","Kala Masoor New",05/01/2020,4800,4900,4850
+"Uttar Pradesh",Sultanpur,Jafarganj,"Lentil (Masur)(Whole)","Kala Masoor New",06/01/2020,4840,4900,4860
+"Uttar Pradesh",Sultanpur,Jafarganj,"Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,4850,4950,4900
+"Uttar Pradesh",Sultanpur,Jafarganj,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,4850,4950,4900
+"Uttar Pradesh",Sultanpur,Jafarganj,"Lentil (Masur)(Whole)","Kala Masoor New",09/01/2020,4900,5000,4950
+"Uttar Pradesh",Sultanpur,Jafarganj,"Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,4950,5050,5000
+"Uttar Pradesh",Sultanpur,Jafarganj,"Lentil (Masur)(Whole)","Kala Masoor New",11/01/2020,4950,5050,5000
+"Uttar Pradesh",Sultanpur,Jafarganj,"Lentil (Masur)(Whole)","Kala Masoor New",12/01/2020,5200,5300,5250
+"Uttar Pradesh",Sultanpur,Jafarganj,"Lentil (Masur)(Whole)","Kala Masoor New",13/01/2020,5150,5250,5200
+"Uttar Pradesh",Sultanpur,Jafarganj,"Lentil (Masur)(Whole)","Kala Masoor New",14/01/2020,5200,5300,5250
+"Uttar Pradesh",Sultanpur,Jafarganj,"Lentil (Masur)(Whole)","Kala Masoor New",15/01/2020,5250,5350,5300
+"Uttar Pradesh",Sultanpur,Sultanpur,"Lentil (Masur)(Whole)","Kala Masoor New",01/01/2020,5700,6000,5850
+"Uttar Pradesh",Sultanpur,Sultanpur,"Lentil (Masur)(Whole)","Kala Masoor New",03/01/2020,5700,6000,5850
+"Uttar Pradesh",Sultanpur,Sultanpur,"Lentil (Masur)(Whole)","Kala Masoor New",04/01/2020,5850,6200,6000
+"Uttar Pradesh",Sultanpur,Sultanpur,"Lentil (Masur)(Whole)","Kala Masoor New",05/01/2020,5900,6300,6100
+"Uttar Pradesh",Sultanpur,Sultanpur,"Lentil (Masur)(Whole)","Kala Masoor New",07/01/2020,6100,6500,6250
+"Uttar Pradesh",Sultanpur,Sultanpur,"Lentil (Masur)(Whole)","Kala Masoor New",08/01/2020,6150,6500,6300
+"Uttar Pradesh",Sultanpur,Sultanpur,"Lentil (Masur)(Whole)","Kala Masoor New",10/01/2020,6100,6400,6250
+"Uttar Pradesh",Sultanpur,Sultanpur,"Lentil (Masur)(Whole)","Kala Masoor New",11/01/2020,6100,6500,6350
+"Uttar Pradesh",Sultanpur,Sultanpur,"Lentil (Masur)(Whole)","Kala Masoor New",12/01/2020,6100,6500,6300
+"Uttar Pradesh",Varanasi,Varanasi(Grain),"Lentil (Masur)(Whole)","Masoor Gola",01/01/2020,5165,5245,5220
+"Uttar Pradesh",Varanasi,Varanasi(Grain),"Lentil (Masur)(Whole)","Masoor Gola",03/01/2020,5200,5290,5250
+"Uttar Pradesh",Varanasi,Varanasi(Grain),"Lentil (Masur)(Whole)","Masoor Gola",04/01/2020,5245,5325,5275
+"West Bengal",Burdwan,Asansol,"Lentil (Masur)(Whole)","Masur Dal",01/01/2020,6320,6480,6400
+"West Bengal",Burdwan,Asansol,"Lentil (Masur)(Whole)","Masur Dal",02/01/2020,6350,6500,6400
+"West Bengal",Burdwan,Asansol,"Lentil (Masur)(Whole)","Masur Dal",03/01/2020,6320,6500,6400
+"West Bengal",Burdwan,Asansol,"Lentil (Masur)(Whole)","Masur Dal",04/01/2020,6320,6500,6400
+"West Bengal",Burdwan,Asansol,"Lentil (Masur)(Whole)","Masur Dal",05/01/2020,6320,6500,6400
+"West Bengal",Burdwan,Asansol,"Lentil (Masur)(Whole)","Masur Dal",06/01/2020,6320,6500,6400
+"West Bengal",Burdwan,Asansol,"Lentil (Masur)(Whole)","Masur Dal",07/01/2020,6320,6500,6400
+"West Bengal",Burdwan,Asansol,"Lentil (Masur)(Whole)","Masur Dal",08/01/2020,6320,6500,6400
+"West Bengal",Burdwan,Asansol,"Lentil (Masur)(Whole)","Masur Dal",09/01/2020,6330,6500,6400
+"West Bengal",Burdwan,Asansol,"Lentil (Masur)(Whole)","Masur Dal",10/01/2020,6320,6500,6400
+"West Bengal",Burdwan,Asansol,"Lentil (Masur)(Whole)","Masur Dal",11/01/2020,6330,6520,6400
+"West Bengal",Burdwan,Asansol,"Lentil (Masur)(Whole)","Masur Dal",12/01/2020,6300,6520,6400
+"West Bengal",Burdwan,Asansol,"Lentil (Masur)(Whole)","Masur Dal",13/01/2020,6320,6500,6400
+"West Bengal",Burdwan,Asansol,"Lentil (Masur)(Whole)","Masur Dal",14/01/2020,6320,6500,6400
+"West Bengal",Burdwan,Asansol,"Lentil (Masur)(Whole)","Masur Dal",15/01/2020,6300,6500,6400
+"West Bengal",Burdwan,Durgapur,"Lentil (Masur)(Whole)",Other,01/01/2020,6320,6500,6400
+"West Bengal",Burdwan,Durgapur,"Lentil (Masur)(Whole)",Other,02/01/2020,6320,6500,6400
+"West Bengal",Burdwan,Durgapur,"Lentil (Masur)(Whole)",Other,03/01/2020,6320,6480,6400
+"West Bengal",Burdwan,Durgapur,"Lentil (Masur)(Whole)",Other,04/01/2020,6330,6500,6400
+"West Bengal",Burdwan,Durgapur,"Lentil (Masur)(Whole)",Other,05/01/2020,6320,6440,6400
+"West Bengal",Burdwan,Durgapur,"Lentil (Masur)(Whole)",Other,06/01/2020,6350,6480,6400
+"West Bengal",Burdwan,Durgapur,"Lentil (Masur)(Whole)",Other,07/01/2020,6320,6500,6400
+"West Bengal",Burdwan,Durgapur,"Lentil (Masur)(Whole)",Other,08/01/2020,6320,6500,6400
+"West Bengal",Burdwan,Durgapur,"Lentil (Masur)(Whole)",Other,09/01/2020,6350,6520,6400
+"West Bengal",Burdwan,Durgapur,"Lentil (Masur)(Whole)",Other,10/01/2020,6330,6500,6400
+"West Bengal",Burdwan,Durgapur,"Lentil (Masur)(Whole)",Other,11/01/2020,6320,6500,6400
+"West Bengal",Burdwan,Durgapur,"Lentil (Masur)(Whole)",Other,12/01/2020,6300,6500,6400
+"West Bengal",Burdwan,Durgapur,"Lentil (Masur)(Whole)",Other,13/01/2020,6320,6500,6400
+"West Bengal",Burdwan,Durgapur,"Lentil (Masur)(Whole)",Other,14/01/2020,6300,6500,6400
+"West Bengal",Burdwan,Durgapur,"Lentil (Masur)(Whole)",Other,15/01/2020,6300,6500,6400
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)","Masur Dal",03/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)","Masur Dal",06/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)","Masur Dal",07/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)","Masur Dal",09/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)","Masur Dal",10/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)","Masur Dal",11/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)","Masur Dal",13/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)","Masur Dal",14/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)","Masur Dal",15/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)",Other,03/01/2020,5200,5600,5400
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)",Other,06/01/2020,5200,5600,5400
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)",Other,07/01/2020,5200,5600,5400
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)",Other,09/01/2020,5200,5600,5400
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)",Other,10/01/2020,5200,5600,5400
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)",Other,11/01/2020,5200,5600,5400
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)",Other,13/01/2020,5100,5600,5400
+"West Bengal",Darjeeling,Siliguri,"Lentil (Masur)(Whole)",Other,14/01/2020,5100,5600,5400
+"West Bengal",Malda,"English Bazar","Lentil (Masur)(Whole)","Masur Dal",02/01/2020,8600,8900,8700
+"West Bengal",Malda,"English Bazar","Lentil (Masur)(Whole)","Masur Dal",03/01/2020,8400,8700,8600
+"West Bengal",Malda,"English Bazar","Lentil (Masur)(Whole)","Masur Dal",04/01/2020,8400,8700,8600
+"West Bengal",Malda,"English Bazar","Lentil (Masur)(Whole)","Masur Dal",05/01/2020,8400,8700,8500
+"West Bengal",Malda,"English Bazar","Lentil (Masur)(Whole)","Masur Dal",06/01/2020,8400,8600,8500
+"West Bengal",Malda,"English Bazar","Lentil (Masur)(Whole)","Masur Dal",08/01/2020,8400,8700,8500
+"West Bengal",Malda,"English Bazar","Lentil (Masur)(Whole)","Masur Dal",09/01/2020,8400,8700,8500
+"West Bengal",Malda,"English Bazar","Lentil (Masur)(Whole)","Masur Dal",10/01/2020,8500,8800,8700
+"West Bengal",Malda,"English Bazar","Lentil (Masur)(Whole)","Masur Dal",11/01/2020,8500,8800,8700
+"West Bengal",Malda,"English Bazar","Lentil (Masur)(Whole)","Masur Dal",12/01/2020,8400,8700,8500
+"West Bengal",Malda,"English Bazar","Lentil (Masur)(Whole)","Masur Dal",15/01/2020,8500,8800,8600
+"West Bengal",Medinipur(W),Medinipur(West),"Lentil (Masur)(Whole)","Masur Dal",07/01/2020,5500,6500,6000
+"West Bengal",Medinipur(W),Medinipur(West),"Lentil (Masur)(Whole)","Masur Dal",08/01/2020,9800,10200,10000
+"West Bengal",Medinipur(W),Medinipur(West),"Lentil (Masur)(Whole)","Masur Dal",09/01/2020,7800,8200,8000
+"West Bengal",Medinipur(W),Medinipur(West),"Lentil (Masur)(Whole)","Masur Dal",10/01/2020,7800,8200,8000
+"West Bengal",Medinipur(W),Medinipur(West),"Lentil (Masur)(Whole)","Masur Dal",13/01/2020,7800,8200,8000
+"West Bengal",Medinipur(W),Medinipur(West),"Lentil (Masur)(Whole)","Masur Dal",14/01/2020,7800,8200,8000
+"West Bengal",Medinipur(W),Medinipur(West),"Lentil (Masur)(Whole)","Masur Dal",15/01/2020,7800,8200,8000
+"West Bengal",Puruliya,Balarampur,"Lentil (Masur)(Whole)",Other,01/01/2020,5200,5240,5220
+"West Bengal",Puruliya,Balarampur,"Lentil (Masur)(Whole)",Other,02/01/2020,5230,5260,5240
+"West Bengal",Puruliya,Balarampur,"Lentil (Masur)(Whole)",Other,03/01/2020,5210,5240,5230
+"West Bengal",Puruliya,Balarampur,"Lentil (Masur)(Whole)",Other,04/01/2020,5240,5260,5250
+"West Bengal",Puruliya,Balarampur,"Lentil (Masur)(Whole)",Other,05/01/2020,5220,5240,5230
+"West Bengal",Puruliya,Balarampur,"Lentil (Masur)(Whole)",Other,06/01/2020,5240,5280,5260
+"West Bengal",Puruliya,Balarampur,"Lentil (Masur)(Whole)",Other,07/01/2020,5200,5240,5230
+"West Bengal",Puruliya,Balarampur,"Lentil (Masur)(Whole)",Other,08/01/2020,5240,5260,5250
+"West Bengal",Puruliya,Balarampur,"Lentil (Masur)(Whole)",Other,09/01/2020,5200,5230,5220
+"West Bengal",Puruliya,Balarampur,"Lentil (Masur)(Whole)",Other,13/01/2020,5250,5280,5260
+"West Bengal",Puruliya,Balarampur,"Lentil (Masur)(Whole)",Other,14/01/2020,5200,5250,5230
+"West Bengal",Puruliya,Balarampur,"Lentil (Masur)(Whole)",Other,15/01/2020,5240,5270,5260
+"West Bengal",Puruliya,Balarampur,"Lentil (Masur)(Whole)",Other,16/01/2020,5200,5230,5220
+"West Bengal",Puruliya,Kasipur,"Lentil (Masur)(Whole)",Other,05/01/2020,5300,5400,5350
+"West Bengal",Puruliya,Kasipur,"Lentil (Masur)(Whole)",Other,06/01/2020,5250,5350,5300
+"West Bengal",Puruliya,Kasipur,"Lentil (Masur)(Whole)",Other,07/01/2020,5400,5500,5450
+"West Bengal",Puruliya,Kasipur,"Lentil (Masur)(Whole)",Other,08/01/2020,5400,5500,5450
+"West Bengal",Puruliya,Kasipur,"Lentil (Masur)(Whole)",Other,09/01/2020,5260,5320,5300
+"West Bengal",Puruliya,Kasipur,"Lentil (Masur)(Whole)",Other,11/01/2020,5270,5320,5300
+"West Bengal",Puruliya,Kasipur,"Lentil (Masur)(Whole)",Other,12/01/2020,5250,5300,5270
+"West Bengal",Puruliya,Kasipur,"Lentil (Masur)(Whole)",Other,13/01/2020,5240,5300,5260
+"West Bengal",Puruliya,Kasipur,"Lentil (Masur)(Whole)",Other,14/01/2020,5250,5350,5300
+"West Bengal",Puruliya,Kasipur,"Lentil (Masur)(Whole)",Other,15/01/2020,5250,5350,5300

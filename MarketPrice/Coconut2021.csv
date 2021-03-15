@@ -1,0 +1,2532 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Goa,"North Goa",Mapusa,Coconut,Coconut,01/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,02/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,03/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,04/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,05/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,06/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,07/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,08/01/2021,1000,1600,1450
+Goa,"North Goa",Mapusa,Coconut,Coconut,09/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,10/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,11/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,12/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,13/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,14/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,15/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,16/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,17/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,18/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,19/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,20/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,21/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,22/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,23/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,24/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,25/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,26/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,27/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,28/01/2021,1000,1600,1300
+Goa,"North Goa",Mapusa,Coconut,Coconut,29/01/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,30/01/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,31/01/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,01/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,02/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,03/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,04/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,05/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,06/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,08/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,09/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,10/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,11/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,12/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,13/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,14/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,15/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,17/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,18/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,19/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,20/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,21/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,22/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,23/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,24/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,26/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,27/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,28/02/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,01/03/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,02/03/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,03/03/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,04/03/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,05/03/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,06/03/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,07/03/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,08/03/2021,1200,1800,1500
+Goa,"North Goa",Mapusa,Coconut,Coconut,09/03/2021,1200,1800,1500
+Goa,"North Goa",Pernem,Coconut,Coconut,25/01/2021,1000,1600,1300
+Goa,"North Goa",Pernem,Coconut,Coconut,12/02/2021,1200,1800,1500
+Goa,"North Goa",Pernem,Coconut,Coconut,13/02/2021,1200,1800,1500
+Goa,"North Goa",Pernem,Coconut,Coconut,03/03/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,04/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,05/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,08/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,11/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,12/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,13/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,14/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,15/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,18/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,19/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,20/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,21/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,22/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,23/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,25/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,27/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,29/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,30/01/2021,1000,1600,1300
+Goa,"North Goa",Ponda,Coconut,Coconut,05/02/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,06/02/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,08/02/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,09/02/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,11/02/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,12/02/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,16/02/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,17/02/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,18/02/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,19/02/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,20/02/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,24/02/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,25/02/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,04/03/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,06/03/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,08/03/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,09/03/2021,1200,1800,1500
+Goa,"North Goa",Ponda,Coconut,Coconut,10/03/2021,1200,1800,1500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,01/01/2021,15000,30000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,02/01/2021,15000,30000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,04/01/2021,15000,30000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,05/01/2021,15000,30000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,06/01/2021,15000,30000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,07/01/2021,15000,30000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,08/01/2021,15000,30000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,11/01/2021,15000,30000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,12/01/2021,15000,30000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,13/01/2021,25000,30000,27500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,15/01/2021,25000,30000,27500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,16/01/2021,25000,30000,27500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,18/01/2021,25000,30000,27500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,19/01/2021,20000,30000,25000
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,20/01/2021,20000,30000,25000
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,21/01/2021,20000,30000,25000
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,22/01/2021,20000,30000,25000
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,25/01/2021,20000,30000,25000
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,27/01/2021,20000,30000,25000
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,28/01/2021,20000,30000,25000
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,29/01/2021,20000,30000,25000
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,30/01/2021,20000,30000,25000
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,01/02/2021,15000,30000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,02/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,03/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,04/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,05/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,06/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,08/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,09/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,10/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,11/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,12/02/2021,10000,15000,12250
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,15/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,16/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,17/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,18/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,19/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,20/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,22/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,23/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,24/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,25/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,26/02/2021,10000,15000,12500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,01/03/2021,20000,25000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,02/03/2021,20000,25000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,03/03/2021,20000,25000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,04/03/2021,20000,25000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,05/03/2021,20000,25000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,06/03/2021,20000,25000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,08/03/2021,20000,25000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,09/03/2021,20000,25000,22500
+Karnataka,Bangalore,Bangalore,Coconut,Grade-I,10/03/2021,20000,25000,22500
+Karnataka,Bangalore,Channapatana,Coconut,Grade-I,05/01/2021,12000,19000,16000
+Karnataka,Bangalore,"Doddaballa Pur",Coconut,Grade-I,02/01/2021,14000,20000,17500
+Karnataka,Bangalore,"Doddaballa Pur",Coconut,Grade-I,16/01/2021,10000,20000,18000
+Karnataka,Bangalore,"Doddaballa Pur",Coconut,Grade-I,19/01/2021,10000,20000,18000
+Karnataka,Bangalore,"Doddaballa Pur",Coconut,Grade-I,20/01/2021,10000,20000,18000
+Karnataka,Bangalore,"Doddaballa Pur",Coconut,Grade-I,21/01/2021,10000,20000,18000
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,01/01/2021,11000,21400,17000
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,03/01/2021,12000,20000,16100
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,04/01/2021,12100,22200,16400
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,05/01/2021,11200,21400,16200
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,06/01/2021,11500,21500,17000
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,07/01/2021,11500,21500,17000
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,08/01/2021,12000,21200,16200
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,09/01/2021,11000,19800,14800
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,11/01/2021,10400,20200,15100
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,12/01/2021,10800,21000,15500
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,18/01/2021,9800,20400,15400
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,19/01/2021,10200,20400,15100
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,20/01/2021,11000,21200,16000
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,21/01/2021,10000,20400,15100
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,22/01/2021,10400,19800,15200
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,25/01/2021,10400,20800,15500
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,26/01/2021,10400,20400,15100
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,27/01/2021,10800,19800,14900
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,28/01/2021,9800,20200,15000
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,29/01/2021,10200,19800,15200
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,30/01/2021,10200,20800,15200
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,01/02/2021,9400,20400,15200
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,02/02/2021,10200,20400,15600
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,03/02/2021,10800,21000,15600
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,04/02/2021,10000,20600,15100
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,05/02/2021,9900,20500,15400
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,08/02/2021,10200,21000,15200
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,09/02/2021,10600,20800,15400
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,10/02/2021,1100,21200,15800
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,11/02/2021,10200,20800,15300
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,12/02/2021,10200,20600,15800
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,13/02/2021,9800,20200,15100
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,15/02/2021,10200,21000,15600
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,16/02/2021,9000,19800,14800
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,17/02/2021,9000,19900,14800
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,18/02/2021,10200,20600,15500
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,19/02/2021,10000,21200,15800
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,20/02/2021,9800,20600,15500
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,22/02/2021,9000,21000,16200
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,23/02/2021,9200,20800,15200
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,25/02/2021,9200,20300,15200
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,26/02/2021,9000,20400,15300
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,27/02/2021,10200,21000,15800
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,01/03/2021,9600,20400,15200
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,02/03/2021,9000,21000,15400
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,03/03/2021,9200,20800,15400
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,04/03/2021,10200,20400,15200
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,05/03/2021,9000,20800,15500
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,06/03/2021,9400,20400,15000
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,08/03/2021,9500,20600,16000
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,09/03/2021,9800,22000,16500
+Karnataka,Bangalore,Ramanagara,Coconut,Grade-I,10/03/2021,10000,22000,16400
+Karnataka,Belgaum,Soundati,Coconut,"Grade- II",15/02/2021,5519,6573,5932
+Karnataka,Chikmagalur,Kadur,Coconut,Grade-I,06/01/2021,10000,10000,10000
+Karnataka,Chikmagalur,Kadur,Coconut,Grade-I,08/01/2021,10000,10000,10000
+Karnataka,Chikmagalur,Kadur,Coconut,Grade-I,12/01/2021,12000,12000,12000
+Karnataka,Chikmagalur,Kadur,Coconut,Grade-I,15/01/2021,10000,10000,10000
+Karnataka,Chikmagalur,Kadur,Coconut,Grade-I,16/01/2021,13000,13000,13000
+Karnataka,Chikmagalur,Kadur,Coconut,Grade-I,28/01/2021,15000,16000,15000
+Karnataka,Chikmagalur,Kadur,Coconut,Grade-I,05/02/2021,11000,11000,11000
+Karnataka,Chikmagalur,Kadur,Coconut,Grade-I,16/02/2021,18000,18000,18000
+Karnataka,Chikmagalur,Kadur,Coconut,Grade-I,18/02/2021,10000,10000,10000
+Karnataka,Chikmagalur,Kadur,Coconut,Grade-I,25/02/2021,15500,15500,15500
+Karnataka,Chikmagalur,Kadur,Coconut,Grade-I,26/02/2021,19000,19000,19000
+Karnataka,Chikmagalur,Tarikere,Coconut,Grade-I,01/01/2021,14000,20000,15619
+Karnataka,Chikmagalur,Tarikere,Coconut,Grade-I,02/01/2021,14980,14980,14980
+Karnataka,Chikmagalur,Tarikere,Coconut,Grade-I,05/01/2021,14840,14840,14840
+Karnataka,Chikmagalur,Tarikere,Coconut,Grade-I,07/01/2021,14000,14000,14000
+Karnataka,Chikmagalur,Tarikere,Coconut,Grade-I,08/01/2021,15520,20000,18684
+Karnataka,Chikmagalur,Tarikere,Coconut,Grade-I,11/01/2021,16000,16000,16000
+Karnataka,Chikmagalur,Tarikere,Coconut,Grade-I,12/01/2021,15300,15300,15300
+Karnataka,Chikmagalur,Tarikere,Coconut,Grade-I,13/01/2021,13950,13950,13950
+Karnataka,Chikmagalur,Tarikere,Coconut,Grade-I,19/01/2021,13000,18333,15978
+Karnataka,Chikmagalur,Tarikere,Coconut,Grade-I,01/02/2021,15000,16000,15172
+Karnataka,Chikmagalur,Tarikere,Coconut,Grade-I,02/02/2021,16333,19546,17251
+Karnataka,Chikmagalur,Tarikere,Coconut,Grade-I,09/02/2021,18000,18000,18000
+Karnataka,Chikmagalur,Tarikere,Coconut,Grade-I,15/02/2021,16750,20000,16977
+Karnataka,Davangere,Davangere,Coconut,Grade-I,11/01/2021,8500,15000,12000
+Karnataka,Davangere,Davangere,Coconut,Grade-I,12/01/2021,7000,7000,7000
+Karnataka,Davangere,Davangere,Coconut,Grade-I,15/01/2021,14000,14000,14000
+Karnataka,Davangere,Davangere,Coconut,Grade-I,27/01/2021,7000,7000,7000
+Karnataka,Davangere,Davangere,Coconut,Grade-I,28/01/2021,17000,17000,17000
+Karnataka,Davangere,Davangere,Coconut,Grade-I,01/03/2021,16000,20000,18000
+Karnataka,Davangere,Harihara,Coconut,Grade-I,04/01/2021,10000,10000,10000
+Karnataka,Davangere,Harihara,Coconut,Grade-I,12/01/2021,10000,10000,10000
+Karnataka,Davangere,Harihara,Coconut,Grade-I,18/01/2021,10000,10000,10000
+Karnataka,Davangere,Harihara,Coconut,Grade-I,25/01/2021,10000,10000,10000
+Karnataka,Davangere,Harihara,Coconut,Grade-I,27/01/2021,10000,10000,10000
+Karnataka,Davangere,Harihara,Coconut,Grade-I,03/02/2021,10000,10000,10000
+Karnataka,Davangere,Harihara,Coconut,Grade-I,04/02/2021,10000,10000,10000
+Karnataka,Davangere,Harihara,Coconut,Grade-I,12/02/2021,10000,10000,10000
+Karnataka,Davangere,Harihara,Coconut,Grade-I,19/02/2021,10000,10000,10000
+Karnataka,Davangere,Harihara,Coconut,Grade-I,25/02/2021,10000,10000,10000
+Karnataka,Davangere,Harihara,Coconut,Grade-I,05/03/2021,10000,10000,10000
+Karnataka,Davangere,Harihara,Coconut,Grade-I,08/03/2021,10000,10000,10000
+Karnataka,Hassan,Arakalgud,Coconut,"Grade- II",18/02/2021,17000,17000,17000
+Karnataka,Hassan,Arakalgud,Coconut,Grade-I,01/01/2021,15000,18000,17000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,01/01/2021,10000,12000,11000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,02/01/2021,19000,19000,19000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,05/01/2021,14000,14000,14000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,08/01/2021,11000,12500,11000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,13/01/2021,20000,20000,20000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,15/01/2021,10000,19500,13000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,16/01/2021,10000,14000,11000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,20/01/2021,18000,18000,18000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,22/01/2021,10000,11000,10000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,27/01/2021,15000,15000,15000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,29/01/2021,10000,10000,10000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,30/01/2021,15000,15000,15000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,01/02/2021,17000,17000,17000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,02/02/2021,14280,14280,14280
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,05/02/2021,10000,15000,13000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,06/02/2021,15000,18000,15000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,11/02/2021,14280,14280,14280
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,12/02/2021,10000,16000,12000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,16/02/2021,17000,17000,17000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,18/02/2021,16000,16000,16000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,19/02/2021,10000,10000,10000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,26/02/2021,10000,10000,10000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,03/03/2021,16000,16000,16000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,04/03/2021,14280,14280,14280
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,05/03/2021,10000,20000,11000
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,08/03/2021,13430,13430,13430
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",01/01/2021,10000,10000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",02/01/2021,10000,14000,13000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",03/01/2021,10000,11000,11000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",05/01/2021,10000,13000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",06/01/2021,12000,12000,12000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",09/01/2021,10000,21000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",10/01/2021,10000,12000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",11/01/2021,10000,10000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",12/01/2021,10000,14000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",13/01/2021,12000,12000,12000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",14/01/2021,10000,10000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",16/01/2021,10000,16000,16000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",17/01/2021,10000,12000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",19/01/2021,10000,12000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",23/01/2021,10000,19500,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",24/01/2021,10000,22000,22000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",26/01/2021,10000,14000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",30/01/2021,10000,16000,12000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",01/02/2021,10000,13000,13000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",02/02/2021,10000,14000,14000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",06/02/2021,10000,20000,15000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",07/02/2021,10000,10000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",09/02/2021,10000,14000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",12/02/2021,10000,10000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",13/02/2021,10000,15000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",14/02/2021,10000,10000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",16/02/2021,10000,12000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",17/02/2021,10000,10000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",18/02/2021,10000,10000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",19/02/2021,11000,11000,11000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",20/02/2021,10000,14500,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",21/02/2021,10000,20000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",23/02/2021,10000,14000,14000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",27/02/2021,10000,15000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",28/02/2021,10000,10000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",02/03/2021,10000,14000,14000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",06/03/2021,10000,15000,10000
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",09/03/2021,10000,14000,10000
+Karnataka,Hassan,Hassan,Coconut,Other,05/01/2021,10000,10000,10000
+Karnataka,Hassan,Hassan,Coconut,Other,30/01/2021,37000,37000,37000
+Karnataka,Hassan,Hassan,Coconut,Other,26/02/2021,36000,36000,36000
+Karnataka,Hassan,Hassan,Coconut,Other,02/03/2021,14000,14000,14000
+Karnataka,Haveri,Hirekerur,Coconut,Grade-I,29/01/2021,1400,1700,1600
+Karnataka,Haveri,Ranebennur,Coconut,Other,08/02/2021,9000,13000,12000
+Karnataka,Haveri,Ranebennur,Coconut,Other,21/02/2021,12000,16000,13000
+Karnataka,Haveri,Ranebennur,Coconut,Other,28/02/2021,15000,18000,17000
+Karnataka,Haveri,Ranebennur,Coconut,Other,07/03/2021,10000,18000,15000
+Karnataka,"Karwar(Uttar Kannad)",Kumta,Coconut,Grade-I,07/01/2021,10000,26430,23630
+Karnataka,"Karwar(Uttar Kannad)",Kumta,Coconut,Grade-I,21/01/2021,26100,26106,26106
+Karnataka,"Karwar(Uttar Kannad)",Kumta,Coconut,Grade-I,28/01/2021,26173,26173,26173
+Karnataka,"Karwar(Uttar Kannad)",Kumta,Coconut,Grade-I,04/02/2021,19130,26730,25600
+Karnataka,"Karwar(Uttar Kannad)",Kumta,Coconut,Grade-I,11/02/2021,26660,27330,26830
+Karnataka,"Karwar(Uttar Kannad)",Kumta,Coconut,Grade-I,18/02/2021,24660,27000,25660
+Karnataka,"Karwar(Uttar Kannad)",Kumta,Coconut,Grade-I,19/02/2021,15000,15000,15000
+Karnataka,"Karwar(Uttar Kannad)",Kumta,Coconut,Grade-I,25/02/2021,20000,27330,25600
+Karnataka,"Karwar(Uttar Kannad)",Kumta,Coconut,Grade-I,04/03/2021,17000,27440,27000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,02/01/2021,8000,16000,13000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,06/01/2021,8000,18000,13000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,09/01/2021,8000,18000,13000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,13/01/2021,8000,18000,13000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,16/01/2021,8000,18000,13000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,20/01/2021,8000,18000,13000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,23/01/2021,8000,18000,13000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,30/01/2021,8000,20000,15000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,03/02/2021,8000,19000,13000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,06/02/2021,8000,18000,13000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,10/02/2021,8000,19000,13000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,13/02/2021,8000,18000,13000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,17/02/2021,8000,20000,13000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,20/02/2021,8000,19000,13000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,27/02/2021,8000,19000,12000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,03/03/2021,8000,20000,13000
+Karnataka,Kolar,Chickkaballapura,Coconut,Grade-I,10/03/2021,8000,20000,14000
+Karnataka,Kolar,Chintamani,Coconut,Grade-I,22/02/2021,1500,2100,1800
+Karnataka,Kolar,Kolar,Coconut,Grade-I,08/01/2021,17000,23000,21000
+Karnataka,Kolar,Kolar,Coconut,Grade-I,22/01/2021,18000,22000,20000
+Karnataka,Kolar,Kolar,Coconut,Grade-I,29/01/2021,18000,22000,20000
+Karnataka,Kolar,Kolar,Coconut,Grade-I,04/02/2021,18000,22000,20000
+Karnataka,Kolar,Kolar,Coconut,Grade-I,12/02/2021,20000,25000,22000
+Karnataka,Kolar,Kolar,Coconut,Grade-I,05/03/2021,20000,24000,22000
+Karnataka,Kolar,Malur,Coconut,Grade-I,30/01/2021,15000,20000,16000
+Karnataka,Kolar,Malur,Coconut,Grade-I,15/02/2021,18000,22000,20000
+Karnataka,Kolar,Malur,Coconut,Grade-III,18/02/2021,10000,20000,15000
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,04/01/2021,20000,20000,20000
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,08/01/2021,14000,21000,15000
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,11/01/2021,14000,15000,14000
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,15/01/2021,15000,21000,15000
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,18/01/2021,15000,15000,15000
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,22/01/2021,15000,21000,15000
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,25/01/2021,21000,21000,21000
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,29/01/2021,14000,21000,14000
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,05/02/2021,14000,21000,14000
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,08/02/2021,14000,21000,21000
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,09/02/2021,15000,15000,15000
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,12/02/2021,14000,14000,14000
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,15/02/2021,21000,21000,21000
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,22/02/2021,15000,15000,15000
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,05/03/2021,14000,14000,14000
+Karnataka,Mandya,"K.R. Pet",Coconut,Other,11/01/2021,14000,15000,14000
+Karnataka,Mandya,Maddur,Coconut,Grade-I,12/01/2021,12000,16000,15000
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,01/01/2021,19500,19500,19500
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,08/01/2021,19500,19500,19500
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,14/01/2021,15000,15000,15000
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,22/01/2021,19500,19500,19500
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,05/02/2021,19500,19500,19500
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,12/02/2021,19500,19500,19500
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,19/02/2021,19500,19500,19500
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,26/02/2021,15500,19500,19500
+Karnataka,Mandya,Pandavapura,Coconut,Grade-I,07/01/2021,14000,18000,15000
+Karnataka,Mandya,Pandavapura,Coconut,Grade-I,14/01/2021,12000,15000,14000
+Karnataka,Mandya,Pandavapura,Coconut,Grade-I,21/01/2021,15000,15000,15000
+Karnataka,Mandya,Pandavapura,Coconut,Grade-I,28/01/2021,15000,18000,16000
+Karnataka,Mandya,Pandavapura,Coconut,Grade-I,04/02/2021,15000,18000,16000
+Karnataka,Mandya,Pandavapura,Coconut,Grade-I,11/02/2021,18000,22000,20000
+Karnataka,Mandya,Pandavapura,Coconut,Grade-I,18/02/2021,20000,20000,20000
+Karnataka,Mandya,Pandavapura,Coconut,Grade-I,25/02/2021,20000,20000,20000
+Karnataka,Mandya,Pandavapura,Coconut,Grade-I,04/03/2021,20000,20000,20000
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Grade-III,06/01/2021,8000,16000,11000
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Grade-III,16/01/2021,8000,16000,11000
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Grade-III,25/01/2021,8000,16000,11000
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Grade-III,27/01/2021,8000,16000,11000
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Grade-III,23/02/2021,8000,16000,11000
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Big,11/01/2021,16000,17000,16500
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Big,13/01/2021,17000,18000,17500
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Big,02/02/2021,17000,18000,17500
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Big,04/02/2021,16000,18000,17000
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Big,10/02/2021,17000,18000,17500
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Big,22/02/2021,18000,22000,20000
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Big,25/02/2021,17000,18000,17500
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Big,01/03/2021,10000,18000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Big,04/03/2021,10000,18000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Big,08/03/2021,10000,18000,14000
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Big,01/01/2021,27000,33000,29000
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Big,02/01/2021,27000,33000,29000
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Big,04/01/2021,27000,33000,29000
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Big,05/01/2021,27000,33000,29000
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Big,06/01/2021,27000,33000,29000
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Big,07/01/2021,27000,33000,29000
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Big,15/01/2021,28000,33000,30000
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,01/01/2021,19000,27000,22500
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,02/01/2021,19000,27000,22500
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,04/01/2021,19000,27000,22500
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,05/01/2021,19000,27000,22500
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,06/01/2021,19000,27000,22500
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,07/01/2021,19000,27000,22500
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,15/01/2021,20000,27000,24000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,11/01/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,15/01/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,16/01/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,18/01/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,19/01/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,20/01/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,21/01/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,25/01/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,27/01/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,28/01/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,29/01/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,06/02/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,10/02/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,15/02/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,17/02/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,25/02/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,26/02/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,02/03/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,03/03/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,04/03/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,05/03/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,06/03/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,08/03/2021,10000,20000,15000
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Medium,06/01/2021,7000,16000,14000
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Medium,07/01/2021,6000,16000,10000
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Medium,16/01/2021,7000,16000,14000
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Medium,06/02/2021,7000,16000,14000
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Medium,09/02/2021,7000,16000,10000
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Medium,22/02/2021,8000,18000,14000
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Medium,05/03/2021,7000,18000,14000
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Medium,10/03/2021,7000,18000,11000
+Karnataka,Mysore,Hunsur,Coconut,Grade-I,04/01/2021,12000,12000,12000
+Karnataka,Shimoga,Bhadravathi,Coconut,Grade-I,30/01/2021,12500,12500,12500
+Karnataka,Shimoga,Bhadravathi,Coconut,Grade-III,10/02/2021,12000,12370,12100
+Karnataka,Shimoga,Shimoga,Coconut,Grade-I,30/01/2021,10000,20000,18000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,04/01/2021,16000,16000,16000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,05/01/2021,24000,24000,24000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,06/01/2021,23000,24000,23000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,07/01/2021,10000,10000,10000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,11/01/2021,13000,14000,13000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,15/01/2021,24000,24000,24000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,18/01/2021,16000,16000,16000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,25/01/2021,14000,14000,14000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,29/01/2021,10000,10000,10000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,01/02/2021,16000,16000,16000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,08/02/2021,15000,16000,15000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,15/02/2021,15000,15000,15000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,22/02/2021,10000,14000,14000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,01/03/2021,14000,15000,14000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,02/03/2021,12000,13000,13000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,03/03/2021,10000,10000,10000
+Karnataka,Tumkur,Gubbi,Coconut,Grade-I,08/03/2021,10000,14000,14000
+Karnataka,Tumkur,Gubbi,Coconut,Imported,25/01/2021,8000,10000,8000
+Karnataka,Tumkur,Gubbi,Coconut,Imported,01/02/2021,10000,10000,10000
+Karnataka,Tumkur,Gubbi,Coconut,Imported,15/02/2021,10000,10000,10000
+Karnataka,Tumkur,Huliyar,Coconut,Grade-I,01/01/2021,14,14,14
+Karnataka,Tumkur,Huliyar,Coconut,Grade-I,08/01/2021,12,12,12
+Karnataka,Tumkur,Huliyar,Coconut,Grade-I,04/03/2021,15,15,15
+Karnataka,Tumkur,Sira,Coconut,Grade-III,01/01/2021,10000,22000,16307
+Karnataka,Tumkur,Sira,Coconut,Grade-III,04/01/2021,10000,22000,17607
+Karnataka,Tumkur,Sira,Coconut,Grade-III,06/01/2021,10000,22000,18687
+Karnataka,Tumkur,Sira,Coconut,Grade-III,08/01/2021,10000,21000,18214
+Karnataka,Tumkur,Sira,Coconut,Grade-III,11/01/2021,10000,21000,17210
+Karnataka,Tumkur,Sira,Coconut,Grade-III,12/01/2021,10000,20000,14828
+Karnataka,Tumkur,Sira,Coconut,Grade-III,13/01/2021,10000,21000,18625
+Karnataka,Tumkur,Sira,Coconut,Grade-III,15/01/2021,10000,21000,13928
+Karnataka,Tumkur,Sira,Coconut,Grade-III,18/01/2021,10000,21000,17285
+Karnataka,Tumkur,Sira,Coconut,Grade-III,22/01/2021,10000,21000,18385
+Karnataka,Tumkur,Sira,Coconut,Grade-III,25/01/2021,10000,21000,16857
+Karnataka,Tumkur,Sira,Coconut,Grade-III,27/01/2021,10000,20000,15375
+Karnataka,Tumkur,Sira,Coconut,Grade-III,29/01/2021,10000,21000,18000
+Karnataka,Tumkur,Sira,Coconut,Grade-III,01/02/2021,10000,22000,19454
+Karnataka,Tumkur,Sira,Coconut,Grade-III,03/02/2021,10000,21000,17846
+Karnataka,Tumkur,Sira,Coconut,Grade-III,08/02/2021,10000,22000,18666
+Karnataka,Tumkur,Sira,Coconut,Grade-III,10/02/2021,10000,20000,16600
+Karnataka,Tumkur,Sira,Coconut,Grade-III,12/02/2021,10000,21000,18105
+Karnataka,Tumkur,Sira,Coconut,Grade-III,15/02/2021,10000,21000,18153
+Karnataka,Tumkur,Sira,Coconut,Grade-III,22/02/2021,10000,22000,19142
+Karnataka,Tumkur,Sira,Coconut,Grade-III,24/02/2021,10000,20000,13351
+Karnataka,Tumkur,Sira,Coconut,Grade-III,01/03/2021,10000,22000,19428
+Karnataka,Tumkur,Sira,Coconut,Grade-III,03/03/2021,10000,20000,16040
+Karnataka,Tumkur,Sira,Coconut,Grade-III,05/03/2021,10000,20000,16700
+Karnataka,Tumkur,Sira,Coconut,Grade-III,08/03/2021,10000,21000,18000
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,01/01/2021,12000,22400,15200
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,02/01/2021,11500,22000,14500
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,04/01/2021,12500,21500,14000
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,06/01/2021,11000,21800,14500
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,11/01/2021,8500,21500,14000
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,12/01/2021,10800,22500,14500
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,14/01/2021,10500,22500,14500
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,18/01/2021,12000,23000,14500
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,19/01/2021,11500,22000,14000
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,20/01/2021,11000,22000,14500
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,21/01/2021,10500,21000,14500
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,22/01/2021,10000,21000,14000
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,25/01/2021,10000,22500,14500
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,27/01/2021,11000,23000,15300
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,03/02/2021,11000,24000,14200
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,05/02/2021,11500,22800,14500
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,08/02/2021,12000,24000,14500
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,09/02/2021,12000,24500,15600
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,11/02/2021,11500,24200,14500
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,26/02/2021,10500,24500,14500
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,02/03/2021,11000,24000,16500
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,03/03/2021,12000,24200,16500
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,06/03/2021,10000,24200,16500
+Karnataka,Tumkur,Tumkur,Coconut,Grade-I,08/01/2021,11000,21000,14500
+Karnataka,Tumkur,Tumkur,Coconut,Grade-I,29/01/2021,11500,23800,14300
+Karnataka,Tumkur,Tumkur,Coconut,Grade-I,18/02/2021,11000,24000,15500
+Karnataka,Tumkur,Tumkur,Coconut,Grade-I,25/02/2021,10500,24000,14500
+Karnataka,Udupi,Kundapura,Coconut,"Grade- II",02/01/2021,20000,20000,20000
+Karnataka,Udupi,Kundapura,Coconut,"Grade- II",09/01/2021,20000,20000,20000
+Karnataka,Udupi,Kundapura,Coconut,"Grade- II",16/01/2021,14000,20000,20000
+Karnataka,Udupi,Kundapura,Coconut,"Grade- II",30/01/2021,14000,20000,14000
+Karnataka,Udupi,Kundapura,Coconut,"Grade- II",06/02/2021,15000,20000,20000
+Karnataka,Udupi,Kundapura,Coconut,"Grade- II",13/02/2021,20000,20000,20000
+Karnataka,Udupi,Kundapura,Coconut,"Grade- II",06/03/2021,15000,18800,15000
+Karnataka,Udupi,Kundapura,Coconut,Grade-III,16/01/2021,13000,13000,13000
+Karnataka,Udupi,Kundapura,Coconut,Grade-III,30/01/2021,10000,11133,11133
+Karnataka,Udupi,Kundapura,Coconut,Grade-III,06/02/2021,13000,14000,14000
+Karnataka,Udupi,Kundapura,Coconut,Grade-III,13/02/2021,15000,15000,15000
+Karnataka,Udupi,Kundapura,Coconut,Grade-III,06/03/2021,13000,13500,13500
+Karnataka,Udupi,Kundapura,Coconut,Imported,09/01/2021,10000,10000,10000
+Karnataka,Udupi,Kundapura,Coconut,Imported,16/01/2021,10425,10425,10425
+Karnataka,Udupi,Kundapura,Coconut,Imported,13/02/2021,10450,10450,10450
+Karnataka,Udupi,Udupi,Coconut,Medium,06/01/2021,12000,15000,14000
+Karnataka,Udupi,Udupi,Coconut,Medium,13/01/2021,12000,15000,14000
+Karnataka,Udupi,Udupi,Coconut,Medium,20/01/2021,12000,15000,15000
+Karnataka,Udupi,Udupi,Coconut,Medium,27/01/2021,12000,15000,14000
+Karnataka,Udupi,Udupi,Coconut,Medium,03/02/2021,13000,14000,14000
+Karnataka,Udupi,Udupi,Coconut,Medium,10/02/2021,12000,15000,14000
+Karnataka,Udupi,Udupi,Coconut,Medium,17/02/2021,12000,15000,14000
+Karnataka,Udupi,Udupi,Coconut,Medium,24/02/2021,12000,15000,14000
+Karnataka,Udupi,Udupi,Coconut,Medium,03/03/2021,12000,15000,14000
+Kerala,Alappuzha,Aroor,Coconut,Other,08/01/2021,4900,5100,5000
+Kerala,Alappuzha,Aroor,Coconut,Other,09/01/2021,4800,5000,4900
+Kerala,Alappuzha,Aroor,Coconut,Other,11/01/2021,3800,4000,3900
+Kerala,Alappuzha,Aroor,Coconut,Other,12/01/2021,4000,4200,4100
+Kerala,Alappuzha,Aroor,Coconut,Other,15/01/2021,3800,4000,3900
+Kerala,Alappuzha,Aroor,Coconut,Other,16/01/2021,4800,5000,4900
+Kerala,Alappuzha,Aroor,Coconut,Other,19/01/2021,4600,4800,4700
+Kerala,Alappuzha,Aroor,Coconut,Other,21/01/2021,4800,5000,4900
+Kerala,Alappuzha,Aroor,Coconut,Other,23/01/2021,4200,4400,4300
+Kerala,Alappuzha,Aroor,Coconut,Other,26/01/2021,4000,4200,4100
+Kerala,Alappuzha,Aroor,Coconut,Other,27/01/2021,3800,4000,3900
+Kerala,Alappuzha,Aroor,Coconut,Other,28/01/2021,4000,4200,4100
+Kerala,Alappuzha,Aroor,Coconut,Other,29/01/2021,4000,4300,4100
+Kerala,Alappuzha,Aroor,Coconut,Other,30/01/2021,3900,4100,4000
+Kerala,Alappuzha,Aroor,Coconut,Other,04/02/2021,4000,4200,4100
+Kerala,Alappuzha,Aroor,Coconut,Other,06/02/2021,4000,4200,4100
+Kerala,Alappuzha,Aroor,Coconut,Other,08/02/2021,4000,4200,4100
+Kerala,Alappuzha,Aroor,Coconut,Other,09/02/2021,3900,4100,4000
+Kerala,Alappuzha,Aroor,Coconut,Other,12/02/2021,4000,4200,4100
+Kerala,Alappuzha,Aroor,Coconut,Other,16/02/2021,4100,4300,4200
+Kerala,Alappuzha,Aroor,Coconut,Other,17/02/2021,4600,4800,4700
+Kerala,Alappuzha,Aroor,Coconut,Other,18/02/2021,4000,4200,4100
+Kerala,Alappuzha,Aroor,Coconut,Other,19/02/2021,4000,4200,4100
+Kerala,Alappuzha,Aroor,Coconut,Other,23/02/2021,3900,4100,4000
+Kerala,Alappuzha,Aroor,Coconut,Other,26/02/2021,4300,4600,4500
+Kerala,Alappuzha,Aroor,Coconut,Other,01/03/2021,4000,4200,4100
+Kerala,Alappuzha,Aroor,Coconut,Other,04/03/2021,4000,4200,4100
+Kerala,Alappuzha,Aroor,Coconut,Other,05/03/2021,3800,4000,3900
+Kerala,Alappuzha,Aroor,Coconut,Other,08/03/2021,3600,3800,3700
+Kerala,Alappuzha,Aroor,Coconut,Other,10/03/2021,3800,4000,3900
+Kerala,Alappuzha,Aroor,Coconut,Other,11/03/2021,3600,3800,3700
+Kerala,Ernakulam,Keezhampara,Coconut,Big,05/02/2021,5000,5400,5100
+Kerala,Ernakulam,Keezhampara,Coconut,Big,08/02/2021,5100,5100,5100
+Kerala,Ernakulam,Keezhampara,Coconut,Big,09/02/2021,4700,4900,4800
+Kerala,Ernakulam,Keezhampara,Coconut,Big,10/02/2021,4700,5000,4800
+Kerala,Ernakulam,Keezhampara,Coconut,Big,11/02/2021,4800,5000,4900
+Kerala,Ernakulam,Keezhampara,Coconut,Big,15/02/2021,5000,5000,5000
+Kerala,Ernakulam,Keezhampara,Coconut,Big,16/02/2021,5000,5000,5000
+Kerala,Ernakulam,Keezhampara,Coconut,Big,17/02/2021,5000,5000,5000
+Kerala,Ernakulam,Keezhampara,Coconut,Big,18/02/2021,5000,5000,5000
+Kerala,Ernakulam,Keezhampara,Coconut,Big,19/02/2021,5000,5000,5000
+Kerala,Ernakulam,Keezhampara,Coconut,Big,20/02/2021,5000,5000,5000
+Kerala,Ernakulam,Keezhampara,Coconut,Big,26/02/2021,5000,5000,5000
+Kerala,Ernakulam,Keezhampara,Coconut,Big,27/02/2021,5000,5000,5000
+Kerala,Ernakulam,Keezhampara,Coconut,Big,28/02/2021,5000,5000,5000
+Kerala,Ernakulam,Keezhampara,Coconut,Big,02/03/2021,5000,5000,5000
+Kerala,Ernakulam,Keezhampara,Coconut,Big,03/03/2021,5000,5000,5000
+Kerala,Ernakulam,Keezhampara,Coconut,Big,04/03/2021,5000,5000,5000
+Kerala,Ernakulam,Keezhampara,Coconut,Big,05/03/2021,5000,5000,5000
+Kerala,Ernakulam,Keezhampara,Coconut,Big,06/03/2021,4700,4900,4800
+Kerala,Ernakulam,Keezhampara,Coconut,Big,07/03/2021,4700,5000,4700
+Kerala,Ernakulam,Keezhampara,Coconut,Big,08/03/2021,5000,5000,5000
+Kerala,Ernakulam,Koovapadi,Coconut,Big,09/01/2021,5425,5500,5428
+Kerala,Ernakulam,Koovapadi,Coconut,Big,13/01/2021,5100,5500,5200
+Kerala,Ernakulam,Koovapadi,Coconut,Big,14/01/2021,5000,5500,5200
+Kerala,Ernakulam,Koovapadi,Coconut,Big,03/02/2021,5190,5200,5195
+Kerala,Ernakulam,Koovapadi,Coconut,Big,04/02/2021,5190,5200,5195
+Kerala,Ernakulam,Koovapadi,Coconut,Big,05/02/2021,5190,5200,5195
+Kerala,Ernakulam,Koovapadi,Coconut,Big,01/03/2021,5000,5300,5200
+Kerala,Ernakulam,Koovapadi,Coconut,Big,02/03/2021,5250,5300,5260
+Kerala,Ernakulam,Koovapadi,Coconut,Big,03/03/2021,5000,5200,5100
+Kerala,Ernakulam,Koovapadi,Coconut,Big,04/03/2021,5530,5550,5540
+Kerala,Ernakulam,Koovapadi,Coconut,Big,05/03/2021,5200,5500,5300
+Kerala,Ernakulam,Koovapadi,Coconut,Big,06/03/2021,5200,5300,5250
+Kerala,Ernakulam,Koovapadi,Coconut,Big,08/03/2021,5250,5300,5295
+Kerala,Ernakulam,Koovapadi,Coconut,Big,09/03/2021,5200,5300,5250
+Kerala,Idukki,Adimali,Coconut,Big,05/01/2021,5000,5800,5500
+Kerala,Idukki,Adimali,Coconut,Big,06/01/2021,5800,5800,5800
+Kerala,Idukki,Adimali,Coconut,Big,07/01/2021,5000,5000,5000
+Kerala,Idukki,Adimali,Coconut,Big,08/01/2021,5800,5800,5800
+Kerala,Idukki,Adimali,Coconut,Big,11/01/2021,5800,5800,5800
+Kerala,Idukki,Adimali,Coconut,Big,12/01/2021,5500,5500,5500
+Kerala,Idukki,Adimali,Coconut,Big,13/01/2021,5600,5600,5600
+Kerala,Idukki,Adimali,Coconut,Big,18/01/2021,5800,5800,5800
+Kerala,Idukki,Adimali,Coconut,Big,19/01/2021,5800,5800,5800
+Kerala,Idukki,Adimali,Coconut,Big,21/01/2021,6000,6000,6000
+Kerala,Idukki,Adimali,Coconut,Big,22/01/2021,5800,5800,5800
+Kerala,Idukki,Adimali,Coconut,Big,27/01/2021,5600,5600,5600
+Kerala,Idukki,Adimali,Coconut,Big,28/01/2021,5600,5800,5700
+Kerala,Idukki,Adimali,Coconut,Big,29/01/2021,5800,5800,5800
+Kerala,Idukki,Adimali,Coconut,Big,30/01/2021,4000,4000,4000
+Kerala,Idukki,Adimali,Coconut,Big,01/02/2021,5500,5800,5600
+Kerala,Idukki,Adimali,Coconut,Big,03/02/2021,5600,5600,5600
+Kerala,Idukki,Adimali,Coconut,Big,04/02/2021,5600,5600,5600
+Kerala,Idukki,Adimali,Coconut,Big,05/02/2021,5600,5600,5600
+Kerala,Idukki,Adimali,Coconut,Big,08/02/2021,5000,5000,5000
+Kerala,Idukki,Adimali,Coconut,Big,09/02/2021,5600,5600,5600
+Kerala,Idukki,Adimali,Coconut,Big,10/02/2021,5500,5500,5500
+Kerala,Idukki,Adimali,Coconut,Big,15/02/2021,5600,5600,5600
+Kerala,Idukki,Adimali,Coconut,Big,16/02/2021,5600,5600,5600
+Kerala,Idukki,Adimali,Coconut,Big,17/02/2021,5800,5800,5800
+Kerala,Idukki,Adimali,Coconut,Big,18/02/2021,5600,5600,5600
+Kerala,Idukki,Adimali,Coconut,Big,20/02/2021,5600,5600,5600
+Kerala,Idukki,Adimali,Coconut,Big,23/02/2021,5800,5800,5800
+Kerala,Idukki,Adimali,Coconut,Big,24/02/2021,5600,5600,5600
+Kerala,Idukki,Adimali,Coconut,Big,25/02/2021,5600,5600,5600
+Kerala,Idukki,Adimali,Coconut,Big,26/02/2021,5600,5600,5600
+Kerala,Idukki,Adimali,Coconut,Big,01/03/2021,5500,5600,5600
+Kerala,Idukki,Adimali,Coconut,Big,03/03/2021,5800,5800,5800
+Kerala,Idukki,Adimali,Coconut,Big,06/03/2021,5600,5600,5600
+Kerala,Idukki,Adimali,Coconut,Big,08/03/2021,5800,5800,5800
+Kerala,Idukki,Adimali,Coconut,Big,10/03/2021,5400,5600,5600
+Kerala,Idukki,Kattappana,Coconut,Big,06/01/2021,4500,5000,4700
+Kerala,Idukki,Kattappana,Coconut,Big,07/01/2021,4500,4900,4700
+Kerala,Idukki,Kattappana,Coconut,Big,08/01/2021,4500,4800,4800
+Kerala,Idukki,Kattappana,Coconut,Big,09/01/2021,4200,4800,4500
+Kerala,Idukki,Kattappana,Coconut,Big,10/01/2021,4500,4800,4700
+Kerala,Idukki,Kattappana,Coconut,Big,15/01/2021,4800,5100,5000
+Kerala,Idukki,Kattappana,Coconut,Big,16/01/2021,4800,5100,4900
+Kerala,Idukki,Kattappana,Coconut,Big,17/01/2021,4700,5300,4900
+Kerala,Idukki,Kattappana,Coconut,Big,27/01/2021,4500,5100,4800
+Kerala,Idukki,Kattappana,Coconut,Big,28/01/2021,4800,5100,5000
+Kerala,Idukki,Kattappana,Coconut,Big,30/01/2021,4800,5100,5100
+Kerala,Idukki,Kattappana,Coconut,Big,31/01/2021,4800,5200,5100
+Kerala,Idukki,Kattappana,Coconut,Big,01/02/2021,4900,5200,5100
+Kerala,Idukki,Kattappana,Coconut,Big,02/02/2021,4900,5300,5100
+Kerala,Idukki,Kattappana,Coconut,Big,03/02/2021,4800,5200,5100
+Kerala,Idukki,Kattappana,Coconut,Big,04/02/2021,4500,5100,4800
+Kerala,Idukki,Kattappana,Coconut,Big,05/02/2021,5000,5300,5100
+Kerala,Idukki,Kattappana,Coconut,Big,06/02/2021,5000,5200,5000
+Kerala,Idukki,Kattappana,Coconut,Big,07/02/2021,5100,5200,5200
+Kerala,Idukki,Kattappana,Coconut,Big,09/02/2021,4800,5100,5000
+Kerala,Idukki,Kattappana,Coconut,Big,10/02/2021,4800,5200,5100
+Kerala,Idukki,Kattappana,Coconut,Big,12/02/2021,5100,5200,5100
+Kerala,Idukki,Kattappana,Coconut,Big,13/02/2021,4800,5000,5000
+Kerala,Idukki,Kattappana,Coconut,Big,14/02/2021,4100,5000,4800
+Kerala,Idukki,Kattappana,Coconut,Big,15/02/2021,4100,5000,4800
+Kerala,Idukki,Kattappana,Coconut,Big,16/02/2021,4000,5200,4500
+Kerala,Idukki,Kattappana,Coconut,Big,17/02/2021,4100,5200,4800
+Kerala,Idukki,Kattappana,Coconut,Big,22/02/2021,5300,5400,5300
+Kerala,Idukki,Kattappana,Coconut,Big,27/02/2021,4800,5000,5000
+Kerala,Idukki,Kattappana,Coconut,Big,28/02/2021,4800,5000,5000
+Kerala,Idukki,Kattappana,Coconut,Big,02/03/2021,4800,5200,5000
+Kerala,Idukki,Kattappana,Coconut,Big,06/03/2021,4900,5200,5100
+Kerala,Idukki,Kattappana,Coconut,Other,06/01/2021,3800,4500,4200
+Kerala,Idukki,Kattappana,Coconut,Other,07/01/2021,3900,4500,4100
+Kerala,Idukki,Kattappana,Coconut,Other,08/01/2021,3900,4200,4100
+Kerala,Idukki,Kattappana,Coconut,Other,09/01/2021,3900,4300,4200
+Kerala,Idukki,Kattappana,Coconut,Other,10/01/2021,3900,4500,4100
+Kerala,Idukki,Kattappana,Coconut,Other,15/01/2021,3700,4100,3800
+Kerala,Idukki,Kattappana,Coconut,Other,16/01/2021,3500,3900,3800
+Kerala,Idukki,Kattappana,Coconut,Other,17/01/2021,3900,4600,4200
+Kerala,Idukki,Kattappana,Coconut,Other,27/01/2021,3900,4500,4200
+Kerala,Idukki,Kattappana,Coconut,Other,28/01/2021,3900,4400,4000
+Kerala,Idukki,Kattappana,Coconut,Other,30/01/2021,3900,4800,4200
+Kerala,Idukki,Kattappana,Coconut,Other,31/01/2021,3900,4500,4100
+Kerala,Idukki,Kattappana,Coconut,Other,01/02/2021,4000,4500,4200
+Kerala,Idukki,Kattappana,Coconut,Other,02/02/2021,4200,4500,4300
+Kerala,Idukki,Kattappana,Coconut,Other,03/02/2021,4100,4800,4500
+Kerala,Idukki,Kattappana,Coconut,Other,04/02/2021,4100,4500,4200
+Kerala,Idukki,Kattappana,Coconut,Other,05/02/2021,4500,4700,4700
+Kerala,Idukki,Kattappana,Coconut,Other,06/02/2021,4100,5000,4500
+Kerala,Idukki,Kattappana,Coconut,Other,07/02/2021,4500,4800,4700
+Kerala,Idukki,Kattappana,Coconut,Other,09/02/2021,4100,4600,4500
+Kerala,Idukki,Kattappana,Coconut,Other,10/02/2021,4100,4502,4200
+Kerala,Idukki,Kattappana,Coconut,Other,12/02/2021,4200,4500,4500
+Kerala,Idukki,Kattappana,Coconut,Other,22/02/2021,3400,4100,3800
+Kerala,Idukki,Kattappana,Coconut,Other,27/02/2021,3900,4100,3900
+Kerala,Idukki,Kattappana,Coconut,Other,28/02/2021,3700,4000,4000
+Kerala,Idukki,Kattappana,Coconut,Other,02/03/2021,3800,4300,4100
+Kerala,Idukki,Kattappana,Coconut,Other,06/03/2021,3900,4200,4100
+Kerala,Idukki,Munnar,Coconut,Big,09/01/2021,4000,6000,5000
+Kerala,Idukki,Munnar,Coconut,Big,20/01/2021,4000,6000,5000
+Kerala,Idukki,Munnar,Coconut,Big,23/01/2021,5000,6000,6000
+Kerala,Idukki,Munnar,Coconut,Big,27/01/2021,4000,6000,5000
+Kerala,Idukki,Munnar,Coconut,Big,28/01/2021,5500,6000,6000
+Kerala,Idukki,Munnar,Coconut,Big,31/01/2021,5000,6000,5500
+Kerala,Idukki,Munnar,Coconut,Big,02/02/2021,5000,6000,5500
+Kerala,Idukki,Munnar,Coconut,Big,04/02/2021,5000,6000,5500
+Kerala,Idukki,Munnar,Coconut,Big,07/02/2021,5000,6000,6000
+Kerala,Idukki,Munnar,Coconut,Big,11/02/2021,5500,6500,6000
+Kerala,Idukki,Munnar,Coconut,Big,13/02/2021,5000,6000,6000
+Kerala,Idukki,Munnar,Coconut,Big,19/02/2021,5000,6500,6000
+Kerala,Idukki,Munnar,Coconut,Big,23/02/2021,5000,6000,6000
+Kerala,Idukki,Munnar,Coconut,Big,01/03/2021,5000,6500,6000
+Kerala,Idukki,Nedumkandam,Coconut,Other,02/01/2021,3500,3500,3500
+Kerala,Idukki,Nedumkandam,Coconut,Other,07/01/2021,3500,3500,3500
+Kerala,Idukki,Nedumkandam,Coconut,Other,09/01/2021,3500,3500,3500
+Kerala,Idukki,Nedumkandam,Coconut,Other,10/01/2021,3500,3500,3500
+Kerala,Idukki,Nedumkandam,Coconut,Other,17/01/2021,4000,4000,4000
+Kerala,Idukki,Nedumkandam,Coconut,Other,28/01/2021,4000,4000,4000
+Kerala,Idukki,Nedumkandam,Coconut,Other,31/01/2021,5200,5200,5200
+Kerala,Idukki,Nedumkandam,Coconut,Other,05/02/2021,4500,4500,4500
+Kerala,Idukki,Nedumkandam,Coconut,Other,07/02/2021,4500,4500,4500
+Kerala,Idukki,Nedumkandam,Coconut,Other,14/02/2021,3500,3500,3500
+Kerala,Idukki,Nedumkandam,Coconut,Other,20/02/2021,4000,4000,4000
+Kerala,Idukki,Nedumkandam,Coconut,Other,21/02/2021,4000,4000,4000
+Kerala,Idukki,Nedumkandam,Coconut,Other,26/02/2021,4000,4000,4000
+Kerala,Idukki,Nedumkandam,Coconut,Other,28/02/2021,4000,4000,4000
+Kerala,Idukki,Nedumkandam,Coconut,Other,04/03/2021,4500,4500,4500
+Kerala,Idukki,Thodupuzha,Coconut,Big,01/01/2021,2500,2700,2700
+Kerala,Idukki,Thodupuzha,Coconut,Big,04/01/2021,2500,2700,2700
+Kerala,Idukki,Thodupuzha,Coconut,Big,05/01/2021,2500,2700,2700
+Kerala,Idukki,Thodupuzha,Coconut,Big,06/01/2021,2500,2700,2700
+Kerala,Idukki,Thodupuzha,Coconut,Big,07/01/2021,2500,2700,2700
+Kerala,Idukki,Thodupuzha,Coconut,Big,08/01/2021,2500,2700,2700
+Kerala,Idukki,Thodupuzha,Coconut,Big,11/01/2021,2400,2400,2400
+Kerala,Idukki,Thodupuzha,Coconut,Big,12/01/2021,2400,2400,2400
+Kerala,Idukki,Thodupuzha,Coconut,Big,13/01/2021,2400,2400,2400
+Kerala,Idukki,Thodupuzha,Coconut,Big,18/01/2021,2400,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Big,19/01/2021,2400,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Big,20/01/2021,2400,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Big,21/01/2021,2400,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Big,22/01/2021,2400,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Big,23/01/2021,2400,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Big,25/01/2021,2200,2400,2400
+Kerala,Idukki,Thodupuzha,Coconut,Big,27/01/2021,2200,2400,2400
+Kerala,Idukki,Thodupuzha,Coconut,Big,28/01/2021,2200,2400,2400
+Kerala,Idukki,Thodupuzha,Coconut,Big,29/01/2021,2200,2400,2400
+Kerala,Idukki,Thodupuzha,Coconut,Big,01/02/2021,2300,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Big,02/02/2021,2300,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Big,03/02/2021,2300,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Big,04/02/2021,2300,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Big,05/02/2021,2300,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Big,06/02/2021,2300,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Big,08/02/2021,2300,2400,2400
+Kerala,Idukki,Thodupuzha,Coconut,Big,09/02/2021,2300,2400,2400
+Kerala,Idukki,Thodupuzha,Coconut,Big,15/02/2021,2200,2300,2300
+Kerala,Idukki,Thodupuzha,Coconut,Big,16/02/2021,2200,2300,2300
+Kerala,Idukki,Thodupuzha,Coconut,Big,17/02/2021,2200,2300,2300
+Kerala,Idukki,Thodupuzha,Coconut,Big,18/02/2021,2200,2300,2300
+Kerala,Idukki,Thodupuzha,Coconut,Big,19/02/2021,2200,2300,2300
+Kerala,Idukki,Thodupuzha,Coconut,Big,20/02/2021,2200,2300,2300
+Kerala,Idukki,Thodupuzha,Coconut,Big,22/02/2021,2200,2300,2300
+Kerala,Idukki,Thodupuzha,Coconut,Big,24/02/2021,2200,2300,2300
+Kerala,Idukki,Thodupuzha,Coconut,Big,25/02/2021,2200,2300,2300
+Kerala,Idukki,Thodupuzha,Coconut,Big,26/02/2021,2200,2300,2300
+Kerala,Idukki,Thodupuzha,Coconut,Big,27/02/2021,2200,2300,2300
+Kerala,Idukki,Thodupuzha,Coconut,Big,03/03/2021,4800,5000,5000
+Kerala,Idukki,Thodupuzha,Coconut,Big,05/03/2021,2400,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Big,08/03/2021,2400,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Big,09/03/2021,2400,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Other,01/01/2021,4700,4800,4800
+Kerala,Idukki,Thodupuzha,Coconut,Other,04/01/2021,4700,4800,4800
+Kerala,Idukki,Thodupuzha,Coconut,Other,05/01/2021,4700,4800,4800
+Kerala,Idukki,Thodupuzha,Coconut,Other,06/01/2021,4700,4800,4800
+Kerala,Idukki,Thodupuzha,Coconut,Other,07/01/2021,4700,4800,4800
+Kerala,Idukki,Thodupuzha,Coconut,Other,08/01/2021,4700,4800,4800
+Kerala,Idukki,Thodupuzha,Coconut,Other,11/01/2021,4600,4800,4800
+Kerala,Idukki,Thodupuzha,Coconut,Other,12/01/2021,4600,4800,4800
+Kerala,Idukki,Thodupuzha,Coconut,Other,13/01/2021,4600,4800,4800
+Kerala,Idukki,Thodupuzha,Coconut,Other,18/01/2021,4800,5000,5000
+Kerala,Idukki,Thodupuzha,Coconut,Other,19/01/2021,4800,5000,5000
+Kerala,Idukki,Thodupuzha,Coconut,Other,20/01/2021,4800,5000,5000
+Kerala,Idukki,Thodupuzha,Coconut,Other,21/01/2021,4800,5000,5000
+Kerala,Idukki,Thodupuzha,Coconut,Other,22/01/2021,4800,5000,5000
+Kerala,Idukki,Thodupuzha,Coconut,Other,23/01/2021,4800,5000,5000
+Kerala,Idukki,Thodupuzha,Coconut,Other,25/01/2021,4600,4800,4800
+Kerala,Idukki,Thodupuzha,Coconut,Other,27/01/2021,4600,4800,4800
+Kerala,Idukki,Thodupuzha,Coconut,Other,28/01/2021,4600,4800,4800
+Kerala,Idukki,Thodupuzha,Coconut,Other,29/01/2021,4600,4800,4800
+Kerala,Idukki,Thodupuzha,Coconut,Other,01/02/2021,4800,5000,5000
+Kerala,Idukki,Thodupuzha,Coconut,Other,02/02/2021,4800,5000,5000
+Kerala,Idukki,Thodupuzha,Coconut,Other,03/02/2021,4800,5000,5000
+Kerala,Idukki,Thodupuzha,Coconut,Other,04/02/2021,4800,5000,5000
+Kerala,Idukki,Thodupuzha,Coconut,Other,05/02/2021,4800,5000,5000
+Kerala,Idukki,Thodupuzha,Coconut,Other,06/02/2021,4800,5000,5000
+Kerala,Idukki,Thodupuzha,Coconut,Other,08/02/2021,4600,4800,4800
+Kerala,Idukki,Thodupuzha,Coconut,Other,09/02/2021,4600,4800,4800
+Kerala,Idukki,Thodupuzha,Coconut,Other,15/02/2021,4300,4500,4500
+Kerala,Idukki,Thodupuzha,Coconut,Other,16/02/2021,4300,4500,4500
+Kerala,Idukki,Thodupuzha,Coconut,Other,17/02/2021,4300,4500,4500
+Kerala,Idukki,Thodupuzha,Coconut,Other,18/02/2021,4300,4500,4500
+Kerala,Idukki,Thodupuzha,Coconut,Other,19/02/2021,4300,4500,4500
+Kerala,Idukki,Thodupuzha,Coconut,Other,20/02/2021,4300,4500,4500
+Kerala,Idukki,Thodupuzha,Coconut,Other,22/02/2021,4400,4600,4600
+Kerala,Idukki,Thodupuzha,Coconut,Other,24/02/2021,4400,4600,4600
+Kerala,Idukki,Thodupuzha,Coconut,Other,25/02/2021,4400,4600,4600
+Kerala,Idukki,Thodupuzha,Coconut,Other,26/02/2021,4400,4600,4600
+Kerala,Idukki,Thodupuzha,Coconut,Other,27/02/2021,4400,4600,4600
+Kerala,Idukki,Thodupuzha,Coconut,Other,03/03/2021,2400,2500,2500
+Kerala,Idukki,Thodupuzha,Coconut,Other,05/03/2021,4800,5000,5000
+Kerala,Idukki,Thodupuzha,Coconut,Other,08/03/2021,4900,5100,5100
+Kerala,Idukki,Thodupuzha,Coconut,Other,09/03/2021,4900,5100,5100
+Kerala,Kannur,Taliparamba,Coconut,Other,07/01/2021,4000,4000,4000
+Kerala,Kannur,Taliparamba,Coconut,Other,08/01/2021,4000,4000,4000
+Kerala,Kannur,Taliparamba,Coconut,Other,09/01/2021,3900,3900,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,11/01/2021,3900,3900,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,12/01/2021,3900,3900,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,13/01/2021,3900,3900,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,14/01/2021,3900,3900,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,15/01/2021,3900,3900,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,16/01/2021,3900,3900,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,18/01/2021,3900,3900,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,19/01/2021,3900,3900,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,20/01/2021,3900,3900,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,21/01/2021,3900,3900,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,22/01/2021,3900,3900,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,23/01/2021,3700,3900,3800
+Kerala,Kannur,Taliparamba,Coconut,Other,25/01/2021,3900,3900,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,27/01/2021,3900,3900,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,28/01/2021,3900,3900,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,29/01/2021,4000,4000,4000
+Kerala,Kannur,Taliparamba,Coconut,Other,30/01/2021,3800,4000,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,01/02/2021,3800,4000,3900
+Kerala,Kannur,Taliparamba,Coconut,Other,02/02/2021,3900,4100,4000
+Kerala,Kannur,Taliparamba,Coconut,Other,03/02/2021,4100,4100,4100
+Kerala,Kannur,Taliparamba,Coconut,Other,05/02/2021,3900,4100,4000
+Kerala,Kannur,Taliparamba,Coconut,Other,06/02/2021,3900,4100,4000
+Kerala,Kannur,Taliparamba,Coconut,Other,08/02/2021,3900,4100,4000
+Kerala,Kannur,Taliparamba,Coconut,Other,09/02/2021,4100,4100,4100
+Kerala,Kannur,Taliparamba,Coconut,Other,10/02/2021,4100,4100,4100
+Kerala,Kannur,Taliparamba,Coconut,Other,11/02/2021,4100,4100,4100
+Kerala,Kannur,Taliparamba,Coconut,Other,13/02/2021,4100,4100,4100
+Kerala,Kannur,Taliparamba,Coconut,Other,15/02/2021,3900,4100,4000
+Kerala,Kannur,Taliparamba,Coconut,Other,16/02/2021,4100,4100,4100
+Kerala,Kannur,Taliparamba,Coconut,Other,17/02/2021,4100,4100,4100
+Kerala,Kannur,Taliparamba,Coconut,Other,18/02/2021,4100,4100,4100
+Kerala,Kannur,Taliparamba,Coconut,Other,19/02/2021,3900,4100,4000
+Kerala,Kannur,Taliparamba,Coconut,Other,20/02/2021,3900,4100,4000
+Kerala,Kannur,Taliparamba,Coconut,Other,22/02/2021,4000,4200,4100
+Kerala,Kannur,Taliparamba,Coconut,Other,23/02/2021,4000,4200,4100
+Kerala,Kannur,Taliparamba,Coconut,Other,24/02/2021,4100,4300,4200
+Kerala,Kannur,Taliparamba,Coconut,Other,26/02/2021,4200,4200,4200
+Kerala,Kannur,Taliparamba,Coconut,Other,27/02/2021,4000,4200,4100
+Kerala,Kannur,Taliparamba,Coconut,Other,01/03/2021,4200,4200,4200
+Kerala,Kannur,Taliparamba,Coconut,Other,02/03/2021,4300,4300,4300
+Kerala,Kannur,Taliparamba,Coconut,Other,03/03/2021,4100,4300,4200
+Kerala,Kannur,Taliparamba,Coconut,Other,04/03/2021,4000,4200,4100
+Kerala,Kannur,Taliparamba,Coconut,Other,05/03/2021,4200,4200,4200
+Kerala,Kannur,Taliparamba,Coconut,Other,06/03/2021,4100,4300,4200
+Kerala,Kannur,Taliparamba,Coconut,Other,08/03/2021,4100,4300,4200
+Kerala,Kannur,Taliparamba,Coconut,Other,09/03/2021,4000,4200,4100
+Kerala,Kannur,Taliparamba,Coconut,Other,10/03/2021,4000,4200,4100
+Kerala,Kasargod,Neeleswaram,Coconut,Other,01/01/2021,3800,4000,3900
+Kerala,Kasargod,Neeleswaram,Coconut,Other,04/01/2021,3800,4000,3900
+Kerala,Kasargod,Neeleswaram,Coconut,Other,05/01/2021,3600,4000,3800
+Kerala,Kasargod,Neeleswaram,Coconut,Other,06/01/2021,3600,4000,3800
+Kerala,Kasargod,Neeleswaram,Coconut,Other,11/01/2021,3400,3600,3500
+Kerala,Kasargod,Neeleswaram,Coconut,Other,12/01/2021,3700,3900,3800
+Kerala,Kasargod,Neeleswaram,Coconut,Other,13/01/2021,3600,3800,3700
+Kerala,Kasargod,Neeleswaram,Coconut,Other,14/01/2021,3800,4000,3900
+Kerala,Kasargod,Neeleswaram,Coconut,Other,15/01/2021,3600,4000,3800
+Kerala,Kasargod,Neeleswaram,Coconut,Other,16/01/2021,3600,4000,3800
+Kerala,Kasargod,Neeleswaram,Coconut,Other,18/01/2021,3400,3600,3500
+Kerala,Kasargod,Neeleswaram,Coconut,Other,19/01/2021,3600,4000,3800
+Kerala,Kasargod,Neeleswaram,Coconut,Other,20/01/2021,3800,4200,4000
+Kerala,Kasargod,Neeleswaram,Coconut,Other,25/01/2021,3800,4200,4000
+Kerala,Kasargod,Neeleswaram,Coconut,Other,01/02/2021,3800,4200,4000
+Kerala,Kasargod,Neeleswaram,Coconut,Other,02/02/2021,3800,4200,4000
+Kerala,Kasargod,Neeleswaram,Coconut,Other,03/02/2021,3800,4200,4000
+Kerala,Kasargod,Neeleswaram,Coconut,Other,04/02/2021,3800,4200,4000
+Kerala,Kasargod,Neeleswaram,Coconut,Other,06/02/2021,3500,4500,4000
+Kerala,Kasargod,Neeleswaram,Coconut,Other,12/02/2021,3800,4200,4000
+Kerala,Kasargod,Neeleswaram,Coconut,Other,15/02/2021,3800,4200,4000
+Kerala,Kasargod,Neeleswaram,Coconut,Other,19/02/2021,3800,4200,4000
+Kerala,Kasargod,Neeleswaram,Coconut,Other,20/02/2021,3800,4200,4000
+Kerala,Kasargod,Neeleswaram,Coconut,Other,22/02/2021,3800,4200,4000
+Kerala,Kasargod,Neeleswaram,Coconut,Other,23/02/2021,3800,4000,3900
+Kerala,Kasargod,Neeleswaram,Coconut,Other,24/02/2021,3800,4200,4000
+Kerala,Kasargod,Neeleswaram,Coconut,Other,25/02/2021,3800,4200,4000
+Kerala,Kasargod,Neeleswaram,Coconut,Other,26/02/2021,3800,4000,3900
+Kerala,Kasargod,Neeleswaram,Coconut,Other,27/02/2021,3800,4000,3900
+Kerala,Kasargod,Neeleswaram,Coconut,Other,03/03/2021,4000,4400,4200
+Kerala,Kasargod,Neeleswaram,Coconut,Other,05/03/2021,4000,4400,4200
+Kerala,Kasargod,Neeleswaram,Coconut,Other,06/03/2021,4000,4400,4200
+Kerala,Kasargod,Neeleswaram,Coconut,Other,08/03/2021,4200,4500,4400
+Kerala,Kollam,Anchal,Coconut,Other,27/02/2021,6000,6200,6100
+Kerala,Kollam,Anchal,Coconut,Other,10/03/2021,6400,6600,6500
+Kerala,Kollam,Anchal,Coconut,Other,11/03/2021,5400,5600,5500
+Kerala,Kottayam,Athirampuzha,Coconut,Other,01/01/2021,4500,4700,4600
+Kerala,Kottayam,Athirampuzha,Coconut,Other,02/01/2021,4800,5000,4900
+Kerala,Kottayam,Athirampuzha,Coconut,Other,04/01/2021,4900,5100,5000
+Kerala,Kottayam,Athirampuzha,Coconut,Other,05/01/2021,4800,5000,4900
+Kerala,Kottayam,Athirampuzha,Coconut,Other,06/01/2021,4800,5000,4900
+Kerala,Kottayam,Athirampuzha,Coconut,Other,09/01/2021,4700,4900,4800
+Kerala,Kottayam,Athirampuzha,Coconut,Other,11/01/2021,4800,5000,4900
+Kerala,Kottayam,Athirampuzha,Coconut,Other,13/01/2021,4800,5000,4900
+Kerala,Kottayam,Athirampuzha,Coconut,Other,14/01/2021,4800,5000,4900
+Kerala,Kottayam,Athirampuzha,Coconut,Other,15/01/2021,4900,5100,5000
+Kerala,Kottayam,Athirampuzha,Coconut,Other,16/01/2021,4900,5100,5000
+Kerala,Kottayam,Athirampuzha,Coconut,Other,18/01/2021,4800,5000,4900
+Kerala,Kottayam,Athirampuzha,Coconut,Other,19/01/2021,4800,5000,4900
+Kerala,Kottayam,Athirampuzha,Coconut,Other,20/01/2021,4800,5000,4900
+Kerala,Kottayam,Athirampuzha,Coconut,Other,21/01/2021,4800,5000,4900
+Kerala,Kottayam,Athirampuzha,Coconut,Other,25/01/2021,4800,5000,4900
+Kerala,Kottayam,Athirampuzha,Coconut,Other,27/01/2021,4700,4900,4800
+Kerala,Kottayam,Athirampuzha,Coconut,Other,28/01/2021,4700,4900,4800
+Kerala,Kottayam,Athirampuzha,Coconut,Other,30/01/2021,4800,5000,4900
+Kerala,Kottayam,Athirampuzha,Coconut,Other,02/02/2021,4700,4900,4800
+Kerala,Kottayam,Athirampuzha,Coconut,Other,03/02/2021,4600,4800,4700
+Kerala,Kottayam,Athirampuzha,Coconut,Other,04/02/2021,4600,4800,4700
+Kerala,Kottayam,Athirampuzha,Coconut,Other,05/02/2021,4600,4800,4700
+Kerala,Kottayam,Athirampuzha,Coconut,Other,06/02/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,Coconut,Other,08/02/2021,4500,4700,4600
+Kerala,Kottayam,Athirampuzha,Coconut,Other,09/02/2021,4500,4700,4600
+Kerala,Kottayam,Athirampuzha,Coconut,Other,11/02/2021,4400,4600,4500
+Kerala,Kottayam,Athirampuzha,Coconut,Other,12/02/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,Coconut,Other,13/02/2021,4500,4700,4600
+Kerala,Kottayam,Athirampuzha,Coconut,Other,15/02/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,Coconut,Other,16/02/2021,4500,4700,4600
+Kerala,Kottayam,Athirampuzha,Coconut,Other,17/02/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,Coconut,Other,18/02/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,Coconut,Other,19/02/2021,4400,4600,4500
+Kerala,Kottayam,Athirampuzha,Coconut,Other,22/02/2021,4500,4700,4600
+Kerala,Kottayam,Athirampuzha,Coconut,Other,23/02/2021,4600,4800,4700
+Kerala,Kottayam,Athirampuzha,Coconut,Other,24/02/2021,4600,4800,4700
+Kerala,Kottayam,Athirampuzha,Coconut,Other,25/02/2021,4600,4800,4700
+Kerala,Kottayam,Athirampuzha,Coconut,Other,26/02/2021,4600,4800,4700
+Kerala,Kottayam,Athirampuzha,Coconut,Other,27/02/2021,4600,4800,4700
+Kerala,Kottayam,Athirampuzha,Coconut,Other,04/03/2021,4600,4800,4700
+Kerala,Kottayam,Athirampuzha,Coconut,Other,05/03/2021,4600,4800,4700
+Kerala,Kottayam,Athirampuzha,Coconut,Other,06/03/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,Coconut,Other,08/03/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,Coconut,Other,09/03/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,Coconut,Other,10/03/2021,4300,4500,4400
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,06/01/2021,4200,4500,4300
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,08/01/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,09/01/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,11/01/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,13/01/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,14/01/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,16/01/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,18/01/2021,4200,4500,4300
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,19/01/2021,3900,4100,4000
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,20/01/2021,4100,4400,4200
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,21/01/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,22/01/2021,4100,4400,4200
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,27/01/2021,4600,5000,4700
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,28/01/2021,4500,4800,4600
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,29/01/2021,4500,4800,4600
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,31/01/2021,4600,4900,4700
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,07/02/2021,3900,4100,4000
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,08/02/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,10/02/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,11/02/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,13/02/2021,3900,4100,4000
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,14/02/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,16/02/2021,3800,4100,3900
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,17/02/2021,3900,4200,4000
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,19/02/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,20/02/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,21/02/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,22/02/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,23/02/2021,4100,4300,4200
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,25/02/2021,4100,4300,4200
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,26/02/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,27/02/2021,4100,4300,4200
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,28/02/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,07/03/2021,4100,4300,4200
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,08/03/2021,4100,4300,4200
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,09/03/2021,4100,4300,4200
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,10/03/2021,4100,4300,4200
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,11/03/2021,4100,4300,4200
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,01/01/2021,5000,5500,5200
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,02/01/2021,5000,5500,5200
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,04/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,05/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,06/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,07/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,08/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,09/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,11/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,12/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,13/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,14/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,15/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,16/01/2021,5000,5500,5200
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,18/01/2021,5000,5500,5200
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,19/01/2021,5000,5500,5200
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,20/01/2021,5000,5500,5200
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,21/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,22/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,23/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,25/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,26/01/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,30/01/2021,5400,5800,5600
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,01/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,02/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,03/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,04/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,05/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,06/02/2021,5000,5500,5200
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,08/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,09/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,10/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,12/02/2021,4800,5200,5000
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,13/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,15/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,16/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,17/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,18/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,19/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,20/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,22/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,23/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,25/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,26/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,27/02/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,01/03/2021,5000,5500,5200
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,04/03/2021,5000,5500,5200
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,05/03/2021,5000,5500,5200
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,06/03/2021,5000,5500,5200
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,08/03/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,09/03/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,10/03/2021,4500,5000,4800
+Kerala,Kottayam,Kanjirappally,Coconut,Medium,11/03/2021,4500,5000,4800
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,06/01/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,07/01/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,11/01/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,14/01/2021,2600,3400,3000
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,15/01/2021,3200,4000,3600
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,16/01/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,17/01/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,18/01/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,19/01/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,20/01/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,21/01/2021,2800,3200,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,22/01/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,23/01/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,24/01/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,25/01/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,26/01/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,27/01/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,28/01/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,06/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,08/02/2021,2600,3400,3000
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,09/02/2021,2600,3400,3000
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,10/02/2021,2600,3400,3000
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,11/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,13/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,14/02/2021,2600,3400,3000
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,15/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,16/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,17/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,18/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,19/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,20/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,21/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,22/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,24/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,25/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,26/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,27/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,28/02/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,05/03/2021,2800,3600,3200
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,06/03/2021,2800,3600,3200
+Kerala,Malappuram,Manjeri,Coconut,Other,08/01/2021,4000,4100,4050
+Kerala,Malappuram,Manjeri,Coconut,Other,09/01/2021,4000,4100,4050
+Kerala,Malappuram,Manjeri,Coconut,Other,11/01/2021,4000,4100,4050
+Kerala,Malappuram,Manjeri,Coconut,Other,12/01/2021,4000,4100,4050
+Kerala,Malappuram,Manjeri,Coconut,Other,13/01/2021,4000,4100,4050
+Kerala,Malappuram,Manjeri,Coconut,Other,14/01/2021,4000,4100,4050
+Kerala,Malappuram,Manjeri,Coconut,Other,15/01/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,16/01/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,18/01/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,19/01/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,20/01/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,21/01/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,22/01/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,23/01/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,25/01/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,27/01/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,28/01/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,29/01/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,30/01/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,02/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,03/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,04/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,05/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,06/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,08/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,09/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,10/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,11/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,12/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,13/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,15/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,16/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,17/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,18/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,19/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,20/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,22/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,23/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,24/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,25/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,26/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,27/02/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,04/03/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,05/03/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,06/03/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,08/03/2021,4300,4400,4350
+Kerala,Malappuram,Manjeri,Coconut,Other,10/03/2021,4300,4400,4350
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,02/01/2021,4500,4800,4800
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,04/01/2021,4300,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,07/01/2021,4200,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,10/01/2021,4200,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,11/01/2021,4200,4300,4300
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,17/01/2021,4300,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,18/01/2021,4300,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,21/01/2021,4300,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,24/01/2021,4200,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,25/01/2021,4300,4400,4400
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,27/01/2021,4200,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,28/01/2021,4300,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,01/02/2021,4400,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,02/02/2021,4200,4300,4300
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,04/02/2021,4400,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,08/02/2021,4200,4300,4300
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,11/02/2021,4300,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,12/02/2021,4400,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,14/02/2021,4000,4200,4200
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,15/02/2021,4200,4300,4300
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,18/02/2021,4200,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,19/02/2021,4300,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,22/02/2021,4300,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,25/02/2021,4300,4400,4400
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,26/02/2021,4200,4300,4300
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,01/03/2021,4300,4400,4400
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,03/03/2021,4300,4400,4400
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,04/03/2021,4300,4500,4500
+Kerala,Pathanamthitta,Ezhamkulam,Coconut,Coconut,08/03/2021,4200,4300,4300
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,01/01/2021,4800,4800,4800
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,05/01/2021,4800,4800,4800
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,08/01/2021,4800,4800,4800
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,15/01/2021,4500,4500,4500
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,19/01/2021,4700,4700,4700
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,22/01/2021,4700,4700,4700
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,26/01/2021,4800,4800,4800
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,29/01/2021,4800,4800,4800
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,02/02/2021,4800,4800,4800
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,05/02/2021,4800,4800,4800
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,09/02/2021,4800,4800,4800
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,12/02/2021,4700,4700,4700
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,16/02/2021,4500,4500,4500
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,19/02/2021,4500,4500,4500
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,23/02/2021,4500,4500,4500
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,26/02/2021,4500,4500,4500
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,02/03/2021,4500,4500,4500
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,05/03/2021,4500,4500,4500
+Kerala,Pathanamthitta,Pandalam,Coconut,Coconut,09/03/2021,4750,4750,4750
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,04/01/2021,2500,2800,2800
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,07/01/2021,2500,3000,3000
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,11/01/2021,2200,2800,2500
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,14/01/2021,2800,3000,3000
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,18/01/2021,2200,2500,2500
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,21/01/2021,2500,2800,2800
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,25/01/2021,2500,2800,2800
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,28/01/2021,2500,2800,2800
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,01/02/2021,2500,2800,2800
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,04/02/2021,2800,2800,2800
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,08/02/2021,2800,3000,3000
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,11/02/2021,2400,2800,2800
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,15/02/2021,2800,3000,3000
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,18/02/2021,3000,3200,3200
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,22/02/2021,2800,3000,3000
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,01/03/2021,2000,2500,2500
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,04/03/2021,2500,2800,2800
+Kerala,Pathanamthitta,Parakkodu,Coconut,Coconut,08/03/2021,2500,2800,2500
+Kerala,Thirssur,Chavakkad,Coconut,Other,13/01/2021,4800,5200,5200
+Kerala,Thirssur,Chavakkad,Coconut,Other,14/01/2021,5200,5600,5500
+Kerala,Thirssur,Chavakkad,Coconut,Other,25/02/2021,5000,5600,5500
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,08/01/2021,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,09/01/2021,3800,3800,3800
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,13/01/2021,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,14/01/2021,3800,3800,3800
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,19/01/2021,3800,3800,3800
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,31/01/2021,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,08/02/2021,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,12/02/2021,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,16/02/2021,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,17/02/2021,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,18/02/2021,3700,3700,3700
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,22/02/2021,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,23/02/2021,3900,3900,3900
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,24/02/2021,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,25/02/2021,3800,3800,3800
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,26/02/2021,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,27/02/2021,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,04/03/2021,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,05/03/2021,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,06/03/2021,4500,4500,4500
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,02/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,09/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,10/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,11/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,12/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,13/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,14/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,15/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,16/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,17/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,18/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,19/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,20/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,21/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,22/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,25/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,26/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,27/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,28/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,29/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,30/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,31/01/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,02/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,03/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,04/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,05/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,09/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,10/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,11/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,15/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,16/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,19/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,20/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,21/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,22/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,23/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,24/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,25/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,26/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,27/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,28/02/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,02/03/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,07/03/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,08/03/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,09/03/2021,4600,4800,4800
+Kerala,Thirssur,Wadakkanchery,Coconut,Coconut,10/03/2021,4600,4800,4800
+Kerala,Thiruvananthapuram,Kattakada,Coconut,Other,11/01/2021,4500,5800,5500
+Kerala,Thiruvananthapuram,Kattakada,Coconut,Other,15/01/2021,4000,5800,5000
+Kerala,Thiruvananthapuram,Kattakada,Coconut,Other,18/01/2021,4500,5800,5500
+Kerala,Thiruvananthapuram,Kattakada,Coconut,Other,25/01/2021,4500,5800,5000
+Kerala,Thiruvananthapuram,Kattakada,Coconut,Other,28/01/2021,5000,5800,5500
+Kerala,Thiruvananthapuram,Kattakada,Coconut,Other,04/02/2021,5000,5800,5500
+Kerala,Thiruvananthapuram,Kattakada,Coconut,Other,11/02/2021,4500,5800,5500
+Kerala,Thiruvananthapuram,Kattakada,Coconut,Other,18/02/2021,4500,5800,5500
+Kerala,Thiruvananthapuram,Kattakada,Coconut,Other,20/02/2021,4000,5800,5000
+Kerala,Thiruvananthapuram,Kattakada,Coconut,Other,22/02/2021,4500,5000,4800
+Kerala,Thiruvananthapuram,Kattakada,Coconut,Other,25/02/2021,4500,5000,4800
+Kerala,Thiruvananthapuram,Vamanapuram,Coconut,Other,15/01/2021,5500,6000,5800
+Kerala,Thiruvananthapuram,Vamanapuram,Coconut,Other,19/01/2021,5000,5500,5200
+Kerala,Thiruvananthapuram,Vamanapuram,Coconut,Other,22/01/2021,5300,5800,5500
+Kerala,Thiruvananthapuram,Vamanapuram,Coconut,Other,26/01/2021,5500,6000,5800
+Kerala,Thiruvananthapuram,Vamanapuram,Coconut,Other,29/01/2021,5500,6000,5800
+Kerala,Thiruvananthapuram,Vamanapuram,Coconut,Other,02/02/2021,4500,5000,4800
+Kerala,Thiruvananthapuram,Vamanapuram,Coconut,Other,05/02/2021,5000,5500,5200
+Kerala,Thiruvananthapuram,Vamanapuram,Coconut,Other,12/02/2021,5000,5500,5200
+Kerala,Thiruvananthapuram,Vamanapuram,Coconut,Other,16/02/2021,5000,5500,5200
+Kerala,Thiruvananthapuram,Vamanapuram,Coconut,Other,23/02/2021,5000,5500,5200
+Kerala,Thiruvananthapuram,Vamanapuram,Coconut,Other,26/02/2021,5500,6000,5800
+Kerala,Thiruvananthapuram,Vamanapuram,Coconut,Other,02/03/2021,5000,5500,5200
+Kerala,Thiruvananthapuram,Vamanapuram,Coconut,Other,05/03/2021,5500,6000,5800
+Kerala,Thiruvananthapuram,Vamanapuram,Coconut,Other,09/03/2021,5000,5500,5200
+Maharashtra,Mumbai,Mumbai,Coconut,Other,01/01/2021,1000,3000,1800
+Maharashtra,Mumbai,Mumbai,Coconut,Other,02/01/2021,1000,3000,1800
+Maharashtra,Mumbai,Mumbai,Coconut,Other,04/01/2021,1000,3000,1800
+Maharashtra,Mumbai,Mumbai,Coconut,Other,05/01/2021,1000,3000,1800
+Maharashtra,Mumbai,Mumbai,Coconut,Other,06/01/2021,900,3000,1900
+Maharashtra,Mumbai,Mumbai,Coconut,Other,14/01/2021,1000,3000,2100
+Maharashtra,Mumbai,Mumbai,Coconut,Other,15/01/2021,1000,3000,2100
+Maharashtra,Mumbai,Mumbai,Coconut,Other,16/01/2021,900,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,18/01/2021,900,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,19/01/2021,900,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,20/01/2021,900,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,21/01/2021,900,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,23/01/2021,900,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,25/01/2021,900,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,27/01/2021,900,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,28/01/2021,900,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,29/01/2021,900,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,30/01/2021,750,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,01/02/2021,750,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,02/02/2021,750,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,03/02/2021,750,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,04/02/2021,750,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,05/02/2021,750,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,09/02/2021,750,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,10/02/2021,750,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,11/02/2021,750,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,12/02/2021,750,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,13/02/2021,750,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,15/02/2021,750,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,16/02/2021,900,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,17/02/2021,900,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,18/02/2021,950,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,20/02/2021,900,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,22/02/2021,900,3000,2000
+Maharashtra,Mumbai,Mumbai,Coconut,Other,23/02/2021,1000,3100,2100
+Maharashtra,Mumbai,Mumbai,Coconut,Other,24/02/2021,1000,3100,2100
+Maharashtra,Mumbai,Mumbai,Coconut,Other,25/02/2021,1000,3100,2100
+Maharashtra,Mumbai,Mumbai,Coconut,Other,26/02/2021,1100,3100,2100
+Maharashtra,Mumbai,Mumbai,Coconut,Other,01/03/2021,1100,3100,2100
+Maharashtra,Mumbai,Mumbai,Coconut,Other,02/03/2021,1100,3100,2100
+Maharashtra,Mumbai,Mumbai,Coconut,Other,03/03/2021,1100,3100,2100
+Maharashtra,Mumbai,Mumbai,Coconut,Other,04/03/2021,1100,3100,2100
+Maharashtra,Mumbai,Mumbai,Coconut,Other,05/03/2021,1100,3100,2100
+Maharashtra,Mumbai,Mumbai,Coconut,Other,06/03/2021,1100,3100,2100
+Maharashtra,Mumbai,Mumbai,Coconut,Other,08/03/2021,1100,3100,2100
+Maharashtra,Mumbai,Mumbai,Coconut,Other,09/03/2021,1100,3100,2100
+Maharashtra,Mumbai,Mumbai,Coconut,Other,10/03/2021,1100,3100,2100
+Odisha,Gajapati,Parlakhemundi,Coconut,Other,22/01/2021,1600,2000,2000
+Odisha,Gajapati,Parlakhemundi,Coconut,Other,24/01/2021,1200,1400,1400
+Odisha,Gajapati,Parlakhemundi,Coconut,Other,25/01/2021,1400,1500,1500
+Odisha,Gajapati,Parlakhemundi,Coconut,Other,21/02/2021,1400,1600,1600
+Odisha,Gajapati,Parlakhemundi,Coconut,Other,22/02/2021,1200,1400,1400
+Odisha,Gajapati,Parlakhemundi,Coconut,Other,08/03/2021,1600,2000,2000
+Odisha,Gajapati,Parlakhemundi,Coconut,Other,09/03/2021,1300,1400,1400
+Odisha,Gajapati,Parlakhemundi,Coconut,Other,11/03/2021,1600,1800,1800
+Odisha,Ganjam,Digapahandi,Coconut,Other,05/01/2021,2200,2500,2400
+Odisha,Ganjam,Digapahandi,Coconut,Other,13/01/2021,2100,2500,2300
+Odisha,Ganjam,Digapahandi,Coconut,Other,21/01/2021,2200,2500,2400
+Odisha,Ganjam,Digapahandi,Coconut,Other,30/01/2021,2200,2600,2400
+Odisha,Ganjam,Digapahandi,Coconut,Other,05/02/2021,2200,2600,2500
+Odisha,Ganjam,Digapahandi,Coconut,Other,12/02/2021,2200,2500,2400
+Odisha,Ganjam,Digapahandi,Coconut,Other,15/02/2021,2200,2500,2400
+Odisha,Ganjam,Digapahandi,Coconut,Other,16/02/2021,2200,2600,2400
+Odisha,Ganjam,Digapahandi,Coconut,Other,21/02/2021,2200,2600,2400
+Odisha,Ganjam,Digapahandi,Coconut,Other,23/02/2021,2400,2800,2500
+Odisha,Ganjam,Digapahandi,Coconut,Other,02/03/2021,2200,2600,2400
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,01/01/2021,3700,3900,3800
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,02/01/2021,3700,3900,3800
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,03/01/2021,3700,3900,3800
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,04/01/2021,3700,3900,3800
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,05/01/2021,3700,3900,3800
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,09/01/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,10/01/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,11/01/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,16/01/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,17/01/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,18/01/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,19/01/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,22/01/2021,3700,3900,3800
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,23/01/2021,3700,3900,3800
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,24/01/2021,3700,3900,3800
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,25/01/2021,3700,3900,3800
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,27/01/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,29/01/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,30/01/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,31/01/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,05/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,06/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,07/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,08/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,09/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,11/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,12/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,13/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,14/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,15/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,16/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,18/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,19/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,20/02/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,21/02/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,22/02/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,23/02/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,24/02/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,27/02/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,28/02/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,01/03/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,02/03/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,03/03/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,04/03/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,05/03/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,07/03/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,08/03/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,09/03/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,10/03/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Anaimalai,Coconut,Other,11/03/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Chengeri,Coconut,Big,10/03/2021,2200,2400,2300
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,02/02/2021,3000,3500,3250
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,03/02/2021,3000,3500,3250
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,04/02/2021,3000,3500,3250
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,05/02/2021,3000,3500,3250
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,10/02/2021,3000,3500,3250
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,11/02/2021,2000,3000,2500
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,15/02/2021,2000,3000,2500
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,16/02/2021,3000,3650,3500
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,22/02/2021,3000,3500,3250
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,24/02/2021,3000,3500,3250
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,26/02/2021,3000,3500,3250
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,27/02/2021,2500,3000,2750
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,02/03/2021,2000,2500,2250
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,03/03/2021,2500,3000,2750
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,08/03/2021,2500,3000,2750
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,09/03/2021,2500,3000,2750
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,10/03/2021,2500,3000,2750
+"Tamil Nadu",Coimbatore,Karamadai,Coconut,Other,11/03/2021,2500,3000,2750
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",01/01/2021,2800,4400,3800
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",02/01/2021,2800,4500,3800
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",03/01/2021,2800,4500,3800
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",04/01/2021,2800,4500,3800
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",05/01/2021,2800,4400,3800
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",06/01/2021,2400,3600,3100
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",08/01/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",09/01/2021,2400,4200,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",10/01/2021,2400,4200,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",11/01/2021,2400,4200,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",12/01/2021,2800,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",15/01/2021,2400,4100,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",16/01/2021,2400,4100,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",17/01/2021,2400,4100,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",18/01/2021,2400,4100,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",19/01/2021,2800,3900,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",20/01/2021,2800,3900,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",22/01/2021,2800,3900,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",23/01/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",24/01/2021,2800,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",25/01/2021,2400,3800,3200
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",26/01/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",27/01/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",28/01/2021,2400,3900,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",29/01/2021,2400,3900,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",30/01/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",31/01/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",01/02/2021,2800,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",02/02/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",03/02/2021,2400,3900,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",05/02/2021,2450,4100,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",06/02/2021,2450,4100,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",07/02/2021,2450,3900,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",08/02/2021,2450,3900,3200
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",09/02/2021,2400,3900,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",10/02/2021,2400,4100,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",12/02/2021,2450,4100,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",13/02/2021,2400,4100,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",14/02/2021,2400,4100,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",15/02/2021,2400,4100,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",16/02/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",17/02/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",18/02/2021,2400,4100,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",19/02/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",20/02/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",21/02/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",22/02/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",23/02/2021,2400,4100,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",24/02/2021,2400,4000,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",26/02/2021,2500,4100,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",27/02/2021,2500,4100,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",28/02/2021,2800,3900,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",01/03/2021,2500,4100,3800
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",02/03/2021,2500,4000,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",03/03/2021,2400,3900,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",04/03/2021,2400,3900,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",05/03/2021,2400,3900,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",06/03/2021,2500,4100,3500
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",07/03/2021,2500,4100,3500
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",08/03/2021,2500,4100,3500
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",09/03/2021,2400,3900,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",10/03/2021,2400,3900,3600
+"Tamil Nadu",Coimbatore,Kianthukadavu,Coconut,"Grade- II",11/03/2021,2400,3900,3600
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,01/01/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,02/01/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,03/01/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,04/01/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,05/01/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,06/01/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,07/01/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,08/01/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,09/01/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,10/01/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,11/01/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,12/01/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,13/01/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,14/01/2021,3000,3300,3200
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,15/01/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,16/01/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,17/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,18/01/2021,3200,3400,3300
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,19/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,20/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,21/01/2021,3300,3400,3350
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,22/01/2021,3000,3200,3100
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,23/01/2021,3100,3400,3200
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,24/01/2021,3100,3400,3200
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,25/01/2021,3100,3400,3200
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,26/01/2021,3200,3400,3300
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,27/01/2021,3200,3400,3300
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,28/01/2021,3000,3200,3100
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,29/01/2021,3200,3400,3300
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,30/01/2021,3200,3600,3300
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,31/01/2021,3200,3400,3300
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,01/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,02/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,03/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,04/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,05/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,06/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,08/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,09/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,10/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,11/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,12/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,13/02/2021,3300,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,14/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,15/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,16/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,17/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,18/02/2021,3000,3600,3300
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,19/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,20/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,21/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,22/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,23/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,24/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,25/02/2021,3200,3700,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,26/02/2021,3400,3500,3450
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,27/02/2021,3400,3500,3450
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,28/02/2021,3400,3500,3450
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,01/03/2021,3400,3500,3450
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,02/03/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,03/03/2021,3400,3500,3450
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,04/03/2021,3000,3600,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,05/03/2021,3200,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,06/03/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,07/03/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,08/03/2021,3300,3600,3450
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,09/03/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,10/03/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Madathukulam,Coconut,Coconut,11/03/2021,3400,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,05/01/2021,3700,3900,3800
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,06/01/2021,3700,3900,3800
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,07/01/2021,3700,3900,3800
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,08/01/2021,3700,3900,3800
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,11/01/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,12/01/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,13/01/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,18/01/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,19/01/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,20/01/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,21/01/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,22/01/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,25/01/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,27/01/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,29/01/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,02/02/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,03/02/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,04/02/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,05/02/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,08/02/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,09/02/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,10/02/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,11/02/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,12/02/2021,3800,4100,3900
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,15/02/2021,3800,4100,3900
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,16/02/2021,3800,4100,3900
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,17/02/2021,3700,4200,4000
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,18/02/2021,3600,4000,3800
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,19/02/2021,3600,4000,3800
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,22/02/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,23/02/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,24/02/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,25/02/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,26/02/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,27/02/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,02/03/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,03/03/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,04/03/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,05/03/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,08/03/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,09/03/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Negamam,Coconut,Other,10/03/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,04/01/2021,2300,2500,2400
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,05/01/2021,2280,2480,2380
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,06/01/2021,2310,2510,2410
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,07/01/2021,2310,2510,2410
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,08/01/2021,2290,2490,2390
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,11/01/2021,2240,2440,2340
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,12/01/2021,2270,2470,2370
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,13/01/2021,2250,2450,2350
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,18/01/2021,2300,2500,2400
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,20/01/2021,2310,2510,2410
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,21/01/2021,2290,2490,2390
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,22/01/2021,2270,2470,2370
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,25/01/2021,2240,2440,2340
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,27/01/2021,2250,2450,2350
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,29/01/2021,2310,2510,2410
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,03/02/2021,2260,2460,2360
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,04/02/2021,2290,2490,2390
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,05/02/2021,2270,2470,2370
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,08/02/2021,2310,2510,2410
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,09/02/2021,2320,2520,2420
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,11/02/2021,2280,2480,2380
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,12/02/2021,2290,2490,2390
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,16/02/2021,2250,2450,2350
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,17/02/2021,2300,2500,2400
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,18/02/2021,2280,2480,2380
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,19/02/2021,2290,2490,2390
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,22/02/2021,2300,2500,2400
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,23/02/2021,2260,2460,2360
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,24/02/2021,2280,2480,2380
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,25/02/2021,2250,2450,2350
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,26/02/2021,2310,2510,2410
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,02/03/2021,2280,2480,2380
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,04/03/2021,2250,2450,2350
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,05/03/2021,2240,2440,2340
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,08/03/2021,2260,2460,2360
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,09/03/2021,2280,2480,2380
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,10/03/2021,2310,2510,2410
+"Tamil Nadu",Coimbatore,Palladam,Coconut,Other,11/03/2021,2250,2450,2350
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,01/01/2021,2700,4400,3800
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,02/01/2021,2700,4400,3800
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,03/01/2021,2700,4400,3800
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,04/01/2021,2700,4400,3800
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,06/01/2021,2400,3800,3200
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,10/01/2021,2800,3800,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,15/01/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,16/01/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,17/01/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,19/01/2021,2400,3800,3200
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,23/01/2021,2400,3800,3200
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,24/01/2021,2400,3800,3200
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,26/01/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,27/01/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,29/01/2021,2400,3800,3200
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,30/01/2021,2400,3800,3200
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,31/01/2021,2400,3800,3200
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,06/02/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,07/02/2021,2400,3600,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,11/02/2021,2400,3600,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,13/02/2021,2400,3900,3600
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,14/02/2021,2400,3900,3600
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,15/02/2021,2400,4100,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,20/02/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,21/02/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,22/02/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,23/02/2021,2400,3800,3500
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,24/02/2021,2400,3800,3500
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,25/02/2021,2400,3800,3500
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,26/02/2021,2400,3800,3500
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,27/02/2021,2400,3800,3500
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,28/02/2021,2800,3800,3600
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,01/03/2021,2400,3800,3600
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,02/03/2021,2800,3800,3600
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,04/03/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,05/03/2021,2400,3800,3600
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,06/03/2021,2400,3900,3600
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,07/03/2021,2400,3900,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,08/03/2021,2400,3900,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,09/03/2021,2400,3900,3600
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,10/03/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Pollachi,Coconut,Other,11/03/2021,2400,3800,3400
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,05/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,06/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,07/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,08/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,11/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,13/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,18/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,20/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,21/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,22/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,25/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,27/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,28/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,29/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,30/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,02/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,03/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,04/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,05/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,06/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,08/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,10/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,11/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,12/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,13/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,15/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,16/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,19/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,22/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,23/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,24/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,25/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,26/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,27/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,04/03/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,06/03/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,08/03/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,09/03/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,10/03/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pongalur,Coconut,Other,11/03/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,05/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,06/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,07/01/2021,3300,3900,3600
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,08/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,09/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,11/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,12/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,13/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,14/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,15/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,18/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,19/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,20/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,21/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,22/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,23/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,25/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,26/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,27/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,28/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,29/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,30/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,03/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,04/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,05/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,06/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,08/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,09/02/2021,3200,3400,3300
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,10/02/2021,3200,3400,3300
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,11/02/2021,3200,3400,3300
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,12/02/2021,3200,3400,3300
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,15/02/2021,3200,3400,3300
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,16/02/2021,3200,3400,3300
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,17/02/2021,3200,3400,3300
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,18/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,19/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,20/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,22/02/2021,3400,3600,3500
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,23/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,24/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,25/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,26/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,27/02/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,03/03/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,04/03/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,05/03/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,06/03/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,08/03/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,09/03/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,10/03/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Pudupalayam,Coconut,Coconut,11/03/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,04/01/2021,2000,2200,2100
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,05/01/2021,1850,2050,1950
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,06/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,07/01/2021,1850,2050,1950
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,08/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,09/01/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,11/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,12/01/2021,1850,2050,1950
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,13/01/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,18/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,19/01/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,20/01/2021,1850,2050,1950
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,21/01/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,22/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,25/01/2021,1850,2050,1950
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,27/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,29/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,30/01/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,01/02/2021,1850,2050,1950
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,02/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,03/02/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,04/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,05/02/2021,1850,2050,1950
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,08/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,09/02/2021,1850,2050,1950
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,10/02/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,11/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,12/02/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,15/02/2021,1850,2050,1950
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,16/02/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,17/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,18/02/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,19/02/2021,1850,2050,1950
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,22/02/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,23/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,24/02/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,25/02/2021,1850,2050,1950
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,26/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,27/02/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,01/03/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,02/03/2021,1850,2050,1950
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,03/03/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,04/03/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,05/03/2021,1850,2050,1950
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,08/03/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,09/03/2021,1800,2000,1900
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,10/03/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thiruppur,Coconut,Coconut,11/03/2021,1900,2100,2000
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,04/01/2021,3500,3700,3600
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,05/01/2021,3600,3800,3700
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,06/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,11/01/2021,3300,3500,3400
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,12/01/2021,3000,3400,3200
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,13/01/2021,3100,3300,3200
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,15/01/2021,3000,3300,3100
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,16/01/2021,3000,3400,3200
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,17/01/2021,3000,3400,3200
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,18/01/2021,3000,3300,3100
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,19/01/2021,3100,3400,3300
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,20/01/2021,2800,3200,3000
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,21/01/2021,2700,3200,3000
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,22/01/2021,2700,3100,3000
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,23/01/2021,2800,3300,3000
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,24/01/2021,2900,3200,3000
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,25/01/2021,3000,3400,3200
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,22/02/2021,3000,3400,3200
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,23/02/2021,2800,3400,3000
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,24/02/2021,2900,3500,3100
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,25/02/2021,2900,3500,3100
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,26/02/2021,3000,3600,3200
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,27/02/2021,2900,3500,3200
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,01/03/2021,3000,3300,3200
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,02/03/2021,3000,3400,3200
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,03/03/2021,2950,3450,3200
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,04/03/2021,3000,3500,3200
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,05/03/2021,3000,3500,3300
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,06/03/2021,3000,3500,3200
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,08/03/2021,3200,3600,3400
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,09/03/2021,3200,3600,3400
+"Tamil Nadu",Coimbatore,Thondamuthur,Coconut,Other,10/03/2021,3300,3600,3400
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,01/01/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,02/01/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,03/01/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,04/01/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,05/01/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,06/01/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,07/01/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,08/01/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,09/01/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,10/01/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,11/01/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,12/01/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,13/01/2021,2600,2700,2650
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,15/01/2021,2400,2500,2450
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,16/01/2021,2400,2500,2450
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,17/01/2021,2400,2500,2450
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,18/01/2021,2400,2500,2450
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,19/01/2021,2410,2500,2460
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,20/01/2021,2550,2800,2600
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,21/01/2021,2500,2700,2600
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,22/01/2021,2400,2900,2600
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,25/01/2021,2500,2750,2600
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,26/01/2021,2650,2750,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,27/01/2021,2700,2780,2740
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,28/01/2021,2500,2700,2600
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,29/01/2021,2600,2750,2650
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,30/01/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,31/01/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,01/02/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,02/02/2021,2600,2800,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,03/02/2021,2500,2700,2650
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,04/02/2021,2500,2600,2550
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,05/02/2021,2450,2700,2580
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,06/02/2021,2600,2800,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,07/02/2021,2650,2800,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,08/02/2021,2500,2800,2650
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,09/02/2021,2650,2750,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,10/02/2021,1650,1750,1700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,11/02/2021,2500,2800,2650
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,12/02/2021,2500,2700,2650
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,13/02/2021,2650,2750,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,14/02/2021,2650,2750,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,15/02/2021,2600,2800,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,16/02/2021,2650,2750,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,17/02/2021,2700,2800,2750
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,18/02/2021,2500,2800,2600
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,19/02/2021,2400,2700,2550
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,20/02/2021,2600,2700,2650
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,21/02/2021,2600,2700,2650
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,22/02/2021,2600,2700,2650
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,23/02/2021,1600,1700,1650
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,24/02/2021,1600,1700,1650
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,25/02/2021,2600,2800,2650
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,26/02/2021,2600,2800,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,27/02/2021,2600,2800,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,28/02/2021,2600,2800,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,01/03/2021,2600,2800,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,02/03/2021,2600,2800,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,03/03/2021,2650,2750,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,04/03/2021,2600,2800,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,05/03/2021,2600,2800,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,06/03/2021,2600,2750,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,07/03/2021,2600,2750,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,08/03/2021,2600,2800,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,09/03/2021,2550,2700,2600
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,10/03/2021,2650,2750,2700
+"Tamil Nadu",Coimbatore,Udumalpet,Coconut,Other,11/03/2021,2600,2800,2700
+"Tamil Nadu",Dindigul,Gopalpatti,Coconut,Other,27/02/2021,1100,2100,1600
+"Tamil Nadu",Dindigul,Gopalpatti,Coconut,Other,08/03/2021,1100,1600,1500
+"Tamil Nadu",Dindigul,Natham,Coconut,Coconut,09/03/2021,1500,1800,1600
+"Tamil Nadu",Dindigul,Natham,Coconut,Medium,23/02/2021,2500,3020,2800
+"Tamil Nadu",Dindigul,Natham,Coconut,Medium,26/02/2021,2500,3050,2800
+"Tamil Nadu",Dindigul,Natham,Coconut,Medium,27/02/2021,2850,3250,3050
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,05/01/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,06/01/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,07/01/2021,2600,3000,2600
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,08/01/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,11/01/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,12/01/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,18/01/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,19/01/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,20/01/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,21/01/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,22/01/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,25/01/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,27/01/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,29/01/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,02/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,03/02/2021,2600,3000,2600
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,04/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,05/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,06/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,08/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,09/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,10/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,11/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,12/02/2021,2600,3000,2600
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,15/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,16/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,17/02/2021,2600,3000,2600
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,18/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,19/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,22/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,23/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,24/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,26/02/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,27/02/2021,2600,3000,2600
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,02/03/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,03/03/2021,2600,3000,3000
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,05/03/2021,2600,3000,2600
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,08/03/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,09/03/2021,2500,3000,2500
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,10/03/2021,2600,3000,2600
+"Tamil Nadu",Dindigul,Oddunchairum,Coconut,Other,11/03/2021,2500,3000,2500
+"Tamil Nadu",Erode,Anthiyur,Coconut,Other,05/01/2021,610,1700,1100
+"Tamil Nadu",Erode,Anthiyur,Coconut,Other,12/01/2021,521,2401,1421
+"Tamil Nadu",Erode,Anthiyur,Coconut,Other,27/01/2021,811,2400,1601
+"Tamil Nadu",Erode,Anthiyur,Coconut,Other,02/02/2021,841,2511,1701
+"Tamil Nadu",Erode,Anthiyur,Coconut,Other,09/02/2021,741,2201,1621
+"Tamil Nadu",Erode,Anthiyur,Coconut,Other,16/02/2021,609,2210,1409
+"Tamil Nadu",Erode,Anthiyur,Coconut,Other,02/03/2021,659,2501,1519
+"Tamil Nadu",Erode,Avalpoonthurai,Coconut,Coconut,02/01/2021,3033,4001,3989
+"Tamil Nadu",Erode,Avalpoonthurai,Coconut,Coconut,07/01/2021,2809,4025,3309
+"Tamil Nadu",Erode,Avalpoonthurai,Coconut,Coconut,09/01/2021,2539,3669,3609
+"Tamil Nadu",Erode,Avalpoonthurai,Coconut,Coconut,21/01/2021,3465,3845,3800
+"Tamil Nadu",Erode,Avalpoonthurai,Coconut,Coconut,23/01/2021,2941,3905,3555
+"Tamil Nadu",Erode,Avalpoonthurai,Coconut,Coconut,28/01/2021,3039,4050,3889
+"Tamil Nadu",Erode,Avalpoonthurai,Coconut,Coconut,04/02/2021,3205,4100,3779
+"Tamil Nadu",Erode,Avalpoonthurai,Coconut,Coconut,06/02/2021,3309,4300,4169
+"Tamil Nadu",Erode,Avalpoonthurai,Coconut,Coconut,11/02/2021,3259,4259,4239
+"Tamil Nadu",Erode,Avalpoonthurai,Coconut,Coconut,13/02/2021,3490,4445,4229
+"Tamil Nadu",Erode,Avalpoonthurai,Coconut,Coconut,20/02/2021,3495,4610,4554
+"Tamil Nadu",Erode,Avalpoonthurai,Coconut,Coconut,25/02/2021,3695,4379,4105
+"Tamil Nadu",Erode,Bhavani,Coconut,Other,07/01/2021,3500,4100,3850
+"Tamil Nadu",Erode,Bhavani,Coconut,Other,08/01/2021,2900,3900,3650
+"Tamil Nadu",Erode,Bhavani,Coconut,Other,13/01/2021,3400,3900,3650
+"Tamil Nadu",Erode,Bhavani,Coconut,Other,20/01/2021,3200,3950,3900
+"Tamil Nadu",Erode,Bhavani,Coconut,Other,15/02/2021,2850,3900,3700
+"Tamil Nadu",Erode,Bhavani,Coconut,Other,23/02/2021,2850,3900,3800
+"Tamil Nadu",Erode,Bhavani,Coconut,Other,08/03/2021,2750,3950,3900
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,04/01/2021,2615,3825,3655
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,05/01/2021,2615,3820,3655
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,06/01/2021,2615,3825,3655
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,07/01/2021,2615,3820,3655
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,08/01/2021,2615,3820,3655
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,09/01/2021,2915,4065,3565
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,11/01/2021,2915,4065,3565
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,12/01/2021,2915,4065,3565
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,13/01/2021,2915,4065,3565
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,18/01/2021,2915,4065,3565
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,19/01/2021,3045,3525,3215
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,20/01/2021,3045,3525,3215
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,21/01/2021,3045,3525,3215
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,22/01/2021,3045,3525,3215
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,25/01/2021,3210,3820,3555
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,27/01/2021,3210,3820,3555
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,29/01/2021,3210,3820,3555
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,01/02/2021,2585,3500,3175
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,02/02/2021,2585,3500,3175
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,03/02/2021,2585,3500,3175
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,04/02/2021,2585,3500,3175
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,05/02/2021,2585,3500,3175
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,06/02/2021,3125,3865,3765
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,08/02/2021,3125,3865,3765
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,09/02/2021,3125,3865,3765
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,11/02/2021,3125,3865,3765
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,12/02/2021,3125,3865,3765
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,13/02/2021,3000,3945,3810
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,15/02/2021,3000,3945,3810
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,16/02/2021,3000,3945,3810
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,17/02/2021,3000,3945,3810
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,18/02/2021,3000,3945,3810
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,19/02/2021,3000,3945,3810
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,20/02/2021,3165,3965,3925
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,22/02/2021,3165,3965,3925
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,23/02/2021,3165,3965,3925
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,24/02/2021,3165,3965,3925
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,25/02/2021,3165,3965,3925
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,26/02/2021,3165,3965,3925
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,27/02/2021,3165,3635,3615
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,01/03/2021,3165,3635,3615
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,02/03/2021,3165,3965,3925
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,03/03/2021,3165,3635,3615
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,04/03/2021,3165,3635,3615
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,05/03/2021,3165,3635,3615
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,06/03/2021,3025,3815,3625
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,08/03/2021,3025,3815,3625
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,09/03/2021,3025,3815,3625
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,10/03/2021,3025,3815,3625
+"Tamil Nadu",Erode,Dharapuram,Coconut,Big,11/03/2021,3025,3815,3625
+"Tamil Nadu",Erode,Kangeyam,Coconut,Coconut,24/02/2021,4100,4200,4140
+"Tamil Nadu",Erode,Kangeyam,Coconut,Coconut,25/02/2021,4100,4200,4150
+"Tamil Nadu",Erode,Kangeyam,Coconut,Coconut,26/02/2021,4100,4200,4150
+"Tamil Nadu",Erode,Kangeyam,Coconut,Coconut,28/02/2021,4100,4200,4150
+"Tamil Nadu",Erode,Kangeyam,Coconut,Coconut,01/03/2021,4100,4200,4150
+"Tamil Nadu",Erode,Kangeyam,Coconut,Coconut,02/03/2021,4100,4200,4150
+"Tamil Nadu",Erode,Kangeyam,Coconut,Coconut,03/03/2021,4100,4200,4130
+"Tamil Nadu",Erode,Kangeyam,Coconut,Coconut,04/03/2021,4100,4200,4150
+"Tamil Nadu",Erode,Kangeyam,Coconut,Coconut,07/03/2021,4100,4250,4150
+"Tamil Nadu",Erode,Kangeyam,Coconut,Coconut,08/03/2021,4100,4200,4150
+"Tamil Nadu",Erode,Kangeyam,Coconut,Coconut,09/03/2021,3920,4250,4100
+"Tamil Nadu",Erode,Kangeyam,Coconut,Coconut,10/03/2021,3800,4250,4100
+"Tamil Nadu",Erode,Kangeyam,Coconut,Coconut,11/03/2021,3800,4200,4100
+"Tamil Nadu",Erode,Kodumudi,Coconut,Other,04/01/2021,2265,3750,3325
+"Tamil Nadu",Erode,Kodumudi,Coconut,Other,11/01/2021,2486,3515,3000
+"Tamil Nadu",Erode,Kodumudi,Coconut,Other,18/01/2021,2880,3305,3105
+"Tamil Nadu",Erode,Kodumudi,Coconut,Other,25/01/2021,2869,3619,3369
+"Tamil Nadu",Erode,Kodumudi,Coconut,Other,01/02/2021,2565,3565,3465
+"Tamil Nadu",Erode,Kodumudi,Coconut,Other,08/02/2021,3069,4025,3615
+"Tamil Nadu",Erode,Kodumudi,Coconut,Other,15/02/2021,2879,3691,3465
+"Tamil Nadu",Erode,Kodumudi,Coconut,Other,22/02/2021,2516,3685,3469
+"Tamil Nadu",Erode,Kodumudi,Coconut,Other,01/03/2021,3565,4215,3905
+"Tamil Nadu",Erode,Kodumudi,Coconut,Other,08/03/2021,3015,3825,3560
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,04/01/2021,2600,3800,3400
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,05/01/2021,2600,3800,3400
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,06/01/2021,2600,3800,3600
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,07/01/2021,2800,3900,3600
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,08/01/2021,2700,3800,3500
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,11/01/2021,2900,4000,3500
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,12/01/2021,2600,4100,3500
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,13/01/2021,2900,4000,3500
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,18/01/2021,3000,3500,3200
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,19/01/2021,3000,3500,3200
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,20/01/2021,2900,3600,3400
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,21/01/2021,2900,3600,3400
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,22/01/2021,2800,3500,3100
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,25/01/2021,3200,3800,3600
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,27/01/2021,3100,3600,3350
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,29/01/2021,3200,3800,3600
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,02/02/2021,2500,3500,3200
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,03/02/2021,2500,3500,3150
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,04/02/2021,2600,3600,3180
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,05/02/2021,2500,3500,3180
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,08/02/2021,3100,3800,3550
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,09/02/2021,3100,3800,3560
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,10/02/2021,3200,3800,3600
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,11/02/2021,3200,3800,3580
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,12/02/2021,3200,3700,3510
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,15/02/2021,3000,3800,3600
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,16/02/2021,3200,3800,3560
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,17/02/2021,3000,3600,3300
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,18/02/2021,3200,3800,3600
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,19/02/2021,3100,3800,3540
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,22/02/2021,3100,3900,3700
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,23/02/2021,3100,3800,3540
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,24/02/2021,3200,3700,3400
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,25/02/2021,3200,3800,3620
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,26/02/2021,3200,3800,3660
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,27/02/2021,3200,3700,3530
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,02/03/2021,3100,3600,3450
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,03/03/2021,3100,3700,3400
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,04/03/2021,3200,3700,3500
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,05/03/2021,3200,3700,3620
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,08/03/2021,3000,3800,3600
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,09/03/2021,3000,3800,3450
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,10/03/2021,3200,3800,3600
+"Tamil Nadu",Erode,Kunnathur,Coconut,Coconut,11/03/2021,3200,3800,3650
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,06/01/2021,2615,3820,3655
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,07/01/2021,2689,3699,3615
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,11/01/2021,2915,4065,3565
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,18/01/2021,3045,3525,3215
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,20/01/2021,2869,3737,3610
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,22/01/2021,3340,3910,3625
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,25/01/2021,3210,3820,3555
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,29/01/2021,3039,4050,3889
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,04/02/2021,3205,4100,3779
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,06/02/2021,3309,4300,4169
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,08/02/2021,3125,3865,3765
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,10/02/2021,3069,4025,3615
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,12/02/2021,3110,4185,3710
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,15/02/2021,3000,3945,3810
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,17/02/2021,2879,3691,3465
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,19/02/2021,3061,4269,3919
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,22/02/2021,3165,3965,3925
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,24/02/2021,2516,3685,3469
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,26/02/2021,3695,4379,4105
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,03/03/2021,3160,3892,3871
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,05/03/2021,3017,4012,3819
+"Tamil Nadu",Erode,Muthur,Coconut,Coconut,08/03/2021,3025,3815,3625
+"Tamil Nadu",Erode,Sathyamangalam,Coconut,Other,15/02/2021,3600,4600,4100
+"Tamil Nadu",Erode,Thalavadi,Coconut,Other,01/01/2021,1859,2359,2109
+"Tamil Nadu",Erode,Thalavadi,Coconut,Other,08/01/2021,1719,2229,1974
+"Tamil Nadu",Erode,Thalavadi,Coconut,Other,22/01/2021,1310,2370,1840
+"Tamil Nadu",Erode,Thalavadi,Coconut,Other,04/02/2021,8600,12255,10428
+"Tamil Nadu",Erode,Thalavadi,Coconut,Other,11/02/2021,9100,12565,10832
+"Tamil Nadu",Erode,Thalavadi,Coconut,Other,19/02/2021,1760,2660,2210
+"Tamil Nadu",Erode,Thalavadi,Coconut,Other,26/02/2021,1990,2500,2245
+"Tamil Nadu",Erode,Thalavadi,Coconut,Other,05/03/2021,1710,2710,2210
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,04/01/2021,1900,2070,1985
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,05/01/2021,1900,2070,1985
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,06/01/2021,1900,2070,1985
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,07/01/2021,1900,2070,1985
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,08/01/2021,1900,2070,1985
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,11/01/2021,1900,2070,1985
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,12/01/2021,1900,2070,1985
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,13/01/2021,1900,2070,1985
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,16/01/2021,1900,2070,1985
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,18/01/2021,1850,2020,1935
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,19/01/2021,1850,2020,1935
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,20/01/2021,1850,2020,1935
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,21/01/2021,1850,2020,1935
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,22/01/2021,1850,2020,1935
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,25/01/2021,1850,2020,1935
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,27/01/2021,1850,2020,1935
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,05/02/2021,1860,2030,1945
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,08/02/2021,1860,2030,1945
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,12/02/2021,1860,2030,1945
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,15/02/2021,1880,2050,1965
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,17/02/2021,1860,2030,1945
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,18/02/2021,1860,2030,1945
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,19/02/2021,1860,2030,1945
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,20/02/2021,1860,2030,1945
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,22/02/2021,1880,2050,1965
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,23/02/2021,1880,2050,1965
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,24/02/2021,1880,2050,1965
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,25/02/2021,1880,2050,1965
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,26/02/2021,1880,2050,1965
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,08/03/2021,1880,2050,1965
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,09/03/2021,1880,2050,1965
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,10/03/2021,1880,2050,1965
+"Tamil Nadu",Madurai,Melur,Coconut,Medium,11/03/2021,1880,2050,1965
+"Tamil Nadu",Nagapattinam,Mailaduthurai,Coconut,Grade-III,04/01/2021,2800,3000,2900
+"Tamil Nadu",Nagapattinam,Mailaduthurai,Coconut,Grade-III,06/01/2021,2800,3000,2900
+"Tamil Nadu",Nagapattinam,Mailaduthurai,Coconut,Grade-III,07/01/2021,2800,3000,2900
+"Tamil Nadu",Nagapattinam,Mailaduthurai,Coconut,Grade-III,09/01/2021,2800,3000,2900
+"Tamil Nadu",Nagapattinam,Mailaduthurai,Coconut,Grade-III,11/01/2021,2800,3000,2900
+"Tamil Nadu",Nagapattinam,Mailaduthurai,Coconut,Grade-III,19/01/2021,2800,3000,2900
+"Tamil Nadu",Nagapattinam,Mailaduthurai,Coconut,Grade-III,20/01/2021,2800,3000,2900
+"Tamil Nadu",Nagapattinam,Mailaduthurai,Coconut,Grade-III,21/01/2021,2800,3000,2900
+"Tamil Nadu",Nagapattinam,Mailaduthurai,Coconut,Grade-III,22/01/2021,2800,3000,2900
+"Tamil Nadu","Nagercoil (Kannyiakumari)","Monday Market",Coconut,Coconut,08/03/2021,3800,4000,3900
+"Tamil Nadu","Nagercoil (Kannyiakumari)",Vadaseri,Coconut,Coconut,23/02/2021,3800,4000,3900
+"Tamil Nadu","Nagercoil (Kannyiakumari)",Vadaseri,Coconut,Coconut,26/02/2021,3800,4000,3900
+"Tamil Nadu",Namakkal,Namakkal,Coconut,Other,27/01/2021,2350,3110,2810
+"Tamil Nadu",Namakkal,Tiruchengode,Coconut,Coconut,21/01/2021,2120,2685,2460
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,04/01/2021,2300,3700,3100
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,05/01/2021,2250,3300,2500
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,06/01/2021,2200,3100,2600
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,07/01/2021,2200,3300,2900
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,11/01/2021,2750,3400,3000
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,12/01/2021,2200,3000,2500
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,13/01/2021,2200,3000,2500
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,18/01/2021,2200,3000,2500
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,19/01/2021,2200,3000,2500
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,20/01/2021,2000,2450,2150
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,29/01/2021,1350,3110,1810
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,01/02/2021,2350,3110,2810
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,02/02/2021,2350,3110,2810
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,03/02/2021,2800,3110,3010
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,04/02/2021,2800,3110,3010
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,11/02/2021,3200,3210,3200
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,17/02/2021,2000,3250,3100
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,18/02/2021,2000,3250,3100
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,24/02/2021,3079,3550,3129
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,03/03/2021,3000,3800,3510
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,04/03/2021,3000,3800,3510
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,10/03/2021,3019,3620,3310
+"Tamil Nadu",Namakkal,Velur,Coconut,Other,11/03/2021,3019,3620,3310
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,02/01/2021,2010,2300,2155
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,04/01/2021,2010,2300,2155
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,05/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,06/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,07/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,08/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,09/01/2021,2020,2323,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,11/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,12/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,13/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,18/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,19/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,20/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,21/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,22/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,23/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,25/01/2021,2020,2320,2175
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,27/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,29/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,30/01/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,01/02/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,02/02/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,03/02/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,04/02/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,05/02/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,06/02/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,08/02/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,10/02/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,11/02/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,12/02/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,13/02/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,15/02/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,16/02/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,17/02/2021,2020,2320,2170
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,18/02/2021,2030,2380,2255
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,19/02/2021,2030,2380,2255
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,20/02/2021,2030,2380,2255
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,22/02/2021,2030,2470,2250
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,24/02/2021,2030,2470,2250
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,25/02/2021,2030,2470,2250
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,26/02/2021,2030,2490,2250
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,27/02/2021,2030,2470,2250
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,01/03/2021,2030,2470,2250
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,02/03/2021,2030,2470,2250
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,03/03/2021,2030,2470,2250
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,05/03/2021,2060,2500,2280
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,06/03/2021,2030,2470,2250
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,08/03/2021,2060,2500,2280
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,09/03/2021,2060,2500,2280
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,10/03/2021,2060,2500,2280
+"Tamil Nadu",Salem,Karumanturai,Coconut,Other,11/03/2021,2060,2500,2280
+"Tamil Nadu",Salem,Kolathur,Coconut,Other,24/02/2021,1000,2000,1500
+"Tamil Nadu",Salem,Kolathur,Coconut,Other,25/02/2021,2200,2400,2300
+"Tamil Nadu",Salem,Omalur,Coconut,Other,02/01/2021,1420,2020,1720
+"Tamil Nadu",Salem,Omalur,Coconut,Other,04/01/2021,1430,2030,1730
+"Tamil Nadu",Salem,Omalur,Coconut,Other,05/01/2021,1440,2040,1740
+"Tamil Nadu",Salem,Omalur,Coconut,Other,06/01/2021,1450,2050,1750
+"Tamil Nadu",Salem,Omalur,Coconut,Other,07/01/2021,1445,2045,1745
+"Tamil Nadu",Salem,Omalur,Coconut,Other,08/01/2021,1435,2035,1735
+"Tamil Nadu",Salem,Omalur,Coconut,Other,09/01/2021,1435,2035,1735
+"Tamil Nadu",Salem,Omalur,Coconut,Other,12/01/2021,1415,2015,1715
+"Tamil Nadu",Salem,Omalur,Coconut,Other,13/01/2021,1405,2005,1705
+"Tamil Nadu",Salem,Omalur,Coconut,Other,18/01/2021,1400,2000,1700
+"Tamil Nadu",Salem,Omalur,Coconut,Other,19/01/2021,1410,2010,1710
+"Tamil Nadu",Salem,Omalur,Coconut,Other,21/01/2021,1430,2030,1730
+"Tamil Nadu",Salem,Omalur,Coconut,Other,23/01/2021,1450,2050,1750
+"Tamil Nadu",Salem,Omalur,Coconut,Other,30/01/2021,1435,2035,1735
+"Tamil Nadu",Salem,Omalur,Coconut,Other,01/02/2021,1425,2025,1725
+"Tamil Nadu",Salem,Omalur,Coconut,Other,02/02/2021,1415,2015,1715
+"Tamil Nadu",Salem,Omalur,Coconut,Other,03/02/2021,1405,2005,1705
+"Tamil Nadu",Salem,Omalur,Coconut,Other,04/02/2021,1450,2050,1750
+"Tamil Nadu",Salem,Omalur,Coconut,Other,05/02/2021,1455,2055,1755
+"Tamil Nadu",Salem,Omalur,Coconut,Other,08/02/2021,1445,2045,1745
+"Tamil Nadu",Salem,Omalur,Coconut,Other,09/02/2021,1435,2035,1735
+"Tamil Nadu",Salem,Omalur,Coconut,Other,10/02/2021,1425,2025,1725
+"Tamil Nadu",Salem,Omalur,Coconut,Other,11/02/2021,1415,2015,1715
+"Tamil Nadu",Salem,Omalur,Coconut,Other,12/02/2021,1405,2005,1705
+"Tamil Nadu",Salem,Omalur,Coconut,Other,13/02/2021,1405,2005,1705
+"Tamil Nadu",Salem,Omalur,Coconut,Other,15/02/2021,1420,2010,1720
+"Tamil Nadu",Salem,Omalur,Coconut,Other,17/02/2021,1430,2030,1730
+"Tamil Nadu",Salem,Omalur,Coconut,Other,18/02/2021,1440,2040,1740
+"Tamil Nadu",Salem,Omalur,Coconut,Other,19/02/2021,1450,2050,1750
+"Tamil Nadu",Salem,Omalur,Coconut,Other,20/02/2021,1450,2050,1750
+"Tamil Nadu",Salem,Omalur,Coconut,Other,22/02/2021,1455,2055,1755
+"Tamil Nadu",Salem,Omalur,Coconut,Other,24/02/2021,1445,2045,1745
+"Tamil Nadu",Salem,Omalur,Coconut,Other,25/02/2021,1435,2035,1735
+"Tamil Nadu",Salem,Omalur,Coconut,Other,26/02/2021,1425,2025,1725
+"Tamil Nadu",Salem,Omalur,Coconut,Other,27/02/2021,1415,2015,1715
+"Tamil Nadu",Salem,Omalur,Coconut,Other,01/03/2021,1405,2005,1705
+"Tamil Nadu",Salem,Omalur,Coconut,Other,02/03/2021,1415,2015,1715
+"Tamil Nadu",Salem,Omalur,Coconut,Other,03/03/2021,1415,2015,1715
+"Tamil Nadu",Salem,Omalur,Coconut,Other,04/03/2021,1405,2005,1705
+"Tamil Nadu",Salem,Omalur,Coconut,Other,05/03/2021,1400,2000,1700
+"Tamil Nadu",Salem,Omalur,Coconut,Other,06/03/2021,1400,2000,1700
+"Tamil Nadu",Salem,Omalur,Coconut,Other,08/03/2021,1405,2005,1705
+"Tamil Nadu",Salem,Omalur,Coconut,Other,09/03/2021,1415,2015,1715
+"Tamil Nadu",Salem,Omalur,Coconut,Other,10/03/2021,1425,2025,1725
+"Tamil Nadu",Salem,Omalur,Coconut,Other,11/03/2021,1435,2035,1735
+"Tamil Nadu",Salem,Salem,Coconut,Other,08/01/2021,2210,2300,2245
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,02/01/2021,2020,2440,2230
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,04/01/2021,2020,2440,2230
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,05/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,06/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,07/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,08/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,09/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,11/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,12/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,13/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,18/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,19/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,20/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,21/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,22/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,23/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,25/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,27/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,29/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,30/01/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,01/02/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,02/02/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,03/02/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,04/02/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,05/02/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,06/02/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,08/02/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,10/02/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,11/02/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,12/02/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,13/02/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,15/02/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,16/02/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,17/02/2021,2020,2420,2220
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,18/02/2021,2030,2480,2255
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,19/02/2021,2030,2480,2255
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,20/02/2021,2030,2480,2235
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,22/02/2021,2060,2560,2310
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,24/02/2021,2060,2560,2310
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,25/02/2021,2040,2580,2310
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,26/02/2021,2040,2580,2310
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,27/02/2021,2040,2580,2310
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,01/03/2021,2040,2580,2310
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,02/03/2021,2040,2580,2310
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,03/03/2021,2040,2580,2310
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,04/03/2021,2060,2600,2330
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,05/03/2021,2040,2600,2320
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,06/03/2021,2060,2600,2330
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,08/03/2021,2040,2600,2320
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,09/03/2021,2040,2600,2320
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,10/03/2021,2050,2560,2305
+"Tamil Nadu",Salem,Vazhapadi,Coconut,Other,11/03/2021,2050,2560,2305
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,02/01/2021,3400,3800,3600
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,04/01/2021,3600,4000,3800
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,05/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,06/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,07/01/2021,3600,4000,3800
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,08/01/2021,3600,4000,3800
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,11/01/2021,3400,4000,3600
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,12/01/2021,3400,4000,3600
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,13/01/2021,3600,4000,3800
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,16/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,18/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,19/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,21/01/2021,3600,4000,3800
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,22/01/2021,3300,3900,3600
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,23/01/2021,3600,4000,3800
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,25/01/2021,3500,4100,3800
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,27/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,29/01/2021,3300,4100,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,30/01/2021,3400,4000,3800
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,01/02/2021,3300,4100,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,02/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,03/02/2021,3300,3900,3600
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,04/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,05/02/2021,3300,4100,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,06/02/2021,3400,3800,3600
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,08/02/2021,3300,3900,3600
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,09/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,10/02/2021,3300,4000,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,11/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,12/02/2021,3300,4100,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,13/02/2021,3300,4000,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,15/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,16/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,17/02/2021,3300,4100,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,18/02/2021,3400,4100,3700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,22/02/2021,3600,4000,3800
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,23/02/2021,3500,4100,3800
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,24/02/2021,3400,4000,3600
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,25/02/2021,2300,3300,2800
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,26/02/2021,2000,3000,2500
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,27/02/2021,2200,3200,2700
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,04/03/2021,3500,4100,3800
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,05/03/2021,3400,4200,3800
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,06/03/2021,3000,3600,3300
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,08/03/2021,3000,4000,3500
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,09/03/2021,3500,4200,4000
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,10/03/2021,3000,4000,3500
+"Tamil Nadu",Theni,Bodinayakkanur,Coconut,Medium,11/03/2021,3000,4000,3500
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,02/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,04/01/2021,3600,4000,3800
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,05/01/2021,3300,3900,3600
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,06/01/2021,3400,4000,3600
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,07/01/2021,3600,4000,3800
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,08/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,11/01/2021,3500,4100,3800
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,12/01/2021,3400,3800,3600
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,13/01/2021,3500,4100,3800
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,16/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,18/01/2021,3300,3900,3600
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,19/01/2021,3400,4000,3600
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,21/01/2021,3400,4000,3600
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,22/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,23/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,25/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,27/01/2021,3500,4100,3800
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,29/01/2021,3600,4000,3800
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,30/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,01/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,02/02/2021,3500,4100,3800
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,03/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,04/02/2021,3600,4000,3800
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,05/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,06/02/2021,3200,4000,3600
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,08/02/2021,3300,4100,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,09/02/2021,3300,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,10/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,11/02/2021,3500,4100,3800
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,12/02/2021,3600,4000,3800
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,13/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,15/02/2021,3300,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,16/02/2021,3400,4000,3600
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,17/02/2021,3400,4000,3600
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,18/02/2021,3600,4000,3800
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,22/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,23/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,24/02/2021,3300,4100,3700
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,25/02/2021,2000,3000,2500
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,26/02/2021,2300,3300,2800
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,27/02/2021,2500,3500,3000
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,01/03/2021,3500,4500,4000
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,02/03/2021,3000,4000,3500
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,03/03/2021,3520,4520,3720
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,04/03/2021,3000,4000,3500
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,05/03/2021,3000,4000,3500
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,06/03/2021,2600,3200,3000
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,08/03/2021,3200,4000,3800
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,09/03/2021,3000,4000,3500
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,10/03/2021,3000,4000,3500
+"Tamil Nadu",Theni,Chinnamanur,Coconut,Medium,11/03/2021,3000,4000,3500
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,02/01/2021,3400,3800,3600
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,04/01/2021,3500,4100,3800
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,05/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,06/01/2021,3400,3800,3600
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,07/01/2021,3300,3900,3600
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,08/01/2021,3400,4000,3800
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,11/01/2021,3400,4000,3600
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,12/01/2021,3400,4000,3800
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,13/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,16/01/2021,3300,3900,3600
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,18/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,19/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,20/01/2021,3500,4100,3800
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,21/01/2021,3400,3800,3600
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,22/01/2021,3500,4100,3800
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,23/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,25/01/2021,3500,4100,3800
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,27/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,29/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,30/01/2021,3400,4000,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,01/02/2021,3300,3900,3600
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,02/02/2021,3500,4100,3800
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,03/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,04/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,05/02/2021,3600,4000,3800
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,06/02/2021,3200,4000,3600
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,08/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,09/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,10/02/2021,3500,4100,3800
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,11/02/2021,3300,4100,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,12/02/2021,3400,4000,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,13/02/2021,3400,4000,3600
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,15/02/2021,3400,4000,3600
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,16/02/2021,3500,4100,3800
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,17/02/2021,3200,4200,3600
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,18/02/2021,3400,4000,3600
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,22/02/2021,3400,4000,3600
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,23/02/2021,3500,4100,3800
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,24/02/2021,3300,4100,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,25/02/2021,2000,3000,2500
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,26/02/2021,2200,3200,2700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,27/02/2021,2200,3200,2700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,01/03/2021,3500,4200,3700
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,02/03/2021,1730,1830,1780
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,03/03/2021,2500,3500,3000
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,04/03/2021,3720,4720,4220
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,05/03/2021,2500,3500,3000
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,06/03/2021,3400,4200,3600
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,08/03/2021,3400,3800,3600
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,09/03/2021,3000,4000,3500
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,10/03/2021,3000,4000,3500
+"Tamil Nadu",Theni,Cumbum,Coconut,Medium,11/03/2021,1100,1300,1200

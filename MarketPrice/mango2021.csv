@@ -1,0 +1,1069 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Gujarat,Ahmedabad,Ahmedabad,"Mango (Raw-Ripe)",Other,04/02/2021,4000,6000,5100
+Gujarat,Ahmedabad,Ahmedabad,"Mango (Raw-Ripe)",Other,05/02/2021,4000,6000,5250
+Gujarat,Ahmedabad,Ahmedabad,"Mango (Raw-Ripe)",Other,06/02/2021,3500,6000,3900
+Gujarat,Ahmedabad,Ahmedabad,"Mango (Raw-Ripe)",Other,08/02/2021,3000,4000,3750
+Gujarat,Ahmedabad,Ahmedabad,"Mango (Raw-Ripe)",Other,09/02/2021,4000,5500,5000
+Gujarat,Ahmedabad,Ahmedabad,"Mango (Raw-Ripe)",Other,10/02/2021,4000,4500,4350
+Gujarat,Ahmedabad,Ahmedabad,"Mango (Raw-Ripe)",Other,11/02/2021,4300,5000,4400
+Gujarat,Ahmedabad,Ahmedabad,"Mango (Raw-Ripe)",Other,12/02/2021,4000,5000,4400
+Gujarat,Ahmedabad,Ahmedabad,"Mango (Raw-Ripe)",Other,13/02/2021,4000,6000,4400
+Gujarat,Ahmedabad,Ahmedabad,"Mango (Raw-Ripe)",Other,15/02/2021,4500,5000,4850
+Gujarat,Ahmedabad,Ahmedabad,"Mango (Raw-Ripe)",Other,16/02/2021,3000,6000,4750
+Gujarat,Ahmedabad,Ahmedabad,"Mango (Raw-Ripe)",Other,22/02/2021,4500,4800,4700
+Gujarat,Ahmedabad,Ahmedabad,"Mango (Raw-Ripe)",Other,27/02/2021,3000,6000,4700
+Gujarat,Surat,Surat,"Mango (Raw-Ripe)",Other,23/02/2021,3500,4500,4000
+Gujarat,Surat,Surat,"Mango (Raw-Ripe)",Other,24/02/2021,3000,6000,4500
+Gujarat,Surat,Surat,"Mango (Raw-Ripe)",Other,25/02/2021,3000,5500,4250
+Gujarat,Surat,Surat,"Mango (Raw-Ripe)",Other,26/02/2021,3000,5250,4125
+Gujarat,Surat,Surat,"Mango (Raw-Ripe)",Other,27/02/2021,3500,4500,4000
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,01/01/2021,1400,1600,1500
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,02/01/2021,1500,1800,1700
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,03/01/2021,1500,1800,1700
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,04/01/2021,1500,1800,1700
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,05/01/2021,1500,1900,1750
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,06/01/2021,1500,1700,1650
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,08/01/2021,1500,1700,1650
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,09/01/2021,1500,1800,1700
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,10/01/2021,1500,1800,1700
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,11/01/2021,1500,1800,1700
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,16/01/2021,1500,1800,1700
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,22/01/2021,1300,1800,1650
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,23/01/2021,1200,1700,1500
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,24/01/2021,1200,1700,1500
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,25/01/2021,1200,1700,1500
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,26/01/2021,1200,1700,1500
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,27/01/2021,1500,2000,1800
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,28/01/2021,1500,1900,1750
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,29/01/2021,1500,1900,1750
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,30/01/2021,1500,1900,1750
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,31/01/2021,1500,1900,1750
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,02/02/2021,1500,2000,1950
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,03/02/2021,1500,2000,1950
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,04/02/2021,1800,2200,2050
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,05/02/2021,1700,2200,2000
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),"Mango (Raw-Ripe)",Other,07/02/2021,1500,1800,1700
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,01/01/2021,5000,5200,5100
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,02/01/2021,5000,5200,5100
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,03/01/2021,5000,5200,5100
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,04/01/2021,5000,5200,5100
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,06/01/2021,5000,5200,5100
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,07/01/2021,5000,5200,5100
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,11/01/2021,5000,5200,5100
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,14/01/2021,5000,5100,5050
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,15/01/2021,5000,5200,5100
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,16/01/2021,5000,5100,5050
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,17/01/2021,5000,5200,5100
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,18/01/2021,5000,5200,5100
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,19/01/2021,5000,5200,5100
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,20/01/2021,5000,5100,5050
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,25/01/2021,5000,5200,5100
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,26/01/2021,5000,5100,5050
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,27/01/2021,5000,5200,5100
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,28/01/2021,5000,5100,5050
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,15/02/2021,3500,3700,3600
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,16/02/2021,3500,3700,3600
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,17/02/2021,3500,3700,3600
+Kerala,Alappuzha,Alappuzha,"Mango (Raw-Ripe)",Other,18/02/2021,3500,3700,3600
+Kerala,Alappuzha,Cherthala,"Mango (Raw-Ripe)","Mango - Raw-Ripe",12/01/2021,5200,5400,5300
+Kerala,Alappuzha,Cherthala,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/03/2021,4300,4450,4400
+Kerala,Alappuzha,Cherthala,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/03/2021,4200,4400,4300
+Kerala,Alappuzha,Cherthala,"Mango (Raw-Ripe)",Other,16/02/2021,8000,8200,8100
+Kerala,Alappuzha,Cherthala,"Mango (Raw-Ripe)",Other,17/02/2021,4500,4600,4550
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/01/2021,5000,6000,5500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/01/2021,5000,6000,5500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",07/01/2021,4000,5000,4500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/01/2021,5000,6000,5500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/01/2021,5000,6000,5500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",12/01/2021,4000,5000,4500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",13/01/2021,4000,5000,4500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",14/01/2021,4000,5000,4500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",15/01/2021,4000,5000,4500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/01/2021,5000,6000,5500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/01/2021,4000,5000,4500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/01/2021,4000,5000,4500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",21/01/2021,4000,5000,4500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/01/2021,3500,4000,3800
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/01/2021,3500,4000,3800
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",28/01/2021,3500,4000,3800
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",29/01/2021,3000,4000,3500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",02/02/2021,3000,4000,3500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/02/2021,3000,4000,3500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/02/2021,3000,4000,3500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/02/2021,3000,4000,3500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/02/2021,3000,4000,3500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/02/2021,3000,4000,3500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",10/02/2021,3000,4000,3500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/02/2021,3000,4000,3500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",12/02/2021,3000,4000,3500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",15/02/2021,3000,4000,3500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",16/02/2021,3000,4000,3500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",17/02/2021,3000,4000,3500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/02/2021,3000,4000,3500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/02/2021,3000,4000,3500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/02/2021,3500,4000,3800
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",23/02/2021,3800,4000,3900
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",24/02/2021,3800,4500,4200
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",25/02/2021,3500,4000,3800
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/02/2021,3600,4000,3800
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/03/2021,4000,5000,4500
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/03/2021,3800,4800,4400
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/03/2021,3500,4000,3800
+Kerala,Ernakulam,Aluva,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/03/2021,3500,4000,3800
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",01/01/2021,7000,8000,7500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/01/2021,7000,8000,7500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/01/2021,7000,8000,7500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",07/01/2021,7000,8000,7500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/01/2021,7200,8200,7700
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/01/2021,6000,7000,6500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",12/01/2021,6000,7000,6500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",13/01/2021,6000,7000,6500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",14/01/2021,6000,7000,6500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",15/01/2021,6000,7000,6500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/01/2021,5500,6500,6000
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/01/2021,5500,6500,6000
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/01/2021,5000,6000,5500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/01/2021,5000,6000,5500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",25/01/2021,5000,6000,5500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",28/01/2021,5000,6000,5500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",29/01/2021,5000,6000,5500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",01/02/2021,5000,6000,5500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",02/02/2021,5000,6000,5500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/02/2021,5000,6000,5500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/02/2021,5000,6000,5500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/02/2021,5000,6000,5500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/02/2021,4500,5500,5000
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/02/2021,4500,5500,5000
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",10/02/2021,4000,5000,4500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/02/2021,4000,5000,4500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",12/02/2021,4500,5500,5000
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",16/02/2021,4500,5500,5000
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",17/02/2021,4500,5500,5000
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/02/2021,4500,5500,5000
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/02/2021,4500,5500,5000
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/02/2021,4000,5000,4500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",23/02/2021,4000,5000,4500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",24/02/2021,4000,5000,4500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",26/02/2021,5500,6500,6000
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/02/2021,6000,7000,6500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",01/03/2021,5000,6000,5500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/03/2021,5000,6000,5500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/03/2021,5000,6000,5500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/03/2021,5000,6000,5500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/03/2021,4000,5000,4500
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/03/2021,4500,5500,5000
+Kerala,Ernakulam,Angamaly,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/03/2021,4500,5500,5000
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,05/01/2021,6000,8000,7000
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,07/01/2021,6000,8000,7000
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,18/01/2021,7000,8000,7500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,19/01/2021,6000,7000,6500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,20/01/2021,6000,7000,6500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,21/01/2021,6000,7000,6500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,27/01/2021,6000,7000,6500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,28/01/2021,5000,6000,5500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,30/01/2021,5000,6000,5500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,02/02/2021,4000,5000,4500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,08/02/2021,4600,5000,4800
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,09/02/2021,4500,5000,4600
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,10/02/2021,4000,5000,4500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,12/02/2021,4000,5000,4500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,17/02/2021,3000,4000,3500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,18/02/2021,3000,4000,3500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,20/02/2021,3000,4000,3500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,23/02/2021,4500,5000,4600
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,25/02/2021,4000,5000,4500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,26/02/2021,3500,4500,4000
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,03/03/2021,4000,4500,4200
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,08/03/2021,5000,6000,5500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,09/03/2021,4000,5000,4500
+Kerala,Ernakulam,Kothamangalam,"Mango (Raw-Ripe)",Other,10/03/2021,3500,4500,4000
+Kerala,Ernakulam,Moovattupuzha,"Mango (Raw-Ripe)",Other,01/01/2021,4900,5100,5000
+Kerala,Ernakulam,Moovattupuzha,"Mango (Raw-Ripe)",Other,02/01/2021,5000,5200,5100
+Kerala,Ernakulam,Moovattupuzha,"Mango (Raw-Ripe)",Other,03/01/2021,5000,5200,5100
+Kerala,Ernakulam,Moovattupuzha,"Mango (Raw-Ripe)",Other,04/01/2021,4900,5100,5000
+Kerala,Ernakulam,Moovattupuzha,"Mango (Raw-Ripe)",Other,05/01/2021,4800,5000,4900
+Kerala,Ernakulam,Moovattupuzha,"Mango (Raw-Ripe)",Other,06/01/2021,4900,5100,5000
+Kerala,Ernakulam,Moovattupuzha,"Mango (Raw-Ripe)",Other,07/03/2021,3100,3300,3200
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/01/2021,5000,6000,5500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/01/2021,4500,5500,5000
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",07/01/2021,5500,6500,6000
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/01/2021,4000,5000,4500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/01/2021,3500,4500,4000
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",12/01/2021,3000,4000,3500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",13/01/2021,3000,4000,3500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",14/01/2021,3000,4000,3500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",15/01/2021,3000,4000,3500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/01/2021,3000,4000,3500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/01/2021,3000,4000,3500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/01/2021,2700,3700,3000
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",21/01/2021,2500,3500,3000
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/01/2021,2700,3700,3200
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",25/01/2021,3000,4000,3500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/01/2021,2500,3500,3000
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",28/01/2021,2500,3500,3000
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",29/01/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/02/2021,2500,3500,3000
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/02/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/02/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/02/2021,2500,3500,3000
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/02/2021,2500,3500,3000
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/02/2021,2500,3500,3000
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",10/02/2021,2500,3500,3000
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/02/2021,2500,3500,3000
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",12/02/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",15/02/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",17/02/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/02/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/02/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/02/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/02/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",23/02/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",25/02/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",26/02/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/02/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/03/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/03/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/03/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/03/2021,2000,3000,2500
+Kerala,Ernakulam,Perumbavoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/03/2021,2000,3000,2500
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/01/2021,6500,7500,7000
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/01/2021,6600,7500,7000
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",07/01/2021,6000,6800,6200
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/01/2021,6000,7000,6400
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/01/2021,6000,7000,6500
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",12/01/2021,6000,7000,6500
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",13/01/2021,6000,7000,6500
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",14/01/2021,5800,7000,6200
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",15/01/2021,5500,6500,6000
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/01/2021,4500,5000,4700
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/01/2021,4000,5000,4500
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/01/2021,5000,6000,5500
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",21/01/2021,5800,7000,6200
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/01/2021,5500,6500,6000
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",23/01/2021,5000,6000,5500
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",25/01/2021,4500,5500,5000
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/01/2021,5000,6000,5500
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",28/01/2021,4500,5500,5000
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",29/01/2021,4500,5500,5000
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",30/01/2021,4500,5500,5000
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",02/02/2021,5200,6000,5400
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/02/2021,4500,5500,5000
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/02/2021,4500,5000,4700
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/02/2021,4400,5000,4600
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/02/2021,4500,5500,5000
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/02/2021,4500,5500,5000
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/02/2021,4000,5000,4500
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",10/02/2021,4400,5500,4800
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",15/02/2021,5000,6000,5500
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",16/02/2021,5000,6000,5500
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",17/02/2021,4400,5500,4800
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/02/2021,4800,6000,5200
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/02/2021,5000,5800,5400
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/02/2021,4500,5500,5000
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/02/2021,5000,6000,5500
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",24/02/2021,5500,6500,6000
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",25/02/2021,4800,5800,5200
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",26/02/2021,4500,5500,5000
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/02/2021,5400,6500,5800
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/03/2021,6000,7000,6500
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/03/2021,4800,6000,5200
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/03/2021,4800,6000,5200
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/03/2021,5000,6000,5500
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",10/03/2021,4500,5500,5000
+Kerala,Idukki,Nedumkandam,"Mango (Raw-Ripe)",Other,31/01/2021,5000,5000,5000
+Kerala,Idukki,Nedumkandam,"Mango (Raw-Ripe)",Other,08/02/2021,8000,8000,8000
+Kerala,Idukki,Nedumkandam,"Mango (Raw-Ripe)",Other,15/02/2021,6000,6000,6000
+Kerala,Idukki,Nedumkandam,"Mango (Raw-Ripe)",Other,21/02/2021,6000,6000,6000
+Kerala,Idukki,Nedumkandam,"Mango (Raw-Ripe)",Other,07/03/2021,6000,6000,6000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,01/01/2021,4500,5000,5000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,04/01/2021,4500,5000,5000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,05/01/2021,4500,5000,5000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,06/01/2021,4500,5000,5000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,07/01/2021,4500,5000,5000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,08/01/2021,4500,5000,5000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,11/01/2021,4500,5000,5000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,12/01/2021,4500,5000,5000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,13/01/2021,4500,5000,5000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,18/01/2021,4200,4400,4400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,19/01/2021,4200,4400,4400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,20/01/2021,4200,4400,4400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,21/01/2021,4200,4400,4400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,22/01/2021,4200,4400,4400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,23/01/2021,4200,4400,4400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,25/01/2021,4200,4400,4400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,27/01/2021,4200,4400,4400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,28/01/2021,4200,4400,4400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,29/01/2021,4200,4400,4400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,01/02/2021,2800,3000,3000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,02/02/2021,2800,3000,3000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,03/02/2021,2800,3000,3000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,04/02/2021,2800,3000,3000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,05/02/2021,2800,3000,3000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,06/02/2021,2800,3000,3000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,08/02/2021,2800,3000,3000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,09/02/2021,2800,3000,3000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,15/02/2021,3200,3400,3400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,16/02/2021,3200,3400,3400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,17/02/2021,3200,3400,3400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,18/02/2021,3200,3400,3400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,19/02/2021,3200,3400,3400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,20/02/2021,3200,3400,3400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,22/02/2021,3200,3400,3400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,25/02/2021,3200,3400,3400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,26/02/2021,3200,3400,3400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,27/02/2021,3200,3400,3400
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,01/03/2021,2800,3000,3000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,03/03/2021,2600,2800,2800
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,08/03/2021,2800,3000,3000
+Kerala,Idukki,Thodupuzha,"Mango (Raw-Ripe)",Other,09/03/2021,2800,3000,3000
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,17/01/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,18/01/2021,4200,4500,4400
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,19/01/2021,4200,4500,4400
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,26/01/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,27/01/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,28/01/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,29/01/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,30/01/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,31/01/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,01/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,02/02/2021,3600,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,06/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,08/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,09/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,10/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,12/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,13/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,14/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,15/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,16/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,17/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,20/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,21/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,22/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,23/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,24/02/2021,3500,4000,3800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,25/02/2021,4000,5000,4800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,26/02/2021,4500,5000,4800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,27/02/2021,4500,5000,4800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,28/02/2021,4500,5000,4800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,03/03/2021,4500,5000,4800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,04/03/2021,4500,5000,4800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,06/03/2021,4500,5000,4800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,07/03/2021,4500,5000,4800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,08/03/2021,4500,5000,4800
+Kerala,Kollam,Kollam,"Mango (Raw-Ripe)",Other,09/03/2021,4500,5000,4800
+Kerala,Kollam,Sasthamkotta,"Mango (Raw-Ripe)",Other,26/01/2021,3500,4000,3800
+Kerala,Kollam,Sasthamkotta,"Mango (Raw-Ripe)",Other,29/01/2021,3700,4300,4000
+Kerala,Kollam,Sasthamkotta,"Mango (Raw-Ripe)",Other,09/02/2021,4200,4800,4500
+Kerala,Kollam,Sasthamkotta,"Mango (Raw-Ripe)",Other,12/02/2021,4200,4800,4500
+Kerala,Kollam,Sasthamkotta,"Mango (Raw-Ripe)",Other,16/02/2021,4300,4700,4500
+Kerala,Kollam,Sasthamkotta,"Mango (Raw-Ripe)",Other,19/02/2021,4500,4900,4700
+Kerala,Kollam,Sasthamkotta,"Mango (Raw-Ripe)",Other,23/02/2021,4400,5000,4700
+Kerala,Kollam,Sasthamkotta,"Mango (Raw-Ripe)",Other,26/02/2021,4300,4900,4600
+Kerala,Kollam,Sasthamkotta,"Mango (Raw-Ripe)",Other,02/03/2021,4400,5000,4700
+Kerala,Kollam,Sasthamkotta,"Mango (Raw-Ripe)",Other,05/03/2021,4400,5000,4700
+Kerala,Kollam,Sasthamkotta,"Mango (Raw-Ripe)",Other,09/03/2021,3700,4300,4000
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",01/01/2021,4400,4600,4500
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",02/01/2021,5200,5400,5300
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/01/2021,4800,5000,4900
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/01/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/01/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/01/2021,4600,4800,4700
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/01/2021,5000,5200,5100
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",13/01/2021,4600,4800,4700
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",14/01/2021,4600,4800,4700
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",15/01/2021,4600,4800,4700
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/01/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/01/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/01/2021,4400,4600,4500
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",21/01/2021,4400,4600,4500
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",25/01/2021,4200,4400,4300
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/01/2021,4200,4400,4300
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",28/01/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",30/01/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/02/2021,3800,4000,3900
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/02/2021,3800,4000,3900
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/02/2021,4000,4200,4100
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/02/2021,4200,4400,4300
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/02/2021,4200,4400,4300
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/02/2021,4000,4200,4100
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",12/02/2021,4000,4200,4100
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",13/02/2021,4000,4200,4100
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",15/02/2021,4000,4200,4100
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",16/02/2021,3800,4000,3900
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",17/02/2021,4000,4200,4100
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/02/2021,4000,4200,4100
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/02/2021,3800,4000,3900
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/02/2021,4200,4400,4300
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",23/02/2021,3300,3500,3400
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",24/02/2021,4200,4400,4300
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",26/02/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/02/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",02/03/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/03/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/03/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/03/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/03/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/03/2021,4300,4500,4400
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",10/03/2021,3600,3800,3700
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/01/2021,5100,5400,5300
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/01/2021,4200,4500,4300
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/01/2021,4200,4500,4300
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/01/2021,4200,4500,4300
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",13/01/2021,4200,4400,4300
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",14/01/2021,4200,4500,4300
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",16/01/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/01/2021,4300,4500,4400
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/01/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/01/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",21/01/2021,4100,4300,4200
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/01/2021,4800,5100,4900
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/01/2021,4900,5200,5000
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",28/01/2021,5000,5300,5100
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",29/01/2021,4600,5000,4800
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",31/01/2021,4400,4800,4500
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/02/2021,4500,4800,4600
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/02/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/02/2021,4100,4400,4200
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/02/2021,4100,4400,4200
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",07/02/2021,4100,4300,4200
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/02/2021,4200,4500,4300
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",10/02/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/02/2021,3800,4100,3900
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",13/02/2021,3800,4100,4000
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",14/02/2021,4000,4200,4100
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",16/02/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",17/02/2021,4200,4500,4300
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/02/2021,4400,4800,4500
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/02/2021,4200,4500,4300
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",21/02/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/02/2021,4400,4700,4500
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",23/02/2021,3200,3500,3300
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",25/02/2021,3800,4100,4000
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",26/02/2021,4400,4800,4500
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/02/2021,4100,4300,4200
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",28/02/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/03/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/03/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/03/2021,4400,4800,4500
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",07/03/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/03/2021,4000,4300,4100
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/03/2021,4400,4600,4500
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",10/03/2021,4300,4700,4400
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/03/2021,4000,4300,4100
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/01/2021,5000,5800,5400
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/01/2021,4600,5400,5000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",14/01/2021,4600,5400,5000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",15/01/2021,4600,5400,5000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",16/01/2021,4600,5400,5000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",17/01/2021,4800,5600,5200
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/01/2021,4800,5600,5200
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/01/2021,4800,5600,5200
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/01/2021,5000,5800,5400
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",21/01/2021,4800,5600,5200
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/01/2021,4400,5200,4800
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",23/01/2021,4400,5200,4800
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",24/01/2021,4600,5400,5000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",25/01/2021,4400,5200,4800
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",26/01/2021,4400,5200,4800
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/01/2021,4400,5200,4800
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",28/01/2021,4400,5200,4800
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/02/2021,4800,5600,5200
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/02/2021,4400,5200,4800
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",10/02/2021,4500,5400,5000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/02/2021,4800,5600,5200
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",13/02/2021,3800,4600,4200
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",14/02/2021,3800,4600,4200
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",15/02/2021,3600,4400,4000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",16/02/2021,3600,4400,4000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",17/02/2021,3800,4600,4200
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/02/2021,3600,4400,4000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/02/2021,3600,4400,4000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/02/2021,3600,4400,4000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",21/02/2021,3600,4400,4000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/02/2021,3600,4400,4000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",24/02/2021,3600,4400,4000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",25/02/2021,3600,4400,4000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",26/02/2021,3600,4400,4000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/02/2021,3600,4400,4000
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",28/02/2021,3800,4600,4200
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/03/2021,4400,5200,4800
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/03/2021,4400,5200,4800
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,04/01/2021,5200,5600,5400
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,05/01/2021,6000,6400,6200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,06/01/2021,6000,6400,6200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,07/01/2021,5000,5400,5200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,08/01/2021,5500,5900,5700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,09/01/2021,5500,5900,5700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,10/01/2021,5600,6000,5800
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,11/01/2021,5000,5400,5200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,12/01/2021,3000,3400,3200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,13/01/2021,3000,3400,3200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,14/01/2021,5500,5900,5700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,15/01/2021,5500,5900,5700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,16/01/2021,5500,5900,5700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,17/01/2021,5700,6100,5900
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,18/01/2021,5700,6100,5900
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,19/01/2021,4500,4900,4700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,20/01/2021,5000,5400,5200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,21/01/2021,6000,6400,6200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,22/01/2021,5700,6100,5900
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,23/01/2021,4500,4900,4700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,24/01/2021,3000,3400,3200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,25/01/2021,5000,5400,5200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,26/01/2021,4500,4900,4700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,27/01/2021,4500,4900,4700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,28/01/2021,4500,4900,4700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,29/01/2021,4500,4900,4700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,30/01/2021,4500,4900,4700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,31/01/2021,6500,6900,6700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,02/02/2021,4500,4900,4700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,03/02/2021,4500,4900,4700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,04/02/2021,6000,6400,6200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,05/02/2021,5000,5400,5200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,06/02/2021,5000,5400,5200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,07/02/2021,4000,4400,4200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,08/02/2021,4400,4800,4600
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,09/02/2021,4000,4400,4200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,10/02/2021,4500,4900,4700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,11/02/2021,5000,5400,5200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,12/02/2021,4500,4900,4700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,13/02/2021,5000,5400,5200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,25/02/2021,4500,4900,4700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,26/02/2021,5000,5400,5200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,27/02/2021,5000,5400,5200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,28/02/2021,5500,5900,5700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,02/03/2021,4000,4400,4200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,03/03/2021,4000,4400,4200
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,04/03/2021,5500,5900,5700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,05/03/2021,4500,4900,4700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,06/03/2021,4500,4900,4700
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,07/03/2021,5500,5900,5700
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,05/01/2021,6100,6200,6120
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,06/01/2021,6400,6500,6450
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,07/01/2021,6200,6300,6250
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,08/01/2021,6400,6600,6450
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,09/01/2021,5100,5200,5150
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,11/01/2021,6400,6500,6450
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,12/01/2021,6000,6150,6100
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,13/01/2021,6000,6150,6100
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,14/01/2021,5900,6000,5980
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,15/01/2021,5400,5500,5450
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,16/01/2021,5800,5900,5850
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,18/01/2021,5900,6000,5980
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,19/01/2021,5800,6000,5850
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,20/01/2021,5900,6000,5980
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,22/01/2021,4100,4200,4150
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,23/01/2021,4300,4400,4350
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,25/01/2021,4300,4450,4400
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,27/01/2021,4200,4300,4250
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,29/01/2021,3600,3700,3650
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,02/02/2021,3800,3900,3850
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,03/02/2021,3500,3600,3550
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,04/02/2021,3700,3800,3750
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,05/02/2021,3200,3350,3250
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,06/02/2021,3500,3600,3550
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,09/02/2021,3450,3550,3500
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,11/02/2021,3300,3400,3350
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,12/02/2021,3200,3300,3250
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,15/02/2021,3300,3400,3350
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,16/02/2021,3400,3500,3450
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,17/02/2021,3300,3400,3350
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,18/02/2021,3000,3150,3100
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,19/02/2021,3100,3200,3150
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,20/02/2021,3000,3150,3100
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,22/02/2021,3000,3150,3100
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,23/02/2021,2800,3000,2950
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,24/02/2021,3100,3200,3150
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,25/02/2021,3190,3250,3200
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,26/02/2021,3100,3200,3150
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,27/02/2021,2900,3000,2980
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,03/03/2021,3200,3300,3250
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,04/03/2021,2900,3100,3000
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,05/03/2021,3100,3200,3150
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,08/03/2021,3150,3250,3200
+Kerala,Malappuram,Kottakkal,"Mango (Raw-Ripe)",Other,10/03/2021,2900,3000,2980
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",01/01/2021,6000,6500,6300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/01/2021,6000,7000,6600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/01/2021,6000,6500,6300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/01/2021,5000,5500,5300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",07/01/2021,5000,5500,5300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/01/2021,5000,5500,5300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/01/2021,7500,8000,7800
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",12/01/2021,7600,8500,8100
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",13/01/2021,7500,8000,7800
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",15/01/2021,5000,5500,5300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",16/01/2021,6000,6500,6300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/01/2021,5000,6000,5600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/01/2021,5500,6000,5800
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/01/2021,5000,6000,5600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",21/01/2021,5000,6000,5600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/01/2021,5000,6000,5600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",23/01/2021,4500,5000,4800
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",25/01/2021,6000,7000,6600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/01/2021,4000,5000,4600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",28/01/2021,3500,4000,3800
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",29/01/2021,4000,5000,4600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",30/01/2021,5000,6000,5600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",01/02/2021,4000,4500,4300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",02/02/2021,4000,4500,4300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/02/2021,4000,4500,4300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/02/2021,4000,5000,4600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/02/2021,4000,5000,4600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/02/2021,4500,5000,4800
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/02/2021,3000,4000,3600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/02/2021,3000,4000,3600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",10/02/2021,3500,4000,3800
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/02/2021,3500,4000,3800
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",12/02/2021,3500,4000,3800
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",15/02/2021,3000,4000,3600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",16/02/2021,3500,4000,3800
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",17/02/2021,3500,4000,3800
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/02/2021,4000,5000,4600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/02/2021,3500,4000,3800
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/02/2021,4000,4500,4300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/02/2021,4000,5000,4600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",23/02/2021,4000,4500,4300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",24/02/2021,3200,4000,3700
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",25/02/2021,3200,3600,3500
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",26/02/2021,3000,3500,3300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/02/2021,3000,3500,3300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",01/03/2021,3000,3500,3300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",02/03/2021,3500,4000,3800
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/03/2021,3000,3500,3300
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/03/2021,5000,6000,5600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/03/2021,3500,4000,3800
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/03/2021,3000,4000,3600
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/03/2021,3500,4000,3800
+Kerala,Palakad,Palakkad,"Mango (Raw-Ripe)","Mango - Raw-Ripe",10/03/2021,3000,4000,3600
+Kerala,Palakad,vadakarapathy,"Mango (Raw-Ripe)",Other,20/01/2021,3300,3500,3400
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,01/01/2021,6500,7500,7000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,04/01/2021,6500,7500,7000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,05/01/2021,6500,7500,7000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,06/01/2021,6000,7000,6500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,08/01/2021,6000,7000,6500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,11/01/2021,6000,7000,6500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,12/01/2021,6000,7000,6500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,13/01/2021,6000,7000,6500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,14/01/2021,5500,6500,6000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,15/01/2021,5500,6500,6000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,16/01/2021,5500,6500,6000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,18/01/2021,5500,6500,6000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,19/01/2021,5500,6500,6000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,20/01/2021,5500,6500,6000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,21/01/2021,5500,6500,6000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,23/01/2021,5500,6500,6000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,25/01/2021,5500,6500,6000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,29/01/2021,5800,6800,6300
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,01/02/2021,5000,6000,5500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,02/02/2021,5000,6000,5500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,03/02/2021,5000,6000,5500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,04/02/2021,5000,6000,5500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,08/02/2021,5000,6000,5500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,09/02/2021,5000,6000,5500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,10/02/2021,5000,6000,5500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,12/02/2021,5000,6000,5500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,14/02/2021,5000,6000,5500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,15/02/2021,5000,6000,5500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,16/02/2021,5000,6000,5500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,17/02/2021,5000,6000,5500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,18/02/2021,5000,6000,5500
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,19/02/2021,4500,5500,5000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,20/02/2021,4500,5500,5000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,22/02/2021,4500,5500,5000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,23/02/2021,4500,5500,5000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,27/02/2021,4400,5400,4900
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,01/03/2021,4600,5600,5100
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,03/03/2021,4500,5500,5000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,04/03/2021,4500,5500,5000
+Kerala,Palakad,Vadakkenchery,"Mango (Raw-Ripe)",Other,08/03/2021,4500,5500,5000
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,01/01/2021,5200,5500,5400
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,02/01/2021,5000,5400,5200
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,04/01/2021,5000,5600,5400
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,05/01/2021,5000,5500,5300
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,07/01/2021,5000,5500,5200
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,12/01/2021,5500,6000,5800
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,13/01/2021,5000,5500,5300
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,18/01/2021,5400,6000,5800
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,20/01/2021,5500,5700,5600
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,22/01/2021,5000,5400,5200
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,25/01/2021,5000,5400,5200
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,27/01/2021,4500,5000,4800
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,29/01/2021,4500,5000,4800
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,03/02/2021,4500,4800,4700
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,05/02/2021,4300,4700,4500
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,08/02/2021,4000,4500,4300
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,09/02/2021,4000,4500,4300
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,10/02/2021,4000,4600,4500
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,17/02/2021,4000,4400,4200
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,22/02/2021,3400,3800,3500
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,24/02/2021,3000,3700,3500
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,25/02/2021,3500,3700,3700
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,01/03/2021,3300,3800,3500
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,04/03/2021,3200,3500,3300
+Kerala,Thirssur,Chalakudy,"Mango (Raw-Ripe)",Other,05/03/2021,3400,3500,3500
+Kerala,Thirssur,Chavakkad,"Mango (Raw-Ripe)",Other,07/01/2021,6000,8000,8000
+Kerala,Thirssur,Chavakkad,"Mango (Raw-Ripe)",Other,08/01/2021,6000,8000,8000
+Kerala,Thirssur,Chavakkad,"Mango (Raw-Ripe)",Other,15/01/2021,4000,6000,5800
+Kerala,Thirssur,Chavakkad,"Mango (Raw-Ripe)",Other,20/01/2021,5800,7000,6800
+Kerala,Thirssur,Chavakkad,"Mango (Raw-Ripe)",Other,27/01/2021,4000,5000,4800
+Kerala,Thirssur,Chavakkad,"Mango (Raw-Ripe)",Other,03/02/2021,3000,4000,4000
+Kerala,Thirssur,Chavakkad,"Mango (Raw-Ripe)",Other,10/02/2021,3000,4000,3800
+Kerala,Thirssur,Chavakkad,"Mango (Raw-Ripe)",Other,11/02/2021,4000,4900,4800
+Kerala,Thirssur,Chavakkad,"Mango (Raw-Ripe)",Other,18/02/2021,2800,4000,3800
+Kerala,Thirssur,Chavakkad,"Mango (Raw-Ripe)",Other,24/02/2021,2800,4000,3800
+Kerala,Thirssur,Chavakkad,"Mango (Raw-Ripe)",Other,25/02/2021,2800,4000,3800
+Kerala,Thirssur,Chavakkad,"Mango (Raw-Ripe)",Other,11/03/2021,2500,4000,3800
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,04/01/2021,5000,5400,5200
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,05/01/2021,5500,5800,5600
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,06/01/2021,5500,5800,5600
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,07/01/2021,5500,5800,5600
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,08/01/2021,5000,5400,5200
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,09/01/2021,5600,5800,5700
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,11/01/2021,5900,6100,6000
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,13/01/2021,5000,5400,5200
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,14/01/2021,5000,5400,5200
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,15/01/2021,4500,4800,4600
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,16/01/2021,5200,5400,5300
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,18/01/2021,5500,5800,5600
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,19/01/2021,5000,5400,5200
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,20/01/2021,5000,5400,5200
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,21/01/2021,6000,6200,6100
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,22/01/2021,5000,5200,5100
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,23/01/2021,5800,6000,5900
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,25/01/2021,5800,6000,5900
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,27/01/2021,4800,5000,4900
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,28/01/2021,5800,6000,5900
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,29/01/2021,4800,5000,4900
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,02/02/2021,4500,4800,4600
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,03/02/2021,4500,4800,4600
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,04/02/2021,4000,4500,4200
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,05/02/2021,3800,4000,3900
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,06/02/2021,5800,6000,5900
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,08/02/2021,3500,3800,3600
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,09/02/2021,3500,3800,3600
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,10/02/2021,3500,3800,3600
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,11/02/2021,3000,3400,3200
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,12/02/2021,3000,3400,3200
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,15/02/2021,3800,4000,3900
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,16/02/2021,5000,5200,5100
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,18/02/2021,4000,4200,4100
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,19/02/2021,4800,5000,4900
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,22/02/2021,3200,3500,3400
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,23/02/2021,3000,3400,3200
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,24/02/2021,2800,3000,2900
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,26/02/2021,3200,3400,3300
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,27/02/2021,5800,6000,5900
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,03/03/2021,3000,3400,3200
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,04/03/2021,3000,3400,3200
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,05/03/2021,3800,4000,3900
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,06/03/2021,3800,4000,3900
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,08/03/2021,4000,4500,4200
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,09/03/2021,3800,4000,3900
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,10/03/2021,3800,4000,3900
+Kerala,Thirssur,Chelakkara,"Mango (Raw-Ripe)",Other,11/03/2021,3800,4000,3900
+Kerala,Thirssur,Irinjalakkuda,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/01/2021,3800,3800,3800
+Kerala,Thirssur,Irinjalakkuda,"Mango (Raw-Ripe)","Mango - Raw-Ripe",31/01/2021,3000,3000,3000
+Kerala,Thirssur,Irinjalakkuda,"Mango (Raw-Ripe)","Mango - Raw-Ripe",23/02/2021,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,"Mango (Raw-Ripe)","Mango - Raw-Ripe",24/02/2021,2000,2000,2000
+Kerala,Thirssur,Irinjalakkuda,"Mango (Raw-Ripe)","Mango - Raw-Ripe",26/02/2021,3000,3000,3000
+Kerala,Thirssur,Irinjalakkuda,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/03/2021,2600,2600,2600
+Kerala,Thirssur,Irinjalakkuda,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/03/2021,4000,4000,4000
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,04/01/2021,7000,7000,7000
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,07/01/2021,7000,7000,7000
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,11/01/2021,5000,5000,5000
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,14/01/2021,4500,4500,4500
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,18/01/2021,5000,5000,5000
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,21/01/2021,4000,4000,4000
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,23/01/2021,3500,3500,3500
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,25/01/2021,5000,5000,5000
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,28/01/2021,4000,4000,4000
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,01/02/2021,3500,3500,3500
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,04/02/2021,3500,3500,3500
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,08/02/2021,3000,3000,3000
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,15/02/2021,3000,3000,3000
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,17/02/2021,3000,3000,3000
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,18/02/2021,3500,3500,3500
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,22/02/2021,3500,3500,3500
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,25/02/2021,3500,3500,3500
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,01/03/2021,3500,3500,3500
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,04/03/2021,3500,3500,3500
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,08/03/2021,4000,4000,4000
+Kerala,Thirssur,Kodungalloor,"Mango (Raw-Ripe)",Other,11/03/2021,3500,3500,3500
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",01/01/2021,6500,7000,6750
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",02/01/2021,6500,7000,6750
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/01/2021,6000,6500,6250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/01/2021,6000,6500,6250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/01/2021,6000,6500,6250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",07/01/2021,6000,6500,6250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/01/2021,6000,6500,6250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/01/2021,6000,6500,6250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",12/01/2021,6000,6500,6250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",13/01/2021,6000,6500,6250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",14/01/2021,5000,5500,5250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",15/01/2021,5000,5500,5250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",16/01/2021,5000,5500,5250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/01/2021,5500,6000,5750
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/01/2021,5500,6000,5750
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/01/2021,5500,6000,5750
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",21/01/2021,5500,6000,5750
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/01/2021,5500,6000,5750
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",23/01/2021,5500,6000,5750
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",25/01/2021,5500,6000,5750
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/01/2021,5500,6000,5750
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",28/01/2021,5500,6000,5750
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",29/01/2021,5500,6000,5750
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",30/01/2021,5500,6000,5750
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",01/02/2021,5000,5500,5250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",02/02/2021,5000,5500,5250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/02/2021,5000,5500,5250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/02/2021,5000,5500,5250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/02/2021,5000,5500,5250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/02/2021,5000,5500,5250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/02/2021,5000,5500,5250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/02/2021,5000,5500,5250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",10/02/2021,5000,5500,5250
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",11/02/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",12/02/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",15/02/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",16/02/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",17/02/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",18/02/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",19/02/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/02/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",22/02/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",23/02/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",24/02/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",25/02/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",26/02/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/02/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",01/03/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/03/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",04/03/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",05/03/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/03/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",08/03/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",09/03/2021,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",10/03/2021,4500,5000,4750
+Kerala,Thiruvananthapuram,Aralamoodu,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/01/2021,3000,4000,4000
+Kerala,Thiruvananthapuram,Aralamoodu,"Mango (Raw-Ripe)","Mango - Raw-Ripe",30/01/2021,3000,4000,4000
+Kerala,Thiruvananthapuram,Aralamoodu,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/02/2021,4000,4000,4000
+Kerala,Thiruvananthapuram,Aralamoodu,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/02/2021,4000,5000,5000
+Kerala,Thiruvananthapuram,Aralamoodu,"Mango (Raw-Ripe)","Mango - Raw-Ripe",13/02/2021,5000,5000,5000
+Kerala,Thiruvananthapuram,Aralamoodu,"Mango (Raw-Ripe)","Mango - Raw-Ripe",17/02/2021,4000,4000,4000
+Kerala,Thiruvananthapuram,Aralamoodu,"Mango (Raw-Ripe)","Mango - Raw-Ripe",20/02/2021,5000,8000,8000
+Kerala,Thiruvananthapuram,Aralamoodu,"Mango (Raw-Ripe)","Mango - Raw-Ripe",24/02/2021,6000,6000,6000
+Kerala,Thiruvananthapuram,Aralamoodu,"Mango (Raw-Ripe)","Mango - Raw-Ripe",27/02/2021,4000,4000,4000
+Kerala,Thiruvananthapuram,Aralamoodu,"Mango (Raw-Ripe)","Mango - Raw-Ripe",03/03/2021,4000,4000,4000
+Kerala,Thiruvananthapuram,Aralamoodu,"Mango (Raw-Ripe)","Mango - Raw-Ripe",06/03/2021,6000,7000,7000
+Kerala,Thiruvananthapuram,Aralamoodu,"Mango (Raw-Ripe)","Mango - Raw-Ripe",10/03/2021,6000,7000,7000
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,01/01/2021,8000,8057,8026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,04/01/2021,8000,8057,8026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,05/01/2021,5500,5557,5526
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,06/01/2021,5500,5557,5526
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,07/01/2021,5500,5557,5526
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,08/01/2021,5500,5557,5526
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,11/01/2021,6000,6057,6026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,12/01/2021,6000,6057,6026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,13/01/2021,6000,6057,6026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,18/01/2021,8000,8057,8026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,19/01/2021,8000,8057,8026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,20/01/2021,7000,7057,7026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,21/01/2021,6500,6557,6526
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,22/01/2021,6500,6557,6526
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,23/01/2021,6500,6557,6526
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,25/01/2021,6500,6557,6526
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,27/01/2021,6000,6057,6026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,28/01/2021,6000,6057,6026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,01/02/2021,6500,6557,6526
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,02/02/2021,6500,6557,6526
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,06/02/2021,6500,6557,6526
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,08/02/2021,8000,8057,8026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,09/02/2021,8000,8057,8026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,10/02/2021,7000,7057,7026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,11/02/2021,7000,7057,7026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,12/02/2021,6000,6057,6026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,15/02/2021,7000,7057,7026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,16/02/2021,5800,5857,5826
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,17/02/2021,5800,5857,5826
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,18/02/2021,5000,5057,5026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,19/02/2021,5000,5057,5026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,22/02/2021,5000,5057,5026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,23/02/2021,6500,6557,6526
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,24/02/2021,7000,7057,7026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,25/02/2021,7000,7057,7026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,26/02/2021,7000,7057,7026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,01/03/2021,7000,7057,7026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,02/03/2021,6000,6057,6026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,03/03/2021,6000,6057,6026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,05/03/2021,6000,6057,6026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,08/03/2021,6000,6057,6026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,09/03/2021,6000,6057,6026
+Kerala,Thiruvananthapuram,Chala,"Mango (Raw-Ripe)",Other,10/03/2021,6000,6057,6026
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,02/01/2021,6000,6500,6300
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,09/01/2021,7000,8000,7500
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,13/01/2021,6000,6300,6200
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,16/01/2021,6000,6300,6200
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,20/01/2021,6000,7000,6500
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,23/01/2021,6000,6500,6300
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,27/01/2021,6000,6300,6200
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,30/01/2021,5500,6000,5800
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,03/02/2021,5000,5500,5300
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,06/02/2021,3500,4000,3800
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,10/02/2021,3500,4000,3800
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,13/02/2021,3000,3500,3300
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,20/02/2021,3500,4000,3800
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,24/02/2021,4000,4500,4300
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,27/02/2021,5000,7000,6000
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)",Other,06/03/2021,5000,6000,5500
+Maharashtra,Ahmednagar,Rahata,"Mango (Raw-Ripe)",Other,01/03/2021,6000,6000,6000
+Maharashtra,Aurangabad,Aurangabad,"Mango (Raw-Ripe)",Other,23/02/2021,6000,8000,7000
+Maharashtra,Aurangabad,Aurangabad,"Mango (Raw-Ripe)",Other,27/02/2021,3000,6500,4750
+Maharashtra,Aurangabad,Aurangabad,"Mango (Raw-Ripe)",Other,28/02/2021,5000,8000,6500
+Maharashtra,Aurangabad,Aurangabad,"Mango (Raw-Ripe)",Other,06/03/2021,2000,3500,2750
+Maharashtra,Aurangabad,Aurangabad,"Mango (Raw-Ripe)",Other,07/03/2021,3000,3500,3250
+Maharashtra,Aurangabad,Aurangabad,"Mango (Raw-Ripe)",Other,10/03/2021,2500,3500,3000
+Maharashtra,Jalgaon,Bhusaval,"Mango (Raw-Ripe)",Other,14/02/2021,3300,3300,3300
+Maharashtra,Jalgaon,Bhusaval,"Mango (Raw-Ripe)",Other,27/02/2021,5000,5000,5000
+Maharashtra,Jalgaon,Bhusaval,"Mango (Raw-Ripe)",Other,02/03/2021,6700,6700,6700
+Maharashtra,Jalgaon,Bhusaval,"Mango (Raw-Ripe)",Other,03/03/2021,6700,6700,6700
+Maharashtra,Jalgaon,Bhusaval,"Mango (Raw-Ripe)",Other,09/03/2021,4000,4000,4000
+Maharashtra,Jalgaon,Bhusaval,"Mango (Raw-Ripe)",Other,10/03/2021,6700,6700,6700
+Maharashtra,Jalgaon,Bhusaval,"Mango (Raw-Ripe)",Other,11/03/2021,6700,6700,6700
+Maharashtra,Jalgaon,Jalgaon,"Mango (Raw-Ripe)",Other,27/02/2021,2500,2500,2500
+Maharashtra,Jalgaon,Jalgaon,"Mango (Raw-Ripe)",Other,01/03/2021,2500,3500,3000
+Maharashtra,Jalgaon,Jalgaon,"Mango (Raw-Ripe)",Other,03/03/2021,2000,3000,2500
+Maharashtra,Jalgaon,Jalgaon,"Mango (Raw-Ripe)",Other,04/03/2021,2000,3000,2500
+Maharashtra,Jalgaon,Jalgaon,"Mango (Raw-Ripe)",Other,06/03/2021,3000,4500,4000
+Maharashtra,Jalgaon,Jalgaon,"Mango (Raw-Ripe)",Other,08/03/2021,2500,4000,3500
+Maharashtra,Jalgaon,Jalgaon,"Mango (Raw-Ripe)",Other,09/03/2021,2500,3500,3000
+Maharashtra,Jalgaon,Jalgaon,"Mango (Raw-Ripe)",Other,10/03/2021,2500,3500,3000
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,01/01/2021,3000,4400,3500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,02/01/2021,3000,4400,3500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,04/01/2021,3000,4000,3500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,05/01/2021,3000,4000,3500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,06/01/2021,3000,4000,3500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,15/01/2021,4000,4400,4200
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,19/01/2021,5000,6000,5500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,21/01/2021,5000,6000,5500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,23/01/2021,4000,5000,4700
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,25/01/2021,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,27/01/2021,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,28/01/2021,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,29/01/2021,3000,4000,3500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,30/01/2021,3000,4000,3500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,01/02/2021,3000,4000,3500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,02/02/2021,3000,3500,3300
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,03/02/2021,3000,3500,3300
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,04/02/2021,2500,3500,3000
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,05/02/2021,2500,3500,3000
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,08/02/2021,3000,4000,3500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,09/02/2021,3000,4000,3500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,10/02/2021,3000,4000,3500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,11/02/2021,4000,4400,4200
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,12/02/2021,4000,4400,4200
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,13/02/2021,3000,4000,3500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,15/02/2021,4000,6500,5300
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,16/02/2021,4000,6000,5000
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,17/02/2021,4000,6000,5000
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,18/02/2021,5400,6000,5700
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,19/02/2021,5400,6000,5700
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,20/02/2021,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,22/02/2021,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,23/02/2021,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,24/02/2021,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,25/02/2021,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,26/02/2021,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,27/02/2021,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,01/03/2021,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,02/03/2021,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,03/03/2021,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,04/03/2021,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,05/03/2021,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,06/03/2021,3500,4000,3800
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,08/03/2021,3000,4000,3500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,09/03/2021,3000,4000,3500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,10/03/2021,3000,4000,3500
+Maharashtra,Nagpur,Nagpur,"Mango (Raw-Ripe)",Other,14/02/2021,3800,4000,3950
+Maharashtra,Nagpur,Nagpur,"Mango (Raw-Ripe)",Other,15/02/2021,3800,4000,3950
+Maharashtra,Nagpur,Nagpur,"Mango (Raw-Ripe)",Other,16/02/2021,3800,4000,3950
+Maharashtra,Nagpur,Nagpur,"Mango (Raw-Ripe)",Other,17/02/2021,3800,4000,3950
+Maharashtra,Nagpur,Nagpur,"Mango (Raw-Ripe)",Other,18/02/2021,4000,4200,4150
+Maharashtra,Nagpur,Nagpur,"Mango (Raw-Ripe)",Other,20/02/2021,4000,4200,4150
+Maharashtra,Nagpur,Nagpur,"Mango (Raw-Ripe)",Other,21/02/2021,4000,4200,4150
+Maharashtra,Nagpur,Nagpur,"Mango (Raw-Ripe)",Other,24/02/2021,4000,4200,4150
+Maharashtra,Nagpur,Nagpur,"Mango (Raw-Ripe)",Other,28/02/2021,4000,4200,4150
+Maharashtra,Nagpur,Nagpur,"Mango (Raw-Ripe)",Other,01/03/2021,4000,4200,4150
+Maharashtra,Nagpur,Nagpur,"Mango (Raw-Ripe)",Other,02/03/2021,4000,4200,4150
+Maharashtra,Nagpur,Nagpur,"Mango (Raw-Ripe)",Other,06/03/2021,3800,4000,3950
+Maharashtra,Nagpur,Nagpur,"Mango (Raw-Ripe)",Other,08/03/2021,3000,3200,3150
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,01/01/2021,7000,8000,7500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,03/01/2021,7000,8000,7500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,14/01/2021,7000,8000,7500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,15/01/2021,7000,8000,7500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,17/01/2021,7000,8000,7500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,18/01/2021,7000,8000,7500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,19/01/2021,7000,8000,7500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,21/01/2021,6000,8000,7000
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,22/01/2021,7000,8000,7500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,24/01/2021,5000,8000,6500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,25/01/2021,6000,8000,7000
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,27/01/2021,7000,8000,7500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,28/01/2021,6000,7000,6500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,29/01/2021,5000,8000,6500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,31/01/2021,5000,8000,6500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,01/02/2021,7000,8000,7500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,02/02/2021,5000,8000,6500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,03/02/2021,4000,7000,5500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,04/02/2021,7000,8000,7500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,05/02/2021,7000,8000,7500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,07/02/2021,5000,7000,6000
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,09/02/2021,4000,7000,5500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,10/02/2021,4000,7000,5500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,11/02/2021,6000,7000,6500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,12/02/2021,4000,7000,5500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,14/02/2021,4000,7000,5500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,15/02/2021,5000,7000,6000
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,16/02/2021,5000,6000,5500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,17/02/2021,4000,7000,5500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,18/02/2021,3500,7000,5250
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,21/02/2021,3500,7000,5250
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,22/02/2021,3500,7000,5250
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,23/02/2021,3500,5000,4250
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,24/02/2021,4000,7000,5500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,25/02/2021,5000,7000,6000
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,26/02/2021,5000,6000,5500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,28/02/2021,5000,6000,5500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,01/03/2021,4000,6000,5000
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,02/03/2021,4000,6000,5000
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,03/03/2021,4000,6000,5000
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,04/03/2021,3000,6000,4500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,05/03/2021,3000,6000,4500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,07/03/2021,3000,5000,4000
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,08/03/2021,3000,6000,4500
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,09/03/2021,3000,5000,4000
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,10/03/2021,2000,4000,3000
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,11/03/2021,2500,4000,3250
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,03/01/2021,5000,5000,5000
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,31/01/2021,6000,9000,7500
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,01/02/2021,3500,4500,4000
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,04/02/2021,9000,9000,9000
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,08/02/2021,6000,7000,6500
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,11/02/2021,6000,6000,6000
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,12/02/2021,5000,5000,5000
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,14/02/2021,5000,6000,5500
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,15/02/2021,6000,6000,6000
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,20/02/2021,4000,6000,5000
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,21/02/2021,3000,3000,3000
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,22/02/2021,6500,6500,6500
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,23/02/2021,6000,7000,6500
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,26/02/2021,4000,6000,5000
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,28/02/2021,3000,5000,4000
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,01/03/2021,4500,5000,4750
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,02/03/2021,4000,5000,4500
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,04/03/2021,2500,4000,3250
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,05/03/2021,3000,4000,3500
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,07/03/2021,3500,4000,3750
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,08/03/2021,3000,4000,3500
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,09/03/2021,3000,3500,3250
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,11/03/2021,3000,3500,3250

@@ -1,0 +1,1410 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Gujarat,Amreli,Amreli,"Green Gram (Moong)(Whole)",Hybrid,01/01/2020,6375,8055,8055
+Gujarat,Amreli,Amreli,"Green Gram (Moong)(Whole)",Hybrid,06/01/2020,4625,6875,5755
+Gujarat,Amreli,Amreli,"Green Gram (Moong)(Whole)",Hybrid,09/01/2020,3910,7125,6050
+Gujarat,Amreli,Rajula,"Green Gram (Moong)(Whole)",Other,01/01/2020,3865,10255,7060
+Gujarat,Amreli,Rajula,"Green Gram (Moong)(Whole)",Other,02/01/2020,5500,8500,7000
+Gujarat,Amreli,Rajula,"Green Gram (Moong)(Whole)",Other,03/01/2020,6755,8500,7628
+Gujarat,Amreli,Rajula,"Green Gram (Moong)(Whole)",Other,04/01/2020,5575,7965,6770
+Gujarat,Amreli,Rajula,"Green Gram (Moong)(Whole)",Other,06/01/2020,6250,7125,6688
+Gujarat,Amreli,Rajula,"Green Gram (Moong)(Whole)",Other,07/01/2020,6005,7125,6565
+Gujarat,Amreli,Rajula,"Green Gram (Moong)(Whole)",Other,08/01/2020,6250,6725,6488
+Gujarat,Amreli,Rajula,"Green Gram (Moong)(Whole)",Other,09/01/2020,6395,6395,6395
+Gujarat,Amreli,Rajula,"Green Gram (Moong)(Whole)",Other,10/01/2020,6700,8750,7725
+Gujarat,Amreli,Rajula,"Green Gram (Moong)(Whole)",Other,11/01/2020,6255,7000,6628
+Gujarat,Amreli,Rajula,"Green Gram (Moong)(Whole)",Other,13/01/2020,6500,6855,6678
+Gujarat,Amreli,Savarkundla,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6000,7255,6628
+Gujarat,Amreli,Savarkundla,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,4500,7000,5750
+Gujarat,Amreli,Savarkundla,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,8055,8055,8055
+Gujarat,Amreli,Savarkundla,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,5000,9535,7268
+Gujarat,Amreli,Savarkundla,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6250,7500,6875
+Gujarat,Amreli,Savarkundla,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,6250,8405,7328
+Gujarat,Amreli,Savarkundla,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,4500,7755,6128
+Gujarat,Amreli,Savarkundla,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,5555,6255,5905
+Gujarat,Amreli,Savarkundla,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,8000,10000,9000
+Gujarat,Amreli,Savarkundla,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,6750,7750,7250
+Gujarat,Banaskanth,Amirgadh,"Green Gram (Moong)(Whole)",Other,07/01/2020,4500,4500,4500
+Gujarat,Banaskanth,Amirgadh,"Green Gram (Moong)(Whole)",Other,09/01/2020,5850,5850,5850
+Gujarat,Banaskanth,Amirgadh,"Green Gram (Moong)(Whole)",Other,13/01/2020,3350,3350,3350
+Gujarat,Banaskanth,Deesa(Bhildi),"Green Gram (Moong)(Whole)",Other,01/01/2020,5250,5250,5250
+Gujarat,Banaskanth,Dhanera,"Green Gram (Moong)(Whole)",Other,02/01/2020,6975,6975,6975
+Gujarat,Banaskanth,Dhanera,"Green Gram (Moong)(Whole)",Other,07/01/2020,6730,7000,6865
+Gujarat,Banaskanth,Dhanera,"Green Gram (Moong)(Whole)",Other,15/01/2020,6205,6205,6205
+Gujarat,Banaskanth,Tharad,"Green Gram (Moong)(Whole)",Other,03/01/2020,5555,7400,6477
+Gujarat,Banaskanth,Tharad,"Green Gram (Moong)(Whole)",Other,04/01/2020,5400,7100,6250
+Gujarat,Banaskanth,Tharad,"Green Gram (Moong)(Whole)",Other,06/01/2020,6055,7500,6777
+Gujarat,Banaskanth,Tharad,"Green Gram (Moong)(Whole)",Other,07/01/2020,6000,7355,6677
+Gujarat,Banaskanth,Tharad,"Green Gram (Moong)(Whole)",Other,08/01/2020,6000,6625,6312
+Gujarat,Banaskanth,Tharad,"Green Gram (Moong)(Whole)",Other,09/01/2020,5500,6625,6062
+Gujarat,Banaskanth,Tharad,"Green Gram (Moong)(Whole)",Other,11/01/2020,6055,6775,6415
+Gujarat,Banaskanth,Tharad,"Green Gram (Moong)(Whole)",Other,13/01/2020,5505,6850,6177
+Gujarat,Banaskanth,Tharad,"Green Gram (Moong)(Whole)",Other,15/01/2020,5800,6750,6275
+Gujarat,Banaskanth,Vav,"Green Gram (Moong)(Whole)",Other,01/01/2020,4750,5400,5075
+Gujarat,Banaskanth,Vav,"Green Gram (Moong)(Whole)",Other,03/01/2020,2505,8500,5502
+Gujarat,Banaskanth,Vav,"Green Gram (Moong)(Whole)",Other,04/01/2020,7540,7540,7540
+Gujarat,Banaskanth,Vav,"Green Gram (Moong)(Whole)",Other,06/01/2020,2750,5500,4125
+Gujarat,Banaskanth,Vav,"Green Gram (Moong)(Whole)",Other,07/01/2020,7805,7805,7805
+Gujarat,Banaskanth,Vav,"Green Gram (Moong)(Whole)",Other,08/01/2020,5550,5775,5662.5
+Gujarat,Banaskanth,Vav,"Green Gram (Moong)(Whole)",Other,11/01/2020,5765,5765,5765
+Gujarat,Banaskanth,Vav,"Green Gram (Moong)(Whole)",Other,13/01/2020,6000,8005,7002.5
+Gujarat,Bhavnagar,Bhavnagar,"Green Gram (Moong)(Whole)",Other,01/01/2020,5510,7900,6705
+Gujarat,Bhavnagar,Bhavnagar,"Green Gram (Moong)(Whole)",Other,03/01/2020,5800,6600,6200
+Gujarat,Bhavnagar,Bhavnagar,"Green Gram (Moong)(Whole)",Other,04/01/2020,6005,8875,7440
+Gujarat,Bhavnagar,Bhavnagar,"Green Gram (Moong)(Whole)",Other,06/01/2020,9025,9025,9025
+Gujarat,Bhavnagar,Bhavnagar,"Green Gram (Moong)(Whole)",Other,07/01/2020,8100,8100,8100
+Gujarat,Bhavnagar,Bhavnagar,"Green Gram (Moong)(Whole)",Other,08/01/2020,6705,7505,7105
+Gujarat,Bhavnagar,Bhavnagar,"Green Gram (Moong)(Whole)",Other,09/01/2020,6000,6355,6175
+Gujarat,Bhavnagar,Bhavnagar,"Green Gram (Moong)(Whole)",Other,10/01/2020,6900,8280,7590
+Gujarat,Bhavnagar,Bhavnagar,"Green Gram (Moong)(Whole)",Other,13/01/2020,9600,9600,9600
+Gujarat,Bhavnagar,"Mahuva(Station Road)","Green Gram (Moong)(Whole)",Hybrid,02/01/2020,5005,13165,9085
+Gujarat,Bhavnagar,"Mahuva(Station Road)","Green Gram (Moong)(Whole)",Hybrid,03/01/2020,7525,13975,10000
+Gujarat,Bhavnagar,"Mahuva(Station Road)","Green Gram (Moong)(Whole)",Hybrid,04/01/2020,4755,13125,8750
+Gujarat,Bhavnagar,"Mahuva(Station Road)","Green Gram (Moong)(Whole)",Hybrid,07/01/2020,6005,12555,9280
+Gujarat,Bhavnagar,"Mahuva(Station Road)","Green Gram (Moong)(Whole)",Hybrid,08/01/2020,5500,13040,9000
+Gujarat,Bhavnagar,"Mahuva(Station Road)","Green Gram (Moong)(Whole)",Hybrid,10/01/2020,6000,10550,8275
+Gujarat,Bhavnagar,"Mahuva(Station Road)","Green Gram (Moong)(Whole)",Hybrid,11/01/2020,6750,12800,9775
+Gujarat,Bhavnagar,"Mahuva(Station Road)","Green Gram (Moong)(Whole)",Hybrid,13/01/2020,5075,11875,8475
+Gujarat,Bhavnagar,"Mahuva(Station Road)","Green Gram (Moong)(Whole)",Hybrid,15/01/2020,7510,9610,8560
+Gujarat,Botad,Botad,"Green Gram (Moong)(Whole)",Other,01/01/2020,5455,9280,7370
+Gujarat,Botad,Botad,"Green Gram (Moong)(Whole)",Other,02/01/2020,5205,5205,5205
+Gujarat,Botad,Botad,"Green Gram (Moong)(Whole)",Other,03/01/2020,6005,9330,7670
+Gujarat,Botad,Botad,"Green Gram (Moong)(Whole)",Other,06/01/2020,4330,5880,5105
+Gujarat,Botad,Botad,"Green Gram (Moong)(Whole)",Other,08/01/2020,4205,6630,5420
+Gujarat,Botad,Botad,"Green Gram (Moong)(Whole)",Other,09/01/2020,5305,6230,5770
+Gujarat,Botad,Botad,"Green Gram (Moong)(Whole)",Other,10/01/2020,5555,5555,5555
+Gujarat,Dahod,Dahod,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,5300,6000,5600
+Gujarat,Dahod,Dahod,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,5300,6000,5600
+Gujarat,Gandhinagar,Kalol,"Green Gram (Moong)(Whole)",Other,13/01/2020,4500,4500,4500
+Gujarat,Gandhinagar,Mansa,"Green Gram (Moong)(Whole)",Local,07/01/2020,4850,4850,4850
+Gujarat,Gandhinagar,Mansa,"Green Gram (Moong)(Whole)",Local,11/01/2020,5400,5400,5400
+Gujarat,Jamnagar,Bhanvad,"Green Gram (Moong)(Whole)",Other,11/01/2020,5000,6250,6000
+Gujarat,Jamnagar,Dhrol,"Green Gram (Moong)(Whole)",Other,02/01/2020,5000,7300,6100
+Gujarat,Jamnagar,Dhrol,"Green Gram (Moong)(Whole)",Other,03/01/2020,5000,6950,5975
+Gujarat,Jamnagar,Dhrol,"Green Gram (Moong)(Whole)",Other,04/01/2020,5000,7475,6240
+Gujarat,Jamnagar,Dhrol,"Green Gram (Moong)(Whole)",Other,06/01/2020,5000,6550,5775
+Gujarat,Jamnagar,Dhrol,"Green Gram (Moong)(Whole)",Other,07/01/2020,4450,6775,5615
+Gujarat,Jamnagar,Dhrol,"Green Gram (Moong)(Whole)",Other,08/01/2020,5700,7100,6400
+Gujarat,Jamnagar,Dhrol,"Green Gram (Moong)(Whole)",Other,09/01/2020,4675,6750,5715
+Gujarat,Jamnagar,Dhrol,"Green Gram (Moong)(Whole)",Other,10/01/2020,5400,6800,6100
+Gujarat,Jamnagar,Dhrol,"Green Gram (Moong)(Whole)",Other,13/01/2020,6450,6550,6500
+Gujarat,Jamnagar,Dhrol,"Green Gram (Moong)(Whole)",Other,15/01/2020,6500,6800,6650
+Gujarat,Jamnagar,Jamnagar,"Green Gram (Moong)(Whole)",Other,01/01/2020,4500,7350,5925
+Gujarat,Jamnagar,Jamnagar,"Green Gram (Moong)(Whole)",Other,02/01/2020,5000,7750,6375
+Gujarat,Jamnagar,Jamnagar,"Green Gram (Moong)(Whole)",Other,06/01/2020,5825,6775,6300
+Gujarat,Jamnagar,Jamnagar,"Green Gram (Moong)(Whole)",Other,07/01/2020,5975,6800,6388
+Gujarat,Jamnagar,Jamnagar,"Green Gram (Moong)(Whole)",Other,08/01/2020,5500,6700,6100
+Gujarat,Junagarh,Visavadar,"Green Gram (Moong)(Whole)",Other,07/01/2020,5665,7075,6270
+Gujarat,Junagarh,Visavadar,"Green Gram (Moong)(Whole)",Other,08/01/2020,5680,7470,6575
+Gujarat,Mehsana,Kadi,"Green Gram (Moong)(Whole)",Local,01/01/2020,6500,7255,6800
+Gujarat,Mehsana,Kadi,"Green Gram (Moong)(Whole)",Local,02/01/2020,6500,7550,7000
+Gujarat,Mehsana,Kadi,"Green Gram (Moong)(Whole)",Local,03/01/2020,6500,7585,7000
+Gujarat,Mehsana,Kadi,"Green Gram (Moong)(Whole)",Local,04/01/2020,6500,7110,6900
+Gujarat,Mehsana,Kadi,"Green Gram (Moong)(Whole)",Local,06/01/2020,6250,7090,6800
+Gujarat,Mehsana,Kadi,"Green Gram (Moong)(Whole)",Local,07/01/2020,6400,7075,6800
+Gujarat,Mehsana,Kadi,"Green Gram (Moong)(Whole)",Local,08/01/2020,6350,7505,6800
+Gujarat,Mehsana,Kadi,"Green Gram (Moong)(Whole)",Local,09/01/2020,6250,7105,6850
+Gujarat,Mehsana,Kadi,"Green Gram (Moong)(Whole)",Local,10/01/2020,6750,7350,6950
+Gujarat,Mehsana,Kadi,"Green Gram (Moong)(Whole)",Local,13/01/2020,6500,7325,7000
+Gujarat,Mehsana,Visnagar,"Green Gram (Moong)(Whole)",Other,01/01/2020,3000,6900,4950
+Gujarat,Mehsana,Visnagar,"Green Gram (Moong)(Whole)",Other,02/01/2020,2500,7175,4837
+Gujarat,Mehsana,Visnagar,"Green Gram (Moong)(Whole)",Other,03/01/2020,2490,6000,5100
+Gujarat,Mehsana,Visnagar,"Green Gram (Moong)(Whole)",Other,04/01/2020,4000,6800,5400
+Gujarat,Mehsana,Visnagar,"Green Gram (Moong)(Whole)",Other,06/01/2020,5400,6375,5887
+Gujarat,Mehsana,Visnagar,"Green Gram (Moong)(Whole)",Other,07/01/2020,5500,6875,6187
+Gujarat,Mehsana,Visnagar,"Green Gram (Moong)(Whole)",Other,09/01/2020,3375,6850,5112
+Gujarat,Mehsana,Visnagar,"Green Gram (Moong)(Whole)",Other,11/01/2020,5600,6300,5950
+Gujarat,Patan,Patan,"Green Gram (Moong)(Whole)",Other,06/01/2020,3850,3850,3850
+Gujarat,Patan,Patan,"Green Gram (Moong)(Whole)",Other,08/01/2020,4755,4755,4755
+Gujarat,Patan,Siddhpur,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,4060,4250,4155
+Gujarat,Porbandar,Porbandar,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,0,6450,6450
+Gujarat,Porbandar,Porbandar,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,5000,7150,6075
+Gujarat,Porbandar,Porbandar,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,6250,7425,6840
+Gujarat,Porbandar,Porbandar,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,0,6375,6375
+Gujarat,Porbandar,Porbandar,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,6025,6500,6265
+Gujarat,Porbandar,Porbandar,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6300,7425,6860
+Gujarat,Porbandar,Porbandar,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,0,6375,6375
+Gujarat,Porbandar,Porbandar,"Green Gram (Moong)(Whole)","Green (Whole)",15/01/2020,6925,7475,7200
+Gujarat,Rajkot,Gondal,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6130,7630,7130
+Gujarat,Rajkot,Gondal,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,5905,7555,6555
+Gujarat,Rajkot,Gondal,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,3500,6880,6455
+Gujarat,Rajkot,Gondal,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,4505,7705,6380
+Gujarat,Rajkot,Gondal,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,4005,7380,6255
+Gujarat,Rajkot,Gondal,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,4880,6880,6380
+Gujarat,Rajkot,Gondal,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,4880,7205,6630
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,3500,7205,6000
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,4000,6750,6000
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,4000,6250,5750
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,5250,7250,6500
+Gujarat,Rajkot,Morbi,"Green Gram (Moong)(Whole)",Local,04/01/2020,6305,7455,6880
+Gujarat,Rajkot,Morbi,"Green Gram (Moong)(Whole)",Local,06/01/2020,6000,7600,6800
+Gujarat,Rajkot,Morbi,"Green Gram (Moong)(Whole)",Local,08/01/2020,6345,6885,6615
+Gujarat,Rajkot,Morbi,"Green Gram (Moong)(Whole)",Local,13/01/2020,3375,5155,4265
+Gujarat,Rajkot,Rajkot,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,5750,8125,7250
+Gujarat,Rajkot,Rajkot,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,5000,8000,7000
+Gujarat,Rajkot,Rajkot,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,5750,7900,7250
+Gujarat,Rajkot,Rajkot,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,5850,7800,7200
+Gujarat,Rajkot,Rajkot,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6000,7375,6250
+Gujarat,Rajkot,Rajkot,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,5500,7500,6800
+Gujarat,Rajkot,Rajkot,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,5750,7500,7125
+Gujarat,Rajkot,Rajkot,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,5500,7300,7000
+Gujarat,Rajkot,Rajkot,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,5750,7500,7000
+Gujarat,Rajkot,Rajkot,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,5625,7775,7250
+Gujarat,Rajkot,Rajkot,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,6000,7750,7250
+Gujarat,Rajkot,Rajkot,"Green Gram (Moong)(Whole)","Green (Whole)",15/01/2020,6265,8000,6750
+Gujarat,Sabarkantha,Talod,"Green Gram (Moong)(Whole)",Other,09/01/2020,5000,7000,6000
+Jharkhand,Ranchi,Khunti,"Green Gram (Moong)(Whole)",Medium,02/01/2020,9200,9600,9400
+Jharkhand,Ranchi,Khunti,"Green Gram (Moong)(Whole)",Medium,03/01/2020,9600,10000,9800
+Jharkhand,Ranchi,Khunti,"Green Gram (Moong)(Whole)",Medium,04/01/2020,9600,10000,9800
+Jharkhand,Ranchi,Khunti,"Green Gram (Moong)(Whole)",Medium,07/01/2020,9600,10000,9800
+Jharkhand,Ranchi,Khunti,"Green Gram (Moong)(Whole)",Medium,10/01/2020,9850,10250,10050
+Jharkhand,Ranchi,Khunti,"Green Gram (Moong)(Whole)",Medium,12/01/2020,9650,10050,9850
+Jharkhand,Ranchi,Khunti,"Green Gram (Moong)(Whole)",Medium,14/01/2020,9850,10250,10050
+Jharkhand,Ranchi,Khunti,"Green Gram (Moong)(Whole)",Other,02/01/2020,8800,9200,9000
+Jharkhand,Ranchi,Khunti,"Green Gram (Moong)(Whole)",Other,03/01/2020,8800,9200,9000
+Jharkhand,Ranchi,Khunti,"Green Gram (Moong)(Whole)",Other,04/01/2020,7500,7900,7700
+Jharkhand,Ranchi,Khunti,"Green Gram (Moong)(Whole)",Other,07/01/2020,8800,9200,9000
+Jharkhand,Ranchi,Khunti,"Green Gram (Moong)(Whole)",Other,10/01/2020,8800,9200,9000
+Jharkhand,Ranchi,Khunti,"Green Gram (Moong)(Whole)",Other,12/01/2020,8800,9200,9000
+Jharkhand,Ranchi,Khunti,"Green Gram (Moong)(Whole)",Other,14/01/2020,7500,7900,7700
+Karnataka,Bagalkot,Bagalakot,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,6126,7411,7050
+Karnataka,Bagalkot,Bagalakot,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,4500,6000,5045
+Karnataka,Bangalore,Bangalore,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,7800,9000,8400
+Karnataka,Bangalore,Bangalore,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,7800,9000,8400
+Karnataka,Bangalore,Bangalore,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,7800,9000,8400
+Karnataka,Bangalore,Bangalore,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,7800,9000,8400
+Karnataka,Bangalore,Bangalore,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,8000,9000,8500
+Karnataka,Bangalore,Bangalore,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,8000,9000,8500
+Karnataka,Bangalore,Bangalore,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,8000,9000,8500
+Karnataka,Bangalore,Bangalore,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,8000,9000,8500
+Karnataka,Bangalore,Bangalore,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,8000,9000,8500
+Karnataka,Bangalore,Bangalore,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,8000,9100,8550
+Karnataka,Bangalore,Bangalore,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,8000,9100,8550
+Karnataka,Belgaum,Ramdurga,"Green Gram (Moong)(Whole)",Hybrid,02/01/2020,7600,7600,7600
+Karnataka,Belgaum,Ramdurga,"Green Gram (Moong)(Whole)",Hybrid,06/01/2020,6521,6521,6521
+Karnataka,Belgaum,Soundati,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,7100,7100,7100
+Karnataka,Belgaum,Soundati,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,6865,7200,7100
+Karnataka,Belgaum,Soundati,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,7000,7120,7100
+Karnataka,Belgaum,Soundati,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,6500,6500,6500
+Karnataka,Belgaum,Soundati,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6700,6700,6700
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)",02/01/2020,2050,6600,5574
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)",09/01/2020,6150,6821,6564
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)",13/01/2020,6829,6829,6829
+Karnataka,Bidar,"Basava Kalayana","Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6600,6600,6600
+Karnataka,Bidar,"Basava Kalayana","Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6000,6000,6000
+Karnataka,Bidar,"Basava Kalayana","Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,7100,7100,7100
+Karnataka,Bidar,"Basava Kalayana","Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,5800,6900,6500
+Karnataka,Bidar,"Basava Kalayana","Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6700,6700,6700
+Karnataka,Bidar,"Basava Kalayana","Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,6500,6500,6500
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6350,7640,6500
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6800,7451,6950
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,7101,7340,7210
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,6500,7350,6800
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,5700,7300,6900
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,6500,7200,6700
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,6200,7300,6800
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6500,7350,6800
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,6500,7475,6800
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,6500,7540,6800
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,6800,7546,6850
+Karnataka,Chamrajnagar,Gundlupet,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,8500,8500,8500
+Karnataka,Chitradurga,Chitradurga,"Green Gram (Moong)(Whole)",Medium,03/01/2020,8069,8209,8140
+Karnataka,Dharwad,Dharwar,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,7225,7225,7225
+Karnataka,Dharwad,Dharwar,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,6800,6800,6800
+Karnataka,Dharwad,Dharwar,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,7300,7300,7300
+Karnataka,Dharwad,"Hubli (Amaragol)","Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6200,6500,6200
+Karnataka,Dharwad,"Hubli (Amaragol)","Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,3569,7269,5739
+Karnataka,Dharwad,"Hubli (Amaragol)","Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,4569,7386,6682
+Karnataka,Dharwad,"Hubli (Amaragol)","Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,5969,7369,6669
+Karnataka,Dharwad,"Hubli (Amaragol)","Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,6049,7301,7200
+Karnataka,Dharwad,"Hubli (Amaragol)","Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,7000,7000,7000
+Karnataka,Dharwad,"Hubli (Amaragol)","Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,6369,7311,6369
+Karnataka,Dharwad,"Hubli (Amaragol)","Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,2669,7289,5069
+Karnataka,Dharwad,"Hubli (Amaragol)","Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,4269,7200,4269
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,3269,7670,6318
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,3206,7809,7133
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,2879,7800,7481
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,1209,8069,7322
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,1239,7850,6380
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,2939,7419,6837
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,3258,7695,5587
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,3529,7809,6457
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,3859,7909,7110
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,4009,7857,6475
+Karnataka,Gadag,Laxmeshwar,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,2619,6468,4055
+Karnataka,Gadag,Laxmeshwar,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,4008,7015,5694
+Karnataka,Gadag,Laxmeshwar,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,5185,6749,5762
+Karnataka,Gadag,Laxmeshwar,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,5685,6628,6203
+Karnataka,Gadag,Laxmeshwar,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,5285,7579,6132
+Karnataka,Gadag,Laxmeshwar,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,4088,6788,5188
+Karnataka,Gadag,Nargunda,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,6900,6900,6900
+Karnataka,Gadag,Nargunda,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,6800,6800,6800
+Karnataka,Gadag,Nargunda,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,8269,8269,8269
+Karnataka,Gadag,Nargunda,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,8037,8037,8037
+Karnataka,Gulbarga,Chittapur,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,5800,5800,5800
+Karnataka,Gulbarga,Gulbarga,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6500,7525,6895
+Karnataka,Gulbarga,Gulbarga,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6154,7476,6852
+Karnataka,Gulbarga,Gulbarga,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,5850,7512,6925
+Karnataka,Gulbarga,Gulbarga,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,6876,7504,7002
+Karnataka,Gulbarga,Gulbarga,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6526,7512,7078
+Karnataka,Gulbarga,Gulbarga,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,6350,7250,6876
+Karnataka,Gulbarga,Gulbarga,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,6376,7476,6976
+Karnataka,Gulbarga,Gulbarga,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,6226,7254,6876
+Karnataka,Gulbarga,Gulbarga,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6000,7400,6800
+Karnataka,Gulbarga,Gulbarga,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,6575,7552,7054
+Karnataka,Gulbarga,Gulbarga,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,6254,7576,6876
+Karnataka,Gulbarga,Sedam,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,4200,6600,5004
+Karnataka,Gulbarga,Sedam,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,4900,7700,6001
+Karnataka,Gulbarga,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6819,7111,7089
+Karnataka,Gulbarga,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,7300,7300,7300
+Karnataka,Gulbarga,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6479,6750,6737
+Karnataka,Gulbarga,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,5811,5811,5811
+Karnataka,Gulbarga,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,6369,6369,6369
+Karnataka,Gulbarga,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,6901,6901,6901
+Karnataka,Mysore,"Mysore (Bandipalya)","Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,8400,9200,8800
+Karnataka,Mysore,"Mysore (Bandipalya)","Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,8400,9200,8800
+Karnataka,Mysore,"Mysore (Bandipalya)","Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,8400,9200,8800
+Karnataka,Mysore,"Mysore (Bandipalya)","Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,8400,9200,8800
+Karnataka,Mysore,"Mysore (Bandipalya)","Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,8400,9200,8800
+Karnataka,Mysore,"Mysore (Bandipalya)","Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,8400,9200,8800
+Karnataka,Mysore,"Mysore (Bandipalya)","Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,7600,9000,8300
+Karnataka,Raichur,Sindhanur,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,4104,4104,4104
+Karnataka,Raichur,Sindhanur,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,4104,4104,4104
+Karnataka,Raichur,Sindhanur,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,4104,4104,4104
+Karnataka,Raichur,Sindhanur,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,4104,4104,4104
+Karnataka,Shimoga,Shimoga,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,9000,9500,9250
+Karnataka,Shimoga,Shimoga,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,9000,9500,9250
+Karnataka,Shimoga,Shimoga,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,9000,10000,9500
+Karnataka,Shimoga,Shimoga,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,9000,10000,9500
+Karnataka,Shimoga,Shimoga,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,9400,9600,9500
+Karnataka,Shimoga,Shimoga,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,9200,9600,9400
+Karnataka,Shimoga,Shimoga,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,9500,9800,9650
+Karnataka,Shimoga,Shimoga,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,9000,9800,9400
+Karnataka,Shimoga,Shimoga,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,9000,9800,9400
+Karnataka,Shimoga,Shimoga,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,8800,9000,8900
+Kerala,Alappuzha,Aroor,"Green Gram (Moong)(Whole)",Other,03/01/2020,6600,6800,6700
+Kerala,Alappuzha,Aroor,"Green Gram (Moong)(Whole)",Other,05/01/2020,7000,7200,7100
+Kerala,Alappuzha,Aroor,"Green Gram (Moong)(Whole)",Other,09/01/2020,7800,8000,7900
+Kerala,Alappuzha,Aroor,"Green Gram (Moong)(Whole)",Other,10/01/2020,8000,8200,8100
+Kerala,Alappuzha,Aroor,"Green Gram (Moong)(Whole)",Other,11/01/2020,7800,8000,7900
+Kerala,Alappuzha,Aroor,"Green Gram (Moong)(Whole)",Other,13/01/2020,8000,8200,8100
+Kerala,Alappuzha,Aroor,"Green Gram (Moong)(Whole)",Other,14/01/2020,8000,8200,8100
+Kerala,Idukki,Vandiperiyar,"Green Gram (Moong)(Whole)",Other,09/01/2020,8000,8000,8000
+Kerala,Kottayam,Kottayam,"Green Gram (Moong)(Whole)",Other,09/01/2020,8200,8800,8700
+Kerala,Kottayam,Kottayam,"Green Gram (Moong)(Whole)",Other,13/01/2020,8800,9100,9000
+Kerala,Palakad,Palakkad,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,9000,10000,9600
+Kerala,Palakad,Palakkad,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,9000,10000,9600
+Kerala,Palakad,Palakkad,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,9000,10000,9600
+Kerala,Palakad,Palakkad,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,9000,10000,9600
+Kerala,Palakad,Palakkad,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,9000,10000,9600
+Kerala,Palakad,Palakkad,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,9000,10000,9600
+Kerala,Palakad,Palakkad,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,9500,10000,9800
+Kerala,Palakad,Palakkad,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",01/01/2020,10000,12000,11100
+Kerala,Palakad,Palakkad,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",03/01/2020,10000,11000,10600
+Kerala,Palakad,Palakkad,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",04/01/2020,10000,11000,10600
+Kerala,Palakad,Palakkad,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",06/01/2020,10000,11000,10600
+Kerala,Palakad,Palakkad,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",07/01/2020,10000,11500,10800
+Kerala,Palakad,Palakkad,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",09/01/2020,10000,11500,10800
+Kerala,Palakad,Palakkad,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",10/01/2020,11000,12000,11600
+Kerala,Palakad,Vadakkenchery,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,9000,9500,9250
+Kerala,Palakad,Vadakkenchery,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,9000,9500,9250
+Kerala,Palakad,Vadakkenchery,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,9000,9500,9250
+Kerala,Palakad,Vadakkenchery,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,9000,9500,9250
+Kerala,Palakad,Vadakkenchery,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,9000,9500,9250
+Kerala,Palakad,Vadakkenchery,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,9000,9500,9250
+Kerala,Palakad,Vadakkenchery,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",03/01/2020,9500,10000,9750
+Kerala,Palakad,Vadakkenchery,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",04/01/2020,9500,10000,9750
+Kerala,Palakad,Vadakkenchery,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",06/01/2020,9500,10000,9750
+Kerala,Palakad,Vadakkenchery,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",07/01/2020,9500,10000,9750
+Kerala,Palakad,Vadakkenchery,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",09/01/2020,9500,10000,9750
+Kerala,Palakad,Vadakkenchery,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",10/01/2020,9500,10000,9750
+Kerala,Thiruvananthapuram,Chala,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,9000,10100,9000
+Kerala,Thiruvananthapuram,Chala,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,9000,10300,9000
+Kerala,Thiruvananthapuram,Chala,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,9000,10100,9000
+"Madhya Pradesh",Badwani,Badwani,"Green Gram (Moong)(Whole)","Green (Whole)",12/01/2020,5000,5000,5000
+"Madhya Pradesh",Dewas,Khategaon,"Green Gram (Moong)(Whole)",Other,10/01/2020,3900,7366,4800
+"Madhya Pradesh",Dewas,Khategaon,"Green Gram (Moong)(Whole)",Other,13/01/2020,5800,6800,6400
+"Madhya Pradesh",Dhar,Manawar,"Green Gram (Moong)(Whole)",Other,11/01/2020,4500,4500,4500
+"Madhya Pradesh",Guna,Guna,"Green Gram (Moong)(Whole)",Other,08/01/2020,7405,7405,7405
+"Madhya Pradesh",Guna,Guna,"Green Gram (Moong)(Whole)",Other,10/01/2020,7200,7200,7200
+"Madhya Pradesh",Guna,Guna,"Green Gram (Moong)(Whole)",Other,13/01/2020,7300,7500,7425
+"Madhya Pradesh",Harda,Harda,"Green Gram (Moong)(Whole)",Other,01/01/2020,5400,7790,7541
+"Madhya Pradesh",Harda,Harda,"Green Gram (Moong)(Whole)",Other,02/01/2020,5800,7829,7721
+"Madhya Pradesh",Harda,Harda,"Green Gram (Moong)(Whole)",Other,03/01/2020,4000,7806,7581
+"Madhya Pradesh",Harda,Harda,"Green Gram (Moong)(Whole)",Other,04/01/2020,5700,7770,7101
+"Madhya Pradesh",Harda,Harda,"Green Gram (Moong)(Whole)",Other,06/01/2020,4900,7726,7400
+"Madhya Pradesh",Harda,Harda,"Green Gram (Moong)(Whole)",Other,07/01/2020,4151,7726,7361
+"Madhya Pradesh",Harda,Harda,"Green Gram (Moong)(Whole)",Other,08/01/2020,5951,7699,7470
+"Madhya Pradesh",Harda,Harda,"Green Gram (Moong)(Whole)",Other,09/01/2020,4000,7723,7561
+"Madhya Pradesh",Harda,Harda,"Green Gram (Moong)(Whole)",Other,10/01/2020,3900,7700,7375
+"Madhya Pradesh",Harda,Harda,"Green Gram (Moong)(Whole)",Other,13/01/2020,4201,7999,7800
+"Madhya Pradesh",Harda,Harda,"Green Gram (Moong)(Whole)",Other,14/01/2020,4300,7991,7930
+"Madhya Pradesh",Harda,Khirakiya,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,5901,7551,7300
+"Madhya Pradesh",Harda,Khirakiya,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,7100,7100,7100
+"Madhya Pradesh",Harda,Khirakiya,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,4800,7300,6801
+"Madhya Pradesh",Harda,Khirakiya,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,3901,7490,7001
+"Madhya Pradesh",Harda,Khirakiya,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,3600,7400,5400
+"Madhya Pradesh",Harda,Khirakiya,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,7201,7250,7250
+"Madhya Pradesh",Harda,Khirakiya,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,5151,5151,5151
+"Madhya Pradesh",Harda,Khirakiya,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,7201,8000,7750
+"Madhya Pradesh",Harda,Siroli,"Green Gram (Moong)(Whole)",Local,03/01/2020,7201,7201,7201
+"Madhya Pradesh",Harda,Siroli,"Green Gram (Moong)(Whole)",Local,13/01/2020,7765,7900,7810
+"Madhya Pradesh",Harda,Timarni,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,4950,7950,7740
+"Madhya Pradesh",Harda,Timarni,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,4300,7880,7690
+"Madhya Pradesh",Harda,Timarni,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,2501,7851,7610
+"Madhya Pradesh",Harda,Timarni,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,4000,7780,7610
+"Madhya Pradesh",Harda,Timarni,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,2900,7670,7440
+"Madhya Pradesh",Harda,Timarni,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,4801,7641,7550
+"Madhya Pradesh",Harda,Timarni,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,4701,7688,7450
+"Madhya Pradesh",Harda,Timarni,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,5000,7641,7420
+"Madhya Pradesh",Harda,Timarni,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,3202,8040,7800
+"Madhya Pradesh",Harda,Timarni,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,5400,8051,7835
+"Madhya Pradesh",Hoshangabad,Banapura,"Green Gram (Moong)(Whole)","Local (Whole)",01/01/2020,7151,7799,7620
+"Madhya Pradesh",Hoshangabad,Banapura,"Green Gram (Moong)(Whole)","Local (Whole)",03/01/2020,6700,7600,7419
+"Madhya Pradesh",Hoshangabad,Banapura,"Green Gram (Moong)(Whole)","Local (Whole)",04/01/2020,4300,7276,7099
+"Madhya Pradesh",Hoshangabad,Banapura,"Green Gram (Moong)(Whole)","Local (Whole)",06/01/2020,4501,7380,7160
+"Madhya Pradesh",Hoshangabad,Banapura,"Green Gram (Moong)(Whole)","Local (Whole)",07/01/2020,4400,7381,7250
+"Madhya Pradesh",Hoshangabad,Banapura,"Green Gram (Moong)(Whole)","Local (Whole)",08/01/2020,6200,7451,7299
+"Madhya Pradesh",Hoshangabad,Banapura,"Green Gram (Moong)(Whole)","Local (Whole)",09/01/2020,6000,7516,7269
+"Madhya Pradesh",Hoshangabad,Banapura,"Green Gram (Moong)(Whole)","Local (Whole)",10/01/2020,6999,7449,7321
+"Madhya Pradesh",Hoshangabad,Banapura,"Green Gram (Moong)(Whole)","Local (Whole)",13/01/2020,5252,7699,7326
+"Madhya Pradesh",Hoshangabad,Banapura,"Green Gram (Moong)(Whole)","Local (Whole)",14/01/2020,6100,7880,7641
+"Madhya Pradesh",Hoshangabad,Itarsi,"Green Gram (Moong)(Whole)",Other,10/01/2020,2800,7601,7095
+"Madhya Pradesh",Hoshangabad,Itarsi,"Green Gram (Moong)(Whole)",Other,13/01/2020,2352,8151,7002
+"Madhya Pradesh",Hoshangabad,Pipariya,"Green Gram (Moong)(Whole)",Local,06/01/2020,4800,7612,7400
+"Madhya Pradesh",Hoshangabad,Pipariya,"Green Gram (Moong)(Whole)",Local,07/01/2020,6291,7512,7400
+"Madhya Pradesh",Hoshangabad,Pipariya,"Green Gram (Moong)(Whole)",Local,09/01/2020,4305,7575,7400
+"Madhya Pradesh",Jabalpur,Jabalpur,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,4860,7200,6680
+"Madhya Pradesh",Jabalpur,Jabalpur,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,3905,5850,5200
+"Madhya Pradesh",Jabalpur,Jabalpur,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,3900,7200,4100
+"Madhya Pradesh",Jabalpur,Jabalpur,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,3855,5850,4500
+"Madhya Pradesh",Jabalpur,Jabalpur,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,3000,6600,5305
+"Madhya Pradesh",Jabalpur,Jabalpur,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,5805,7780,5945
+"Madhya Pradesh",Jabalpur,Jabalpur,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,7200,7200,7200
+"Madhya Pradesh",Khandwa,Harsood,"Green Gram (Moong)(Whole)",Other,09/01/2020,3600,4400,4400
+"Madhya Pradesh",Khandwa,Khandwa,"Green Gram (Moong)(Whole)",Other,10/01/2020,5000,5000,5000
+"Madhya Pradesh",Khandwa,Khandwa,"Green Gram (Moong)(Whole)",Other,13/01/2020,3000,4200,4200
+"Madhya Pradesh",Khargone,Bhikangaon,"Green Gram (Moong)(Whole)",Other,09/01/2020,5469,5700,5600
+"Madhya Pradesh",Khargone,Bhikangaon,"Green Gram (Moong)(Whole)",Other,11/01/2020,5912,5912,5912
+"Madhya Pradesh",Khargone,Bhikangaon,"Green Gram (Moong)(Whole)",Other,12/01/2020,5500,5500,5500
+"Madhya Pradesh",Khargone,Khargone,"Green Gram (Moong)(Whole)",Other,11/01/2020,4711,6101,6101
+"Madhya Pradesh",Narsinghpur,Gotegaon,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,7300,7550,7450
+"Madhya Pradesh",Neemuch,Neemuch,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,3800,3800,3800
+"Madhya Pradesh",Neemuch,Neemuch,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,3900,3900,3900
+"Madhya Pradesh",Rajgarh,Pachaur,"Green Gram (Moong)(Whole)",Other,14/01/2020,3700,3970,3800
+"Madhya Pradesh",Satna,Satna,"Green Gram (Moong)(Whole)",Other,09/01/2020,3601,6800,4500
+"Madhya Pradesh",Sehore,Nasrullaganj,"Green Gram (Moong)(Whole)",Other,09/01/2020,6600,7486,7460
+"Madhya Pradesh",Sehore,Nasrullaganj,"Green Gram (Moong)(Whole)",Other,10/01/2020,3601,7701,7600
+"Madhya Pradesh",Sehore,Nasrullaganj,"Green Gram (Moong)(Whole)",Other,13/01/2020,7400,8001,8001
+"Madhya Pradesh",Sehore,Rehati,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,4003,4500,4500
+Maharashtra,Ahmednagar,Ahmednagar,"Green Gram (Moong)(Whole)",Other,06/01/2020,4500,6300,5400
+Maharashtra,Ahmednagar,Ahmednagar,"Green Gram (Moong)(Whole)",Other,09/01/2020,5700,7000,6350
+Maharashtra,Ahmednagar,Ahmednagar,"Green Gram (Moong)(Whole)",Other,10/01/2020,5700,7000,6350
+Maharashtra,Ahmednagar,Ahmednagar,"Green Gram (Moong)(Whole)",Other,11/01/2020,6300,6300,6300
+Maharashtra,Ahmednagar,Ahmednagar,"Green Gram (Moong)(Whole)",Other,13/01/2020,6700,6700,6700
+Maharashtra,Ahmednagar,Ahmednagar,"Green Gram (Moong)(Whole)",Other,14/01/2020,4000,6000,5000
+Maharashtra,Ahmednagar,Sangamner,"Green Gram (Moong)(Whole)",Other,06/01/2020,4500,4500,4500
+Maharashtra,Ahmednagar,Sangamner,"Green Gram (Moong)(Whole)",Other,10/01/2020,4751,4751,4751
+Maharashtra,Ahmednagar,Sangamner,"Green Gram (Moong)(Whole)",Other,13/01/2020,4600,4600,4600
+Maharashtra,Akola,Akola,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,4000,7000,6600
+Maharashtra,Akola,Akola,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,4700,7300,7100
+Maharashtra,Akola,Akola,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,4000,7500,6700
+Maharashtra,Akola,Akola,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,5000,7500,7000
+Maharashtra,Akola,Akola,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6300,7300,6500
+Maharashtra,Akola,Akola,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,5500,7250,6500
+Maharashtra,Akola,Akola,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6000,7251,6800
+Maharashtra,Akola,Akola,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,5200,7450,7000
+Maharashtra,Akola,Akola,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,4500,7500,6300
+Maharashtra,Akola,Akola,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,5000,7400,7000
+Maharashtra,Akola,Akola,"Green Gram (Moong)(Whole)","Green (Whole)",15/01/2020,5050,7400,7100
+Maharashtra,Akola,Akot,"Green Gram (Moong)(Whole)",Other,01/01/2020,4640,6465,6400
+Maharashtra,Akola,Akot,"Green Gram (Moong)(Whole)",Other,02/01/2020,5095,6605,6600
+Maharashtra,Akola,Akot,"Green Gram (Moong)(Whole)",Other,04/01/2020,4975,7000,6900
+Maharashtra,Akola,Akot,"Green Gram (Moong)(Whole)",Other,06/01/2020,4750,6395,6300
+Maharashtra,Akola,Akot,"Green Gram (Moong)(Whole)",Other,09/01/2020,4900,6375,6300
+Maharashtra,Akola,Akot,"Green Gram (Moong)(Whole)",Other,11/01/2020,4750,6375,6300
+Maharashtra,Akola,Balapur,"Green Gram (Moong)(Whole)","Green (Whole)",05/01/2020,5200,5200,5200
+Maharashtra,Akola,Murtizapur,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,5650,6405,6050
+Maharashtra,Akola,Murtizapur,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,5305,7000,6050
+Maharashtra,Akola,Telhara,"Green Gram (Moong)(Whole)",Other,04/01/2020,5500,6350,5900
+Maharashtra,Akola,Telhara,"Green Gram (Moong)(Whole)",Other,09/01/2020,5300,5500,5400
+Maharashtra,Akola,Telhara,"Green Gram (Moong)(Whole)",Other,14/01/2020,5700,6100,5900
+Maharashtra,Amarawati,Amarawati,"Green Gram (Moong)(Whole)",Other,01/01/2020,5200,6000,5600
+Maharashtra,Amarawati,Amarawati,"Green Gram (Moong)(Whole)",Other,02/01/2020,5000,6000,5500
+Maharashtra,Amarawati,Amarawati,"Green Gram (Moong)(Whole)",Other,03/01/2020,5500,6000,5750
+Maharashtra,Amarawati,Amarawati,"Green Gram (Moong)(Whole)",Other,04/01/2020,5500,6000,5750
+Maharashtra,Amarawati,Amarawati,"Green Gram (Moong)(Whole)",Other,06/01/2020,5200,6000,5600
+Maharashtra,Amarawati,Amarawati,"Green Gram (Moong)(Whole)",Other,07/01/2020,5500,6000,5750
+Maharashtra,Amarawati,Amarawati,"Green Gram (Moong)(Whole)",Other,08/01/2020,4800,5100,4950
+Maharashtra,Amarawati,Amarawati,"Green Gram (Moong)(Whole)",Other,09/01/2020,5600,6000,5800
+Maharashtra,Amarawati,Amarawati,"Green Gram (Moong)(Whole)",Other,10/01/2020,5500,6000,5750
+Maharashtra,Amarawati,Amarawati,"Green Gram (Moong)(Whole)",Other,11/01/2020,5600,6000,5800
+Maharashtra,Amarawati,Amarawati,"Green Gram (Moong)(Whole)",Other,13/01/2020,5300,6000,5650
+Maharashtra,Amarawati,Amarawati,"Green Gram (Moong)(Whole)",Other,14/01/2020,5600,6000,5800
+Maharashtra,Amarawati,Amarawati,"Green Gram (Moong)(Whole)",Other,15/01/2020,5900,6000,5950
+Maharashtra,Amarawati,Daryapur,"Green Gram (Moong)(Whole)",Other,01/01/2020,4670,6900,6340
+Maharashtra,Amarawati,Daryapur,"Green Gram (Moong)(Whole)",Other,03/01/2020,2395,6650,5850
+Maharashtra,Amarawati,Daryapur,"Green Gram (Moong)(Whole)",Other,06/01/2020,3650,7045,6040
+Maharashtra,Amarawati,Daryapur,"Green Gram (Moong)(Whole)",Other,07/01/2020,4425,6695,5685
+Maharashtra,Amarawati,Daryapur,"Green Gram (Moong)(Whole)",Other,10/01/2020,4500,7000,6760
+Maharashtra,Amarawati,Daryapur,"Green Gram (Moong)(Whole)",Other,11/01/2020,4950,6700,5450
+Maharashtra,Amarawati,Daryapur,"Green Gram (Moong)(Whole)",Other,13/01/2020,2695,6840,6395
+Maharashtra,Amarawati,Daryapur,"Green Gram (Moong)(Whole)",Other,14/01/2020,5235,6800,6000
+Maharashtra,Amarawati,Nanggaon,"Green Gram (Moong)(Whole)",Other,06/01/2020,3900,4350,4125
+Maharashtra,Aurangabad,Aurangabad,"Green Gram (Moong)(Whole)",Other,03/01/2020,6000,6411,6205
+Maharashtra,Aurangabad,Vaijpur,"Green Gram (Moong)(Whole)",Other,01/01/2020,4613,6312,5800
+Maharashtra,Aurangabad,Vaijpur,"Green Gram (Moong)(Whole)",Other,02/01/2020,5513,6712,5900
+Maharashtra,Aurangabad,Vaijpur,"Green Gram (Moong)(Whole)",Other,03/01/2020,4701,6115,5750
+Maharashtra,Aurangabad,Vaijpur,"Green Gram (Moong)(Whole)",Other,04/01/2020,5213,6503,5900
+Maharashtra,Aurangabad,Vaijpur,"Green Gram (Moong)(Whole)",Other,07/01/2020,4500,7050,6200
+Maharashtra,Aurangabad,Vaijpur,"Green Gram (Moong)(Whole)",Other,08/01/2020,5113,6390,6150
+Maharashtra,Aurangabad,Vaijpur,"Green Gram (Moong)(Whole)",Other,09/01/2020,5752,6612,6350
+Maharashtra,Aurangabad,Vaijpur,"Green Gram (Moong)(Whole)",Other,10/01/2020,4622,7281,6500
+Maharashtra,Beed,Beed,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,6400,6701,6701
+Maharashtra,Beed,Gevrai,"Green Gram (Moong)(Whole)",Other,01/01/2020,5600,5999,5999
+Maharashtra,Beed,Gevrai,"Green Gram (Moong)(Whole)",Other,02/01/2020,6000,6849,6400
+Maharashtra,Beed,Gevrai,"Green Gram (Moong)(Whole)",Other,03/01/2020,6000,6780,6780
+Maharashtra,Beed,Gevrai,"Green Gram (Moong)(Whole)",Other,04/01/2020,6025,6994,6994
+Maharashtra,Beed,Gevrai,"Green Gram (Moong)(Whole)",Other,06/01/2020,6000,6899,6700
+Maharashtra,Beed,Gevrai,"Green Gram (Moong)(Whole)",Other,07/01/2020,6055,6300,6055
+Maharashtra,Beed,Gevrai,"Green Gram (Moong)(Whole)",Other,09/01/2020,5500,5500,5500
+Maharashtra,Beed,Gevrai,"Green Gram (Moong)(Whole)",Other,10/01/2020,6700,6700,6700
+Maharashtra,Beed,Gevrai,"Green Gram (Moong)(Whole)",Other,11/01/2020,6400,6400,6400
+Maharashtra,Beed,Majalgaon,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,5700,7700,7100
+Maharashtra,Beed,Majalgaon,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,6900,6900,6900
+Maharashtra,Beed,Majalgaon,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,6446,6951,6751
+Maharashtra,Beed,Majalgaon,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,7000,7000,7000
+Maharashtra,Beed,Majalgaon,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,5700,7100,6650
+Maharashtra,Beed,Majalgaon,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6000,7168,6801
+Maharashtra,Beed,Majalgaon,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,7168,7168,7168
+Maharashtra,Beed,Majalgaon,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,7000,7000,7000
+Maharashtra,Beed,Majalgaon,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,5801,7700,6900
+Maharashtra,Beed,"Parali Vaijyanath","Green Gram (Moong)(Whole)",Other,01/01/2020,6100,6100,6100
+Maharashtra,Beed,"Parali Vaijyanath","Green Gram (Moong)(Whole)",Other,02/01/2020,6150,6150,6150
+Maharashtra,Beed,"Parali Vaijyanath","Green Gram (Moong)(Whole)",Other,03/01/2020,6400,6400,6400
+Maharashtra,Beed,"Parali Vaijyanath","Green Gram (Moong)(Whole)",Other,06/01/2020,6000,6400,6000
+Maharashtra,Beed,"Parali Vaijyanath","Green Gram (Moong)(Whole)",Other,08/01/2020,6000,6000,6000
+Maharashtra,Beed,"Parali Vaijyanath","Green Gram (Moong)(Whole)",Other,09/01/2020,5800,6000,5800
+Maharashtra,Beed,"Parali Vaijyanath","Green Gram (Moong)(Whole)",Other,11/01/2020,6000,6000,6000
+Maharashtra,Bhandara,Tumsar,"Green Gram (Moong)(Whole)",Other,11/01/2020,4600,4600,4600
+Maharashtra,Buldhana,Chikali,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,5400,6951,6176
+Maharashtra,Buldhana,Chikali,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,5600,6980,6290
+Maharashtra,Buldhana,Chikali,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,5700,6700,6200
+Maharashtra,Buldhana,Chikali,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,5300,6800,6050
+Maharashtra,Buldhana,Chikali,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,4500,6700,5600
+Maharashtra,Buldhana,Chikali,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,5600,6901,6251
+Maharashtra,Buldhana,Chikali,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,5400,6461,5931
+Maharashtra,Buldhana,Chikali,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,5400,6900,6150
+Maharashtra,Buldhana,Chikali,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,5200,6401,5801
+Maharashtra,Buldhana,Chikali,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,5450,6500,5975
+Maharashtra,Buldhana,Chikali,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,5300,7000,6150
+Maharashtra,Buldhana,Chikali,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,5200,6000,5600
+Maharashtra,Buldhana,"Deoulgaon Raja","Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6000,6000,6000
+Maharashtra,Buldhana,"Deoulgaon Raja","Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6500,6500,6500
+Maharashtra,Buldhana,"Deoulgaon Raja","Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,6701,6701,6701
+Maharashtra,Buldhana,"Deoulgaon Raja","Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,5201,6000,5201
+Maharashtra,Buldhana,"Deoulgaon Raja","Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6801,6801,6801
+Maharashtra,Buldhana,"Deoulgaon Raja","Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,5001,5001,5001
+Maharashtra,Buldhana,"Deoulgaon Raja","Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,4000,4000,4000
+Maharashtra,Buldhana,Khamgaon,"Green Gram (Moong)(Whole)",Other,01/01/2020,5000,7095,6047
+Maharashtra,Buldhana,Khamgaon,"Green Gram (Moong)(Whole)",Other,02/01/2020,4500,7200,5850
+Maharashtra,Buldhana,Khamgaon,"Green Gram (Moong)(Whole)",Other,06/01/2020,4800,6905,5852
+Maharashtra,Buldhana,Khamgaon,"Green Gram (Moong)(Whole)",Other,07/01/2020,6000,7100,6550
+Maharashtra,Buldhana,Khamgaon,"Green Gram (Moong)(Whole)",Other,08/01/2020,5100,6900,6000
+Maharashtra,Buldhana,Khamgaon,"Green Gram (Moong)(Whole)",Other,09/01/2020,4200,6810,5505
+Maharashtra,Buldhana,Khamgaon,"Green Gram (Moong)(Whole)",Other,10/01/2020,5000,7030,6015
+Maharashtra,Buldhana,Khamgaon,"Green Gram (Moong)(Whole)",Other,11/01/2020,6500,7650,7075
+Maharashtra,Buldhana,Khamgaon,"Green Gram (Moong)(Whole)",Other,13/01/2020,5145,7400,6272
+Maharashtra,Buldhana,Khamgaon,"Green Gram (Moong)(Whole)",Other,14/01/2020,5230,7500,6365
+Maharashtra,Buldhana,Lonar,"Green Gram (Moong)(Whole)",Other,01/01/2020,5900,6800,6350
+Maharashtra,Buldhana,Lonar,"Green Gram (Moong)(Whole)",Other,04/01/2020,6150,7000,6575
+Maharashtra,Buldhana,Lonar,"Green Gram (Moong)(Whole)",Other,06/01/2020,6500,7000,6750
+Maharashtra,Buldhana,Lonar,"Green Gram (Moong)(Whole)",Other,08/01/2020,5500,6000,5750
+Maharashtra,Buldhana,Lonar,"Green Gram (Moong)(Whole)",Other,09/01/2020,6500,7000,6750
+Maharashtra,Buldhana,Lonar,"Green Gram (Moong)(Whole)",Other,10/01/2020,6500,6900,6700
+Maharashtra,Buldhana,Lonar,"Green Gram (Moong)(Whole)",Other,11/01/2020,5600,6000,5800
+Maharashtra,Buldhana,Malkapur,"Green Gram (Moong)(Whole)",Other,01/01/2020,5825,7350,6900
+Maharashtra,Buldhana,Malkapur,"Green Gram (Moong)(Whole)",Other,02/01/2020,6350,7150,6575
+Maharashtra,Buldhana,Malkapur,"Green Gram (Moong)(Whole)",Other,03/01/2020,5500,7400,6600
+Maharashtra,Buldhana,Malkapur,"Green Gram (Moong)(Whole)",Other,04/01/2020,6000,7000,6825
+Maharashtra,Buldhana,Malkapur,"Green Gram (Moong)(Whole)",Other,06/01/2020,5500,7025,6900
+Maharashtra,Buldhana,Malkapur,"Green Gram (Moong)(Whole)",Other,07/01/2020,6050,7000,6700
+Maharashtra,Buldhana,Malkapur,"Green Gram (Moong)(Whole)",Other,08/01/2020,4700,7400,7000
+Maharashtra,Buldhana,Malkapur,"Green Gram (Moong)(Whole)",Other,09/01/2020,6325,7000,6800
+Maharashtra,Buldhana,Malkapur,"Green Gram (Moong)(Whole)",Other,10/01/2020,4700,6650,6100
+Maharashtra,Buldhana,Malkapur,"Green Gram (Moong)(Whole)",Other,11/01/2020,6025,7000,6300
+Maharashtra,Buldhana,Malkapur,"Green Gram (Moong)(Whole)",Other,13/01/2020,5200,7000,6875
+Maharashtra,Buldhana,Malkapur,"Green Gram (Moong)(Whole)",Other,14/01/2020,6450,7000,6500
+Maharashtra,Buldhana,Nandura,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,5500,7000,7000
+Maharashtra,Buldhana,Nandura,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,5151,7100,7100
+Maharashtra,Buldhana,Nandura,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,5000,7000,7000
+Maharashtra,Buldhana,Nandura,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,5050,6225,6225
+Maharashtra,Buldhana,Nandura,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,5100,7175,7175
+Maharashtra,Buldhana,Nandura,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,5000,6435,6435
+Maharashtra,Buldhana,Nandura,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,5150,6350,6350
+Maharashtra,Buldhana,Nandura,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,5000,5300,5300
+Maharashtra,Buldhana,Nandura,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,7000,7000,7000
+Maharashtra,Buldhana,Nandura,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,5800,6500,6500
+Maharashtra,Buldhana,Sangrampur(Varvatbakal),"Green Gram (Moong)(Whole)",Other,04/01/2020,3800,5500,5000
+Maharashtra,Buldhana,Sangrampur(Varvatbakal),"Green Gram (Moong)(Whole)",Other,06/01/2020,4300,5000,4500
+Maharashtra,Buldhana,Shegaon,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6000,7105,7105
+Maharashtra,Buldhana,Shegaon,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6000,6855,6450
+Maharashtra,Buldhana,Shegaon,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,5000,7000,6700
+Maharashtra,Buldhana,Shegaon,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,5500,6770,6770
+Maharashtra,Buldhana,Shegaon,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,5000,6700,6300
+Maharashtra,Buldhana,Shegaon,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,5000,6720,6500
+Maharashtra,Buldhana,Shegaon,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,5000,6700,6450
+Maharashtra,Dhule,Dhule,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,5795,6040,6040
+Maharashtra,Dhule,Dhule,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6055,6145,6120
+Maharashtra,Dhule,Dhule,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,4000,6975,5300
+Maharashtra,Dhule,Dhule,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,6300,6300,6300
+Maharashtra,Dhule,Dhule,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,5000,6730,5900
+Maharashtra,Dhule,Dhule,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,4800,6360,5300
+Maharashtra,Dhule,Dhule,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6200,6465,6315
+Maharashtra,Dhule,Dhule,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,5975,6450,6450
+Maharashtra,Dhule,Dhule,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,5100,6655,6100
+Maharashtra,Dhule,Dhule,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,4800,6735,6250
+Maharashtra,Dhule,Dhule,"Green Gram (Moong)(Whole)","Green (Whole)",15/01/2020,6800,6800,6800
+Maharashtra,Dhule,Dondaicha,"Green Gram (Moong)(Whole)",Other,01/01/2020,4500,4601,4500
+Maharashtra,Dhule,Dondaicha,"Green Gram (Moong)(Whole)",Other,02/01/2020,4500,5000,4876
+Maharashtra,Dhule,Sakri,"Green Gram (Moong)(Whole)",Other,09/01/2020,6000,6100,6000
+Maharashtra,Dhule,Sakri,"Green Gram (Moong)(Whole)",Other,13/01/2020,6100,6200,6100
+Maharashtra,Dhule,Shirpur,"Green Gram (Moong)(Whole)",Other,02/01/2020,3626,6000,5100
+Maharashtra,Dhule,Shirpur,"Green Gram (Moong)(Whole)",Other,03/01/2020,4571,6500,4900
+Maharashtra,Dhule,Shirpur,"Green Gram (Moong)(Whole)",Other,07/01/2020,4900,4900,4900
+Maharashtra,Dhule,Shirpur,"Green Gram (Moong)(Whole)",Other,08/01/2020,5300,5300,5300
+Maharashtra,Dhule,Shirpur,"Green Gram (Moong)(Whole)",Other,10/01/2020,4575,4575,4575
+Maharashtra,Dhule,Shirpur,"Green Gram (Moong)(Whole)",Other,13/01/2020,5000,5000,5000
+Maharashtra,Jalana,Jalana,"Green Gram (Moong)(Whole)",Other,01/01/2020,4000,7200,6500
+Maharashtra,Jalana,Jalana,"Green Gram (Moong)(Whole)",Other,02/01/2020,5500,7275,7100
+Maharashtra,Jalana,Jalana,"Green Gram (Moong)(Whole)",Other,03/01/2020,3300,7000,5525
+Maharashtra,Jalana,Jalana,"Green Gram (Moong)(Whole)",Other,04/01/2020,5500,7400,7100
+Maharashtra,Jalana,Jalana,"Green Gram (Moong)(Whole)",Other,06/01/2020,5500,7300,6500
+Maharashtra,Jalana,Jalana,"Green Gram (Moong)(Whole)",Other,07/01/2020,5000,7000,6600
+Maharashtra,Jalana,Jalana,"Green Gram (Moong)(Whole)",Other,09/01/2020,7100,7100,7100
+Maharashtra,Jalana,Jalana,"Green Gram (Moong)(Whole)",Other,10/01/2020,6100,7700,6800
+Maharashtra,Jalana,Jalana,"Green Gram (Moong)(Whole)",Other,11/01/2020,5500,7500,6500
+Maharashtra,Jalana,Jalana,"Green Gram (Moong)(Whole)",Other,13/01/2020,7425,7425,7425
+Maharashtra,Jalana,Jalana,"Green Gram (Moong)(Whole)",Other,14/01/2020,5700,7525,6300
+Maharashtra,Jalana,Jalana,"Green Gram (Moong)(Whole)",Other,15/01/2020,5500,7504,7200
+Maharashtra,Jalana,Mantha,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,6700,6700,6700
+Maharashtra,Jalana,Mantha,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6000,6600,6300
+Maharashtra,Jalana,Partur,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,5300,6151,5801
+Maharashtra,Jalgaon,Amalner,"Green Gram (Moong)(Whole)",Other,01/01/2020,5300,6351,6351
+Maharashtra,Jalgaon,Amalner,"Green Gram (Moong)(Whole)",Other,02/01/2020,3500,6500,6500
+Maharashtra,Jalgaon,Amalner,"Green Gram (Moong)(Whole)",Other,03/01/2020,5000,6400,6400
+Maharashtra,Jalgaon,Amalner,"Green Gram (Moong)(Whole)",Other,04/01/2020,5000,6200,6200
+Maharashtra,Jalgaon,Amalner,"Green Gram (Moong)(Whole)",Other,06/01/2020,4000,7712,7712
+Maharashtra,Jalgaon,Amalner,"Green Gram (Moong)(Whole)",Other,08/01/2020,5700,5700,5700
+Maharashtra,Jalgaon,Amalner,"Green Gram (Moong)(Whole)",Other,09/01/2020,5000,7657,7657
+Maharashtra,Jalgaon,Amalner,"Green Gram (Moong)(Whole)",Other,10/01/2020,4600,6500,6500
+Maharashtra,Jalgaon,Amalner,"Green Gram (Moong)(Whole)",Other,11/01/2020,6000,6700,6700
+Maharashtra,Jalgaon,Amalner,"Green Gram (Moong)(Whole)",Other,13/01/2020,6500,7500,7500
+Maharashtra,Jalgaon,Amalner,"Green Gram (Moong)(Whole)",Other,14/01/2020,4500,6700,6700
+Maharashtra,Jalgaon,Chalisgaon,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,3700,4600,4300
+Maharashtra,Jalgaon,Chalisgaon,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,4000,4500,4300
+Maharashtra,Jalgaon,Chalisgaon,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,5000,5500,5400
+Maharashtra,Jalgaon,Chalisgaon,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,4300,4800,4500
+Maharashtra,Jalgaon,Chopada,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,4611,4611,4611
+Maharashtra,Jalgaon,Jalgaon,"Green Gram (Moong)(Whole)",Other,01/01/2020,5000,5700,5500
+Maharashtra,Jalgaon,Jalgaon,"Green Gram (Moong)(Whole)",Other,03/01/2020,5500,8200,8200
+Maharashtra,Jalgaon,Jalgaon,"Green Gram (Moong)(Whole)",Other,07/01/2020,5800,6500,5800
+Maharashtra,Jalgaon,Jalgaon,"Green Gram (Moong)(Whole)",Other,08/01/2020,5000,5000,5000
+Maharashtra,Jalgaon,Jalgaon(Masawat),"Green Gram (Moong)(Whole)",Other,10/01/2020,6591,6591,6591
+Maharashtra,Jalgaon,Pachora,"Green Gram (Moong)(Whole)",Other,01/01/2020,5311,6900,6000
+Maharashtra,Jalgaon,Pachora,"Green Gram (Moong)(Whole)",Other,08/01/2020,4770,7131,6051
+Maharashtra,Latur,Ahmedpur,"Green Gram (Moong)(Whole)",Other,01/01/2020,6000,6700,6350
+Maharashtra,Latur,Ahmedpur,"Green Gram (Moong)(Whole)",Other,02/01/2020,6500,6500,6500
+Maharashtra,Latur,Ahmedpur,"Green Gram (Moong)(Whole)",Other,03/01/2020,6500,6500,6500
+Maharashtra,Latur,Ahmedpur,"Green Gram (Moong)(Whole)",Other,04/01/2020,6000,6700,6350
+Maharashtra,Latur,Ahmedpur,"Green Gram (Moong)(Whole)",Other,06/01/2020,6900,6900,6900
+Maharashtra,Latur,Ahmedpur,"Green Gram (Moong)(Whole)",Other,07/01/2020,6800,6800,6800
+Maharashtra,Latur,Ahmedpur,"Green Gram (Moong)(Whole)",Other,08/01/2020,6860,6860,6860
+Maharashtra,Latur,Ahmedpur,"Green Gram (Moong)(Whole)",Other,10/01/2020,6581,6581,6581
+Maharashtra,Latur,Ahmedpur,"Green Gram (Moong)(Whole)",Other,11/01/2020,6000,6000,6000
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6521,6925,6723
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6880,7150,7015
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,5001,5001,5001
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6000,6950,6475
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,6431,7000,6715
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,6000,6900,6450
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,7050,7050,7050
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,6025,6025,6025
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,7000,7300,7150
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)",Other,01/01/2020,7195,7195,7195
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)",Other,02/01/2020,5500,6870,6185
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)",Other,03/01/2020,6500,7160,6830
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)",Other,06/01/2020,6671,6971,6821
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)",Other,08/01/2020,6001,7151,6576
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)",Other,09/01/2020,7100,7100,7100
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)",Other,10/01/2020,7024,7024,7024
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)",Other,11/01/2020,5870,6725,6290
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)",Other,13/01/2020,6951,7451,7201
+Maharashtra,Latur,"Aurad Shahajani","Green Gram (Moong)(Whole)",Other,14/01/2020,7000,7270,7135
+Maharashtra,Latur,Ausa,"Green Gram (Moong)(Whole)","Green (Whole)",12/01/2020,4511,6500,5915
+Maharashtra,Latur,Latur,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,5350,7600,6900
+Maharashtra,Latur,Latur,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,5600,7717,7000
+Maharashtra,Latur,Latur,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,6160,7750,7100
+Maharashtra,Latur,Latur,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,5801,7850,7000
+Maharashtra,Latur,Latur,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,5300,7500,6900
+Maharashtra,Latur,Latur,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,5600,7500,6900
+Maharashtra,Latur,Latur,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,5000,7400,6900
+Maharashtra,Latur,Latur,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6000,6950,6600
+Maharashtra,Latur,Latur,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,5000,7116,6600
+Maharashtra,Latur,Latur,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,6411,7511,7000
+Maharashtra,Latur,Latur,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,5880,7800,7100
+Maharashtra,Latur,Nilanga,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,6000,7091,7000
+Maharashtra,Latur,Nilanga,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6199,6700,6500
+Maharashtra,Latur,Udgir,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6000,7500,6750
+Maharashtra,Latur,Udgir,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,6000,7600,6800
+Maharashtra,Latur,Udgir,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,6000,7600,6800
+Maharashtra,Latur,Udgir,"Green Gram (Moong)(Whole)","Green (Whole)",05/01/2020,6000,7600,6800
+Maharashtra,Latur,Udgir,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,6000,7600,6800
+Maharashtra,Latur,Udgir,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,6000,7600,6800
+Maharashtra,Latur,Udgir,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,6000,7600,6250
+Maharashtra,Latur,Udgir(Devanibud),"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6190,6190,6190
+Maharashtra,Latur,Udgir(Devanibud),"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,6500,6701,6600
+Maharashtra,Latur,Udgir(Devanibud),"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,6500,6500,6500
+Maharashtra,Mumbai,Mumbai,"Green Gram (Moong)(Whole)",Other,01/01/2020,8000,10000,9500
+Maharashtra,Mumbai,Mumbai,"Green Gram (Moong)(Whole)",Other,03/01/2020,8000,10000,9500
+Maharashtra,Mumbai,Mumbai,"Green Gram (Moong)(Whole)",Other,04/01/2020,8000,10000,9500
+Maharashtra,Mumbai,Mumbai,"Green Gram (Moong)(Whole)",Other,06/01/2020,8000,10000,9500
+Maharashtra,Mumbai,Mumbai,"Green Gram (Moong)(Whole)",Other,07/01/2020,8000,10000,9500
+Maharashtra,Mumbai,Mumbai,"Green Gram (Moong)(Whole)",Other,08/01/2020,8000,10000,9500
+Maharashtra,Mumbai,Mumbai,"Green Gram (Moong)(Whole)",Other,09/01/2020,8300,10000,9600
+Maharashtra,Mumbai,Mumbai,"Green Gram (Moong)(Whole)",Other,10/01/2020,8300,10000,9600
+Maharashtra,Mumbai,Mumbai,"Green Gram (Moong)(Whole)",Other,11/01/2020,8300,10000,9600
+Maharashtra,Mumbai,Mumbai,"Green Gram (Moong)(Whole)",Other,13/01/2020,8300,10000,9600
+Maharashtra,Mumbai,Mumbai,"Green Gram (Moong)(Whole)",Other,14/01/2020,8300,10000,9600
+Maharashtra,Mumbai,Mumbai,"Green Gram (Moong)(Whole)",Other,15/01/2020,8300,10000,9600
+Maharashtra,Nanded,Bhokar,"Green Gram (Moong)(Whole)",Other,10/01/2020,6115,6115,6115
+Maharashtra,Nanded,Loha,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,5125,6400,5901
+Maharashtra,Nanded,Loha,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,4601,6880,6650
+Maharashtra,Nanded,Nanded,"Green Gram (Moong)(Whole)",Other,01/01/2020,6000,6000,6000
+Maharashtra,Nandurbar,Nandurbar,"Green Gram (Moong)(Whole)",Other,13/01/2020,5800,5800,5800
+Maharashtra,Nandurbar,Shahada,"Green Gram (Moong)(Whole)",Other,03/01/2020,4702,5702,5702
+Maharashtra,Nandurbar,Shahada,"Green Gram (Moong)(Whole)",Other,09/01/2020,5001,6002,5001
+Maharashtra,Nandurbar,Shahada,"Green Gram (Moong)(Whole)",Other,13/01/2020,5650,5650,5650
+Maharashtra,Nandurbar,Shahada,"Green Gram (Moong)(Whole)",Other,14/01/2020,6251,6251,6251
+Maharashtra,Nashik,Devala,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,5500,5500,5500
+Maharashtra,Nashik,Devala,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,5500,6805,6805
+Maharashtra,Nashik,Devala,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,5275,5275,5275
+Maharashtra,Nashik,Devala,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,5855,7500,6200
+Maharashtra,Nashik,Devala,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,5805,6860,6860
+Maharashtra,Nashik,Lasalgaon,"Green Gram (Moong)(Whole)",Other,02/01/2020,2500,7000,5100
+Maharashtra,Nashik,Lasalgaon,"Green Gram (Moong)(Whole)",Other,08/01/2020,5000,5800,5700
+Maharashtra,Nashik,Lasalgaon(Niphad),"Green Gram (Moong)(Whole)",Other,02/01/2020,3700,4300,4200
+Maharashtra,Nashik,Lasalgaon(Niphad),"Green Gram (Moong)(Whole)",Other,04/01/2020,4752,4752,4752
+Maharashtra,Nashik,Lasalgaon(Niphad),"Green Gram (Moong)(Whole)",Other,09/01/2020,5000,5500,5400
+Maharashtra,Nashik,Lasalgaon(Niphad),"Green Gram (Moong)(Whole)",Other,14/01/2020,4200,4300,4200
+Maharashtra,Nashik,Malegaon,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,4840,6991,6081
+Maharashtra,Nashik,Malegaon,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,6151,6676,6391
+Maharashtra,Nashik,Manmad,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6410,6950,6550
+Maharashtra,Nashik,Manmad,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,5700,7200,6000
+Maharashtra,Nashik,Manmad,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,6621,7000,6840
+Maharashtra,Nashik,Manmad,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,5500,7101,6800
+Maharashtra,Nashik,Manmad,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,6601,7291,6975
+Maharashtra,Nashik,Nandgaon,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,5300,6700,6700
+Maharashtra,Nashik,Nandgaon,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,5300,6852,5901
+Maharashtra,Nashik,Sinner,"Green Gram (Moong)(Whole)",Other,05/01/2020,5900,5900,5900
+Maharashtra,Nashik,Sinner,"Green Gram (Moong)(Whole)",Other,06/01/2020,3000,5870,5500
+Maharashtra,Nashik,Sinner,"Green Gram (Moong)(Whole)",Other,12/01/2020,3550,5270,4800
+Maharashtra,Nashik,Sinner,"Green Gram (Moong)(Whole)",Other,13/01/2020,4600,5700,5000
+Maharashtra,Nashik,Yeola,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,5100,7801,7401
+Maharashtra,Nashik,Yeola,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,3500,5000,5000
+Maharashtra,Nashik,Yeola,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,4500,6000,5001
+Maharashtra,Osmanabad,Kalamb(Osmanabad),"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6300,6300,6300
+Maharashtra,Osmanabad,Kalamb(Osmanabad),"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,5001,6251,6251
+Maharashtra,Osmanabad,Kalamb(Osmanabad),"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,4550,6301,6301
+Maharashtra,Osmanabad,Kalamb(Osmanabad),"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,5000,6500,6500
+Maharashtra,Osmanabad,Kalamb(Osmanabad),"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,4500,5500,5500
+Maharashtra,Osmanabad,Kalamb(Osmanabad),"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,6000,6000,6000
+Maharashtra,Osmanabad,Kalamb(Osmanabad),"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,5001,6401,6401
+Maharashtra,Osmanabad,Kalamb(Osmanabad),"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,6000,6800,6800
+Maharashtra,Osmanabad,Kalamb(Osmanabad),"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,6000,6000,6000
+Maharashtra,Osmanabad,Murim,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,4899,6799,5849
+Maharashtra,Osmanabad,Murim,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6600,6600,6600
+Maharashtra,Osmanabad,Murim,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,7201,7201,7201
+Maharashtra,Osmanabad,Murim,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,7070,7070,7070
+Maharashtra,Osmanabad,Murim,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,7200,7200,7200
+Maharashtra,Osmanabad,Tuljapur,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,5850,7100,7100
+Maharashtra,Osmanabad,Tuljapur,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,6001,6001,6001
+Maharashtra,Osmanabad,Tuljapur,"Green Gram (Moong)(Whole)",Other,01/01/2020,7100,7100,7100
+Maharashtra,Osmanabad,Tuljapur,"Green Gram (Moong)(Whole)",Other,02/01/2020,5500,6002,6002
+Maharashtra,Osmanabad,Tuljapur,"Green Gram (Moong)(Whole)",Other,04/01/2020,5650,5650,5650
+Maharashtra,Osmanabad,Tuljapur,"Green Gram (Moong)(Whole)",Other,09/01/2020,5400,6501,6300
+Maharashtra,Parbhani,Jintur,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,5700,6510,6403
+Maharashtra,Parbhani,Jintur,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,6735,6735,6735
+Maharashtra,Parbhani,Jintur(Bori),"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,6200,6200,6200
+Maharashtra,Parbhani,Manwat,"Green Gram (Moong)(Whole)",Other,01/01/2020,7001,7171,7001
+Maharashtra,Parbhani,Manwat,"Green Gram (Moong)(Whole)",Other,03/01/2020,6500,7100,6900
+Maharashtra,Parbhani,Manwat,"Green Gram (Moong)(Whole)",Other,06/01/2020,6601,6901,6660
+Maharashtra,Parbhani,Manwat,"Green Gram (Moong)(Whole)",Other,10/01/2020,6599,7302,7000
+Maharashtra,Parbhani,Sonpeth,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,6702,7101,6902
+Maharashtra,Parbhani,Sonpeth,"Green Gram (Moong)(Whole)",Other,01/01/2020,7165,7200,7182
+Maharashtra,Parbhani,Sonpeth,"Green Gram (Moong)(Whole)",Other,03/01/2020,7000,7000,7000
+Maharashtra,Pune,Baramati,"Green Gram (Moong)(Whole)",Other,09/01/2020,3500,3500,3500
+Maharashtra,Pune,Pune,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,7600,7900,7800
+Maharashtra,Pune,Pune,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,7800,8100,7950
+Maharashtra,Pune,Pune,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,7600,7900,7750
+Maharashtra,Pune,Pune,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,7800,8100,7950
+Maharashtra,Pune,Pune,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,7800,8000,7900
+Maharashtra,Pune,Pune,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,8000,8200,8100
+Maharashtra,Pune,Pune,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,8000,8200,8100
+Maharashtra,Pune,Pune,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,7800,8400,8100
+Maharashtra,Pune,Pune,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,7600,8200,7900
+Maharashtra,Pune,Pune,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,7600,8200,7900
+Maharashtra,Pune,Pune,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,7800,8400,8100
+Maharashtra,Pune,Pune,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,8000,8500,8250
+Maharashtra,Pune,Pune,"Green Gram (Moong)(Whole)","Green (Whole)",15/01/2020,8200,8600,8400
+Maharashtra,Raigad,Karjat(Raigad),"Green Gram (Moong)(Whole)",Other,13/01/2020,5500,5500,5500
+Maharashtra,Sangli,Sangli,"Green Gram (Moong)(Whole)",Other,02/01/2020,7050,8000,7525
+Maharashtra,Sangli,Sangli,"Green Gram (Moong)(Whole)",Other,07/01/2020,7200,8200,7700
+Maharashtra,Sangli,Sangli,"Green Gram (Moong)(Whole)",Other,11/01/2020,7050,8000,7525
+Maharashtra,Sholapur,Barshi,"Green Gram (Moong)(Whole)",Other,01/01/2020,5900,6400,6300
+Maharashtra,Vashim,Karanja,"Green Gram (Moong)(Whole)",Other,01/01/2020,4455,5500,5400
+Maharashtra,Vashim,Karanja,"Green Gram (Moong)(Whole)",Other,04/01/2020,5500,6800,5500
+Maharashtra,Vashim,Karanja,"Green Gram (Moong)(Whole)",Other,09/01/2020,4405,5700,4800
+Maharashtra,Vashim,Karanja,"Green Gram (Moong)(Whole)",Other,10/01/2020,5000,6200,5225
+Maharashtra,Vashim,Karanja,"Green Gram (Moong)(Whole)",Other,13/01/2020,5000,7005,6400
+Maharashtra,Vashim,Karanja,"Green Gram (Moong)(Whole)",Other,14/01/2020,3500,5600,3500
+Maharashtra,Vashim,Mangrulpeer,"Green Gram (Moong)(Whole)",Other,03/01/2020,6305,6605,6605
+Maharashtra,Vashim,Washim,"Green Gram (Moong)(Whole)",Other,01/01/2020,5000,6000,5500
+Maharashtra,Vashim,Washim,"Green Gram (Moong)(Whole)",Other,02/01/2020,5000,6000,5500
+Maharashtra,Vashim,Washim,"Green Gram (Moong)(Whole)",Other,03/01/2020,5000,6000,5500
+Maharashtra,Vashim,Washim,"Green Gram (Moong)(Whole)",Other,04/01/2020,6000,7000,6500
+Maharashtra,Vashim,Washim,"Green Gram (Moong)(Whole)",Other,09/01/2020,6000,6500,6200
+Maharashtra,Vashim,Washim,"Green Gram (Moong)(Whole)",Other,10/01/2020,6000,7000,6500
+Maharashtra,Vashim,Washim,"Green Gram (Moong)(Whole)",Other,13/01/2020,6000,7300,7000
+Maharashtra,Vashim,Washim,"Green Gram (Moong)(Whole)",Other,14/01/2020,6000,7100,7000
+Odisha,Bargarh,Attabira,"Green Gram (Moong)(Whole)",Local,06/01/2020,8000,9000,8000
+Odisha,Bargarh,Attabira,"Green Gram (Moong)(Whole)",Local,13/01/2020,7500,8000,7500
+Odisha,Bargarh,Godabhaga,"Green Gram (Moong)(Whole)",Other,02/01/2020,8500,9000,8500
+Odisha,Bargarh,Godabhaga,"Green Gram (Moong)(Whole)",Other,16/01/2020,8500,9000,8500
+Odisha,Dhenkanal,Dhenkanal,"Green Gram (Moong)(Whole)",Other,01/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Dhenkanal,"Green Gram (Moong)(Whole)",Other,02/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Dhenkanal,"Green Gram (Moong)(Whole)",Other,03/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Dhenkanal,"Green Gram (Moong)(Whole)",Other,04/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Dhenkanal,"Green Gram (Moong)(Whole)",Other,05/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Dhenkanal,"Green Gram (Moong)(Whole)",Other,06/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Dhenkanal,"Green Gram (Moong)(Whole)",Other,07/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Dhenkanal,"Green Gram (Moong)(Whole)",Other,08/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Dhenkanal,"Green Gram (Moong)(Whole)",Other,09/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Dhenkanal,"Green Gram (Moong)(Whole)",Other,10/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Dhenkanal,"Green Gram (Moong)(Whole)",Other,11/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Dhenkanal,"Green Gram (Moong)(Whole)",Other,12/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Dhenkanal,"Green Gram (Moong)(Whole)",Other,13/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Mottagaon,"Green Gram (Moong)(Whole)",Other,01/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Mottagaon,"Green Gram (Moong)(Whole)",Other,02/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Mottagaon,"Green Gram (Moong)(Whole)",Other,03/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Mottagaon,"Green Gram (Moong)(Whole)",Other,04/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Mottagaon,"Green Gram (Moong)(Whole)",Other,05/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Mottagaon,"Green Gram (Moong)(Whole)",Other,06/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Mottagaon,"Green Gram (Moong)(Whole)",Other,07/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Mottagaon,"Green Gram (Moong)(Whole)",Other,08/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Mottagaon,"Green Gram (Moong)(Whole)",Other,09/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Mottagaon,"Green Gram (Moong)(Whole)",Other,10/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Mottagaon,"Green Gram (Moong)(Whole)",Other,11/01/2020,6975,7000,6975
+Odisha,Dhenkanal,Mottagaon,"Green Gram (Moong)(Whole)",Other,12/01/2020,6975,7000,6975
+Rajasthan,Ajmer,Beawar,"Green Gram (Moong)(Whole)",Other,05/01/2020,6500,7000,6750
+Rajasthan,Ajmer,Beawar,"Green Gram (Moong)(Whole)",Other,10/01/2020,6500,7200,6850
+Rajasthan,Ajmer,Beawar,"Green Gram (Moong)(Whole)",Other,13/01/2020,6800,7300,7050
+Rajasthan,Ajmer,"Bijay Nagar","Green Gram (Moong)(Whole)",Other,02/01/2020,6000,6800,6700
+Rajasthan,Ajmer,"Bijay Nagar","Green Gram (Moong)(Whole)",Other,04/01/2020,5400,7000,6900
+Rajasthan,Ajmer,"Bijay Nagar","Green Gram (Moong)(Whole)",Other,06/01/2020,5780,7100,7000
+Rajasthan,Ajmer,Kekri,"Green Gram (Moong)(Whole)",Other,01/01/2020,5630,7275,6050
+Rajasthan,Ajmer,Kekri,"Green Gram (Moong)(Whole)",Other,02/01/2020,5650,7400,6150
+Rajasthan,Ajmer,Kekri,"Green Gram (Moong)(Whole)",Other,03/01/2020,5650,7300,6900
+Rajasthan,Ajmer,Kekri,"Green Gram (Moong)(Whole)",Other,05/01/2020,5760,7200,6150
+Rajasthan,Ajmer,Kekri,"Green Gram (Moong)(Whole)",Other,06/01/2020,5760,7400,6700
+Rajasthan,Ajmer,Kekri,"Green Gram (Moong)(Whole)",Other,07/01/2020,5160,7250,6830
+Rajasthan,Ajmer,Kekri,"Green Gram (Moong)(Whole)",Other,08/01/2020,5750,7150,6150
+Rajasthan,Ajmer,Kekri,"Green Gram (Moong)(Whole)",Other,09/01/2020,5120,6350,5630
+Rajasthan,Ajmer,Kekri,"Green Gram (Moong)(Whole)",Other,12/01/2020,5630,7200,6810
+Rajasthan,Ajmer,Kekri,"Green Gram (Moong)(Whole)",Other,13/01/2020,5680,7701,6800
+Rajasthan,Ajmer,"Madanganj Kishanganj","Green Gram (Moong)(Whole)",Other,01/01/2020,6000,7400,6700
+Rajasthan,Ajmer,"Madanganj Kishanganj","Green Gram (Moong)(Whole)",Other,02/01/2020,6200,7400,6800
+Rajasthan,Ajmer,"Madanganj Kishanganj","Green Gram (Moong)(Whole)",Other,03/01/2020,6300,7300,6800
+Rajasthan,Ajmer,"Madanganj Kishanganj","Green Gram (Moong)(Whole)",Other,04/01/2020,6200,7200,6700
+Rajasthan,Ajmer,"Madanganj Kishanganj","Green Gram (Moong)(Whole)",Other,06/01/2020,6200,7200,6700
+Rajasthan,Ajmer,"Madanganj Kishanganj","Green Gram (Moong)(Whole)",Other,07/01/2020,6300,7200,6750
+Rajasthan,Ajmer,"Madanganj Kishanganj","Green Gram (Moong)(Whole)",Other,08/01/2020,6300,7300,6800
+Rajasthan,Ajmer,"Madanganj Kishanganj","Green Gram (Moong)(Whole)",Other,09/01/2020,6300,7400,6850
+Rajasthan,Ajmer,"Madanganj Kishanganj","Green Gram (Moong)(Whole)",Other,10/01/2020,6300,7500,6900
+Rajasthan,Ajmer,"Madanganj Kishanganj","Green Gram (Moong)(Whole)",Other,11/01/2020,6300,7550,6925
+Rajasthan,Ajmer,"Madanganj Kishanganj","Green Gram (Moong)(Whole)",Other,13/01/2020,6300,7700,7000
+Rajasthan,Ajmer,"Vijay Nagar(Gulabpura)","Green Gram (Moong)(Whole)",Other,10/01/2020,6500,7100,7000
+Rajasthan,Baran,Baran,"Green Gram (Moong)(Whole)",Other,04/01/2020,6200,6200,6200
+Rajasthan,Baran,Baran,"Green Gram (Moong)(Whole)",Other,07/01/2020,4501,4501,4501
+Rajasthan,Barmer,Balotra,"Green Gram (Moong)(Whole)",Other,15/01/2020,7400,7500,7450
+Rajasthan,Barmer,Barmer,"Green Gram (Moong)(Whole)",Other,01/01/2020,6250,6350,6300
+Rajasthan,Barmer,Barmer,"Green Gram (Moong)(Whole)",Other,02/01/2020,6700,6800,6750
+Rajasthan,Barmer,Barmer,"Green Gram (Moong)(Whole)",Other,03/01/2020,6700,6800,6750
+Rajasthan,Barmer,Barmer,"Green Gram (Moong)(Whole)",Other,04/01/2020,6700,6800,6750
+Rajasthan,Barmer,Barmer,"Green Gram (Moong)(Whole)",Other,06/01/2020,6700,6800,6750
+Rajasthan,Barmer,Barmer,"Green Gram (Moong)(Whole)",Other,07/01/2020,6550,6650,6600
+Rajasthan,Barmer,Barmer,"Green Gram (Moong)(Whole)",Other,08/01/2020,6500,6700,6600
+Rajasthan,Barmer,Barmer,"Green Gram (Moong)(Whole)",Other,09/01/2020,6500,6700,6600
+Rajasthan,Barmer,Barmer,"Green Gram (Moong)(Whole)",Other,11/01/2020,6950,7050,7000
+Rajasthan,Barmer,Barmer,"Green Gram (Moong)(Whole)",Other,13/01/2020,6950,7050,7000
+Rajasthan,Barmer,Barmer,"Green Gram (Moong)(Whole)",Other,14/01/2020,6950,7050,7000
+Rajasthan,Barmer,Barmer,"Green Gram (Moong)(Whole)",Other,15/01/2020,6950,7050,7000
+Rajasthan,Bikaner,"Bikaner (Grain)","Green Gram (Moong)(Whole)",Other,01/01/2020,6301,7471,6886
+Rajasthan,Bikaner,"Bikaner (Grain)","Green Gram (Moong)(Whole)",Other,02/01/2020,7351,7501,7426
+Rajasthan,Bikaner,"Bikaner (Grain)","Green Gram (Moong)(Whole)",Other,03/01/2020,7371,7391,7381
+Rajasthan,Bikaner,"Bikaner (Grain)","Green Gram (Moong)(Whole)",Other,04/01/2020,6951,7111,7031
+Rajasthan,Bikaner,"Bikaner (Grain)","Green Gram (Moong)(Whole)",Other,06/01/2020,6360,7125,6743
+Rajasthan,Bikaner,"Bikaner (Grain)","Green Gram (Moong)(Whole)",Other,08/01/2020,7001,7152,7077
+Rajasthan,Bikaner,"Bikaner (Grain)","Green Gram (Moong)(Whole)",Other,09/01/2020,6601,7351,6976
+Rajasthan,Bikaner,"Bikaner (Grain)","Green Gram (Moong)(Whole)",Other,10/01/2020,7321,7642,7482
+Rajasthan,Bikaner,"Bikaner (Grain)","Green Gram (Moong)(Whole)",Other,11/01/2020,6101,7580,6841
+Rajasthan,Bikaner,"Bikaner (Grain)","Green Gram (Moong)(Whole)",Other,14/01/2020,7350,7400,7375
+Rajasthan,Bikaner,Khajuwala,"Green Gram (Moong)(Whole)",Other,02/01/2020,7450,7551,7500
+Rajasthan,Bikaner,Khajuwala,"Green Gram (Moong)(Whole)",Other,03/01/2020,6850,7501,7450
+Rajasthan,Bikaner,Khajuwala,"Green Gram (Moong)(Whole)",Other,04/01/2020,6000,7301,7250
+Rajasthan,Bikaner,Khajuwala,"Green Gram (Moong)(Whole)",Other,06/01/2020,6900,6900,6900
+Rajasthan,Bikaner,Khajuwala,"Green Gram (Moong)(Whole)",Other,08/01/2020,6600,7271,7200
+Rajasthan,Bikaner,Khajuwala,"Green Gram (Moong)(Whole)",Other,09/01/2020,6700,7285,7220
+Rajasthan,Bikaner,Khajuwala,"Green Gram (Moong)(Whole)",Other,10/01/2020,6550,7450,7400
+Rajasthan,Bikaner,Khajuwala,"Green Gram (Moong)(Whole)",Other,11/01/2020,7100,7510,7400
+Rajasthan,Bikaner,Khajuwala,"Green Gram (Moong)(Whole)",Other,14/01/2020,7146,7599,7500
+Rajasthan,Bikaner,Nokha,"Green Gram (Moong)(Whole)",Other,13/01/2020,7000,7550,7275
+Rajasthan,Churu,Sadulpur,"Green Gram (Moong)(Whole)",Other,07/01/2020,7100,7150,7125
+Rajasthan,Churu,Sujangarh(Churu),"Green Gram (Moong)(Whole)",Other,01/01/2020,7311,7500,7406
+Rajasthan,Churu,Sujangarh(Churu),"Green Gram (Moong)(Whole)",Other,02/01/2020,7300,7600,7450
+Rajasthan,Churu,Sujangarh(Churu),"Green Gram (Moong)(Whole)",Other,03/01/2020,7225,7800,7513
+Rajasthan,Churu,Sujangarh(Churu),"Green Gram (Moong)(Whole)",Other,04/01/2020,7100,7800,7450
+Rajasthan,Churu,Sujangarh(Churu),"Green Gram (Moong)(Whole)",Other,06/01/2020,7075,7600,7338
+Rajasthan,Churu,Sujangarh(Churu),"Green Gram (Moong)(Whole)",Other,07/01/2020,7075,7075,7075
+Rajasthan,Churu,Sujangarh(Churu),"Green Gram (Moong)(Whole)",Other,08/01/2020,7300,7300,7300
+Rajasthan,Churu,Sujangarh(Churu),"Green Gram (Moong)(Whole)",Other,09/01/2020,7225,7281,7253
+Rajasthan,Churu,Sujangarh(Churu),"Green Gram (Moong)(Whole)",Other,10/01/2020,7100,7950,7525
+Rajasthan,Churu,Sujangarh(Churu),"Green Gram (Moong)(Whole)",Other,11/01/2020,7300,7900,7600
+Rajasthan,Churu,Sujangarh(Churu),"Green Gram (Moong)(Whole)",Other,13/01/2020,7350,8000,7675
+Rajasthan,Ganganagar,Anoopgarh,"Green Gram (Moong)(Whole)",Other,01/01/2020,7000,7600,7300
+Rajasthan,Ganganagar,Anoopgarh,"Green Gram (Moong)(Whole)",Other,02/01/2020,6750,7300,7025
+Rajasthan,Ganganagar,Anoopgarh,"Green Gram (Moong)(Whole)",Other,03/01/2020,6700,7420,7060
+Rajasthan,Ganganagar,Anoopgarh,"Green Gram (Moong)(Whole)",Other,04/01/2020,6851,7501,7176
+Rajasthan,Ganganagar,Anoopgarh,"Green Gram (Moong)(Whole)",Other,09/01/2020,6500,7400,6950
+Rajasthan,Ganganagar,Anoopgarh,"Green Gram (Moong)(Whole)",Other,11/01/2020,7251,7600,7426
+Rajasthan,Ganganagar,Anoopgarh,"Green Gram (Moong)(Whole)",Other,14/01/2020,6800,7350,7075
+Rajasthan,Ganganagar,Gajsinghpur,"Green Gram (Moong)(Whole)",Other,01/01/2020,7370,7680,7650
+Rajasthan,Ganganagar,Gajsinghpur,"Green Gram (Moong)(Whole)",Other,02/01/2020,7491,7620,7601
+Rajasthan,Ganganagar,Gajsinghpur,"Green Gram (Moong)(Whole)",Other,03/01/2020,6800,7521,7499
+Rajasthan,Ganganagar,Gajsinghpur,"Green Gram (Moong)(Whole)",Other,04/01/2020,6961,7406,7320
+Rajasthan,Ganganagar,Gajsinghpur,"Green Gram (Moong)(Whole)",Other,08/01/2020,7390,7390,7390
+Rajasthan,Ganganagar,Gajsinghpur,"Green Gram (Moong)(Whole)",Other,09/01/2020,7300,7436,7411
+Rajasthan,Ganganagar,Gajsinghpur,"Green Gram (Moong)(Whole)",Other,10/01/2020,6700,7492,7476
+Rajasthan,Ganganagar,Gajsinghpur,"Green Gram (Moong)(Whole)",Other,11/01/2020,7366,7541,7481
+Rajasthan,Ganganagar,Gharsana,"Green Gram (Moong)(Whole)",Other,01/01/2020,7340,7706,7660
+Rajasthan,Ganganagar,Gharsana,"Green Gram (Moong)(Whole)",Other,02/01/2020,4800,7671,7550
+Rajasthan,Ganganagar,Gharsana,"Green Gram (Moong)(Whole)",Other,03/01/2020,6400,7450,7300
+Rajasthan,Ganganagar,Gharsana,"Green Gram (Moong)(Whole)",Other,04/01/2020,6701,7600,7450
+Rajasthan,Ganganagar,Gharsana,"Green Gram (Moong)(Whole)",Other,06/01/2020,7161,7161,7161
+Rajasthan,Ganganagar,Gharsana,"Green Gram (Moong)(Whole)",Other,07/01/2020,6500,6600,6500
+Rajasthan,Ganganagar,Gharsana,"Green Gram (Moong)(Whole)",Other,08/01/2020,7195,7195,7195
+Rajasthan,Ganganagar,Gharsana,"Green Gram (Moong)(Whole)",Other,09/01/2020,5200,7560,7350
+Rajasthan,Ganganagar,Gharsana,"Green Gram (Moong)(Whole)",Other,11/01/2020,7200,7750,7550
+Rajasthan,Ganganagar,Jaitsar,"Green Gram (Moong)(Whole)",Other,09/01/2020,6800,6800,6800
+Rajasthan,Ganganagar,Jaitsar,"Green Gram (Moong)(Whole)",Other,10/01/2020,6700,6881,6847
+Rajasthan,Ganganagar,Kesarisinghpur,"Green Gram (Moong)(Whole)",Other,02/01/2020,6903,6903,6903
+Rajasthan,Ganganagar,Kesarisinghpur,"Green Gram (Moong)(Whole)",Other,04/01/2020,7300,7499,7431
+Rajasthan,Ganganagar,Kesarisinghpur,"Green Gram (Moong)(Whole)",Other,15/01/2020,7402,7402,7402
+Rajasthan,Ganganagar,Padampur,"Green Gram (Moong)(Whole)",Other,01/01/2020,4500,7615,7481
+Rajasthan,Ganganagar,Padampur,"Green Gram (Moong)(Whole)",Other,02/01/2020,5602,7603,7001
+Rajasthan,Ganganagar,Padampur,"Green Gram (Moong)(Whole)",Other,03/01/2020,5000,7621,7425
+Rajasthan,Ganganagar,Padampur,"Green Gram (Moong)(Whole)",Other,04/01/2020,5905,7452,7031
+Rajasthan,Ganganagar,Padampur,"Green Gram (Moong)(Whole)",Other,11/01/2020,6726,7595,7500
+Rajasthan,Ganganagar,Padampur,"Green Gram (Moong)(Whole)",Other,15/01/2020,7644,7724,7724
+Rajasthan,Ganganagar,"Raisingh Nagar","Green Gram (Moong)(Whole)",Other,01/01/2020,7200,7581,7500
+Rajasthan,Ganganagar,"Raisingh Nagar","Green Gram (Moong)(Whole)",Other,02/01/2020,7431,7580,7535
+Rajasthan,Ganganagar,"Raisingh Nagar","Green Gram (Moong)(Whole)",Other,04/01/2020,6800,7411,7350
+Rajasthan,Ganganagar,"Raisingh Nagar","Green Gram (Moong)(Whole)",Other,09/01/2020,6700,7484,7341
+Rajasthan,Ganganagar,"Raisingh Nagar","Green Gram (Moong)(Whole)",Other,11/01/2020,7100,7600,7540
+Rajasthan,Ganganagar,Rawla,"Green Gram (Moong)(Whole)",Other,02/01/2020,6600,7751,7176
+Rajasthan,Ganganagar,Rawla,"Green Gram (Moong)(Whole)",Other,03/01/2020,7101,7599,7350
+Rajasthan,Ganganagar,Rawla,"Green Gram (Moong)(Whole)",Other,04/01/2020,7000,7525,7263
+Rajasthan,Ganganagar,Rawla,"Green Gram (Moong)(Whole)",Other,06/01/2020,7150,7342,7246
+Rajasthan,Ganganagar,Rawla,"Green Gram (Moong)(Whole)",Other,07/01/2020,7200,7200,7200
+Rajasthan,Ganganagar,Rawla,"Green Gram (Moong)(Whole)",Other,08/01/2020,7000,7200,7100
+Rajasthan,Ganganagar,Rawla,"Green Gram (Moong)(Whole)",Other,09/01/2020,7051,7360,7206
+Rajasthan,Ganganagar,Rawla,"Green Gram (Moong)(Whole)",Other,10/01/2020,3801,7216,7009
+Rajasthan,Ganganagar,Rawla,"Green Gram (Moong)(Whole)",Other,13/01/2020,7176,7176,7176
+Rajasthan,Ganganagar,Rawla,"Green Gram (Moong)(Whole)",Other,14/01/2020,6700,7450,7075
+Rajasthan,Ganganagar,Rawla,"Green Gram (Moong)(Whole)",Other,15/01/2020,7000,7646,7323
+Rajasthan,Ganganagar,Sadulshahar,"Green Gram (Moong)(Whole)",Other,02/01/2020,7400,7676,7400
+Rajasthan,Ganganagar,Sadulshahar,"Green Gram (Moong)(Whole)",Other,03/01/2020,7534,7676,7571
+Rajasthan,Ganganagar,Sadulshahar,"Green Gram (Moong)(Whole)",Other,04/01/2020,7150,7300,7291
+Rajasthan,Ganganagar,Sadulshahar,"Green Gram (Moong)(Whole)",Other,09/01/2020,7110,7392,7160
+Rajasthan,Ganganagar,Sadulshahar,"Green Gram (Moong)(Whole)",Other,10/01/2020,7001,7391,7200
+Rajasthan,Ganganagar,Sadulshahar,"Green Gram (Moong)(Whole)",Other,11/01/2020,7500,7537,7511
+Rajasthan,Ganganagar,Sadulshahar,"Green Gram (Moong)(Whole)",Other,14/01/2020,7400,7780,7600
+Rajasthan,Ganganagar,"Sri Karanpur","Green Gram (Moong)(Whole)",Other,01/01/2020,7500,7752,7600
+Rajasthan,Ganganagar,"Sri Karanpur","Green Gram (Moong)(Whole)",Other,03/01/2020,7500,7620,7550
+Rajasthan,Ganganagar,"Sri Karanpur","Green Gram (Moong)(Whole)",Other,04/01/2020,7300,7463,7400
+Rajasthan,Ganganagar,"Sri Karanpur","Green Gram (Moong)(Whole)",Other,09/01/2020,7100,7366,7250
+Rajasthan,Ganganagar,"Sri Karanpur","Green Gram (Moong)(Whole)",Other,11/01/2020,7500,7621,7610
+Rajasthan,Ganganagar,"Sri Vijayanagar","Green Gram (Moong)(Whole)",Other,03/01/2020,7505,7505,7505
+Rajasthan,Ganganagar,"Sri Vijayanagar","Green Gram (Moong)(Whole)",Other,04/01/2020,6605,7505,7305
+Rajasthan,Ganganagar,"Sri Vijayanagar","Green Gram (Moong)(Whole)",Other,06/01/2020,7200,7200,7200
+Rajasthan,Ganganagar,"Sri Vijayanagar","Green Gram (Moong)(Whole)",Other,09/01/2020,6800,7413,7341
+Rajasthan,Ganganagar,"Sri Vijayanagar","Green Gram (Moong)(Whole)",Other,14/01/2020,7000,7550,7500
+Rajasthan,Ganganagar,Sriganganagar,"Green Gram (Moong)(Whole)",Other,01/01/2020,7000,7681,7570
+Rajasthan,Ganganagar,Sriganganagar,"Green Gram (Moong)(Whole)",Other,02/01/2020,7495,7645,7520
+Rajasthan,Ganganagar,Sriganganagar,"Green Gram (Moong)(Whole)",Other,03/01/2020,6895,7626,7500
+Rajasthan,Ganganagar,Sriganganagar,"Green Gram (Moong)(Whole)",Other,04/01/2020,5800,7615,7470
+Rajasthan,Ganganagar,Sriganganagar,"Green Gram (Moong)(Whole)",Other,08/01/2020,7080,7186,7186
+Rajasthan,Ganganagar,Sriganganagar,"Green Gram (Moong)(Whole)",Other,09/01/2020,2925,7545,7365
+Rajasthan,Ganganagar,Sriganganagar,"Green Gram (Moong)(Whole)",Other,10/01/2020,6225,7640,7485
+Rajasthan,Ganganagar,Sriganganagar,"Green Gram (Moong)(Whole)",Other,11/01/2020,7000,7570,7531
+Rajasthan,Ganganagar,Sriganganagar,"Green Gram (Moong)(Whole)",Other,14/01/2020,6100,7700,7300
+Rajasthan,Ganganagar,Sriganganagar,"Green Gram (Moong)(Whole)",Other,15/01/2020,6490,7726,7011
+Rajasthan,Hanumangarh,Goluwala,"Green Gram (Moong)(Whole)",Other,01/01/2020,6926,7346,7300
+Rajasthan,Hanumangarh,Goluwala,"Green Gram (Moong)(Whole)",Other,02/01/2020,7301,7369,7369
+Rajasthan,Hanumangarh,Goluwala,"Green Gram (Moong)(Whole)",Other,03/01/2020,7300,7470,7350
+Rajasthan,Hanumangarh,Goluwala,"Green Gram (Moong)(Whole)",Other,04/01/2020,6800,7330,7191
+Rajasthan,Hanumangarh,Goluwala,"Green Gram (Moong)(Whole)",Other,05/01/2020,6751,7270,7071
+Rajasthan,Hanumangarh,Goluwala,"Green Gram (Moong)(Whole)",Other,10/01/2020,7061,7180,7100
+Rajasthan,Hanumangarh,Goluwala,"Green Gram (Moong)(Whole)",Other,12/01/2020,7171,7497,7400
+Rajasthan,Hanumangarh,Rawatsar,"Green Gram (Moong)(Whole)",Other,01/01/2020,6870,7431,7281
+Rajasthan,Hanumangarh,Rawatsar,"Green Gram (Moong)(Whole)",Other,02/01/2020,7000,7400,7390
+Rajasthan,Hanumangarh,Rawatsar,"Green Gram (Moong)(Whole)",Other,03/01/2020,7171,7400,7350
+Rajasthan,Hanumangarh,Rawatsar,"Green Gram (Moong)(Whole)",Other,08/01/2020,7101,7271,7250
+Rajasthan,Hanumangarh,Rawatsar,"Green Gram (Moong)(Whole)",Other,09/01/2020,7300,7431,7390
+Rajasthan,Hanumangarh,Rawatsar,"Green Gram (Moong)(Whole)",Other,10/01/2020,7321,7321,7321
+Rajasthan,Hanumangarh,Sangriya,"Green Gram (Moong)(Whole)",Other,09/01/2020,6930,7180,7015
+Rajasthan,Hanumangarh,Sangriya,"Green Gram (Moong)(Whole)",Other,14/01/2020,7325,7435,7435
+Rajasthan,Hanumangarh,Sangriya,"Green Gram (Moong)(Whole)",Other,15/01/2020,7200,7200,7200
+Rajasthan,Hanumangarh,Suratgarh,"Green Gram (Moong)(Whole)",Other,06/01/2020,6820,6820,6820
+Rajasthan,Jaipur,Chaksu,"Green Gram (Moong)(Whole)",Other,01/01/2020,6700,6700,6700
+Rajasthan,Jaipur,Chaksu,"Green Gram (Moong)(Whole)",Other,02/01/2020,6700,6700,6700
+Rajasthan,Jaipur,Chaksu,"Green Gram (Moong)(Whole)",Other,03/01/2020,5200,6400,5900
+Rajasthan,Jaipur,Chaksu,"Green Gram (Moong)(Whole)",Other,04/01/2020,5500,6600,6000
+Rajasthan,Jaipur,Chaksu,"Green Gram (Moong)(Whole)",Other,06/01/2020,6200,6450,6300
+Rajasthan,Jaipur,Chaksu,"Green Gram (Moong)(Whole)",Other,07/01/2020,5000,6200,5600
+Rajasthan,Jaipur,Chaksu,"Green Gram (Moong)(Whole)",Other,08/01/2020,6740,6740,6740
+Rajasthan,Jaipur,Chaksu,"Green Gram (Moong)(Whole)",Other,09/01/2020,3500,6400,6000
+Rajasthan,Jaipur,Chaksu,"Green Gram (Moong)(Whole)",Other,11/01/2020,4500,6800,6000
+Rajasthan,Jaipur,Chaksu,"Green Gram (Moong)(Whole)",Other,13/01/2020,6500,7000,6700
+Rajasthan,Jaipur,"Kishan Renwal(Fulera)","Green Gram (Moong)(Whole)",Other,01/01/2020,7100,7100,7100
+Rajasthan,Jaipur,"Kishan Renwal(Fulera)","Green Gram (Moong)(Whole)",Other,02/01/2020,7150,7150,7150
+Rajasthan,Jaipur,"Kishan Renwal(Fulera)","Green Gram (Moong)(Whole)",Other,03/01/2020,7150,7150,7150
+Rajasthan,Jaipur,"Kishan Renwal(Fulera)","Green Gram (Moong)(Whole)",Other,04/01/2020,7100,7100,7100
+Rajasthan,Jaipur,"Kishan Renwal(Fulera)","Green Gram (Moong)(Whole)",Other,06/01/2020,7000,7000,7000
+Rajasthan,Jaipur,"Kishan Renwal(Fulera)","Green Gram (Moong)(Whole)",Other,08/01/2020,7050,7050,7050
+Rajasthan,Jaipur,"Kishan Renwal(Fulera)","Green Gram (Moong)(Whole)",Other,09/01/2020,7200,7200,7200
+Rajasthan,Jaipur,"Kishan Renwal(Fulera)","Green Gram (Moong)(Whole)",Other,10/01/2020,7300,7300,7300
+Rajasthan,Jaipur,"Kishan Renwal(Fulera)","Green Gram (Moong)(Whole)",Other,11/01/2020,7450,7450,7450
+Rajasthan,Jaipur,"Kishan Renwal(Fulera)","Green Gram (Moong)(Whole)",Other,12/01/2020,7410,7410,7410
+Rajasthan,Jaipur,"Kishan Renwal(Sambhar)","Green Gram (Moong)(Whole)",Other,01/01/2020,7150,7150,7150
+Rajasthan,Jaipur,"Kishan Renwal(Sambhar)","Green Gram (Moong)(Whole)",Other,03/01/2020,7075,7075,7075
+Rajasthan,Jaipur,"Kishan Renwal(Sambhar)","Green Gram (Moong)(Whole)",Other,04/01/2020,6950,6950,6950
+Rajasthan,Jaipur,"Kishan Renwal(Sambhar)","Green Gram (Moong)(Whole)",Other,05/01/2020,6950,6950,6950
+Rajasthan,Jaipur,"Kishan Renwal(Sambhar)","Green Gram (Moong)(Whole)",Other,06/01/2020,6800,6800,6800
+Rajasthan,Jaipur,"Kishan Renwal(Sambhar)","Green Gram (Moong)(Whole)",Other,07/01/2020,6900,6900,6900
+Rajasthan,Jaipur,"Kishan Renwal(Sambhar)","Green Gram (Moong)(Whole)",Other,08/01/2020,6950,6950,6950
+Rajasthan,Jaipur,"Kishan Renwal(Sambhar)","Green Gram (Moong)(Whole)",Other,10/01/2020,7200,7200,7200
+Rajasthan,Jaipur,"Kishan Renwal(Sambhar)","Green Gram (Moong)(Whole)",Other,11/01/2020,7250,7250,7250
+Rajasthan,Jaipur,"Kishan Renwal(Sambhar)","Green Gram (Moong)(Whole)",Other,12/01/2020,7150,7150,7150
+Rajasthan,Jaipur,"Kishangarh Renwal","Green Gram (Moong)(Whole)",Other,01/01/2020,7000,7000,7000
+Rajasthan,Jaipur,"Kishangarh Renwal","Green Gram (Moong)(Whole)",Other,02/01/2020,6750,7000,6875
+Rajasthan,Jaipur,"Kishangarh Renwal","Green Gram (Moong)(Whole)",Other,03/01/2020,7000,7000,7000
+Rajasthan,Jaipur,"Kishangarh Renwal","Green Gram (Moong)(Whole)",Other,04/01/2020,7000,7000,7000
+Rajasthan,Jaipur,"Kishangarh Renwal","Green Gram (Moong)(Whole)",Other,05/01/2020,7000,7000,7000
+Rajasthan,Jaipur,"Kishangarh Renwal","Green Gram (Moong)(Whole)",Other,06/01/2020,7100,7100,7100
+Rajasthan,Jaipur,"Kishangarh Renwal","Green Gram (Moong)(Whole)",Other,07/01/2020,7000,7000,7000
+Rajasthan,Jaipur,"Kishangarh Renwal","Green Gram (Moong)(Whole)",Other,08/01/2020,7000,7000,7000
+Rajasthan,Jaipur,"Kishangarh Renwal","Green Gram (Moong)(Whole)",Other,09/01/2020,7000,7000,7000
+Rajasthan,Jaipur,"Kishangarh Renwal","Green Gram (Moong)(Whole)",Other,10/01/2020,7000,7000,7000
+Rajasthan,Jaipur,"Kishangarh Renwal","Green Gram (Moong)(Whole)",Other,11/01/2020,7200,7200,7200
+Rajasthan,Jaipur,"Kishangarh Renwal","Green Gram (Moong)(Whole)",Other,12/01/2020,7100,7100,7100
+Rajasthan,Jalore,Bhinmal,"Green Gram (Moong)(Whole)",Other,01/01/2020,7000,7150,7075
+Rajasthan,Jalore,Bhinmal,"Green Gram (Moong)(Whole)",Other,03/01/2020,7000,7150,7090
+Rajasthan,Jalore,Bhinmal,"Green Gram (Moong)(Whole)",Other,04/01/2020,7000,7150,7090
+Rajasthan,Jalore,Bhinmal,"Green Gram (Moong)(Whole)",Other,06/01/2020,7025,7150,7088
+Rajasthan,Jalore,Bhinmal,"Green Gram (Moong)(Whole)",Other,09/01/2020,8050,9050,8550
+Rajasthan,Jalore,Bhinmal,"Green Gram (Moong)(Whole)",Other,10/01/2020,9000,11050,10025
+Rajasthan,Jalore,Bhinmal,"Green Gram (Moong)(Whole)",Other,11/01/2020,9050,10050,9550
+Rajasthan,Jalore,Bhinmal,"Green Gram (Moong)(Whole)",Other,13/01/2020,10000,10050,10025
+Rajasthan,Jalore,Bhinmal,"Green Gram (Moong)(Whole)",Other,14/01/2020,10050,11075,10563
+Rajasthan,Jodhpur,Bilara,"Green Gram (Moong)(Whole)",Other,01/01/2020,7050,7050,7050
+Rajasthan,Jodhpur,Bilara,"Green Gram (Moong)(Whole)",Other,02/01/2020,6500,7300,6900
+Rajasthan,Jodhpur,Bilara,"Green Gram (Moong)(Whole)",Other,03/01/2020,6550,7050,6800
+Rajasthan,Jodhpur,Bilara,"Green Gram (Moong)(Whole)",Other,04/01/2020,6100,7000,6550
+Rajasthan,Jodhpur,Bilara,"Green Gram (Moong)(Whole)",Other,05/01/2020,6400,6800,6600
+Rajasthan,Jodhpur,Bilara,"Green Gram (Moong)(Whole)",Other,06/01/2020,6500,7050,6775
+Rajasthan,Jodhpur,Bilara,"Green Gram (Moong)(Whole)",Other,07/01/2020,6100,7050,6575
+Rajasthan,Jodhpur,Bilara,"Green Gram (Moong)(Whole)",Other,08/01/2020,7050,7050,7050
+Rajasthan,Jodhpur,Bilara,"Green Gram (Moong)(Whole)",Other,09/01/2020,6500,7050,6775
+Rajasthan,Jodhpur,Bilara,"Green Gram (Moong)(Whole)",Other,10/01/2020,6500,7050,6775
+Rajasthan,Jodhpur,Bilara,"Green Gram (Moong)(Whole)",Other,11/01/2020,7000,7250,7125
+Rajasthan,Jodhpur,Bilara,"Green Gram (Moong)(Whole)",Other,12/01/2020,6500,7400,6950
+Rajasthan,Jodhpur,Bilara,"Green Gram (Moong)(Whole)",Other,14/01/2020,6500,7050,6775
+Rajasthan,Jodhpur,"Jodhpur (Grain)(Mandor)","Green Gram (Moong)(Whole)",Other,02/01/2020,6700,7310,7005
+Rajasthan,Jodhpur,"Jodhpur (Grain)(Mandor)","Green Gram (Moong)(Whole)",Other,03/01/2020,6700,7310,7005
+Rajasthan,Jodhpur,"Jodhpur (Grain)(Mandor)","Green Gram (Moong)(Whole)",Other,04/01/2020,6900,7300,7200
+Rajasthan,Jodhpur,"Jodhpur (Grain)(Mandor)","Green Gram (Moong)(Whole)",Other,06/01/2020,7000,7250,7150
+Rajasthan,Jodhpur,"Jodhpur (Grain)(Mandor)","Green Gram (Moong)(Whole)",Other,07/01/2020,6100,7250,6700
+Rajasthan,Jodhpur,"Jodhpur (Grain)(Mandor)","Green Gram (Moong)(Whole)",Other,08/01/2020,6700,7100,6950
+Rajasthan,Jodhpur,"Jodhpur (Grain)(Mandor)","Green Gram (Moong)(Whole)",Other,09/01/2020,6000,7150,6600
+Rajasthan,Jodhpur,"Jodhpur (Grain)(Mandor)","Green Gram (Moong)(Whole)",Other,10/01/2020,6900,7200,7100
+Rajasthan,Jodhpur,"Jodhpur (Grain)(Mandor)","Green Gram (Moong)(Whole)",Other,11/01/2020,6800,7400,7100
+Rajasthan,Jodhpur,"Jodhpur (Grain)(Mandor)","Green Gram (Moong)(Whole)",Other,13/01/2020,7000,7500,7280
+Rajasthan,Jodhpur,"Jodhpur (Grain)(Mandor)","Green Gram (Moong)(Whole)",Other,15/01/2020,7000,7500,7250
+Rajasthan,Jodhpur,"Jodhpur(Grain)(Bhagat Ki Kothi)","Green Gram (Moong)(Whole)",Other,02/01/2020,5500,7080,6290
+Rajasthan,Jodhpur,"Jodhpur(Grain)(Bhagat Ki Kothi)","Green Gram (Moong)(Whole)",Other,03/01/2020,5700,7150,6425
+Rajasthan,Jodhpur,"Jodhpur(Grain)(Bhagat Ki Kothi)","Green Gram (Moong)(Whole)",Other,04/01/2020,6600,7200,6900
+Rajasthan,Jodhpur,"Jodhpur(Grain)(Bhagat Ki Kothi)","Green Gram (Moong)(Whole)",Other,05/01/2020,5800,7220,6510
+Rajasthan,Jodhpur,"Jodhpur(Grain)(Bhagat Ki Kothi)","Green Gram (Moong)(Whole)",Other,06/01/2020,5800,7200,6500
+Rajasthan,Jodhpur,"Jodhpur(Grain)(Bhagat Ki Kothi)","Green Gram (Moong)(Whole)",Other,07/01/2020,7000,7300,7150
+Rajasthan,Jodhpur,"Jodhpur(Grain)(Bhagat Ki Kothi)","Green Gram (Moong)(Whole)",Other,08/01/2020,7000,7200,7100
+Rajasthan,Jodhpur,"Jodhpur(Grain)(Bhagat Ki Kothi)","Green Gram (Moong)(Whole)",Other,09/01/2020,6500,7150,6825
+Rajasthan,Jodhpur,"Jodhpur(Grain)(Bhagat Ki Kothi)","Green Gram (Moong)(Whole)",Other,10/01/2020,6550,7200,6875
+Rajasthan,Jodhpur,"Jodhpur(Grain)(Bhagat Ki Kothi)","Green Gram (Moong)(Whole)",Other,11/01/2020,6500,7150,6825
+Rajasthan,Jodhpur,"Jodhpur(Grain)(Bhagat Ki Kothi)","Green Gram (Moong)(Whole)",Other,12/01/2020,7100,7540,7320
+Rajasthan,Jodhpur,"Jodhpur(Grain)(Bhagat Ki Kothi)","Green Gram (Moong)(Whole)",Other,13/01/2020,7100,7540,7320
+Rajasthan,Jodhpur,"Jodhpur(Grain)(Bhagat Ki Kothi)","Green Gram (Moong)(Whole)",Other,14/01/2020,7000,7400,7200
+Rajasthan,Jodhpur,"Jodhpur(Grain)(Bhagat Ki Kothi)","Green Gram (Moong)(Whole)",Other,15/01/2020,7000,7140,7070
+Rajasthan,Jodhpur,Jodhpur(Grain)(Phalodi),"Green Gram (Moong)(Whole)",Other,02/01/2020,6000,6800,6500
+Rajasthan,Jodhpur,Mathania,"Green Gram (Moong)(Whole)",Other,06/01/2020,7000,7250,7150
+Rajasthan,Jodhpur,Mathania,"Green Gram (Moong)(Whole)",Other,07/01/2020,6100,7250,6700
+Rajasthan,Jodhpur,Mathania,"Green Gram (Moong)(Whole)",Other,08/01/2020,6700,7100,6950
+Rajasthan,Jodhpur,Mathania,"Green Gram (Moong)(Whole)",Other,10/01/2020,6900,7200,7100
+Rajasthan,Kota,Kota,"Green Gram (Moong)(Whole)",Other,02/01/2020,5600,5600,5600
+Rajasthan,Kota,Kota,"Green Gram (Moong)(Whole)",Other,04/01/2020,6666,6666,6666
+Rajasthan,Kota,Kota,"Green Gram (Moong)(Whole)",Other,10/01/2020,6801,6801,6801
+Rajasthan,Kota,Kota,"Green Gram (Moong)(Whole)",Other,13/01/2020,6000,6701,6400
+Rajasthan,Kota,Kota,"Green Gram (Moong)(Whole)",Other,14/01/2020,4100,5757,5500
+Rajasthan,Nagaur,Degana,"Green Gram (Moong)(Whole)",Local,09/01/2020,7000,7100,7050
+Rajasthan,Nagaur,Degana,"Green Gram (Moong)(Whole)",Local,10/01/2020,5500,7421,6700
+Rajasthan,Nagaur,Degana,"Green Gram (Moong)(Whole)",Local,11/01/2020,5550,7551,6500
+Rajasthan,Nagaur,Degana,"Green Gram (Moong)(Whole)",Local,13/01/2020,7000,7550,7250
+Rajasthan,Nagaur,Degana,"Green Gram (Moong)(Whole)",Local,14/01/2020,7100,7400,7250
+Rajasthan,Nagaur,Degana,"Green Gram (Moong)(Whole)",Local,15/01/2020,7000,7400,7200
+Rajasthan,Nagaur,"Kuchaman City","Green Gram (Moong)(Whole)",Other,01/01/2020,7200,7500,7350
+Rajasthan,Nagaur,"Kuchaman City","Green Gram (Moong)(Whole)",Other,02/01/2020,7200,7400,7300
+Rajasthan,Nagaur,"Kuchaman City","Green Gram (Moong)(Whole)",Other,03/01/2020,7000,7400,7300
+Rajasthan,Nagaur,"Kuchaman City","Green Gram (Moong)(Whole)",Other,04/01/2020,7000,7300,7250
+Rajasthan,Nagaur,"Kuchaman City","Green Gram (Moong)(Whole)",Other,06/01/2020,7000,7400,7250
+Rajasthan,Nagaur,"Kuchaman City","Green Gram (Moong)(Whole)",Other,07/01/2020,7000,7300,7250
+Rajasthan,Nagaur,"Kuchaman City","Green Gram (Moong)(Whole)",Other,08/01/2020,7100,7300,7200
+Rajasthan,Nagaur,"Kuchaman City","Green Gram (Moong)(Whole)",Other,10/01/2020,7200,7550,7450
+Rajasthan,Nagaur,"Kuchaman City","Green Gram (Moong)(Whole)",Other,11/01/2020,7100,7600,7450
+Rajasthan,Nagaur,Nagaur,"Green Gram (Moong)(Whole)",Local,01/01/2020,6000,7550,6500
+Rajasthan,Nagaur,Nagaur,"Green Gram (Moong)(Whole)",Local,06/01/2020,6000,7450,7000
+Rajasthan,Nagaur,Nagaur,"Green Gram (Moong)(Whole)",Local,07/01/2020,6000,7400,7000
+Rajasthan,Nagaur,Nagaur,"Green Gram (Moong)(Whole)",Local,08/01/2020,6000,7450,7000
+Rajasthan,Pali,Jaitaran,"Green Gram (Moong)(Whole)",Other,01/01/2020,7050,7050,7050
+Rajasthan,Pali,Jaitaran,"Green Gram (Moong)(Whole)",Other,02/01/2020,6600,7050,6820
+Rajasthan,Pali,Jaitaran,"Green Gram (Moong)(Whole)",Other,03/01/2020,7050,7050,7050
+Rajasthan,Pali,Jaitaran,"Green Gram (Moong)(Whole)",Other,04/01/2020,6800,7200,7000
+Rajasthan,Pali,Jaitaran,"Green Gram (Moong)(Whole)",Other,06/01/2020,7050,7050,7050
+Rajasthan,Pali,Jaitaran,"Green Gram (Moong)(Whole)",Other,07/01/2020,7050,7050,7050
+Rajasthan,Pali,Jaitaran,"Green Gram (Moong)(Whole)",Other,08/01/2020,7050,7050,7050
+Rajasthan,Pali,Jaitaran,"Green Gram (Moong)(Whole)",Other,09/01/2020,6800,7050,6920
+Rajasthan,Pali,Jaitaran,"Green Gram (Moong)(Whole)",Other,10/01/2020,7050,7050,7050
+Rajasthan,Pali,Jaitaran,"Green Gram (Moong)(Whole)",Other,11/01/2020,6800,7050,6920
+Rajasthan,Pali,Jaitaran,"Green Gram (Moong)(Whole)",Other,13/01/2020,7050,7050,7050
+Rajasthan,Pali,Jaitaran,"Green Gram (Moong)(Whole)",Other,14/01/2020,7050,7050,7050
+Rajasthan,Pali,Rani,"Green Gram (Moong)(Whole)",Other,10/01/2020,6601,6650,6625
+Rajasthan,Pali,Sumerpur,"Green Gram (Moong)(Whole)",Bold,04/01/2020,6600,7442,7011
+Rajasthan,Pali,Sumerpur,"Green Gram (Moong)(Whole)",Bold,06/01/2020,4750,7500,7025
+Rajasthan,Pali,Sumerpur,"Green Gram (Moong)(Whole)",Bold,07/01/2020,5500,7231,6810
+Rajasthan,Pali,Sumerpur,"Green Gram (Moong)(Whole)",Bold,10/01/2020,4275,7451,6770
+Rajasthan,Pali,Sumerpur,"Green Gram (Moong)(Whole)",Bold,11/01/2020,4750,7500,6801
+Rajasthan,Pali,Sumerpur,"Green Gram (Moong)(Whole)",Bold,13/01/2020,6501,7451,6775
+Rajasthan,Sikar,Fatehpur,"Green Gram (Moong)(Whole)",Other,03/01/2020,7080,7120,7100
+Rajasthan,Tonk,Deoli,"Green Gram (Moong)(Whole)",Other,06/01/2020,6500,6601,6551
+Rajasthan,Tonk,Deoli,"Green Gram (Moong)(Whole)",Other,13/01/2020,5000,6200,5600
+"Tamil Nadu",Villupuram,Kallakurichi,"Green Gram (Moong)(Whole)",Other,14/01/2020,7699,7699,7699
+"Tamil Nadu",Villupuram,Manalurpet,"Green Gram (Moong)(Whole)",Other,09/01/2020,5570,5570,5570
+"Tamil Nadu",Villupuram,Manalurpet,"Green Gram (Moong)(Whole)",Other,13/01/2020,6539,6539,6539
+Telangana,Khammam,Khammam,"Green Gram (Moong)(Whole)",Local,04/01/2020,5600,6926,6850
+Telangana,Khammam,Khammam,"Green Gram (Moong)(Whole)",Local,07/01/2020,2000,6900,6900
+Telangana,Khammam,Khammam,"Green Gram (Moong)(Whole)",Local,11/01/2020,5250,6951,5250
+Telangana,Khammam,Khammam,"Green Gram (Moong)(Whole)",Local,13/01/2020,6900,6900,6900
+Telangana,Medak,Zaheerabad,"Green Gram (Moong)(Whole)",Local,04/01/2020,6400,6711,6400
+Telangana,Medak,Zaheerabad,"Green Gram (Moong)(Whole)",Local,06/01/2020,6429,6429,6429
+Telangana,Medak,Zaheerabad,"Green Gram (Moong)(Whole)",Local,10/01/2020,6502,6502,6502
+Telangana,Nalgonda,Suryapeta,"Green Gram (Moong)(Whole)",Local,02/01/2020,3689,6955,6769
+Telangana,Nalgonda,Suryapeta,"Green Gram (Moong)(Whole)",Local,03/01/2020,6006,6932,6395
+Telangana,Nalgonda,Suryapeta,"Green Gram (Moong)(Whole)",Local,04/01/2020,6629,6944,6629
+Telangana,Nalgonda,Suryapeta,"Green Gram (Moong)(Whole)",Local,06/01/2020,3789,6944,6696
+Telangana,Nalgonda,Suryapeta,"Green Gram (Moong)(Whole)",Local,07/01/2020,4209,6919,6706
+Telangana,Nalgonda,Suryapeta,"Green Gram (Moong)(Whole)",Local,09/01/2020,2859,6944,6556
+Telangana,Nalgonda,Suryapeta,"Green Gram (Moong)(Whole)",Local,10/01/2020,5995,6939,6561
+Telangana,Nalgonda,Suryapeta,"Green Gram (Moong)(Whole)",Local,11/01/2020,5906,6273,6273
+Telangana,Nalgonda,Suryapeta,"Green Gram (Moong)(Whole)",Local,13/01/2020,3924,5859,5792
+Telangana,Warangal,Jangaon,"Green Gram (Moong)(Whole)",Local,04/01/2020,6059,6059,6059
+Telangana,Warangal,Warangal,"Green Gram (Moong)(Whole)",Local,04/01/2020,7113,7213,7153
+Telangana,Warangal,Warangal,"Green Gram (Moong)(Whole)",Local,06/01/2020,6922,6922,6922
+Telangana,Warangal,Warangal,"Green Gram (Moong)(Whole)",Local,07/01/2020,6952,7016,7002
+Telangana,Warangal,Warangal,"Green Gram (Moong)(Whole)",Local,09/01/2020,4822,6902,6806
+Telangana,Warangal,Warangal,"Green Gram (Moong)(Whole)",Local,10/01/2020,6016,6816,6816
+Telangana,Warangal,Warangal,"Green Gram (Moong)(Whole)",Local,11/01/2020,6852,6852,6852
+Telangana,Warangal,Warangal,"Green Gram (Moong)(Whole)",Local,13/01/2020,6702,7020,6802
+"Uttar Pradesh",Agra,Agra,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,5950,6150,6050
+"Uttar Pradesh",Agra,Agra,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6000,6150,6070
+"Uttar Pradesh",Agra,Agra,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,5950,6150,6040
+"Uttar Pradesh",Agra,Agra,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,5900,6150,6050
+"Uttar Pradesh",Agra,Agra,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6000,6200,6100
+"Uttar Pradesh",Agra,Agra,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,5850,6050,5950
+"Uttar Pradesh",Agra,Agra,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,5800,6000,5900
+"Uttar Pradesh",Agra,Agra,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,5850,6050,5950
+"Uttar Pradesh",Agra,Agra,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,5800,6000,5900
+"Uttar Pradesh",Agra,Agra,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,5950,6150,6050
+"Uttar Pradesh",Agra,Agra,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,6000,6150,6080
+"Uttar Pradesh",Agra,Agra,"Green Gram (Moong)(Whole)","Green (Whole)",15/01/2020,5700,5900,5800
+"Uttar Pradesh",Aligarh,Aligarh,"Green Gram (Moong)(Whole)","Local (Whole)",02/01/2020,5600,5700,5650
+"Uttar Pradesh",Aligarh,Aligarh,"Green Gram (Moong)(Whole)","Local (Whole)",03/01/2020,5550,5650,5600
+"Uttar Pradesh",Aligarh,Aligarh,"Green Gram (Moong)(Whole)","Local (Whole)",04/01/2020,5600,5700,5650
+"Uttar Pradesh",Aligarh,Aligarh,"Green Gram (Moong)(Whole)","Local (Whole)",06/01/2020,5550,5650,5600
+"Uttar Pradesh",Aligarh,Aligarh,"Green Gram (Moong)(Whole)","Local (Whole)",07/01/2020,5600,5700,5650
+"Uttar Pradesh",Aligarh,Aligarh,"Green Gram (Moong)(Whole)","Local (Whole)",08/01/2020,5550,5650,5600
+"Uttar Pradesh",Aligarh,Aligarh,"Green Gram (Moong)(Whole)","Local (Whole)",09/01/2020,5600,5700,5650
+"Uttar Pradesh",Aligarh,Aligarh,"Green Gram (Moong)(Whole)","Local (Whole)",10/01/2020,5600,5700,5650
+"Uttar Pradesh",Aligarh,Aligarh,"Green Gram (Moong)(Whole)","Local (Whole)",11/01/2020,5550,5650,5600
+"Uttar Pradesh",Aligarh,Aligarh,"Green Gram (Moong)(Whole)","Local (Whole)",13/01/2020,5550,5650,5600
+"Uttar Pradesh",Aligarh,Aligarh,"Green Gram (Moong)(Whole)","Local (Whole)",14/01/2020,5600,5700,5650
+"Uttar Pradesh",Aligarh,Aligarh,"Green Gram (Moong)(Whole)","Local (Whole)",15/01/2020,5600,5700,5650
+"Uttar Pradesh",Allahabad,Ajuha,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6750,7000,6800
+"Uttar Pradesh",Allahabad,Ajuha,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6800,7000,6825
+"Uttar Pradesh",Allahabad,Ajuha,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,6800,6850,6825
+"Uttar Pradesh",Allahabad,Ajuha,"Green Gram (Moong)(Whole)","Green (Whole)",05/01/2020,6800,7000,6825
+"Uttar Pradesh",Allahabad,Ajuha,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6700,7000,6800
+"Uttar Pradesh",Allahabad,Ajuha,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,6700,6900,6800
+"Uttar Pradesh",Allahabad,Ajuha,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,6800,7000,6825
+"Uttar Pradesh",Allahabad,Ajuha,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,6800,6975,6825
+"Uttar Pradesh",Allahabad,Ajuha,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,6825,6900,6850
+"Uttar Pradesh",Allahabad,Ajuha,"Green Gram (Moong)(Whole)","Green (Whole)",12/01/2020,6825,6900,6850
+"Uttar Pradesh",Allahabad,Ajuha,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,6825,6950,6850
+"Uttar Pradesh",Allahabad,Ajuha,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,6825,6950,6850
+"Uttar Pradesh",Allahabad,Ajuha,"Green Gram (Moong)(Whole)","Green (Whole)",15/01/2020,6825,7000,6850
+"Uttar Pradesh",Auraiya,Auraiya,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,7050,7250,7150
+"Uttar Pradesh",Auraiya,Auraiya,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,7100,7300,7200
+"Uttar Pradesh",Auraiya,Auraiya,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,7100,7200,7150
+"Uttar Pradesh",Auraiya,Auraiya,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,7050,7300,7175
+"Uttar Pradesh",Auraiya,Auraiya,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,7100,7300,7200
+"Uttar Pradesh",Auraiya,Auraiya,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,7050,7300,7180
+"Uttar Pradesh",Auraiya,Auraiya,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,7000,7300,7150
+"Uttar Pradesh",Auraiya,Auraiya,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,7100,7300,7200
+"Uttar Pradesh",Auraiya,Auraiya,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,7050,7250,7175
+"Uttar Pradesh",Auraiya,Auraiya,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,7100,7300,7200
+"Uttar Pradesh",Auraiya,Auraiya,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,7150,7350,7250
+"Uttar Pradesh",Badaun,Badayoun,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,6500,6620,6550
+"Uttar Pradesh",Badaun,Badayoun,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6530,6700,6600
+"Uttar Pradesh",Bahraich,Bahraich,"Green Gram (Moong)(Whole)",Ankola,01/01/2020,6570,7130,6930
+"Uttar Pradesh",Bahraich,Bahraich,"Green Gram (Moong)(Whole)",Ankola,02/01/2020,6830,7000,6940
+"Uttar Pradesh",Bahraich,Bahraich,"Green Gram (Moong)(Whole)",Ankola,03/01/2020,6810,6990,6950
+"Uttar Pradesh",Bahraich,Bahraich,"Green Gram (Moong)(Whole)",Ankola,04/01/2020,6830,7030,6980
+"Uttar Pradesh",Bahraich,Bahraich,"Green Gram (Moong)(Whole)",Ankola,06/01/2020,6850,7150,7030
+"Uttar Pradesh",Bahraich,Bahraich,"Green Gram (Moong)(Whole)",Ankola,07/01/2020,6850,7150,7030
+"Uttar Pradesh",Bahraich,Bahraich,"Green Gram (Moong)(Whole)",Ankola,08/01/2020,6850,7150,7030
+"Uttar Pradesh",Bahraich,Bahraich,"Green Gram (Moong)(Whole)",Ankola,09/01/2020,6900,7200,7060
+"Uttar Pradesh",Bahraich,Bahraich,"Green Gram (Moong)(Whole)",Ankola,10/01/2020,6830,7180,7050
+"Uttar Pradesh",Bahraich,Bahraich,"Green Gram (Moong)(Whole)",Ankola,11/01/2020,6900,7250,7050
+"Uttar Pradesh",Bahraich,Bahraich,"Green Gram (Moong)(Whole)",Ankola,13/01/2020,6920,7260,7100
+"Uttar Pradesh",Bahraich,Bahraich,"Green Gram (Moong)(Whole)",Ankola,14/01/2020,6910,7250,7100
+"Uttar Pradesh",Bahraich,Bahraich,"Green Gram (Moong)(Whole)",Ankola,15/01/2020,6900,7250,7150
+"Uttar Pradesh",Etawah,Etawah,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,7000,7400,7200
+"Uttar Pradesh",Etawah,Etawah,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,7000,7400,7200
+"Uttar Pradesh",Etawah,Etawah,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,6980,7380,7180
+"Uttar Pradesh",Etawah,Etawah,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,7000,7400,7200
+"Uttar Pradesh",Etawah,Etawah,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,7000,7400,7200
+"Uttar Pradesh",Etawah,Etawah,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,6900,7300,7100
+"Uttar Pradesh",Etawah,Etawah,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,6900,7300,7100
+"Uttar Pradesh",Etawah,Etawah,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,6900,7300,7100
+"Uttar Pradesh",Etawah,Etawah,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6950,7350,7150
+"Uttar Pradesh",Etawah,Etawah,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,6900,7300,7100
+"Uttar Pradesh",Etawah,Etawah,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,6900,7300,7125
+"Uttar Pradesh",Etawah,Etawah,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,6900,7300,7125
+"Uttar Pradesh",Etawah,Etawah,"Green Gram (Moong)(Whole)","Green (Whole)",15/01/2020,6950,7350,7150
+"Uttar Pradesh",Fatehpur,Bindki,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6900,7050,7000
+"Uttar Pradesh",Fatehpur,Bindki,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6850,7080,7000
+"Uttar Pradesh",Fatehpur,Bindki,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,7000,7100,7040
+"Uttar Pradesh",Fatehpur,Bindki,"Green Gram (Moong)(Whole)","Green (Whole)",05/01/2020,6900,7200,7040
+"Uttar Pradesh",Fatehpur,Bindki,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6870,7070,7000
+"Uttar Pradesh",Fatehpur,Bindki,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,6900,7150,7080
+"Uttar Pradesh",Fatehpur,Bindki,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,6900,7120,7080
+"Uttar Pradesh",Fatehpur,Bindki,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,7000,7140,7080
+"Uttar Pradesh",Fatehpur,Bindki,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,7000,7100,7050
+"Uttar Pradesh",Fatehpur,Bindki,"Green Gram (Moong)(Whole)","Green (Whole)",12/01/2020,7000,7140,7090
+"Uttar Pradesh",Fatehpur,Bindki,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,6980,7120,7080
+"Uttar Pradesh",Fatehpur,Bindki,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,7050,7180,7100
+"Uttar Pradesh",Fatehpur,Bindki,"Green Gram (Moong)(Whole)","Green (Whole)",15/01/2020,7040,7260,7150
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Green Gram (Moong)(Whole)","Local (Whole)",02/01/2020,6550,6700,6600
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Green Gram (Moong)(Whole)","Local (Whole)",03/01/2020,6550,6700,6620
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Green Gram (Moong)(Whole)","Local (Whole)",04/01/2020,6550,6700,6620
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Green Gram (Moong)(Whole)","Local (Whole)",05/01/2020,6600,6750,6650
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Green Gram (Moong)(Whole)","Local (Whole)",06/01/2020,6600,6750,6650
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Green Gram (Moong)(Whole)","Local (Whole)",07/01/2020,6600,6750,6650
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Green Gram (Moong)(Whole)","Local (Whole)",09/01/2020,6600,6750,6650
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Green Gram (Moong)(Whole)","Local (Whole)",10/01/2020,6600,6750,6670
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Green Gram (Moong)(Whole)","Local (Whole)",11/01/2020,6600,6750,6680
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Green Gram (Moong)(Whole)","Local (Whole)",12/01/2020,6600,6750,6680
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Green Gram (Moong)(Whole)","Local (Whole)",13/01/2020,6600,6750,6650
+"Uttar Pradesh",Gorakhpur,Gorakhpur,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6580,6685,6620
+"Uttar Pradesh",Gorakhpur,Gorakhpur,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6550,6670,6600
+"Uttar Pradesh",Gorakhpur,Gorakhpur,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,6540,6655,6585
+"Uttar Pradesh",Hamirpur,Raath,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,5800,6000,5900
+"Uttar Pradesh",Hamirpur,Raath,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,6000,6200,6100
+"Uttar Pradesh",Hamirpur,Raath,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,5900,6000,5950
+"Uttar Pradesh",Hamirpur,Raath,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6100,6300,6200
+"Uttar Pradesh",Hamirpur,Raath,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,6200,6300,6250
+"Uttar Pradesh",Hamirpur,Raath,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,6000,6200,6100
+"Uttar Pradesh",Hamirpur,Raath,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6000,6200,6100
+"Uttar Pradesh",Hamirpur,Raath,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,5900,6000,5950
+"Uttar Pradesh",Hathras,Haathras,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,7200,7300,7250
+"Uttar Pradesh",Hathras,Haathras,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,7500,7550,7512
+"Uttar Pradesh",Hathras,Haathras,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,7200,7300,7222
+"Uttar Pradesh",Hathras,Haathras,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,7200,7300,7222
+"Uttar Pradesh",Jaunpur,Jaunpur,"Green Gram (Moong)(Whole)",Ankola,08/01/2020,6875,6930,6900
+"Uttar Pradesh",Jaunpur,Jaunpur,"Green Gram (Moong)(Whole)",Ankola,09/01/2020,6900,6950,6920
+"Uttar Pradesh",Jaunpur,Jaunpur,"Green Gram (Moong)(Whole)",Ankola,10/01/2020,6900,7000,6950
+"Uttar Pradesh",Jaunpur,Jaunpur,"Green Gram (Moong)(Whole)",Ankola,11/01/2020,6900,6950,6930
+"Uttar Pradesh",Jaunpur,Jaunpur,"Green Gram (Moong)(Whole)",Ankola,13/01/2020,6900,6950,6930
+"Uttar Pradesh",Jhansi,Mauranipur,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,0,0,4800
+"Uttar Pradesh",Jhansi,Mauranipur,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,4800,4850,4815
+"Uttar Pradesh",Jhansi,Mauranipur,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,4700,4850,4800
+"Uttar Pradesh",Jhansi,Mauranipur,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,4690,4850,4800
+"Uttar Pradesh",Jhansi,Mauranipur,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,4780,4900,4865
+"Uttar Pradesh",Jhansi,Mauranipur,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,0,0,4860
+"Uttar Pradesh",Jhansi,Mauranipur,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,4800,4915,4860
+"Uttar Pradesh",Jhansi,Mauranipur,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,0,0,4850
+"Uttar Pradesh",Jhansi,Mauranipur,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,0,0,4850
+"Uttar Pradesh",Jhansi,Mauranipur,"Green Gram (Moong)(Whole)","Green (Whole)",12/01/2020,0,0,4850
+"Uttar Pradesh",Jhansi,Mauranipur,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,4800,4900,4865
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6450,6600,6515
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6400,6650,6500
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,6400,6625,6500
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,6450,6600,6525
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6500,6700,6600
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,6900,7100,7000
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,7200,7350,7300
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,7100,7200,7150
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,7000,7200,7100
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,6950,7200,7125
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,7100,7300,7200
+"Uttar Pradesh",Kanpur,Pukhrayan,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6200,6500,6300
+"Uttar Pradesh",Kanpur,Pukhrayan,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6200,6600,6400
+"Uttar Pradesh",Kanpur,Pukhrayan,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,6250,6500,6350
+"Uttar Pradesh",Kanpur,Pukhrayan,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,6150,6350,6250
+"Uttar Pradesh",Kanpur,Pukhrayan,"Green Gram (Moong)(Whole)","Green (Whole)",05/01/2020,6100,6400,6280
+"Uttar Pradesh",Kanpur,Pukhrayan,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,6200,6400,6300
+"Uttar Pradesh",Kanpur,Pukhrayan,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,6270,6470,6370
+"Uttar Pradesh",Kanpur,Pukhrayan,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,6150,6450,6350
+"Uttar Pradesh",Kanpur,Pukhrayan,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6200,6400,6300
+"Uttar Pradesh",Kanpur,Pukhrayan,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,6100,6380,6280
+"Uttar Pradesh",Kanpur,Pukhrayan,"Green Gram (Moong)(Whole)","Green (Whole)",12/01/2020,6150,6350,6250
+"Uttar Pradesh",Kanpur,Pukhrayan,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,6200,6400,6300
+"Uttar Pradesh",Lalitpur,Lalitpur,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,4800,4900,4850
+"Uttar Pradesh",Lalitpur,Lalitpur,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,4800,4900,4860
+"Uttar Pradesh",Lalitpur,Lalitpur,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,4825,4900,4865
+"Uttar Pradesh",Lalitpur,Lalitpur,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,4820,4920,4875
+"Uttar Pradesh",Lalitpur,Lalitpur,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,4840,4900,4870
+"Uttar Pradesh",Lalitpur,Lalitpur,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,4820,4900,4865
+"Uttar Pradesh",Lalitpur,Lalitpur,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,4830,4930,4880
+"Uttar Pradesh",Lalitpur,Lalitpur,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,4280,4380,4340
+"Uttar Pradesh",Lalitpur,Lalitpur,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,4300,4400,4350
+"Uttar Pradesh",Lucknow,Lucknow,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,7300,7450,7350
+"Uttar Pradesh",Lucknow,Lucknow,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,7300,7500,7400
+"Uttar Pradesh",Lucknow,Lucknow,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,7300,7500,7400
+"Uttar Pradesh",Lucknow,Lucknow,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,7300,7500,7400
+"Uttar Pradesh",Lucknow,Lucknow,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,7350,7525,7425
+"Uttar Pradesh",Lucknow,Lucknow,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,7390,7530,7440
+"Uttar Pradesh",Lucknow,Lucknow,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,7400,7500,7450
+"Uttar Pradesh",Lucknow,Lucknow,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,7400,7550,7460
+"Uttar Pradesh",Lucknow,Lucknow,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,7200,7400,7300
+"Uttar Pradesh",Lucknow,Lucknow,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,7200,7400,7300
+"Uttar Pradesh",Lucknow,Lucknow,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,7290,7400,7360
+"Uttar Pradesh",Lucknow,Lucknow,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,7200,7400,7300
+"Uttar Pradesh",Lucknow,Lucknow,"Green Gram (Moong)(Whole)","Green (Whole)",15/01/2020,7200,7400,7300
+"Uttar Pradesh",Mahoba,Mahoba,"Green Gram (Moong)(Whole)","Green (Whole)",05/01/2020,5120,5180,5160
+"Uttar Pradesh",Mahoba,Mahoba,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,5125,5200,5170
+"Uttar Pradesh",Mahoba,Mahoba,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,5120,5180,5150
+"Uttar Pradesh",Mahoba,Mahoba,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,5130,5180,5160
+"Uttar Pradesh",Mahoba,Mahoba,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,5145,5185,5160
+"Uttar Pradesh",Mahoba,Mahoba,"Green Gram (Moong)(Whole)","Green (Whole)",15/01/2020,5000,5070,5035
+"Uttar Pradesh",Meerut,Meerut,"Green Gram (Moong)(Whole)","Green (Whole)",01/01/2020,6420,7000,6450
+"Uttar Pradesh",Meerut,Meerut,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6500,7000,6500
+"Uttar Pradesh",Meerut,Meerut,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,6500,7000,6500
+"Uttar Pradesh",Meerut,Meerut,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6500,7000,6500
+"Uttar Pradesh",Meerut,Meerut,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,6500,7000,6510
+"Uttar Pradesh",Meerut,Meerut,"Green Gram (Moong)(Whole)","Green (Whole)",08/01/2020,6520,7000,6600
+"Uttar Pradesh",Meerut,Meerut,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6525,7000,6650
+"Uttar Pradesh",Meerut,Meerut,"Green Gram (Moong)(Whole)","Green (Whole)",11/01/2020,6570,7000,6670
+"Uttar Pradesh",Meerut,Meerut,"Green Gram (Moong)(Whole)","Green (Whole)",13/01/2020,6575,7000,6675
+"Uttar Pradesh",Meerut,Meerut,"Green Gram (Moong)(Whole)","Green (Whole)",14/01/2020,6575,7000,6670
+"Uttar Pradesh",Meerut,Meerut,"Green Gram (Moong)(Whole)","Green (Whole)",15/01/2020,6575,7000,6670
+"Uttar Pradesh",Muradabad,Muradabad,"Green Gram (Moong)(Whole)","Local (Whole)",01/01/2020,6630,6730,6680
+"Uttar Pradesh",Muradabad,Muradabad,"Green Gram (Moong)(Whole)","Local (Whole)",02/01/2020,6620,6720,6670
+"Uttar Pradesh",Muradabad,Muradabad,"Green Gram (Moong)(Whole)","Local (Whole)",03/01/2020,6625,6700,6675
+"Uttar Pradesh",Muradabad,Muradabad,"Green Gram (Moong)(Whole)","Local (Whole)",04/01/2020,6630,6730,6680
+"Uttar Pradesh",Muradabad,Muradabad,"Green Gram (Moong)(Whole)","Local (Whole)",05/01/2020,6620,6700,6670
+"Uttar Pradesh",Muradabad,Muradabad,"Green Gram (Moong)(Whole)","Local (Whole)",06/01/2020,6610,6700,6660
+"Uttar Pradesh",Muradabad,Muradabad,"Green Gram (Moong)(Whole)","Local (Whole)",08/01/2020,6620,6720,6670
+"Uttar Pradesh",Muradabad,Muradabad,"Green Gram (Moong)(Whole)","Local (Whole)",09/01/2020,6630,6730,6680
+"Uttar Pradesh",Muradabad,Muradabad,"Green Gram (Moong)(Whole)","Local (Whole)",10/01/2020,6620,6720,6670
+"Uttar Pradesh",Muradabad,Muradabad,"Green Gram (Moong)(Whole)","Local (Whole)",11/01/2020,6650,6700,6670
+"Uttar Pradesh",Muradabad,Muradabad,"Green Gram (Moong)(Whole)","Local (Whole)",12/01/2020,6625,6700,6675
+"Uttar Pradesh",Muradabad,Muradabad,"Green Gram (Moong)(Whole)","Local (Whole)",13/01/2020,6630,6700,6680
+"Uttar Pradesh",Muradabad,Muradabad,"Green Gram (Moong)(Whole)","Local (Whole)",15/01/2020,6620,6700,6670
+"Uttar Pradesh",Rampur,Rampur,"Green Gram (Moong)(Whole)","Green (Whole)",02/01/2020,6620,6720,6650
+"Uttar Pradesh",Rampur,Rampur,"Green Gram (Moong)(Whole)","Green (Whole)",03/01/2020,6620,6720,6650
+"Uttar Pradesh",Rampur,Rampur,"Green Gram (Moong)(Whole)","Green (Whole)",04/01/2020,6640,6750,6670
+"Uttar Pradesh",Rampur,Rampur,"Green Gram (Moong)(Whole)","Green (Whole)",05/01/2020,6640,6750,6670
+"Uttar Pradesh",Rampur,Rampur,"Green Gram (Moong)(Whole)","Green (Whole)",06/01/2020,6640,6750,6670
+"Uttar Pradesh",Rampur,Rampur,"Green Gram (Moong)(Whole)","Green (Whole)",07/01/2020,6640,6750,6670
+"Uttar Pradesh",Rampur,Rampur,"Green Gram (Moong)(Whole)","Green (Whole)",09/01/2020,6640,6750,6670
+"Uttar Pradesh",Rampur,Rampur,"Green Gram (Moong)(Whole)","Green (Whole)",10/01/2020,6620,6720,6650
+"Uttar Pradesh",Sultanpur,Sultanpur,"Green Gram (Moong)(Whole)","Local (Whole)",03/01/2020,7200,7500,7300
+"Uttar Pradesh",Sultanpur,Sultanpur,"Green Gram (Moong)(Whole)","Local (Whole)",10/01/2020,7200,7500,7350
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",01/01/2020,9100,9400,9200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",02/01/2020,9100,9400,9200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",03/01/2020,9100,9400,9200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",04/01/2020,9120,9400,9200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",05/01/2020,9100,9400,9200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",06/01/2020,9100,9400,9200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",07/01/2020,9100,9400,9200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",08/01/2020,9100,9400,9200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",09/01/2020,9100,9400,9200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",10/01/2020,9100,9350,9200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",11/01/2020,9100,9400,9200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",12/01/2020,9100,9400,9200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",13/01/2020,9100,9400,9200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",14/01/2020,9100,9400,9200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)","Green Gram Dhall-I",15/01/2020,9100,9400,9200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)",Other,01/01/2020,8100,8400,8200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)",Other,02/01/2020,8100,8400,8200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)",Other,03/01/2020,8100,8400,8200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)",Other,04/01/2020,8100,8400,8200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)",Other,05/01/2020,8150,8400,8200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)",Other,06/01/2020,8100,8400,8200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)",Other,07/01/2020,8100,8400,8200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)",Other,08/01/2020,8100,8400,8200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)",Other,09/01/2020,8100,8400,8200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)",Other,10/01/2020,8100,8400,8200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)",Other,11/01/2020,8100,8400,8200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)",Other,12/01/2020,8100,8400,8200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)",Other,13/01/2020,8100,8400,8200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)",Other,14/01/2020,8100,8400,8200
+"West Bengal",Burdwan,Asansol,"Green Gram (Moong)(Whole)",Other,15/01/2020,8100,8400,8200
+"West Bengal",Darjeeling,Siliguri,"Green Gram (Moong)(Whole)",Other,03/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Green Gram (Moong)(Whole)",Other,06/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Green Gram (Moong)(Whole)",Other,07/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Green Gram (Moong)(Whole)",Other,09/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Green Gram (Moong)(Whole)",Other,10/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Green Gram (Moong)(Whole)",Other,11/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Green Gram (Moong)(Whole)",Other,13/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Green Gram (Moong)(Whole)",Other,14/01/2020,7000,8000,7500
+"West Bengal",Darjeeling,Siliguri,"Green Gram (Moong)(Whole)",Other,15/01/2020,7000,8000,7500
+"West Bengal",Malda,"English Bazar","Green Gram (Moong)(Whole)","Small (Split)",02/01/2020,9000,9300,9200
+"West Bengal",Malda,"English Bazar","Green Gram (Moong)(Whole)","Small (Split)",03/01/2020,8800,9200,9000
+"West Bengal",Malda,"English Bazar","Green Gram (Moong)(Whole)","Small (Split)",04/01/2020,8800,9100,9000
+"West Bengal",Malda,"English Bazar","Green Gram (Moong)(Whole)","Small (Split)",05/01/2020,8800,9100,9000
+"West Bengal",Malda,"English Bazar","Green Gram (Moong)(Whole)","Small (Split)",06/01/2020,8800,9100,9000
+"West Bengal",Malda,"English Bazar","Green Gram (Moong)(Whole)","Small (Split)",08/01/2020,8800,9200,9000
+"West Bengal",Malda,"English Bazar","Green Gram (Moong)(Whole)","Small (Split)",09/01/2020,8800,9100,9000
+"West Bengal",Malda,"English Bazar","Green Gram (Moong)(Whole)","Small (Split)",10/01/2020,8800,9200,9000
+"West Bengal",Malda,"English Bazar","Green Gram (Moong)(Whole)","Small (Split)",11/01/2020,8900,9200,9100
+"West Bengal",Malda,"English Bazar","Green Gram (Moong)(Whole)","Small (Split)",12/01/2020,8800,9200,9000
+"West Bengal",Malda,"English Bazar","Green Gram (Moong)(Whole)","Small (Split)",15/01/2020,8900,9200,9100

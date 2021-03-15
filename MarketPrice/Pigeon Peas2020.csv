@@ -1,0 +1,1707 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Chattisgarh,Balodabazar,Bhatapara,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,2212,2212,2212
+Chattisgarh,Bilaspur,Sakri,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",15/01/2020,4500,4500,4500
+Chattisgarh,Kabirdham,Kawardha,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4000,4000,4000
+Chattisgarh,Kabirdham,Kawardha,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4658,4849,4841
+Chattisgarh,Kabirdham,Kawardha,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4702,4702,4702
+Chattisgarh,Mungeli,Munguli,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4500,4600,4550
+Chattisgarh,Mungeli,Munguli,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4780,4780,4780
+Chattisgarh,Rajnandgaon,Rajnandgaon,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4200,4200,4200
+Chattisgarh,Rajnandgaon,Rajnandgaon,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4350,4350,4350
+Chattisgarh,Rajnandgaon,Rajnandgaon,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,4252,4252,4252
+Gujarat,Amreli,Amreli,"Arhar (Tur/Red Gram)(Whole)",Hybrid,01/01/2020,3750,4210,4210
+Gujarat,Amreli,Amreli,"Arhar (Tur/Red Gram)(Whole)",Hybrid,02/01/2020,3755,3755,3755
+Gujarat,Amreli,Amreli,"Arhar (Tur/Red Gram)(Whole)",Hybrid,03/01/2020,2000,4500,3740
+Gujarat,Amreli,Amreli,"Arhar (Tur/Red Gram)(Whole)",Hybrid,04/01/2020,4995,4995,4995
+Gujarat,Amreli,Amreli,"Arhar (Tur/Red Gram)(Whole)",Hybrid,06/01/2020,3280,4985,3500
+Gujarat,Amreli,Amreli,"Arhar (Tur/Red Gram)(Whole)",Hybrid,08/01/2020,4000,5055,4250
+Gujarat,Amreli,Amreli,"Arhar (Tur/Red Gram)(Whole)",Hybrid,09/01/2020,2755,4825,4005
+Gujarat,Amreli,Amreli,"Arhar (Tur/Red Gram)(Whole)",Hybrid,10/01/2020,3255,4810,4700
+Gujarat,Amreli,Amreli,"Arhar (Tur/Red Gram)(Whole)",Hybrid,11/01/2020,4655,5080,5080
+Gujarat,Amreli,Amreli,"Arhar (Tur/Red Gram)(Whole)",Hybrid,15/01/2020,5050,5130,5130
+Gujarat,Amreli,Rajula,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4355,4355,4355
+Gujarat,Amreli,Rajula,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,5000,5000,5000
+Gujarat,Amreli,Rajula,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4250,4250,4250
+Gujarat,Amreli,Rajula,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4255,4255,4255
+Gujarat,Amreli,Savarkundla,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",06/01/2020,3750,5040,4395
+Gujarat,Amreli,Savarkundla,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",08/01/2020,4500,4850,4675
+Gujarat,Amreli,Savarkundla,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",09/01/2020,4500,4650,4575
+Gujarat,Amreli,Savarkundla,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",10/01/2020,4500,5050,4775
+Gujarat,Amreli,Savarkundla,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",13/01/2020,3600,4405,4003
+Gujarat,Amreli,Savarkundla,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",15/01/2020,3770,4755,4263
+Gujarat,Banaskanth,Thara,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,5250,6150,5700
+Gujarat,Banaskanth,Thara,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4500,5655,5077
+Gujarat,Banaskanth,Thara,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,5025,6000,5512
+Gujarat,Bharuch,Jambusar,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4800,5000,4900
+Gujarat,Bharuch,Jambusar,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4600,4900,4700
+Gujarat,Bharuch,Jambusar,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4600,5000,4800
+Gujarat,Bharuch,Jambusar,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4600,4900,4800
+Gujarat,Bharuch,Jambusar,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4800,5000,4900
+Gujarat,Bharuch,Jambusar,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4600,5000,4800
+Gujarat,Bharuch,Jambusar,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4600,4800,4700
+Gujarat,Bharuch,Jambusar,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4700,5100,4900
+Gujarat,Bharuch,Jambusar,"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,4800,5000,4900
+Gujarat,Bharuch,Jambusar,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4600,5000,4800
+Gujarat,Bharuch,Jambusar,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4800,5000,4900
+Gujarat,Bharuch,Jambusar,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,4600,5000,4800
+Gujarat,Bharuch,Jambusar(Kaavi),"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4700,5000,4800
+Gujarat,Bharuch,Jambusar(Kaavi),"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4800,5000,4900
+Gujarat,Bharuch,Jambusar(Kaavi),"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4600,4900,4800
+Gujarat,Bharuch,Jambusar(Kaavi),"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4800,5000,4900
+Gujarat,Bharuch,Jambusar(Kaavi),"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4800,5000,4900
+Gujarat,Bharuch,Jambusar(Kaavi),"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4800,5000,4900
+Gujarat,Bharuch,Jambusar(Kaavi),"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4700,4900,4800
+Gujarat,Bharuch,Jambusar(Kaavi),"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4600,5000,4800
+Gujarat,Bharuch,Jambusar(Kaavi),"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,4700,5100,4900
+Gujarat,Bharuch,Jambusar(Kaavi),"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4700,5000,4800
+Gujarat,Bharuch,Jambusar(Kaavi),"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4700,5100,4900
+Gujarat,Bharuch,Jambusar(Kaavi),"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,4600,5000,4800
+Gujarat,Bhavnagar,Bhavnagar,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4900,4900,4900
+Gujarat,Bhavnagar,Bhavnagar,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4840,4840,4840
+Gujarat,Bhavnagar,"Mahuva(Station Road)","Arhar (Tur/Red Gram)(Whole)",Local,04/01/2020,4000,4000,4000
+Gujarat,Bhavnagar,"Mahuva(Station Road)","Arhar (Tur/Red Gram)(Whole)",Local,10/01/2020,3260,4305,3785
+Gujarat,Bhavnagar,"Mahuva(Station Road)","Arhar (Tur/Red Gram)(Whole)",Local,11/01/2020,4875,5320,5100
+Gujarat,Bhavnagar,"Mahuva(Station Road)","Arhar (Tur/Red Gram)(Whole)",Local,13/01/2020,5250,5250,5250
+Gujarat,Botad,Botad,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,5080,5100,5090
+Gujarat,Botad,Botad,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4180,4180,4180
+Gujarat,Botad,Botad,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3755,3755,3755
+Gujarat,Botad,Botad,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,5080,5305,5195
+Gujarat,Botad,Botad,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,3555,5195,4375
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4800,4950,4900
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4800,4950,4900
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4850,5052,4950
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4800,5000,4900
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4800,4983,4900
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4850,5075,5000
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4850,5052,4950
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4850,5050,4950
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,4850,5035,4900
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,4850,5076,5000
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",15/01/2020,4825,5050,4950
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,5200,5350,5300
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,5200,5350,5300
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5250,5500,5350
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,5400,5650,5500
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,5100,5500,5350
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,5100,5450,5300
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,5000,5400,5300
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,5025,5400,5300
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,5000,5450,5200
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,5000,5450,5250
+Gujarat,Dahod,Dahod,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,5000,5300,5200
+Gujarat,Jamnagar,Jamnagar,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4900,5300,5100
+Gujarat,Jamnagar,Jamnagar,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,2000,5200,3600
+Gujarat,Jamnagar,Kalawad,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4000,4150,4050
+Gujarat,Jamnagar,Kalawad,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,3500,5250,4850
+Gujarat,Jamnagar,Kalawad,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,3600,4100,3800
+Gujarat,Jamnagar,Kalawad,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3550,4080,3700
+Gujarat,Junagarh,Junagadh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4500,5890,5250
+Gujarat,Junagarh,Junagadh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4500,5605,5250
+Gujarat,Junagarh,Junagadh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4815,5780,5100
+Gujarat,Junagarh,Junagadh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4500,5840,5250
+Gujarat,Junagarh,Junagadh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4200,5805,5100
+Gujarat,Junagarh,Junagadh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4500,5770,5200
+Gujarat,Junagarh,Junagadh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,4250,5405,5125
+Gujarat,Junagarh,Visavadar,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4800,5350,5075
+Gujarat,Junagarh,Visavadar,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4810,5220,5015
+Gujarat,Junagarh,Visavadar,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4765,5355,5060
+Gujarat,Junagarh,Visavadar,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4820,5310,5065
+Gujarat,Junagarh,Visavadar,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4820,5340,5080
+Gujarat,Junagarh,Visavadar,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4900,5500,5200
+Gujarat,Junagarh,Visavadar,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4725,5205,4965
+Gujarat,Junagarh,Visavadar,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4800,5350,5075
+Gujarat,Junagarh,Visavadar,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,4810,5240,5025
+Gujarat,Mehsana,Visnagar,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,5575,5575,5575
+Gujarat,Mehsana,Visnagar,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,5075,5750,5412
+Gujarat,Panchmahals,Gogamba,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,5000,5200,5100
+Gujarat,Panchmahals,Gogamba,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5000,5200,5100
+Gujarat,Panchmahals,Gogamba,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,5200,5300,5250
+Gujarat,Panchmahals,Gogamba,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,5200,5300,5250
+Gujarat,Panchmahals,Gogamba,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,5200,5300,5250
+Gujarat,Panchmahals,Gogamba,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,5200,5300,5250
+Gujarat,Panchmahals,Gogamba,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,5100,5300,5200
+Gujarat,Panchmahals,Gogamba,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,5200,5300,5250
+Gujarat,Panchmahals,Gogamba,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,5100,5300,5200
+Gujarat,Panchmahals,Gogamba,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,5200,5300,5250
+Gujarat,Panchmahals,Gogamba(Similiya),"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,5000,5100,5050
+Gujarat,Panchmahals,Gogamba(Similiya),"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5000,5100,5050
+Gujarat,Panchmahals,Gogamba(Similiya),"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,5000,5200,5100
+Gujarat,Panchmahals,Gogamba(Similiya),"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,5050,5200,5150
+Gujarat,Panchmahals,Gogamba(Similiya),"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,5000,5100,5050
+Gujarat,Panchmahals,Gogamba(Similiya),"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,5100,5200,5150
+Gujarat,Panchmahals,Gogamba(Similiya),"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,5100,5200,5150
+Gujarat,Panchmahals,Gogamba(Similiya),"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,5100,5200,5150
+Gujarat,Panchmahals,Gogamba(Similiya),"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,5000,5100,5050
+Gujarat,Panchmahals,Gogamba(Similiya),"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,5100,5200,5150
+Gujarat,Rajkot,Dhoraji,"Arhar (Tur/Red Gram)(Whole)",Local,03/01/2020,4655,5405,5230
+Gujarat,Rajkot,Dhoraji,"Arhar (Tur/Red Gram)(Whole)",Local,06/01/2020,4505,5355,5105
+Gujarat,Rajkot,Dhoraji,"Arhar (Tur/Red Gram)(Whole)",Local,09/01/2020,4355,5480,5305
+Gujarat,Rajkot,Dhoraji,"Arhar (Tur/Red Gram)(Whole)",Local,11/01/2020,4980,5505,5405
+Gujarat,Rajkot,Dhoraji,"Arhar (Tur/Red Gram)(Whole)",Local,15/01/2020,4755,5255,5055
+Gujarat,Rajkot,Dhoraji,"Arhar (Tur/Red Gram)(Whole)",Medium,02/01/2020,4505,5380,5030
+Gujarat,Rajkot,Dhoraji,"Arhar (Tur/Red Gram)(Whole)",Medium,13/01/2020,4755,5530,5330
+Gujarat,Rajkot,Gondal,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,3380,5455,5155
+Gujarat,Rajkot,Gondal,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,2755,5455,4805
+Gujarat,Rajkot,Gondal,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,2755,5555,5255
+Gujarat,Rajkot,Gondal,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4205,5655,5305
+Gujarat,Rajkot,Gondal,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,3380,5605,4905
+Gujarat,Rajkot,Gondal,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,3380,5105,4755
+Gujarat,Rajkot,Jasdan,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4000,5155,4750
+Gujarat,Rajkot,Jasdan,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,5125,5125,5125
+Gujarat,Rajkot,Jasdan,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4000,4950,4750
+Gujarat,Rajkot,Jasdan,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4000,5125,4750
+Gujarat,Rajkot,Jasdan,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4500,5300,5000
+Gujarat,Rajkot,Jasdan,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4250,4995,4500
+Gujarat,Rajkot,Jasdan,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4000,5255,4875
+Gujarat,Rajkot,Jasdan,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,2500,5325,5125
+Gujarat,Rajkot,Jasdan,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4500,5200,5000
+Gujarat,Rajkot,Jasdan,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,4000,5000,4625
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,3500,5005,4500
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,3500,5005,4750
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4000,5050,4750
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,3500,5005,4750
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",15/01/2020,3250,4500,4375
+Gujarat,Rajkot,Rajkot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4250,5500,5000
+Gujarat,Rajkot,Rajkot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4500,5700,5250
+Gujarat,Rajkot,Rajkot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4750,5700,5100
+Gujarat,Rajkot,Rajkot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4000,6000,5500
+Gujarat,Rajkot,Rajkot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4750,5750,5000
+Gujarat,Rajkot,Rajkot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4000,5750,5250
+Gujarat,Rajkot,Rajkot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4000,5625,5125
+Gujarat,Rajkot,Rajkot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4750,5600,5250
+Gujarat,Rajkot,Rajkot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4750,5700,5150
+Gujarat,Rajkot,Rajkot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,3500,5500,4875
+Gujarat,Rajkot,Rajkot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,4000,5550,4875
+Gujarat,Rajkot,Rajkot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",15/01/2020,4375,5450,4875
+Gujarat,Rajkot,Upleta,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4000,4050,4025
+Gujarat,Sabarkantha,Bhiloda,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,5250,5480,5365
+Gujarat,Sabarkantha,Bhiloda,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5250,5520,5385
+Gujarat,Sabarkantha,Bhiloda,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,5250,5475,5363
+Gujarat,Sabarkantha,Bhiloda,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,5250,5475,5363
+Gujarat,Sabarkantha,Bhiloda,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,5250,5450,5350
+Gujarat,Sabarkantha,Bhiloda,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,5300,5425,5363
+Gujarat,Sabarkantha,Bhiloda,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,5250,5350,5300
+Gujarat,Sabarkantha,Dhansura,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4500,5500,5400
+Gujarat,Sabarkantha,Dhansura,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4500,5300,5200
+Gujarat,Sabarkantha,Dhansura,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,4500,5350,5100
+Gujarat,Sabarkantha,Himatnagar,"Arhar (Tur/Red Gram)(Whole)",Local,01/01/2020,4800,5505,5200
+Gujarat,Sabarkantha,Himatnagar,"Arhar (Tur/Red Gram)(Whole)",Local,02/01/2020,4500,5525,5100
+Gujarat,Sabarkantha,Himatnagar,"Arhar (Tur/Red Gram)(Whole)",Local,10/01/2020,4500,5505,5100
+Gujarat,Sabarkantha,Khedbrahma,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,5250,5850,5550
+Gujarat,Sabarkantha,Khedbrahma,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4965,5660,5312
+Gujarat,Sabarkantha,Khedbrahma,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,5050,5105,5077
+Gujarat,Sabarkantha,Khedbrahma,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,5250,5450,5350
+Gujarat,Sabarkantha,Khedbrahma,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,2000,2400,2200
+Gujarat,Sabarkantha,Meghraj,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5000,5100,5100
+Gujarat,Sabarkantha,Meghraj,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,5000,5100,5100
+Gujarat,Sabarkantha,Meghraj,"Arhar (Tur/Red Gram)(Whole)",Other,05/01/2020,5000,5100,5100
+Gujarat,Sabarkantha,Meghraj,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,5000,5100,5100
+Gujarat,Sabarkantha,Meghraj,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,5000,5100,5100
+Gujarat,Sabarkantha,Meghraj,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,5000,5100,5100
+Gujarat,Sabarkantha,Meghraj,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,5000,5100,5100
+Gujarat,Sabarkantha,Meghraj,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,5000,5100,5100
+Gujarat,Sabarkantha,Meghraj,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,5000,5100,5100
+Gujarat,Sabarkantha,Meghraj,"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,5000,5100,5100
+Gujarat,Sabarkantha,Meghraj,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,5000,5100,5100
+Gujarat,Sabarkantha,Talod,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,2840,5990,4415
+Gujarat,Sabarkantha,Talod,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,5000,5260,5130
+Gujarat,Surat,Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,5000,5000,5000
+Gujarat,Surat,Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5000,5000,5000
+Gujarat,Surat,Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4500,5000,4750
+Gujarat,Surat,Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,05/01/2020,5150,5150,5150
+Gujarat,Surat,Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,5250,5250,5250
+Gujarat,Surat,Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,5000,5000,5000
+Gujarat,Surat,Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,5250,5250,5250
+Gujarat,Surat,Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4750,4750,4750
+Gujarat,Surat,Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,5250,5250,5250
+Gujarat,Surat,S.Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,5000,5000,5000
+Gujarat,Surat,S.Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5000,5000,5000
+Gujarat,Surat,S.Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4500,5000,4750
+Gujarat,Surat,S.Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,05/01/2020,5150,5150,5150
+Gujarat,Surat,S.Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,5250,5250,5250
+Gujarat,Surat,S.Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,5000,5000,5000
+Gujarat,Surat,S.Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,5250,5250,5250
+Gujarat,Surat,S.Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4750,4750,4750
+Gujarat,Surat,S.Mandvi,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,5250,5250,5250
+Gujarat,Surat,Songadh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4750,5250,5000
+Gujarat,Surat,Songadh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",12/01/2020,4750,5250,5000
+Gujarat,Surat,Songadh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,4975,5125,5050
+Gujarat,Surat,Songadh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",15/01/2020,5075,5100,5087
+Gujarat,Surat,Vyra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,1500,2000,1750
+Gujarat,Surat,Vyra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4250,5000,4625
+Gujarat,Surat,Vyra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,5250,5500,5375
+Gujarat,Surat,Vyra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,5250,5500,5375
+Gujarat,Surat,Vyra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,5250,5500,5375
+Gujarat,Surat,Vyra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,5250,5500,5375
+Gujarat,Surat,Vyra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,5250,5500,5375
+Gujarat,Surat,Vyra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",15/01/2020,5250,5350,5300
+Gujarat,Vadodara(Baroda),Karjan,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,5051,5500,5151
+Jharkhand,Ranchi,Khunti,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,9150,9550,9350
+Jharkhand,Ranchi,Khunti,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,9450,9850,9650
+Jharkhand,Ranchi,Khunti,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,9450,9850,9650
+Jharkhand,Ranchi,Khunti,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,9250,9650,9450
+Jharkhand,Ranchi,Khunti,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,9800,10250,10050
+Jharkhand,Ranchi,Khunti,"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,9650,10050,9850
+Jharkhand,Ranchi,Khunti,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,9650,10050,9850
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4401,4401,4401
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,3500,5111,4588
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4000,4841,4551
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4126,4899,4559
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4100,4905,4645
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4056,5011,4752
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4126,4911,4524
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4126,4941,4661
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,3800,4941,4665
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,4026,4911,4554
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,3500,4899,4567
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,3100,4931,4572
+Karnataka,Belgaum,Athani,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4000,4000,4000
+Karnataka,Belgaum,Athani,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,4000,4000,4000
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4770,4770,4770
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,3838,5011,4611
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,3119,4869,3918
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,2146,4959,4318
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4569,4959,4852
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4826,4826,4826
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,2900,5111,4344
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4379,4925,4649
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,2216,4808,4180
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,888,4444,3872
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,3806,4209,4162
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4600,5300,5000
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4700,5350,5000
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4700,5300,4900
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4600,5300,4900
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4500,5311,5020
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4651,5251,5200
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4600,5150,4925
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4500,5151,4921
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,4400,5199,4901
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,4580,5300,5251
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4208,5339,5139
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4202,5325,4990
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4008,5355,4823
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4000,5322,4875
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,3808,5342,4812
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4021,5316,4809
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,3500,5291,4859
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,3802,5255,4841
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,3888,5295,4825
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,3729,5305,4827
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,3900,5296,4873
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4500,4800,4700
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4600,4900,4800
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4600,5000,4800
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4600,5000,4800
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4600,4800,4700
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4600,4800,4700
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4400,4600,4500
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4400,4600,4500
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4400,4600,4500
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,4400,4600,4500
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,4400,4600,4500
+Karnataka,Bijapur,Sindagi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4700,5100,4950
+Karnataka,Bijapur,Sindagi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4600,5100,4950
+Karnataka,Bijapur,Sindagi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4500,5000,4850
+Karnataka,Bijapur,Sindagi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4500,4900,4850
+Karnataka,Bijapur,Sindagi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",05/01/2020,4700,5100,4950
+Karnataka,Bijapur,Sindagi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4800,5200,5000
+Karnataka,Bijapur,Sindagi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4500,5100,4850
+Karnataka,Bijapur,Sindagi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4500,5000,4850
+Karnataka,Bijapur,Sindagi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4500,5000,4750
+Karnataka,Bijapur,Sindagi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4500,5000,4850
+Karnataka,Bijapur,Sindagi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,4500,5100,4850
+Karnataka,Bijapur,Sindagi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",12/01/2020,4000,4700,4550
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,3719,3919,3770
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,3689,3929,3757
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,3400,3999,3744
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,2151,4060,3789
+Karnataka,Davangere,Davangere,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,3491,3491,3491
+Karnataka,Davangere,"Harappana Halli","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,2850,2850,2850
+Karnataka,Dharwad,Dharwar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,4925,5150,5072
+Karnataka,Dharwad,"Hubli (Amaragol)","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,3438,3438,3438
+Karnataka,Dharwad,"Hubli (Amaragol)","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,3868,3868,3868
+Karnataka,Dharwad,"Hubli (Amaragol)","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4205,4205,4205
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,3493,4101,3898
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,2801,3581,3408
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,3069,4309,4117
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,3039,4069,3833
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,2118,4109,3838
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,2518,4069,3642
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,3378,3911,3609
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,3735,4109,3876
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,3004,4121,3932
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,2224,4189,3877
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,2404,4176,3811
+Karnataka,Gadag,Laxmeshwar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,2478,4228,3203
+Karnataka,Gadag,Laxmeshwar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,3258,4038,3711
+Karnataka,Gadag,Laxmeshwar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,3088,4088,3439
+Karnataka,Gadag,Laxmeshwar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,3569,4068,3705
+Karnataka,Gadag,Laxmeshwar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,3848,4078,3945
+Karnataka,Gadag,Laxmeshwar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,3448,4028,3817
+Karnataka,Gadag,Laxmeshwar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,2298,4008,2965
+Karnataka,Gadag,Laxmeshwar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,2069,4061,3403
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,2500,3960,3755
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,2880,4186,3500
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,3295,3989,3743
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,3039,4046,3797
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,2519,3939,3437
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,3030,3851,3474
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,3369,3369,3369
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,3379,3849,3538
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,3030,3820,3367
+Karnataka,Gulbarga,Chittapur,"Arhar (Tur/Red Gram)(Whole)",Red,01/01/2020,4500,5110,4800
+Karnataka,Gulbarga,Chittapur,"Arhar (Tur/Red Gram)(Whole)",Red,03/01/2020,4310,5110,4800
+Karnataka,Gulbarga,Chittapur,"Arhar (Tur/Red Gram)(Whole)",Red,06/01/2020,400,5145,4800
+Karnataka,Gulbarga,Chittapur,"Arhar (Tur/Red Gram)(Whole)",Red,08/01/2020,400,5060,4410
+Karnataka,Gulbarga,Chittapur,"Arhar (Tur/Red Gram)(Whole)",Red,10/01/2020,4010,5075,4900
+Karnataka,Gulbarga,Chittapur,"Arhar (Tur/Red Gram)(Whole)",Red,13/01/2020,4300,5180,4800
+Karnataka,Gulbarga,Gulbarga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,3500,5211,4853
+Karnataka,Gulbarga,Gulbarga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4000,5200,4896
+Karnataka,Gulbarga,Gulbarga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4200,5200,4852
+Karnataka,Gulbarga,Gulbarga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4151,5189,4852
+Karnataka,Gulbarga,Gulbarga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,3889,5169,4827
+Karnataka,Gulbarga,Gulbarga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4121,5124,4806
+Karnataka,Gulbarga,Gulbarga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,3859,5112,4777
+Karnataka,Gulbarga,Gulbarga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4234,5112,4812
+Karnataka,Gulbarga,Gulbarga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4000,5112,4767
+Karnataka,Gulbarga,Gulbarga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,4400,5400,4857
+Karnataka,Gulbarga,Gulbarga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,3819,5189,4799
+Karnataka,Gulbarga,Gulbarga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,3800,5105,4810
+Karnataka,Gulbarga,Sedam,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4251,5200,4942
+Karnataka,Gulbarga,Sedam,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4750,5100,4837
+Karnataka,Gulbarga,Sedam,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4700,5151,4911
+Karnataka,Gulbarga,Sedam,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4750,5500,4899
+Karnataka,Gulbarga,Sedam,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4700,5000,4894
+Karnataka,Gulbarga,Sedam,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4750,5201,4899
+Karnataka,Gulbarga,Sedam,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4800,5021,4900
+Karnataka,Gulbarga,Sedam,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4025,5200,4927
+Karnataka,Gulbarga,Sedam,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4800,5250,5021
+Karnataka,Gulbarga,Sedam,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,4203,5000,4885
+Karnataka,Gulbarga,Sedam,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,4650,4950,4855
+Karnataka,Gulbarga,Shorapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4505,5310,4920
+Karnataka,Gulbarga,Shorapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4450,5185,4975
+Karnataka,Gulbarga,Shorapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4561,5355,5185
+Karnataka,Gulbarga,Shorapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4659,5339,4885
+Karnataka,Gulbarga,Shorapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4525,5235,4700
+Karnataka,Gulbarga,Shorapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4370,5219,4955
+Karnataka,Gulbarga,Shorapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4305,5300,4849
+Karnataka,Gulbarga,Shorapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4505,5275,5075
+Karnataka,Gulbarga,Shorapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4545,5275,4800
+Karnataka,Gulbarga,Shorapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,4705,5325,5135
+Karnataka,Gulbarga,Shorapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,4160,5335,5079
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",01/01/2020,5219,6039,5877
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",02/01/2020,5220,6060,5939
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",03/01/2020,4311,5372,5025
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",04/01/2020,5210,5892,5610
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",06/01/2020,5109,5920,5596
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",07/01/2020,5010,5810,5503
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",08/01/2020,5230,5810,5564
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",09/01/2020,4811,5850,5448
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",10/01/2020,4514,5842,5389
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",11/01/2020,5010,5810,5537
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",13/01/2020,5030,5819,5441
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,01/01/2020,4309,5336,4982
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,02/01/2020,4111,5362,4979
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,03/01/2020,5520,6049,5913
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,04/01/2020,4309,5412,4915
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,06/01/2020,4506,5339,4974
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,07/01/2020,4011,5312,4875
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,08/01/2020,4316,5310,4967
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,09/01/2020,4011,5342,4906
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,10/01/2020,4216,5266,4959
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,11/01/2020,4011,5316,4945
+Karnataka,Gulbarga,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,13/01/2020,4609,5320,5095
+Karnataka,Kolar,Chintamani,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4550,5000,4775
+Karnataka,Mysore,"Mysore (Bandipalya)","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,3311,3915,3637
+Karnataka,Mysore,"Mysore (Bandipalya)","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,3350,3810,3580
+Karnataka,Mysore,"Mysore (Bandipalya)","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,3510,3609,3537
+Karnataka,Raichur,Lingasugur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4700,5100,5050
+Karnataka,Raichur,Lingasugur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4480,5100,5000
+Karnataka,Raichur,Lingasugur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4545,5060,5050
+Karnataka,Raichur,Lingasugur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4600,5100,5090
+Karnataka,Raichur,Lingasugur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4500,5090,5000
+Karnataka,Raichur,Lingasugur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4000,5110,5090
+Karnataka,Raichur,Lingasugur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4725,5000,4900
+Karnataka,Raichur,Lingasugur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4700,5020,5000
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",01/01/2020,5500,5822,5822
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",02/01/2020,3666,5910,5740
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",03/01/2020,5310,5946,5946
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",04/01/2020,5212,6003,5766
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",06/01/2020,5066,5847,5606
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",07/01/2020,5266,5975,5746
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",08/01/2020,4826,6000,6000
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",09/01/2020,5400,5760,5666
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",10/01/2020,4545,5780,5559
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",11/01/2020,4909,5782,5500
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",13/01/2020,4209,5710,5570
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",14/01/2020,5244,5685,5685
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)",Red,01/01/2020,3000,5280,5051
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)",Red,02/01/2020,3707,5370,5139
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)",Red,03/01/2020,3300,5450,5219
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)",Red,04/01/2020,2900,5361,5151
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)",Red,06/01/2020,2700,5412,5209
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)",Red,07/01/2020,2727,5400,5229
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)",Red,08/01/2020,2727,5330,5119
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)",Red,09/01/2020,3006,5606,5311
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)",Red,10/01/2020,2800,5331,5150
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)",Red,11/01/2020,2800,5971,5450
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)",Red,13/01/2020,3232,5430,5220
+Karnataka,Raichur,Raichur,"Arhar (Tur/Red Gram)(Whole)",Red,14/01/2020,3006,5355,4669
+Karnataka,Raichur,Sindhanur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4850,4850,4850
+Karnataka,Raichur,Sindhanur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,4500,4600,4500
+Kerala,Kasargod,Neeleswaram,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,11100,11300,11200
+Kerala,Kasargod,Neeleswaram,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,11100,11300,11200
+Kerala,Kasargod,Neeleswaram,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,11100,11300,11200
+Kerala,Kasargod,Neeleswaram,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,11100,11300,11200
+Kerala,Kasargod,Neeleswaram,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,11100,11300,11200
+Kerala,Kasargod,Neeleswaram,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,11100,11300,11200
+Kerala,Kasargod,Neeleswaram,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,11100,11300,11200
+Kerala,Kasargod,Neeleswaram,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,11100,11300,11200
+Kerala,Kasargod,Neeleswaram,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,11100,11300,11200
+Kerala,Malappuram,Perinthalmanna,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,6600,7400,7000
+Kerala,Malappuram,Perinthalmanna,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,6600,7400,7000
+Kerala,Malappuram,Perinthalmanna,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,6600,7400,7000
+Kerala,Malappuram,Perinthalmanna,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,6600,7400,7000
+Kerala,Malappuram,Perinthalmanna,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,6600,7400,7000
+Kerala,Malappuram,Perinthalmanna,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,6600,7400,7000
+Kerala,Malappuram,Perinthalmanna,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,6600,7400,7000
+Kerala,Malappuram,Perinthalmanna,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,6600,7400,7000
+Kerala,Malappuram,Perinthalmanna,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,6600,7400,7000
+Kerala,Malappuram,Perinthalmanna,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,6600,7400,7000
+Kerala,Malappuram,Perinthalmanna,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,6600,7400,7000
+Kerala,Palakad,Palakkad,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",01/01/2020,9000,10000,9600
+Kerala,Palakad,Palakkad,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",03/01/2020,9000,10000,9600
+Kerala,Palakad,Palakkad,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",04/01/2020,9000,10000,9600
+Kerala,Palakad,Palakkad,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",06/01/2020,9000,10000,9600
+Kerala,Palakad,Palakkad,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",07/01/2020,9000,10000,9600
+Kerala,Palakad,Palakkad,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",09/01/2020,9000,10000,9600
+Kerala,Palakad,Palakkad,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",10/01/2020,9500,11000,10300
+Kerala,Palakad,Vadakkenchery,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",03/01/2020,8500,9000,8750
+Kerala,Palakad,Vadakkenchery,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",04/01/2020,8500,9000,8750
+Kerala,Palakad,Vadakkenchery,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",06/01/2020,8500,9000,8750
+Kerala,Palakad,Vadakkenchery,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",07/01/2020,8500,9000,8750
+Kerala,Palakad,Vadakkenchery,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",09/01/2020,8500,9000,8750
+Kerala,Palakad,Vadakkenchery,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",10/01/2020,8500,9000,8750
+"Madhya Pradesh",Ashoknagar,Ashoknagar,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,2100,2100,2100
+"Madhya Pradesh",Bhopal,Berasia,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,3725,4070,3970
+"Madhya Pradesh",Bhopal,Berasia,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,3625,4180,4030
+"Madhya Pradesh",Bhopal,Berasia,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,3625,4180,4030
+"Madhya Pradesh",Bhopal,Bhopal,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,3291,3291,3291
+"Madhya Pradesh",Chhatarpur,"LavKush Nagar(Laundi)","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4990,4990,4990
+"Madhya Pradesh",Chhatarpur,"LavKush Nagar(Laundi)","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4520,4520,4520
+"Madhya Pradesh",Damoh,Damoh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4280,4380,4300
+"Madhya Pradesh",Damoh,Damoh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4090,5100,5000
+"Madhya Pradesh",Damoh,Damoh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4070,4160,4160
+"Madhya Pradesh",Damoh,Damoh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,3910,4210,4200
+"Madhya Pradesh",Datia,Datia,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4105,4105,4105
+"Madhya Pradesh",Datia,Datia,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4100,4100,4100
+"Madhya Pradesh",Datia,Datia,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,3000,4505,3900
+"Madhya Pradesh",Dewas,Bagli,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4328,4328,4328
+"Madhya Pradesh",Dewas,Dewas,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3401,3401,3401
+"Madhya Pradesh",Dewas,Kannod,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,3500,4400,4400
+"Madhya Pradesh",Dewas,Kannod,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,3500,3500,3500
+"Madhya Pradesh",Dhar,Gandhwani,"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,4350,4350,4350
+"Madhya Pradesh",Guna,Guna,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4055,4055,4055
+"Madhya Pradesh",Guna,Guna,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4055,4055,4055
+"Madhya Pradesh",Guna,Guna,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4405,4450,4405
+"Madhya Pradesh",Guna,Guna,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4855,4855,4855
+"Madhya Pradesh",Guna,Guna,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3705,4765,4305
+"Madhya Pradesh",Harda,Harda,"Arhar (Tur/Red Gram)(Whole)",Medium,02/01/2020,3500,4699,4000
+"Madhya Pradesh",Harda,Harda,"Arhar (Tur/Red Gram)(Whole)",Medium,04/01/2020,4210,4210,4210
+"Madhya Pradesh",Harda,Harda,"Arhar (Tur/Red Gram)(Whole)",Medium,06/01/2020,1800,3976,1800
+"Madhya Pradesh",Harda,Harda,"Arhar (Tur/Red Gram)(Whole)",Medium,07/01/2020,3810,3810,3810
+"Madhya Pradesh",Harda,Harda,"Arhar (Tur/Red Gram)(Whole)",Medium,09/01/2020,3951,3951,3951
+"Madhya Pradesh",Harda,Harda,"Arhar (Tur/Red Gram)(Whole)",Medium,10/01/2020,4351,4351,4351
+"Madhya Pradesh",Harda,Harda,"Arhar (Tur/Red Gram)(Whole)",Medium,13/01/2020,4101,4101,4101
+"Madhya Pradesh",Harda,Khirakiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4350,4350,4350
+"Madhya Pradesh",Harda,Khirakiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4500,4500,4500
+"Madhya Pradesh",Harda,Khirakiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,2500,4500,4301
+"Madhya Pradesh",Harda,Khirakiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4000,4000,4000
+"Madhya Pradesh",Harda,Khirakiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,4250,4250,4250
+"Madhya Pradesh",Hoshangabad,Banapura,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4555,4555,4555
+"Madhya Pradesh",Hoshangabad,Bankhedi,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,5000,5000,5000
+"Madhya Pradesh",Hoshangabad,Pipariya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,5151,5400,5195
+"Madhya Pradesh",Hoshangabad,Pipariya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4380,5145,5000
+"Madhya Pradesh",Hoshangabad,Pipariya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4635,5260,4900
+"Madhya Pradesh",Hoshangabad,Pipariya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4200,4981,4500
+"Madhya Pradesh",Hoshangabad,Pipariya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,3200,5000,4450
+"Madhya Pradesh",Hoshangabad,Pipariya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4180,4715,4435
+"Madhya Pradesh",Indore,Indore,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4025,4300,4300
+"Madhya Pradesh",Indore,Indore,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,3900,4550,4550
+"Madhya Pradesh",Indore,Indore,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,3075,4740,4740
+"Madhya Pradesh",Indore,Indore,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4100,4100,4100
+"Madhya Pradesh",Indore,Indore,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4380,4380,4380
+"Madhya Pradesh",Indore,Indore,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,3810,4455,4455
+"Madhya Pradesh",Indore,Indore,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,4355,4355,4355
+"Madhya Pradesh",Indore,Indore,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,2870,4130,4130
+"Madhya Pradesh",Jabalpur,Jabalpur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4265,4705,4600
+"Madhya Pradesh",Jabalpur,Jabalpur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4200,4500,4205
+"Madhya Pradesh",Jabalpur,Jabalpur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,3650,4590,4300
+"Madhya Pradesh",Jabalpur,Jabalpur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4100,4500,4355
+"Madhya Pradesh",Jabalpur,Jabalpur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,3510,4800,4550
+"Madhya Pradesh",Jabalpur,Jabalpur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,3425,4000,3725
+"Madhya Pradesh",Jabalpur,Jabalpur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,3555,4500,4220
+"Madhya Pradesh",Jabalpur,Jabalpur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,3700,4665,4505
+"Madhya Pradesh",Jabalpur,Jabalpur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,3650,4360,3960
+"Madhya Pradesh",Jabalpur,Shahpura(Jabalpur),"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4155,4155,4155
+"Madhya Pradesh",Jhabua,Jhabua,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4500,4600,4550
+"Madhya Pradesh",Jhabua,Jhabua,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4500,4700,4600
+"Madhya Pradesh",Jhabua,Jhabua,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4600,4600,4600
+"Madhya Pradesh",Jhabua,Jhabua,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",12/01/2020,4800,4800,4800
+"Madhya Pradesh",Jhabua,Jhabua,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,4600,4600,4600
+"Madhya Pradesh",Khandwa,Harsood,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4361,4361,4361
+"Madhya Pradesh",Khandwa,Harsood,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4361,4361,4361
+"Madhya Pradesh",Khandwa,Harsood,"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,4361,4361,4361
+"Madhya Pradesh",Khandwa,Harsood,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4207,4207,4207
+"Madhya Pradesh",Khandwa,Harsood,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4400,4400,4400
+"Madhya Pradesh",Khandwa,Khandwa,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4400,4400,4400
+"Madhya Pradesh",Khandwa,Khandwa,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4262,4618,4500
+"Madhya Pradesh",Khandwa,Khandwa,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4000,4325,4180
+"Madhya Pradesh",Khargone,Badwaha,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4315,4315,4315
+"Madhya Pradesh",Khargone,Bhikangaon,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4111,4111,4111
+"Madhya Pradesh",Khargone,Bhikangaon,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4355,4355,4355
+"Madhya Pradesh",Khargone,Khargone,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3500,3500,3500
+"Madhya Pradesh",Khargone,Khargone,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,3400,3800,3800
+"Madhya Pradesh",Khargone,Khargone,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3870,4310,3960
+"Madhya Pradesh",Morena,Morena,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,2405,4280,4280
+"Madhya Pradesh",Morena,Morena,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,2000,4105,3580
+"Madhya Pradesh",Morena,Morena,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,3525,5020,4200
+"Madhya Pradesh",Morena,Morena,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4175,4445,4200
+"Madhya Pradesh",Morena,Morena,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4550,4550,4550
+"Madhya Pradesh",Morena,Morena,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,2530,3750,3115
+"Madhya Pradesh",Morena,Morena,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,3100,3100,3100
+"Madhya Pradesh",Morena,Morena,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,1500,4225,4225
+"Madhya Pradesh",Morena,Morena,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,3675,3675,3675
+"Madhya Pradesh",Morena,Morena,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,2900,3000,3000
+"Madhya Pradesh",Morena,Morena,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,4160,4160,4160
+"Madhya Pradesh",Morena,Morena,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,3330,3330,3330
+"Madhya Pradesh",Morena,Sabalgarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,3950,3950,3950
+"Madhya Pradesh",Morena,Sabalgarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,3800,4606,4200
+"Madhya Pradesh",Morena,Sabalgarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4161,4881,4510
+"Madhya Pradesh",Morena,Sabalgarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,3800,4591,4200
+"Madhya Pradesh",Morena,Sabalgarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,3780,4622,4230
+"Madhya Pradesh",Morena,Sabalgarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,3090,4549,4025
+"Madhya Pradesh",Morena,Sabalgarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,3660,3660,3660
+"Madhya Pradesh",Morena,Sabalgarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,3200,4400,4126
+"Madhya Pradesh",Morena,Sabalgarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,3200,4410,4120
+"Madhya Pradesh",Morena,Sabalgarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,2740,4310,3510
+"Madhya Pradesh",Morena,Sabalgarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",12/01/2020,4000,4000,4000
+"Madhya Pradesh",Morena,Sabalgarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,3200,4800,4000
+"Madhya Pradesh",Narsinghpur,Gadarwada,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,3400,4500,3400
+"Madhya Pradesh",Narsinghpur,Gotegaon,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4825,4825,4825
+"Madhya Pradesh",Narsinghpur,Kareli,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4892,5340,5116
+"Madhya Pradesh",Narsinghpur,Kareli,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4100,5100,4600
+"Madhya Pradesh",Narsinghpur,Kareli,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4200,5100,4650
+"Madhya Pradesh",Narsinghpur,Kareli,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4500,5100,4800
+"Madhya Pradesh",Narsinghpur,Kareli,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4000,4900,4450
+"Madhya Pradesh",Narsinghpur,Narsinghpur,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4579,4579,4579
+"Madhya Pradesh",Narsinghpur,Narsinghpur,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4700,5066,4953
+"Madhya Pradesh",Narsinghpur,Narsinghpur,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4150,4551,4270
+"Madhya Pradesh",Narsinghpur,Narsinghpur,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4400,4611,4444
+"Madhya Pradesh",Narsinghpur,Narsinghpur,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4300,4300,4300
+"Madhya Pradesh",Narsinghpur,Narsinghpur,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4100,4901,4160
+"Madhya Pradesh",Neemuch,Neemuch,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,3522,3522,3522
+"Madhya Pradesh",Neemuch,Neemuch,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,3968,4250,4150
+"Madhya Pradesh",Neemuch,Neemuch,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4269,4269,4269
+"Madhya Pradesh",Neemuch,Neemuch,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,2700,4151,3800
+"Madhya Pradesh",Neemuch,Neemuch,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,3411,4000,3700
+"Madhya Pradesh",Raisen,Bareli,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,5240,5240,5240
+"Madhya Pradesh",Raisen,Gairatganj,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4000,4269,4269
+"Madhya Pradesh",Raisen,Obedullaganj,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,3450,4358,3700
+"Madhya Pradesh",Raisen,Obedullaganj,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,3380,4300,4190
+"Madhya Pradesh",Raisen,Obedullaganj,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,3150,4268,3940
+"Madhya Pradesh",Raisen,Obedullaganj,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3902,4309,4185
+"Madhya Pradesh",Raisen,Obedullaganj,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,2575,4244,4000
+"Madhya Pradesh",Raisen,Obedullaganj,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4054,4211,4211
+"Madhya Pradesh",Raisen,Udaipura,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4505,4505,4505
+"Madhya Pradesh",Raisen,Udaipura,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4350,4700,4650
+"Madhya Pradesh",Raisen,Udaipura,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4970,4970,4970
+"Madhya Pradesh",Raisen,Udaipura,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4700,4700,4700
+"Madhya Pradesh",Raisen,Udaipura,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4000,4750,4550
+"Madhya Pradesh",Raisen,Udaipura,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4500,5250,5000
+"Madhya Pradesh",Raisen,Udaipura,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4500,4500,4500
+"Madhya Pradesh",Raisen,Udaipura,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,4400,4400,4400
+"Madhya Pradesh",Raisen,Udaipura,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,5160,5160,5160
+"Madhya Pradesh",Ratlam,Ratlam,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,2841,5105,3775
+"Madhya Pradesh",Ratlam,Ratlam,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4701,4701,4701
+"Madhya Pradesh",Ratlam,Sailana,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,3651,4171,3911
+"Madhya Pradesh",Ratlam,Sailana,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,3699,4100,3899
+"Madhya Pradesh",Ratlam,Sailana,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3651,4171,3911
+"Madhya Pradesh",Ratlam,Sailana,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,3951,4089,4020
+"Madhya Pradesh",Ratlam,Sailana,"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,3960,3960,3960
+"Madhya Pradesh",Ratlam,Sailana,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3561,3901,3731
+"Madhya Pradesh",Ratlam,Sailana,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,3581,3581,3581
+"Madhya Pradesh",Sagar,Deori,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4655,4655,4655
+"Madhya Pradesh",Sagar,Deori,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,3755,3755,3755
+"Madhya Pradesh",Sagar,Deori,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,4000,4005,4005
+"Madhya Pradesh",Sagar,Deori,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,4105,4105,4105
+"Madhya Pradesh",Sagar,Rahatgarh,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,3700,3800,3750
+"Madhya Pradesh",Sagar,Rahatgarh,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,3800,4000,3900
+"Madhya Pradesh",Sagar,Sagar,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4350,4350,4350
+"Madhya Pradesh",Sagar,Sagar,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4400,4400,4400
+"Madhya Pradesh",Sagar,Sagar,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,3905,3905,3905
+"Madhya Pradesh",Sagar,Sagar,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,3600,3600,3600
+"Madhya Pradesh",Sagar,Sagar,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,3855,3855,3855
+"Madhya Pradesh",Satna,Satna,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4500,4500,4500
+"Madhya Pradesh",Satna,Satna,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4051,4701,4500
+"Madhya Pradesh",Satna,Satna,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4201,4201,4201
+"Madhya Pradesh",Sehore,Nasrullaganj,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,3700,4091,4000
+"Madhya Pradesh",Sehore,Nasrullaganj,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,3750,4100,4066
+"Madhya Pradesh",Sehore,Nasrullaganj,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,3500,4150,3900
+"Madhya Pradesh",Sehore,Nasrullaganj,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,3771,4153,4000
+"Madhya Pradesh",Sehore,Nasrullaganj,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,3700,4150,3900
+"Madhya Pradesh",Sehore,Nasrullaganj,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3801,4149,3900
+"Madhya Pradesh",Sehore,Nasrullaganj,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3750,4091,4010
+"Madhya Pradesh",Sheopur,Sheopurkalan,"Arhar (Tur/Red Gram)(Whole)",Medium,13/01/2020,4000,4070,4055
+"Madhya Pradesh",Sheopur,Vijaypur,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4000,4000,4000
+"Madhya Pradesh",Shivpuri,Khatora,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3764,3764,3764
+"Madhya Pradesh",Vidisha,Ganjbasoda,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4060,4060,4060
+"Madhya Pradesh",Vidisha,Ganjbasoda,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,3000,3000,3000
+"Madhya Pradesh",Vidisha,Sironj,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4735,4735,4735
+"Madhya Pradesh",Vidisha,Sironj,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3895,3895,3895
+"Madhya Pradesh",Vidisha,Sironj,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,3895,3895,3895
+Maharashtra,Ahmednagar,Ahmednagar,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,3500,5100,4300
+Maharashtra,Ahmednagar,Ahmednagar,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4500,5000,4750
+Maharashtra,Ahmednagar,Ahmednagar,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4650,4900,4775
+Maharashtra,Ahmednagar,Ahmednagar,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4300,5000,4650
+Maharashtra,Ahmednagar,Ahmednagar,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,3800,5000,4400
+Maharashtra,Ahmednagar,Ahmednagar,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4000,4800,4400
+Maharashtra,Ahmednagar,Ahmednagar,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4500,4700,4600
+Maharashtra,Ahmednagar,Ahmednagar,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4500,4750,4625
+Maharashtra,Ahmednagar,Ahmednagar,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3800,4900,4350
+Maharashtra,Ahmednagar,Ahmednagar,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,3500,5000,4250
+Maharashtra,Ahmednagar,Jamkhed,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4500,4800,4650
+Maharashtra,Ahmednagar,Pathardi,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4000,5000,4500
+Maharashtra,Ahmednagar,Pathardi,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4000,5000,4500
+Maharashtra,Ahmednagar,Pathardi,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4200,4600,4400
+Maharashtra,Ahmednagar,Rahuri,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4300,4300,4300
+Maharashtra,Ahmednagar,Rahuri,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4350,4350,4350
+Maharashtra,Ahmednagar,Rahuri,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,3800,4000,3900
+Maharashtra,Ahmednagar,Rahuri,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4000,4500,4300
+Maharashtra,Ahmednagar,Rahuri,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4200,4200,4200
+Maharashtra,Ahmednagar,Rahuri(Vambori),"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4800,4900,4850
+Maharashtra,Ahmednagar,Rahuri(Vambori),"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4300,4500,4400
+Maharashtra,Ahmednagar,Rahuri(Vambori),"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,3800,4690,4245
+Maharashtra,Ahmednagar,Rahuri(Vambori),"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4600,4600,4600
+Maharashtra,Ahmednagar,Rahuri(Vambori),"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4000,4675,4337
+Maharashtra,Ahmednagar,Rahuri(Vambori),"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4000,4500,4250
+Maharashtra,Ahmednagar,Rahuri(Vambori),"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4485,4485,4485
+Maharashtra,Ahmednagar,Rahuri(Vambori),"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4200,4626,4413
+Maharashtra,Ahmednagar,Rahuri(Vambori),"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,2596,4700,4200
+Maharashtra,Ahmednagar,Sangamner,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,3750,3750,3750
+Maharashtra,Ahmednagar,Shevgaon,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4300,4500,4300
+Maharashtra,Ahmednagar,Shevgaon,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4300,4500,4300
+Maharashtra,Ahmednagar,Shevgaon,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4400,4500,4500
+Maharashtra,Ahmednagar,Shevgaon,"Arhar (Tur/Red Gram)(Whole)",Other,05/01/2020,4300,4500,4300
+Maharashtra,Ahmednagar,Shevgaon,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4200,4500,4200
+Maharashtra,Ahmednagar,Shevgaon,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,3800,4500,4500
+Maharashtra,Ahmednagar,Shevgaon,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4100,4500,4500
+Maharashtra,Ahmednagar,Shevgaon,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4000,4500,4500
+Maharashtra,Ahmednagar,Shevgaon,"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,3800,4600,4600
+Maharashtra,Ahmednagar,Shevgaon,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4000,4600,4600
+Maharashtra,Ahmednagar,Shevgaon,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4200,4711,4711
+Maharashtra,Ahmednagar,Shevgaon,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,4250,4650,4650
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4600,4800,4800
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4600,4800,4600
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4500,4850,4500
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4600,4800,4600
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4300,4700,4300
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4300,4400,4300
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4350,4500,4350
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4200,4400,4200
+Maharashtra,Ahmednagar,Shrirampur,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4401,4401,4401
+Maharashtra,Akola,Akola,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4200,5261,5100
+Maharashtra,Akola,Akola,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4000,5000,4500
+Maharashtra,Akola,Akola,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,3900,5350,4950
+Maharashtra,Akola,Akola,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4900,4900,4900
+Maharashtra,Akola,Akola,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4300,5000,4900
+Maharashtra,Akola,Akola,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4800,5000,4850
+Maharashtra,Akola,Akola,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4000,4800,4701
+Maharashtra,Akola,Akola,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4100,4600,4300
+Maharashtra,Akola,Akola,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4300,4950,4500
+Maharashtra,Akola,Akola,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4100,4751,4650
+Maharashtra,Akola,Akola,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,4300,5000,4850
+Maharashtra,Akola,Akot,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4300,4955,4900
+Maharashtra,Akola,Akot,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4500,5180,5100
+Maharashtra,Akola,Akot,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4040,4880,4800
+Maharashtra,Akola,Akot,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,3850,5000,4950
+Maharashtra,Akola,Murtizapur,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4850,5155,4985
+Maharashtra,Akola,Murtizapur,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4550,5145,4850
+Maharashtra,Akola,Patur,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,3900,3900,3900
+Maharashtra,Akola,Telhara,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4200,4650,4420
+Maharashtra,Akola,Telhara,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4100,4500,4300
+Maharashtra,Amarawati,Achalpur,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4500,4600,4550
+Maharashtra,Amarawati,Achalpur,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4400,5000,4700
+Maharashtra,Amarawati,Amarawati,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4900,5251,5076
+Maharashtra,Amarawati,Amarawati,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4800,5275,5037
+Maharashtra,Amarawati,Amarawati,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4900,5201,5050
+Maharashtra,Amarawati,Amarawati,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4850,5275,5060
+Maharashtra,Amarawati,Amarawati,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4900,5275,5088
+Maharashtra,Amarawati,Amarawati,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4800,5201,5000
+Maharashtra,Amarawati,Amarawati,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4800,5100,4950
+Maharashtra,Amarawati,Amarawati,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4800,5111,4956
+Maharashtra,Amarawati,Amarawati,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4900,5250,5075
+Maharashtra,Amarawati,Amarawati,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4800,5150,4975
+Maharashtra,Amarawati,Amarawati,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,5000,5100,5050
+Maharashtra,Amarawati,Amarawati,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4750,5800,5275
+Maharashtra,Amarawati,Amarawati,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,4850,5050,4900
+Maharashtra,Amarawati,Anajngaon,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4400,4800,4600
+Maharashtra,Amarawati,Anajngaon,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4400,4800,4600
+Maharashtra,Amarawati,Anajngaon,"Arhar (Tur/Red Gram)(Whole)",Other,05/01/2020,4600,5000,4800
+Maharashtra,Amarawati,Anajngaon,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4200,5000,4600
+Maharashtra,Amarawati,Anajngaon,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3500,4600,4000
+Maharashtra,Amarawati,Anajngaon,"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,3700,4900,4400
+Maharashtra,Amarawati,Daryapur,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4805,5125,5000
+Maharashtra,Amarawati,Daryapur,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4725,5140,5005
+Maharashtra,Amarawati,Daryapur,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,3300,4800,4500
+Maharashtra,Amarawati,Daryapur,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4750,5030,4900
+Maharashtra,Amarawati,Daryapur,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4500,4905,4700
+Maharashtra,Amarawati,Daryapur,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4570,5000,4950
+Maharashtra,Amarawati,Daryapur,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4785,4905,4850
+Maharashtra,Amarawati,Daryapur,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4300,4895,4560
+Maharashtra,Amarawati,Dhamngaon-Railway,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4500,4750,4600
+Maharashtra,Amarawati,Morshi,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4000,4400,4200
+Maharashtra,Amarawati,Morshi,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4800,5100,4950
+Maharashtra,Amarawati,Nanggaon,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4450,4850,4650
+Maharashtra,Aurangabad,Aurangabad,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4000,4890,4445
+Maharashtra,Aurangabad,Aurangabad,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4600,4905,4752
+Maharashtra,Aurangabad,Aurangabad,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4000,4950,4475
+Maharashtra,Aurangabad,Aurangabad,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4300,4951,4625
+Maharashtra,Aurangabad,Aurangabad,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,3500,4951,4225
+Maharashtra,Aurangabad,Aurangabad,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4000,4901,4450
+Maharashtra,Aurangabad,Aurangabad,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4000,4801,4400
+Maharashtra,Aurangabad,Aurangabad,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3500,4701,4100
+Maharashtra,Aurangabad,Aurangabad,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,3900,4851,4375
+Maharashtra,Aurangabad,Aurangabad,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4401,4900,4650
+Maharashtra,Aurangabad,Aurangabad,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4000,4900,4450
+Maharashtra,Aurangabad,Aurangabad,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,4581,4899,4740
+Maharashtra,Aurangabad,"Lasur Station","Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4300,4925,4775
+Maharashtra,Aurangabad,"Lasur Station","Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4271,4731,4675
+Maharashtra,Aurangabad,"Lasur Station","Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4000,4800,4650
+Maharashtra,Aurangabad,"Lasur Station","Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4600,4900,4800
+Maharashtra,Aurangabad,Paithan,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4500,4682,4600
+Maharashtra,Aurangabad,Paithan,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4348,4652,4551
+Maharashtra,Aurangabad,Paithan,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4500,4668,4551
+Maharashtra,Aurangabad,Paithan,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4250,4650,4500
+Maharashtra,Aurangabad,Paithan,"Arhar (Tur/Red Gram)(Whole)",Other,05/01/2020,4270,4646,4451
+Maharashtra,Aurangabad,Paithan,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4100,4466,4276
+Maharashtra,Aurangabad,Paithan,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4000,4600,4500
+Maharashtra,Aurangabad,Paithan,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,3790,4582,4461
+Maharashtra,Aurangabad,Paithan,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4000,4666,4400
+Maharashtra,Aurangabad,Paithan,"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,4475,4660,4561
+Maharashtra,Aurangabad,Paithan,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4251,4671,4500
+Maharashtra,Aurangabad,Vaijpur,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,3912,4923,4250
+Maharashtra,Aurangabad,Vaijpur,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4900,4913,4910
+Maharashtra,Aurangabad,Vaijpur,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4528,4923,4800
+Maharashtra,Aurangabad,Vaijpur,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4101,4853,4550
+Maharashtra,Aurangabad,Vaijpur,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,3980,4678,4250
+Maharashtra,Aurangabad,Vaijpur,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,3600,4713,4100
+Maharashtra,Aurangabad,Vaijpur,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,3600,4501,4250
+Maharashtra,Aurangabad,Vaijpur,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3802,4613,4200
+Maharashtra,Beed,Beed,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4190,4950,4700
+Maharashtra,Beed,Beed,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,3900,4824,4540
+Maharashtra,Beed,Beed,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4301,4690,4591
+Maharashtra,Beed,Beed,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,3400,4648,4511
+Maharashtra,Beed,Beed,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,3800,4311,4240
+Maharashtra,Beed,Beed,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3700,4801,4550
+Maharashtra,Beed,Beed,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4261,4760,4651
+Maharashtra,Beed,Beed,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4091,4689,4611
+Maharashtra,Beed,Beed,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4150,5001,4670
+Maharashtra,Beed,Kada,"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,4300,4900,4600
+Maharashtra,Beed,Kaij,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4500,5000,4901
+Maharashtra,Beed,Kaij,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4600,4600,4600
+Maharashtra,Beed,Kaij,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4500,5020,4850
+Maharashtra,Beed,Kaij,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4700,5000,4801
+Maharashtra,Beed,Kaij,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4652,4876,4751
+Maharashtra,Beed,"Kille Dharur","Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4500,4800,4600
+Maharashtra,Beed,"Kille Dharur","Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4799,4799,4799
+Maharashtra,Beed,"Kille Dharur","Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4301,5001,4851
+Maharashtra,Beed,"Kille Dharur","Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4002,4781,4781
+Maharashtra,Beed,Majalgaon,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4400,5075,4900
+Maharashtra,Beed,Majalgaon,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4000,5161,4900
+Maharashtra,Beed,Majalgaon,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4200,5151,5000
+Maharashtra,Beed,Majalgaon,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4200,4926,4700
+Maharashtra,Beed,Majalgaon,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4150,4890,4600
+Maharashtra,Beed,Majalgaon,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4000,4725,4500
+Maharashtra,Beed,Majalgaon,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4000,4926,4800
+Maharashtra,Beed,Majalgaon,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4151,5002,4900
+Maharashtra,Beed,Majalgaon,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4206,5051,4690
+Maharashtra,Beed,Majalgaon,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4200,5191,5100
+Maharashtra,Beed,"Parali Vaijyanath","Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4500,4500,4500
+Maharashtra,Beed,"Parali Vaijyanath","Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4300,4711,4600
+Maharashtra,Beed,"Parali Vaijyanath","Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4700,4700,4700
+Maharashtra,Beed,"Parali Vaijyanath","Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4500,4700,4600
+Maharashtra,Beed,"Parali Vaijyanath","Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4400,4700,4500
+Maharashtra,Beed,"Parali Vaijyanath","Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4500,4750,4621
+Maharashtra,Buldhana,Chikali,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4600,5001,4800
+Maharashtra,Buldhana,Chikali,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4351,4800,4576
+Maharashtra,Buldhana,Chikali,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4500,4800,4650
+Maharashtra,Buldhana,Chikali,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4411,4725,4570
+Maharashtra,Buldhana,Chikali,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4100,4700,4400
+Maharashtra,Buldhana,Chikali,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4150,4600,4375
+Maharashtra,Buldhana,Chikali,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4000,4700,4350
+Maharashtra,Buldhana,Chikali,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4100,4600,4350
+Maharashtra,Buldhana,Chikali,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4000,4800,4400
+Maharashtra,Buldhana,Chikali,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4000,4681,4341
+Maharashtra,Buldhana,Chikali,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4100,4800,4450
+Maharashtra,Buldhana,Chikali,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4000,4770,4385
+Maharashtra,Buldhana,"Deoulgaon Raja","Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4001,4598,4001
+Maharashtra,Buldhana,"Deoulgaon Raja","Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,3900,4760,4500
+Maharashtra,Buldhana,"Deoulgaon Raja","Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4201,4501,4400
+Maharashtra,Buldhana,"Deoulgaon Raja","Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4000,5000,4500
+Maharashtra,Buldhana,"Deoulgaon Raja","Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4000,4800,4500
+Maharashtra,Buldhana,"Deoulgaon Raja","Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4600,4855,4700
+Maharashtra,Buldhana,"Deoulgaon Raja","Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4401,4800,4600
+Maharashtra,Buldhana,"Deoulgaon Raja","Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3800,4701,4400
+Maharashtra,Buldhana,"Deoulgaon Raja","Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4200,4600,4400
+Maharashtra,Buldhana,"Deoulgaon Raja","Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4351,5051,4500
+Maharashtra,Buldhana,"Deoulgaon Raja","Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4300,4700,4500
+Maharashtra,Buldhana,Khamgaon,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,3700,5000,4350
+Maharashtra,Buldhana,Khamgaon,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,3900,4800,4350
+Maharashtra,Buldhana,Khamgaon,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,3800,4800,4300
+Maharashtra,Buldhana,Khamgaon,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,2800,5100,3950
+Maharashtra,Buldhana,Khamgaon,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3000,4760,3880
+Maharashtra,Buldhana,Khamgaon,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4200,5150,4675
+Maharashtra,Buldhana,Khamgaon,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3000,5100,4050
+Maharashtra,Buldhana,Khamgaon,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,3900,4900,4400
+Maharashtra,Buldhana,Lonar,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4350,4784,4567
+Maharashtra,Buldhana,Lonar,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4200,4800,4500
+Maharashtra,Buldhana,Lonar,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,3850,4850,4350
+Maharashtra,Buldhana,Lonar,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4150,5045,4598
+Maharashtra,Buldhana,Lonar,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4300,5000,4650
+Maharashtra,Buldhana,Lonar,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4450,4900,4675
+Maharashtra,Buldhana,Lonar,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4300,4750,4525
+Maharashtra,Buldhana,Lonar,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4250,4850,4550
+Maharashtra,Buldhana,Lonar,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4300,4890,4595
+Maharashtra,Buldhana,Lonar,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4290,4860,4575
+Maharashtra,Buldhana,Lonar,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4000,4890,4445
+Maharashtra,Buldhana,Malkapur,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,3300,4700,4500
+Maharashtra,Buldhana,Malkapur,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4425,5000,4750
+Maharashtra,Buldhana,Malkapur,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5025,5151,5100
+Maharashtra,Buldhana,Malkapur,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,3875,4825,4700
+Maharashtra,Buldhana,Malkapur,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,3500,5075,4000
+Maharashtra,Buldhana,Malkapur,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,3701,4900,4575
+Maharashtra,Buldhana,Malkapur,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4211,5000,4700
+Maharashtra,Buldhana,Malkapur,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4400,4400,4400
+Maharashtra,Buldhana,Malkapur,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,3950,4700,4200
+Maharashtra,Buldhana,Malkapur,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3500,4750,4500
+Maharashtra,Buldhana,Malkapur,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4250,4400,4400
+Maharashtra,Buldhana,Malkapur,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,3909,4741,4700
+Maharashtra,Buldhana,Mehekar,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,3700,4800,4400
+Maharashtra,Buldhana,Mehekar,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3400,4700,4500
+Maharashtra,Buldhana,Mehekar,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4300,4855,4500
+Maharashtra,Buldhana,Mehekar,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4000,4785,4550
+Maharashtra,Buldhana,Nandura,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4500,4880,4880
+Maharashtra,Buldhana,Nandura,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4250,4651,4651
+Maharashtra,Buldhana,Nandura,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4400,5011,5011
+Maharashtra,Buldhana,Nandura,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4200,4651,4651
+Maharashtra,Buldhana,Nandura,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3900,4581,4581
+Maharashtra,Buldhana,Sangrampur(Varvatbakal),"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4700,5101,5000
+Maharashtra,Buldhana,Sangrampur(Varvatbakal),"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4100,5000,4500
+Maharashtra,Buldhana,Shegaon,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4000,4100,4100
+Maharashtra,Buldhana,Shegaon,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4000,4000,4000
+Maharashtra,Buldhana,Shegaon,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4200,4200,4200
+Maharashtra,Buldhana,Shegaon,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4550,4550,4550
+Maharashtra,Buldhana,Shegaon,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4250,4250,4250
+Maharashtra,Buldhana,Shegaon,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4450,4450,4450
+Maharashtra,Dhule,Dhule,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4380,5004,4900
+Maharashtra,Dhule,Dhule,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4385,5990,4650
+Maharashtra,Dhule,Dhule,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4000,4720,4530
+Maharashtra,Dhule,Dhule,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4000,4720,4530
+Maharashtra,Dhule,Dhule,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,3400,4700,3700
+Maharashtra,Dhule,Dhule,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,3700,4400,4100
+Maharashtra,Dhule,Dhule,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3000,4200,3500
+Maharashtra,Dhule,Dhule,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4300,4455,4455
+Maharashtra,Dhule,Dhule,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,3350,4550,3750
+Maharashtra,Dhule,Dhule,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,4700,4700,4700
+Maharashtra,Dhule,Dondaicha,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4403,4652,4500
+Maharashtra,Dhule,Dondaicha,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4500,4702,4601
+Maharashtra,Dhule,Dondaicha,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4500,4751,4611
+Maharashtra,Dhule,Dondaicha,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4601,5086,4891
+Maharashtra,Dhule,Dondaicha,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,5042,5042,5042
+Maharashtra,Dhule,Dondaicha,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4475,4972,4900
+Maharashtra,Dhule,Dondaicha,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4500,5111,4901
+Maharashtra,Dhule,Dondaicha,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4896,5026,4912
+Maharashtra,Dhule,Dondaicha,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3500,5030,4851
+Maharashtra,Dhule,Dondaicha,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4511,5000,4955
+Maharashtra,Dhule,Sakri,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4500,4800,4500
+Maharashtra,Dhule,Shirpur,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,3801,4699,4600
+Maharashtra,Dhule,Shirpur,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,3711,4701,4561
+Maharashtra,Dhule,Shirpur,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4351,5400,5100
+Maharashtra,Dhule,Shirpur,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,5401,5401,5401
+Maharashtra,Dhule,Shirpur,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4900,5500,5300
+Maharashtra,Dhule,Shirpur,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4001,5346,4999
+Maharashtra,Dhule,Shirpur,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4301,5491,4901
+Maharashtra,Dhule,Shirpur,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3112,5751,5150
+Maharashtra,Hingoli,Hingoli,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4250,4900,4575
+Maharashtra,Hingoli,Hingoli,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4500,4900,4700
+Maharashtra,Hingoli,Hingoli,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4500,4900,4700
+Maharashtra,Hingoli,Hingoli,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4500,4980,4740
+Maharashtra,Hingoli,Sengoan,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4000,4000,4000
+Maharashtra,Hingoli,Sengoan,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4000,4700,4300
+Maharashtra,Hingoli,Sengoan,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4300,4800,4400
+Maharashtra,Hingoli,Sengoan,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4000,5000,4250
+Maharashtra,Hingoli,Sengoan,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4600,4600,4600
+Maharashtra,Hingoli,Sengoan,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4000,4700,4400
+Maharashtra,Hingoli,Sengoan,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4400,4700,4400
+Maharashtra,Jalana,"Ambad (Vadigodri)","Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4151,4850,4550
+Maharashtra,Jalana,"Ambad (Vadigodri)","Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4200,5000,4750
+Maharashtra,Jalana,"Ambad (Vadigodri)","Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,3600,5000,4700
+Maharashtra,Jalana,"Ambad (Vadigodri)","Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4171,4820,4600
+Maharashtra,Jalana,"Ambad (Vadigodri)","Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,3750,4876,4500
+Maharashtra,Jalana,"Ambad (Vadigodri)","Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4250,4951,4550
+Maharashtra,Jalana,"Ambad (Vadigodri)","Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,3451,5051,4500
+Maharashtra,Jalana,"Ambad (Vadigodri)","Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4396,5000,4705
+Maharashtra,Jalana,"Ambad (Vadigodri)","Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3800,5045,4500
+Maharashtra,Jalana,"Ambad (Vadigodri)","Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3800,5000,4600
+Maharashtra,Jalana,"Ambad (Vadigodri)","Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4200,4941,4550
+Maharashtra,Jalana,"Ambad (Vadigodri)","Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,4400,4930,4600
+Maharashtra,Jalana,Bhokardan,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4400,4550,4500
+Maharashtra,Jalana,Ghansawangi,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,3800,4600,4300
+Maharashtra,Jalana,Ghansawangi,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,3800,4500,4300
+Maharashtra,Jalana,Jalana,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,3800,5558,5000
+Maharashtra,Jalana,Jalana,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,3800,5599,5045
+Maharashtra,Jalana,Jalana,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4000,5450,5000
+Maharashtra,Jalana,Jalana,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,3900,5400,5000
+Maharashtra,Jalana,Jalana,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,3936,5348,4926
+Maharashtra,Jalana,Partur,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4700,5155,4900
+Maharashtra,Jalana,Partur,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4600,5000,4880
+Maharashtra,Jalana,Partur,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4300,4800,4700
+Maharashtra,Jalana,Partur,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4200,4751,4600
+Maharashtra,Jalana,Partur,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4551,4775,4651
+Maharashtra,Jalana,Partur,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4561,4750,4600
+Maharashtra,Jalgaon,Amalner,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4000,4000,4000
+Maharashtra,Jalgaon,Amalner,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4500,4500,4500
+Maharashtra,Jalgaon,Amalner,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4175,4175,4175
+Maharashtra,Jalgaon,Amalner,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,5000,5100,5100
+Maharashtra,Jalgaon,Amalner,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4700,5200,5200
+Maharashtra,Jalgaon,Amalner,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,5305,5305,5305
+Maharashtra,Jalgaon,Amalner,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4700,4961,4961
+Maharashtra,Jalgaon,Chalisgaon,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4100,4500,4400
+Maharashtra,Jalgaon,Chalisgaon,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4200,4581,4490
+Maharashtra,Jalgaon,Chalisgaon,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4300,4500,4400
+Maharashtra,Jalgaon,Chopada,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4801,4801,4801
+Maharashtra,Jalgaon,Chopada,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4800,4800,4800
+Maharashtra,Jalgaon,Chopada,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4800,4800,4800
+Maharashtra,Jalgaon,Chopada,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4000,5076,4950
+Maharashtra,Jalgaon,Chopada,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4492,5152,4492
+Maharashtra,Jalgaon,Pachora,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,3800,4660,4100
+Maharashtra,Jalgaon,Pachora,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4100,4961,4500
+Maharashtra,Jalgaon,Raver,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4160,4660,4660
+Maharashtra,Jalgaon,Raver,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4580,4620,4620
+Maharashtra,Jalgaon,Raver,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4480,4510,4500
+Maharashtra,Jalgaon,Raver,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4480,4480,4480
+Maharashtra,Jalgaon,Raver,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4420,4540,4470
+Maharashtra,Jalgaon,Raver,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4390,4490,4440
+Maharashtra,Latur,Ahmedpur,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4500,5000,4750
+Maharashtra,Latur,Ahmedpur,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4700,4700,4700
+Maharashtra,Latur,Ahmedpur,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4200,4800,4450
+Maharashtra,Latur,Ahmedpur,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4000,5000,4500
+Maharashtra,Latur,Ahmedpur,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4900,4900,4900
+Maharashtra,Latur,Ahmedpur,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4700,4700,4700
+Maharashtra,Latur,Ahmedpur,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4600,4900,4800
+Maharashtra,Latur,Ahmedpur,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4200,4800,4400
+Maharashtra,Latur,Ahmedpur,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,3600,4900,4390
+Maharashtra,Latur,"Aurad Shahajani","Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4400,4936,4668
+Maharashtra,Latur,"Aurad Shahajani","Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,5100,5325,5212
+Maharashtra,Latur,Ausa,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,5001,5151,5088
+Maharashtra,Latur,Ausa,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4800,5247,5039
+Maharashtra,Latur,Ausa,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5001,5201,5115
+Maharashtra,Latur,Ausa,"Arhar (Tur/Red Gram)(Whole)",Other,05/01/2020,4011,5201,4613
+Maharashtra,Latur,Ausa,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4501,4800,4600
+Maharashtra,Latur,Ausa,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4801,4951,4868
+Maharashtra,Latur,Ausa,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4501,5011,4816
+Maharashtra,Latur,Chakur,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,5209,5231,5226
+Maharashtra,Latur,Chakur,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,5038,5201,5149
+Maharashtra,Latur,Chakur,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4900,5198,5100
+Maharashtra,Latur,Chakur,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,5151,5222,5171
+Maharashtra,Latur,Chakur,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,5054,5200,5125
+Maharashtra,Latur,Chakur,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4690,5121,4867
+Maharashtra,Latur,Chakur,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4681,5065,4950
+Maharashtra,Latur,Chakur,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4560,5105,4870
+Maharashtra,Latur,Chakur,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4561,5081,4860
+Maharashtra,Latur,Chakur,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4600,5109,4902
+Maharashtra,Latur,Chakur,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4601,5109,4851
+Maharashtra,Latur,Latur,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4800,5278,5000
+Maharashtra,Latur,Latur,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4200,5200,4900
+Maharashtra,Latur,Latur,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4290,5300,4850
+Maharashtra,Latur,Latur,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4599,5270,4900
+Maharashtra,Latur,Latur,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4400,5299,4800
+Maharashtra,Latur,Latur,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4400,5175,4750
+Maharashtra,Latur,Latur,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4251,5300,4900
+Maharashtra,Latur,Latur,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3991,5381,4600
+Maharashtra,Latur,Latur,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4400,5501,4900
+Maharashtra,Latur,Latur,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4500,5513,4950
+Maharashtra,Latur,Latur,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4300,5440,5000
+Maharashtra,Latur,Latur(Murud),"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4000,5100,4500
+Maharashtra,Latur,Latur(Murud),"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4600,4900,4800
+Maharashtra,Latur,Latur(Murud),"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,5051,5051,5051
+Maharashtra,Latur,Nilanga,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,5000,5300,5200
+Maharashtra,Latur,Nilanga,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,5000,5200,5100
+Maharashtra,Latur,Nilanga,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4450,5051,4900
+Maharashtra,Latur,Nilanga,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,3690,5170,5100
+Maharashtra,Latur,Nilanga,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4100,5100,5000
+Maharashtra,Latur,Nilanga,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4100,5200,5000
+Maharashtra,Latur,Nilanga,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4600,5199,5100
+Maharashtra,Latur,Udgir,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,5000,5600,5300
+Maharashtra,Latur,Udgir,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5125,5400,5262
+Maharashtra,Latur,Udgir,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,5201,5300,5250
+Maharashtra,Latur,Udgir,"Arhar (Tur/Red Gram)(Whole)",Other,05/01/2020,5400,5481,5440
+Maharashtra,Latur,Udgir,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,5369,5581,5475
+Maharashtra,Latur,Udgir,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,5100,5250,5175
+Maharashtra,Latur,Udgir,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,5260,5480,5370
+Maharashtra,Latur,Udgir(Devanibud),"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,5051,5200,5125
+Maharashtra,Latur,Udgir(Devanibud),"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5300,5300,5300
+Maharashtra,Latur,Udgir(Devanibud),"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,5051,5251,5151
+Maharashtra,Latur,Udgir(Devanibud),"Arhar (Tur/Red Gram)(Whole)",Other,05/01/2020,5000,5200,5100
+Maharashtra,Latur,Udgir(Devanibud),"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,5171,5300,5236
+Maharashtra,Latur,Udgir(Devanibud),"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4751,5262,5006
+Maharashtra,Latur,Udgir(Devanibud),"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4900,5200,5050
+Maharashtra,Latur,Udgir(Devanibud),"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4700,5132,4916
+Maharashtra,Latur,Udgir(Devanibud),"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4700,5405,5052
+Maharashtra,Latur,Udgir(Devanibud),"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,4960,5290,5125
+Maharashtra,Nagpur,Katol,"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,4751,4751,4751
+Maharashtra,Nagpur,Katol,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3000,4300,3800
+Maharashtra,Nagpur,Savner,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4301,4700,4550
+Maharashtra,Nagpur,Savner,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4670,4670,4670
+Maharashtra,Nagpur,Savner,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4700,4700,4700
+Maharashtra,Nagpur,Savner,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,3700,3938,3938
+Maharashtra,Nagpur,Umared,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4400,4400,4400
+Maharashtra,Nanded,Bhokar,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4207,4725,4465
+Maharashtra,Nanded,Bhokar,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4556,4700,4628
+Maharashtra,Nanded,Bhokar,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4005,4731,4368
+Maharashtra,Nanded,Bhokar,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,3308,4528,3918
+Maharashtra,Nanded,Bhokar,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,3506,4535,4020
+Maharashtra,Nanded,Bhokar,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4531,4732,4632
+Maharashtra,Nanded,Bhokar,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,3305,4511,3908
+Maharashtra,Nanded,Bhokar,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3315,4742,4030
+Maharashtra,Nanded,Bhokar,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,3452,4525,3989
+Maharashtra,Nanded,Bhokar,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,3905,4457,4181
+Maharashtra,Nanded,Himalyatnagar,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4400,4500,4450
+Maharashtra,Nanded,Loha,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,3851,4751,3900
+Maharashtra,Nanded,Loha,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4200,4951,4650
+Maharashtra,Nanded,Loha,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4031,4981,4851
+Maharashtra,Nanded,Nanded,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4200,4400,4200
+Maharashtra,Nanded,Nanded,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4701,4701,4701
+Maharashtra,Nanded,Nanded,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4701,4701,4701
+Maharashtra,Nanded,Nanded,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4700,4700,4700
+Maharashtra,Nandurbar,Nandurbar,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4951,5100,5000
+Maharashtra,Nandurbar,Nandurbar,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,5050,5160,5100
+Maharashtra,Nandurbar,Nandurbar,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5065,5065,5065
+Maharashtra,Nandurbar,Nandurbar,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4611,4811,4811
+Maharashtra,Nandurbar,Nandurbar,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4900,4918,4918
+Maharashtra,Nandurbar,Nandurbar,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4800,4918,4918
+Maharashtra,Nandurbar,Nandurbar,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4655,4655,4655
+Maharashtra,Nandurbar,Shahada,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,5000,5071,5031
+Maharashtra,Nandurbar,Shahada,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4900,5100,5000
+Maharashtra,Nandurbar,Shahada,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5000,5091,5040
+Maharashtra,Nandurbar,Shahada,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4941,4981,4974
+Maharashtra,Nandurbar,Shahada,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4945,4951,4945
+Maharashtra,Nandurbar,Shahada,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4580,4880,4711
+Maharashtra,Nandurbar,Shahada,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4700,4930,4871
+Maharashtra,Nandurbar,Shahada,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4800,5555,4950
+Maharashtra,Nandurbar,Shahada,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4275,4899,4400
+Maharashtra,Nandurbar,Taloda,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4950,5487,5300
+Maharashtra,Nandurbar,Taloda,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4990,5071,5026
+Maharashtra,Nandurbar,Taloda,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,5116,5352,5331
+Maharashtra,Nandurbar,Taloda,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,5100,5352,5300
+Maharashtra,Nashik,Devala,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4940,4940,4940
+Maharashtra,Nashik,Devala,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4455,4770,4770
+Maharashtra,Nashik,Devala,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,3890,4575,4095
+Maharashtra,Nashik,Devala,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4405,4475,4475
+Maharashtra,Nashik,Devala,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4500,4800,4800
+Maharashtra,Nashik,Devala,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4480,4550,4550
+Maharashtra,Nashik,Devala,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4405,4480,4475
+Maharashtra,Nashik,Devala,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4500,4650,4650
+Maharashtra,Nashik,Kalvan,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4000,4000,4000
+Maharashtra,Nashik,Kalvan,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4251,4251,4251
+Maharashtra,Nashik,Kalvan,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4200,4200,4200
+Maharashtra,Nashik,Kalvan,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4300,4325,4300
+Maharashtra,Nashik,Lasalgaon(Niphad),"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4096,4096,4096
+Maharashtra,Nashik,Malegaon,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4444,4460,4444
+Maharashtra,Nashik,Malegaon,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4400,4800,4526
+Maharashtra,Nashik,Nandgaon,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4001,5100,4900
+Maharashtra,Nashik,Nandgaon,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4551,5001,4900
+Maharashtra,Nashik,Nandgaon,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4710,5051,4975
+Maharashtra,Nashik,Nandgaon,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4751,5050,4900
+Maharashtra,Nashik,Nandgaon,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,3680,4551,4251
+Maharashtra,Nashik,Nandgaon,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,3600,4741,4450
+Maharashtra,Nashik,Nandgaon,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4260,4699,4450
+Maharashtra,Nashik,Nandgaon,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,2500,4370,4050
+Maharashtra,Nashik,Nandgaon,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,3400,4611,4050
+Maharashtra,Nashik,Sinner,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4705,4705,4705
+Maharashtra,Nashik,Yeola,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4856,4856,4856
+Maharashtra,Nashik,Yeola,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4900,4900,4900
+Maharashtra,Nashik,Yeola,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4801,5026,5026
+Maharashtra,Nashik,Yeola,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4401,4710,4701
+Maharashtra,Osmanabad,Kalamb(Osmanabad),"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4501,5301,5000
+Maharashtra,Osmanabad,Kalamb(Osmanabad),"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4661,5071,4953
+Maharashtra,Osmanabad,Murim,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,5111,5111,5111
+Maharashtra,Osmanabad,Murim,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4500,5000,4750
+Maharashtra,Osmanabad,Murim,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4651,4651,4651
+Maharashtra,Osmanabad,Murim,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4600,5130,4865
+Maharashtra,Osmanabad,Murim,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4441,4800,4621
+Maharashtra,Osmanabad,Murim,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4750,4799,4775
+Maharashtra,Osmanabad,Murim,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4400,4630,4515
+Maharashtra,Osmanabad,Murim,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4400,4802,4601
+Maharashtra,Osmanabad,Murim,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4261,4851,4556
+Maharashtra,Osmanabad,Murim,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4650,4850,4750
+Maharashtra,Osmanabad,Murim,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4699,4880,4790
+Maharashtra,Osmanabad,Paranda,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,5100,5200,5180
+Maharashtra,Osmanabad,Paranda,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4900,5120,5050
+Maharashtra,Osmanabad,Paranda,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4750,5000,4950
+Maharashtra,Osmanabad,Paranda,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4750,4950,4850
+Maharashtra,Osmanabad,Paranda,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4850,5000,4950
+Maharashtra,Osmanabad,Paranda,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4930,5040,4955
+Maharashtra,Osmanabad,Tuljapur,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4500,4900,4777
+Maharashtra,Osmanabad,Umarga,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4651,4851,4750
+Maharashtra,Parbhani,Jintur,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4825,5100,5025
+Maharashtra,Parbhani,Jintur,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4897,4960,4897
+Maharashtra,Parbhani,Jintur,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5099,5099,5099
+Maharashtra,Parbhani,Jintur,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4850,5100,4925
+Maharashtra,Parbhani,Jintur,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4805,4875,4805
+Maharashtra,Parbhani,Jintur,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4450,5000,4725
+Maharashtra,Parbhani,Jintur,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4400,4899,4700
+Maharashtra,Parbhani,Jintur,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4250,4821,4700
+Maharashtra,Parbhani,Jintur,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4200,4900,4750
+Maharashtra,Parbhani,Jintur,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4600,4950,4725
+Maharashtra,Parbhani,Jintur,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4800,5050,4920
+Maharashtra,Parbhani,Jintur(Bori),"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,3400,4500,4500
+Maharashtra,Parbhani,Jintur(Bori),"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4000,4000,4000
+Maharashtra,Parbhani,Jintur(Bori),"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4400,4400,4400
+Maharashtra,Parbhani,Jintur(Bori),"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4650,4650,4650
+Maharashtra,Parbhani,Jintur(Bori),"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4750,4750,4750
+Maharashtra,Parbhani,Manwat,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4300,4850,4700
+Maharashtra,Parbhani,Manwat,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4541,4900,4700
+Maharashtra,Parbhani,Manwat,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4450,4800,4500
+Maharashtra,Parbhani,Manwat,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4300,4801,4450
+Maharashtra,Parbhani,Manwat,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4300,4700,4500
+Maharashtra,Parbhani,Pathari,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4300,5101,4876
+Maharashtra,Parbhani,Pathari,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4100,4900,4700
+Maharashtra,Parbhani,Pathari,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3900,4700,4550
+Maharashtra,Parbhani,Sonpeth,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4892,4892,4892
+Maharashtra,Parbhani,Sonpeth,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4500,5150,4825
+Maharashtra,Parbhani,Tadkalas,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4601,4601,4601
+Maharashtra,Pune,Baramati,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,3500,4801,4801
+Maharashtra,Pune,Baramati,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,3790,4400,4370
+Maharashtra,Pune,Baramati,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4350,4350,4350
+Maharashtra,Pune,Baramati,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3711,4700,4700
+Maharashtra,Pune,Dound,"Arhar (Tur/Red Gram)(Whole)",Other,05/01/2020,4300,4300,4300
+Maharashtra,Pune,Dound,"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,4600,4600,4600
+Maharashtra,Pune,Shirur,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4400,4400,4400
+Maharashtra,Pune,Shirur,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4000,4000,4000
+Maharashtra,Pune,Shirur,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4400,4400,4400
+Maharashtra,Pune,Shirur,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4300,4300,4300
+Maharashtra,Pune,Shirur,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,3800,3800,3800
+Maharashtra,Raigad,Karjat(Raigad),"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4400,5000,4800
+Maharashtra,Raigad,Karjat(Raigad),"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4200,5000,4700
+Maharashtra,Raigad,Karjat(Raigad),"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4300,4950,4800
+Maharashtra,Raigad,Karjat(Raigad),"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4351,4850,4600
+Maharashtra,Raigad,Karjat(Raigad),"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4200,4725,4500
+Maharashtra,Raigad,Karjat(Raigad),"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4300,4900,4600
+Maharashtra,Raigad,Karjat(Raigad),"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3500,4800,4600
+Maharashtra,Raigad,Karjat(Raigad),"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,4400,4900,4800
+Maharashtra,Sangli,Sangli,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,5800,6500,6150
+Maharashtra,Sangli,Sangli,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,5800,6000,5900
+Maharashtra,Sholapur,Akkalkot,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,5110,5325,5200
+Maharashtra,Sholapur,Akkalkot,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4600,5250,5000
+Maharashtra,Sholapur,Akkalkot,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5000,5225,5100
+Maharashtra,Sholapur,Akkalkot,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,5000,5260,5100
+Maharashtra,Sholapur,Akkalkot,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4950,5251,5100
+Maharashtra,Sholapur,Akkalkot,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4900,5151,5000
+Maharashtra,Sholapur,Akkalkot,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4800,5240,5150
+Maharashtra,Sholapur,Akkalkot,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,5000,5300,5150
+Maharashtra,Sholapur,Akkalkot,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,5000,5376,5150
+Maharashtra,Sholapur,Akkalkot,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4950,5400,5250
+Maharashtra,Sholapur,Akkalkot,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,5000,5400,5250
+Maharashtra,Sholapur,Akkalkot,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,5150,5476,5250
+Maharashtra,Sholapur,Akluj,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4300,4300,4300
+Maharashtra,Sholapur,Dudhani,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4250,5230,4675
+Maharashtra,Sholapur,Dudhani,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4200,5250,4800
+Maharashtra,Sholapur,Dudhani,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4300,5280,4950
+Maharashtra,Sholapur,Dudhani,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4710,5100,4900
+Maharashtra,Sholapur,Dudhani,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4500,5100,4800
+Maharashtra,Sholapur,Dudhani,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4435,5200,5015
+Maharashtra,Sholapur,Dudhani,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4690,5055,4850
+Maharashtra,Sholapur,Dudhani,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4405,5000,4700
+Maharashtra,Sholapur,Dudhani,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4680,5145,4850
+Maharashtra,Sholapur,Dudhani,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4650,5530,5200
+Maharashtra,Sholapur,Dudhani,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4300,5430,5100
+Maharashtra,Sholapur,Karmala,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4500,5100,4900
+Maharashtra,Sholapur,Kurdwadi,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4925,5100,5010
+Maharashtra,Sholapur,Kurdwadi,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,5000,5000,5000
+Maharashtra,Sholapur,Kurdwadi,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4700,4900,4800
+Maharashtra,Sholapur,Kurdwadi,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4850,4930,4890
+Maharashtra,Sholapur,Kurdwadi,"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,4925,4925,4925
+Maharashtra,Sholapur,Kurdwadi,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4850,5141,4995
+Maharashtra,Sholapur,Kurdwadi(Modnimb),"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,2001,4925,4000
+Maharashtra,Sholapur,Kurdwadi(Modnimb),"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,2200,4950,4000
+Maharashtra,Sholapur,Kurdwadi(Modnimb),"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3011,5020,4500
+Maharashtra,Sholapur,"Mangal Wedha","Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4100,4550,4500
+Maharashtra,Sholapur,Solapur,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,3800,4451,4451
+Maharashtra,Sholapur,Solapur,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,3700,4751,4611
+Maharashtra,Sholapur,Solapur,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,3500,5000,4752
+Maharashtra,Sholapur,Solapur,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4151,4800,4675
+Maharashtra,Sholapur,Solapur,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,3800,4811,4599
+Maharashtra,Sholapur,Solapur,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4200,4801,4651
+Maharashtra,Sholapur,Solapur,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4199,4900,4700
+Maharashtra,Sholapur,Solapur,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,3900,4901,4735
+Maharashtra,Sholapur,Solapur,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4100,4900,4751
+Maharashtra,Sholapur,Solapur,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,3800,4901,4750
+Maharashtra,Sholapur,Solapur,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4000,5069,4955
+Maharashtra,Vashim,Karanja,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4700,4900,4800
+Maharashtra,Vashim,Karanja,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4100,4555,4300
+Maharashtra,Vashim,Karanja,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4700,5105,5000
+Maharashtra,Vashim,Karanja,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4500,5150,4800
+Maharashtra,Vashim,Karanja,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4300,4500,4400
+Maharashtra,Vashim,Karanja,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4700,5180,4700
+Maharashtra,Vashim,Karanja,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4500,5050,4800
+Maharashtra,Vashim,Karanja,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4900,5100,5040
+Maharashtra,Vashim,Karanja,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,3750,5005,4450
+Maharashtra,Vashim,Karanja,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,3700,5100,4500
+Maharashtra,Vashim,Karanja,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,3900,5155,4500
+Maharashtra,Vashim,Malegaon(Vashim),"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4500,5000,4700
+Maharashtra,Vashim,Malegaon(Vashim),"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4900,5100,5000
+Maharashtra,Vashim,Mangrulpeer,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4100,5050,5050
+Maharashtra,Vashim,Mangrulpeer,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,3200,4805,4700
+Maharashtra,Vashim,Mangrulpeer,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,3700,4700,4550
+Maharashtra,Vashim,Mangrulpeer,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4305,5225,4900
+Maharashtra,Vashim,Mangrulpeer,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,3100,4655,4500
+Maharashtra,Vashim,Manora,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,3400,4600,4000
+Maharashtra,Vashim,Manora,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4100,4800,4450
+Maharashtra,Vashim,Manora,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4200,5000,4600
+Maharashtra,Vashim,Risod,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4650,5050,4875
+Maharashtra,Vashim,Washim,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4700,5100,5000
+Maharashtra,Vashim,Washim,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4500,5200,5000
+Maharashtra,Vashim,Washim,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4500,5015,4800
+Maharashtra,Vashim,Washim,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4850,5200,5000
+Maharashtra,Vashim,Washim,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4500,5000,4800
+Maharashtra,Vashim,Washim,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4800,5115,5000
+Maharashtra,Vashim,Washim,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4600,5000,4800
+Maharashtra,Vashim,Washim,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,4800,5150,5000
+Maharashtra,Vashim,Washim,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4800,5125,5000
+Maharashtra,Vashim,Washim,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4800,5200,5000
+Maharashtra,Vashim,Washim(Ansing),"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,4500,4850,4600
+Maharashtra,Vashim,Washim(Ansing),"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,5050,5175,5100
+Maharashtra,Vashim,Washim(Ansing),"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4750,5200,5000
+Maharashtra,Vashim,Washim(Ansing),"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4750,5000,4800
+Maharashtra,Vashim,Washim(Ansing),"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4600,5000,4800
+Maharashtra,Vashim,Washim(Ansing),"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4500,5000,4900
+Maharashtra,Vashim,Washim(Ansing),"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,5050,5300,5100
+Maharashtra,Vashim,Washim(Ansing),"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4550,5100,5000
+Maharashtra,Wardha,Hinganghat,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4805,5030,4880
+Maharashtra,Wardha,Hinganghat,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4900,5100,5000
+Maharashtra,Wardha,Hinganghat,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4405,5000,4670
+Maharashtra,Wardha,Hinganghat,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4500,4700,4600
+Maharashtra,Wardha,Hinganghat,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,4500,4855,4590
+Maharashtra,Wardha,Hinganghat,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4500,5040,4800
+Maharashtra,Wardha,Hinganghat,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4500,5005,4735
+Maharashtra,Wardha,Hinganghat,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4500,5151,4760
+Maharashtra,Wardha,Hinganghat,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,4500,4970,4690
+Maharashtra,Wardha,Sindi(Selu),"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4800,4805,4800
+Maharashtra,Wardha,Sindi(Selu),"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,3500,4322,4050
+Maharashtra,Wardha,Sindi(Selu),"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4600,4600,4600
+Maharashtra,Wardha,Sindi(Selu),"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4412,4412,4412
+Maharashtra,Wardha,Sindi(Selu),"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,4351,4351,4351
+Maharashtra,Yavatmal,Digras,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4600,4600,4600
+Maharashtra,Yavatmal,Digras,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4600,4600,4600
+Maharashtra,Yavatmal,Digras,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,4225,4880,4687
+Maharashtra,Yavatmal,Digras,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4600,4975,4880
+Maharashtra,Yavatmal,Digras,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4500,5085,4865
+Maharashtra,Yavatmal,Pandhakawada,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4840,4840,4840
+Maharashtra,Yavatmal,Pandhakawada,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4780,4900,4860
+Maharashtra,Yavatmal,Pandhakawada,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,4900,4900,4900
+"NCT of Delhi",Delhi,Narela,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",06/01/2020,4900,4900,4900
+"NCT of Delhi",Delhi,Narela,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",07/01/2020,4861,4861,4861
+"NCT of Delhi",Delhi,Narela,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",09/01/2020,4861,4861,4861
+"NCT of Delhi",Delhi,Narela,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",11/01/2020,4100,4100,4100
+"NCT of Delhi",Delhi,Narela,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",12/01/2020,3401,4281,3401
+Odisha,Kalahandi,Kesinga,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,6000,7000,6500
+Rajasthan,Alwar,Alwar,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,3900,4100,4000
+Rajasthan,Alwar,Alwar,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,3900,4100,4000
+Rajasthan,Baran,"Atru(Kawai Salpura)","Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,4700,4700,4700
+Rajasthan,Bundi,Sumerganj,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,4400,4420,4420
+Rajasthan,Bundi,Sumerganj,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,3740,4460,4460
+Rajasthan,Bundi,Sumerganj,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,3725,3800,3800
+Rajasthan,Bundi,Sumerganj,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4350,4400,4400
+Rajasthan,Chittorgarh,Pratapgarh,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,4950,6300,5625
+Rajasthan,Chittorgarh,Pratapgarh,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,4000,5950,4975
+Rajasthan,Chittorgarh,Pratapgarh,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,4300,5851,5075
+Rajasthan,Chittorgarh,Pratapgarh,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,3850,6191,5020
+Rajasthan,Chittorgarh,Pratapgarh,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,4500,4525,4512
+Rajasthan,Chittorgarh,Pratapgarh,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,4400,5000,4700
+Rajasthan,Dausa,Bandikui,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,1770,2078,1924
+Rajasthan,Dausa,Lalsot,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,3980,4060,4050
+Rajasthan,Dausa,Lalsot,"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,3825,4140,4115
+Rajasthan,Dausa,Lalsot,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,4000,4111,4100
+Telangana,Khammam,Khammam,"Arhar (Tur/Red Gram)(Whole)",Local,04/01/2020,4925,4925,4925
+Telangana,Khammam,Khammam,"Arhar (Tur/Red Gram)(Whole)",Local,07/01/2020,4650,4650,4650
+Telangana,Mahbubnagar,Atmakur,"Arhar (Tur/Red Gram)(Whole)",Local,03/01/2020,5050,5100,5050
+Telangana,Mahbubnagar,Atmakur,"Arhar (Tur/Red Gram)(Whole)",Local,04/01/2020,4950,5000,4950
+Telangana,Mahbubnagar,Atmakur,"Arhar (Tur/Red Gram)(Whole)",Local,05/01/2020,4950,5000,4950
+Telangana,Mahbubnagar,Atmakur,"Arhar (Tur/Red Gram)(Whole)",Local,06/01/2020,4900,5000,4950
+Telangana,Mahbubnagar,Atmakur,"Arhar (Tur/Red Gram)(Whole)",Local,09/01/2020,4900,5000,4900
+Telangana,Mahbubnagar,Atmakur,"Arhar (Tur/Red Gram)(Whole)",Local,10/01/2020,4900,4900,4900
+Telangana,Mahbubnagar,Atmakur,"Arhar (Tur/Red Gram)(Whole)",Local,12/01/2020,4850,4900,4850
+Telangana,Mahbubnagar,Atmakur,"Arhar (Tur/Red Gram)(Whole)",Local,13/01/2020,4950,4950,4950
+Telangana,Mahbubnagar,Badepalli,"Arhar (Tur/Red Gram)(Whole)",Local,04/01/2020,4005,4795,4700
+Telangana,Mahbubnagar,Badepalli,"Arhar (Tur/Red Gram)(Whole)",Local,06/01/2020,3856,4662,4554
+Telangana,Mahbubnagar,Badepalli,"Arhar (Tur/Red Gram)(Whole)",Local,07/01/2020,3229,4677,4572
+Telangana,Mahbubnagar,Badepalli,"Arhar (Tur/Red Gram)(Whole)",Local,08/01/2020,3362,4749,4495
+Telangana,Mahbubnagar,Badepalli,"Arhar (Tur/Red Gram)(Whole)",Local,09/01/2020,3700,4770,4259
+Telangana,Mahbubnagar,Badepalli,"Arhar (Tur/Red Gram)(Whole)",Local,10/01/2020,3636,4720,4592
+Telangana,Mahbubnagar,Badepalli,"Arhar (Tur/Red Gram)(Whole)",Local,11/01/2020,4056,4769,4756
+Telangana,Mahbubnagar,Gadwal,"Arhar (Tur/Red Gram)(Whole)",Local,04/01/2020,4006,4409,4006
+Telangana,Mahbubnagar,Gadwal,"Arhar (Tur/Red Gram)(Whole)",Local,06/01/2020,2809,5068,4819
+Telangana,Mahbubnagar,Gadwal,"Arhar (Tur/Red Gram)(Whole)",Local,07/01/2020,4656,4876,4656
+Telangana,Mahbubnagar,Gadwal,"Arhar (Tur/Red Gram)(Whole)",Local,09/01/2020,4301,4821,4821
+Telangana,Mahbubnagar,Gadwal,"Arhar (Tur/Red Gram)(Whole)",Local,12/01/2020,4200,4200,4200
+Telangana,Mahbubnagar,Narayanpet,"Arhar (Tur/Red Gram)(Whole)",Local,03/01/2020,4350,6176,5405
+Telangana,Mahbubnagar,Narayanpet,"Arhar (Tur/Red Gram)(Whole)",Local,04/01/2020,4000,6119,5909
+Telangana,Mahbubnagar,Narayanpet,"Arhar (Tur/Red Gram)(Whole)",Local,06/01/2020,3500,6069,5800
+Telangana,Mahbubnagar,Narayanpet,"Arhar (Tur/Red Gram)(Whole)",Local,07/01/2020,4350,5969,5043
+Telangana,Mahbubnagar,Narayanpet,"Arhar (Tur/Red Gram)(Whole)",Local,08/01/2020,4200,6019,5951
+Telangana,Mahbubnagar,Narayanpet,"Arhar (Tur/Red Gram)(Whole)",Local,09/01/2020,4517,5900,5305
+Telangana,Mahbubnagar,Narayanpet,"Arhar (Tur/Red Gram)(Whole)",Local,11/01/2020,4108,5909,5429
+Telangana,Mahbubnagar,Narayanpet,"Arhar (Tur/Red Gram)(Whole)",Local,13/01/2020,2000,5905,4428
+Telangana,Medak,Sadasivpet,"Arhar (Tur/Red Gram)(Whole)",Local,04/01/2020,3339,4941,4941
+Telangana,Medak,Sadasivpet,"Arhar (Tur/Red Gram)(Whole)",Local,06/01/2020,4700,4900,4791
+Telangana,Medak,Sadasivpet,"Arhar (Tur/Red Gram)(Whole)",Local,07/01/2020,4651,4872,4852
+Telangana,Medak,Sadasivpet,"Arhar (Tur/Red Gram)(Whole)",Local,08/01/2020,4650,4914,4869
+Telangana,Medak,Sadasivpet,"Arhar (Tur/Red Gram)(Whole)",Local,09/01/2020,4311,4905,4801
+Telangana,Medak,Sadasivpet,"Arhar (Tur/Red Gram)(Whole)",Local,10/01/2020,4662,4905,4869
+Telangana,Medak,Sadasivpet,"Arhar (Tur/Red Gram)(Whole)",Local,11/01/2020,4444,4962,4874
+Telangana,Medak,Sadasivpet,"Arhar (Tur/Red Gram)(Whole)",Local,13/01/2020,4426,4905,4887
+Telangana,Medak,Zaheerabad,"Arhar (Tur/Red Gram)(Whole)",Local,04/01/2020,4000,5354,5155
+Telangana,Medak,Zaheerabad,"Arhar (Tur/Red Gram)(Whole)",Local,06/01/2020,4553,5301,5101
+Telangana,Medak,Zaheerabad,"Arhar (Tur/Red Gram)(Whole)",Local,07/01/2020,4500,5100,4800
+Telangana,Medak,Zaheerabad,"Arhar (Tur/Red Gram)(Whole)",Local,10/01/2020,4475,5000,4800
+Telangana,Medak,Zaheerabad,"Arhar (Tur/Red Gram)(Whole)",Local,11/01/2020,4200,5016,4850
+Telangana,Medak,Zaheerabad,"Arhar (Tur/Red Gram)(Whole)",Local,13/01/2020,4250,5105,4650
+Telangana,Nalgonda,Suryapeta,"Arhar (Tur/Red Gram)(Whole)",Local,01/01/2020,3974,3974,3974
+Telangana,Nalgonda,Suryapeta,"Arhar (Tur/Red Gram)(Whole)",Local,02/01/2020,2673,4613,3893
+Telangana,Nalgonda,Suryapeta,"Arhar (Tur/Red Gram)(Whole)",Local,03/01/2020,3792,4833,4833
+Telangana,Nalgonda,Suryapeta,"Arhar (Tur/Red Gram)(Whole)",Local,04/01/2020,3929,4729,3929
+Telangana,Nalgonda,Suryapeta,"Arhar (Tur/Red Gram)(Whole)",Local,06/01/2020,4491,4743,4671
+Telangana,Nalgonda,Suryapeta,"Arhar (Tur/Red Gram)(Whole)",Local,07/01/2020,1201,4676,3731
+Telangana,Nalgonda,Suryapeta,"Arhar (Tur/Red Gram)(Whole)",Local,09/01/2020,3731,4473,4473
+Telangana,Nalgonda,Suryapeta,"Arhar (Tur/Red Gram)(Whole)",Local,10/01/2020,4109,4502,4448
+Telangana,Nalgonda,Suryapeta,"Arhar (Tur/Red Gram)(Whole)",Local,11/01/2020,3195,4374,4171
+Telangana,Nalgonda,Suryapeta,"Arhar (Tur/Red Gram)(Whole)",Local,12/01/2020,3195,3195,3195
+Telangana,Nalgonda,Suryapeta,"Arhar (Tur/Red Gram)(Whole)",Local,13/01/2020,3294,4392,4392
+Telangana,Nalgonda,Suryapeta,"Arhar (Tur/Red Gram)(Whole)",Local,14/01/2020,3294,3294,3294
+Telangana,Nalgonda,Suryapeta,"Arhar (Tur/Red Gram)(Whole)",Local,15/01/2020,3294,3294,3294
+Telangana,Warangal,Jangaon,"Arhar (Tur/Red Gram)(Whole)",Local,08/01/2020,3500,3500,3500
+"Uttar Pradesh",Agra,Agra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,5600,5800,5700
+"Uttar Pradesh",Agra,Agra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,5650,5850,5750
+"Uttar Pradesh",Agra,Agra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,5650,5800,5720
+"Uttar Pradesh",Agra,Agra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,5650,5850,5750
+"Uttar Pradesh",Agra,Agra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,5700,5850,5780
+"Uttar Pradesh",Agra,Agra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,5600,5800,5700
+"Uttar Pradesh",Agra,Agra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,5600,5750,5680
+"Uttar Pradesh",Agra,Agra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,5600,5750,5690
+"Uttar Pradesh",Agra,Agra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,5600,5750,5670
+"Uttar Pradesh",Agra,Agra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,5600,5800,5700
+"Uttar Pradesh",Agra,Agra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,5600,5750,5690
+"Uttar Pradesh",Agra,Agra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,5600,5750,5680
+"Uttar Pradesh",Agra,Agra,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",15/01/2020,5650,5800,5720
+"Uttar Pradesh",Aligarh,Aligarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,5150,5250,5200
+"Uttar Pradesh",Aligarh,Aligarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,5200,5300,5250
+"Uttar Pradesh",Aligarh,Aligarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,5150,5250,5200
+"Uttar Pradesh",Aligarh,Aligarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,5250,5350,5300
+"Uttar Pradesh",Aligarh,Aligarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,5150,5250,5200
+"Uttar Pradesh",Aligarh,Aligarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,5200,5300,5250
+"Uttar Pradesh",Aligarh,Aligarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,5200,5300,5250
+"Uttar Pradesh",Aligarh,Aligarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,5200,5300,5250
+"Uttar Pradesh",Aligarh,Aligarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,5150,5250,5200
+"Uttar Pradesh",Aligarh,Aligarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,5150,5250,5200
+"Uttar Pradesh",Aligarh,Aligarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,5200,5300,5250
+"Uttar Pradesh",Aligarh,Aligarh,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",15/01/2020,5150,5250,5200
+"Uttar Pradesh",Aligarh,Khair,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,5200,5250,5200
+"Uttar Pradesh",Aligarh,Khair,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,5150,5200,5200
+"Uttar Pradesh",Aligarh,Khair,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",05/01/2020,5150,5300,5200
+"Uttar Pradesh",Aligarh,Khair,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,5150,5300,5200
+"Uttar Pradesh",Aligarh,Khair,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,5150,5300,5200
+"Uttar Pradesh",Aligarh,Khair,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,5200,5300,5250
+"Uttar Pradesh",Aligarh,Khair,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,5200,5300,5200
+"Uttar Pradesh",Aligarh,Khair,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,5200,5300,5200
+"Uttar Pradesh",Aligarh,Khair,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",12/01/2020,5200,5200,5200
+"Uttar Pradesh",Aligarh,Khair,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,5150,5300,5200
+"Uttar Pradesh",Aligarh,Khair,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,5150,5250,5200
+"Uttar Pradesh",Allahabad,Ajuha,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,5350,5600,5400
+"Uttar Pradesh",Allahabad,Ajuha,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,5300,5500,5350
+"Uttar Pradesh",Allahabad,Ajuha,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,5300,5500,5350
+"Uttar Pradesh",Allahabad,Ajuha,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",05/01/2020,5300,5500,5350
+"Uttar Pradesh",Allahabad,Ajuha,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,5300,5500,5350
+"Uttar Pradesh",Allahabad,Ajuha,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,5350,5500,5400
+"Uttar Pradesh",Allahabad,Ajuha,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,5350,5600,5400
+"Uttar Pradesh",Allahabad,Ajuha,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,5350,5550,5400
+"Uttar Pradesh",Allahabad,Ajuha,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,5350,5600,5400
+"Uttar Pradesh",Allahabad,Ajuha,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",12/01/2020,5350,5500,5400
+"Uttar Pradesh",Allahabad,Ajuha,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,5400,5600,5450
+"Uttar Pradesh",Allahabad,Ajuha,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,5425,5600,5450
+"Uttar Pradesh",Allahabad,Ajuha,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",15/01/2020,5400,5650,5450
+"Uttar Pradesh",Auraiya,Auraiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,5000,5200,5100
+"Uttar Pradesh",Auraiya,Auraiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4950,5150,5050
+"Uttar Pradesh",Auraiya,Auraiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4900,5100,5000
+"Uttar Pradesh",Auraiya,Auraiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4800,5000,4900
+"Uttar Pradesh",Auraiya,Auraiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4900,5100,5000
+"Uttar Pradesh",Auraiya,Auraiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,5000,5200,5100
+"Uttar Pradesh",Auraiya,Auraiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4950,5150,5050
+"Uttar Pradesh",Auraiya,Auraiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4900,5100,5000
+"Uttar Pradesh",Auraiya,Auraiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,5000,5200,5100
+"Uttar Pradesh",Auraiya,Auraiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,4900,5100,5000
+"Uttar Pradesh",Auraiya,Auraiya,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,4850,5050,4950
+"Uttar Pradesh",Badaun,Badayoun,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",03/01/2020,5900,6100,5990
+"Uttar Pradesh",Badaun,Badayoun,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",10/01/2020,5900,6100,5990
+"Uttar Pradesh",Bahraich,Bahraich,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,5570,5970,5710
+"Uttar Pradesh",Bahraich,Bahraich,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,5580,5770,5700
+"Uttar Pradesh",Bahraich,Bahraich,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,5580,5770,5700
+"Uttar Pradesh",Bahraich,Bahraich,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,5610,5800,5720
+"Uttar Pradesh",Bahraich,Bahraich,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,5600,5950,5750
+"Uttar Pradesh",Bahraich,Bahraich,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,5610,5950,5750
+"Uttar Pradesh",Bahraich,Bahraich,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,5600,5950,5740
+"Uttar Pradesh",Bahraich,Bahraich,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,5560,5840,5700
+"Uttar Pradesh",Bahraich,Bahraich,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,5490,5970,5710
+"Uttar Pradesh",Bahraich,Bahraich,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,5510,5890,5710
+"Uttar Pradesh",Bahraich,Bahraich,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,5500,5890,5740
+"Uttar Pradesh",Bahraich,Bahraich,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,5560,5890,5750
+"Uttar Pradesh",Bahraich,Bahraich,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",15/01/2020,5580,5850,5750
+"Uttar Pradesh",Bahraich,Risia,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,5410,5650,5530
+"Uttar Pradesh",Bahraich,Risia,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,5410,5660,5530
+"Uttar Pradesh",Bahraich,Risia,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,5410,5660,5530
+"Uttar Pradesh",Bahraich,Risia,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,5410,5650,5530
+"Uttar Pradesh",Bahraich,Risia,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,5410,5650,5530
+"Uttar Pradesh",Bahraich,Risia,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,5410,5650,5530
+"Uttar Pradesh",Bahraich,Risia,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,5400,5660,5530
+"Uttar Pradesh",Bahraich,Risia,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,5415,5650,5530
+"Uttar Pradesh",Bahraich,Risia,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,5405,5650,5530
+"Uttar Pradesh",Bahraich,Risia,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",12/01/2020,5410,5660,5530
+"Uttar Pradesh",Bahraich,Risia,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,5410,5660,5530
+"Uttar Pradesh",Bahraich,Risia,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,5405,5660,5530
+"Uttar Pradesh",Bahraich,Risia,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",15/01/2020,5405,5660,5530
+"Uttar Pradesh",Banda,Baberu,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),02/01/2020,4870,5070,4970
+"Uttar Pradesh",Banda,Baberu,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),03/01/2020,4900,5080,4990
+"Uttar Pradesh",Banda,Baberu,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),04/01/2020,4890,5050,4970
+"Uttar Pradesh",Banda,Baberu,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),05/01/2020,4900,5080,4990
+"Uttar Pradesh",Banda,Baberu,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),06/01/2020,4890,5050,4970
+"Uttar Pradesh",Banda,Baberu,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),07/01/2020,4870,5070,4970
+"Uttar Pradesh",Banda,Baberu,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),09/01/2020,4900,5080,4990
+"Uttar Pradesh",Banda,Baberu,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),10/01/2020,4910,5070,4990
+"Uttar Pradesh",Banda,Baberu,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),11/01/2020,4890,5050,4970
+"Uttar Pradesh",Banda,Baberu,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),12/01/2020,4900,5080,4990
+"Uttar Pradesh",Banda,Baberu,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),13/01/2020,4880,5060,4970
+"Uttar Pradesh",Banda,Baberu,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),14/01/2020,4910,5070,4990
+"Uttar Pradesh",Banda,Banda,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),01/01/2020,4950,5040,5000
+"Uttar Pradesh",Banda,Banda,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),02/01/2020,4950,5040,5000
+"Uttar Pradesh",Banda,Banda,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),03/01/2020,4950,5050,5000
+"Uttar Pradesh",Banda,Banda,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),05/01/2020,4950,5050,5000
+"Uttar Pradesh",Banda,Banda,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),06/01/2020,4950,5050,5010
+"Uttar Pradesh",Banda,Banda,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),08/01/2020,4950,5050,5000
+"Uttar Pradesh",Banda,Banda,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),09/01/2020,4950,5050,5000
+"Uttar Pradesh",Banda,Banda,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),10/01/2020,4950,5050,5000
+"Uttar Pradesh",Banda,Banda,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),11/01/2020,4960,5050,5000
+"Uttar Pradesh",Banda,Banda,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),12/01/2020,4970,5065,5020
+"Uttar Pradesh",Banda,Banda,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),13/01/2020,4950,5050,5000
+"Uttar Pradesh",Chitrakut,Karvi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4900,5010,4960
+"Uttar Pradesh",Chitrakut,Karvi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4915,5010,4975
+"Uttar Pradesh",Chitrakut,Karvi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4900,4990,4950
+"Uttar Pradesh",Chitrakut,Karvi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",05/01/2020,4925,5000,4980
+"Uttar Pradesh",Chitrakut,Karvi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4950,5045,5000
+"Uttar Pradesh",Chitrakut,Karvi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4910,5000,4950
+"Uttar Pradesh",Chitrakut,Karvi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4900,5000,4950
+"Uttar Pradesh",Chitrakut,Karvi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4935,5000,4980
+"Uttar Pradesh",Chitrakut,Karvi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,4940,5025,4990
+"Uttar Pradesh",Chitrakut,Karvi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",12/01/2020,4980,5050,5035
+"Uttar Pradesh",Chitrakut,Karvi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,5000,5060,5035
+"Uttar Pradesh",Etawah,Etawah,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",01/01/2020,5080,5480,5280
+"Uttar Pradesh",Etawah,Etawah,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",02/01/2020,5050,5450,5250
+"Uttar Pradesh",Etawah,Etawah,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",03/01/2020,5050,5450,5250
+"Uttar Pradesh",Etawah,Etawah,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",04/01/2020,5100,5500,5300
+"Uttar Pradesh",Etawah,Etawah,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",06/01/2020,5100,5500,5300
+"Uttar Pradesh",Etawah,Etawah,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",07/01/2020,5050,5450,5250
+"Uttar Pradesh",Etawah,Etawah,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",08/01/2020,5050,5450,5250
+"Uttar Pradesh",Etawah,Etawah,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",09/01/2020,5100,5500,5300
+"Uttar Pradesh",Etawah,Etawah,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",10/01/2020,5150,5550,5350
+"Uttar Pradesh",Etawah,Etawah,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",11/01/2020,5150,5550,5350
+"Uttar Pradesh",Etawah,Etawah,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",13/01/2020,5200,5600,5400
+"Uttar Pradesh",Etawah,Etawah,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",14/01/2020,5200,5600,5400
+"Uttar Pradesh",Etawah,Etawah,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",15/01/2020,5150,5550,5350
+"Uttar Pradesh",Fatehpur,Bindki,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",01/01/2020,5300,5470,5350
+"Uttar Pradesh",Fatehpur,Bindki,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",02/01/2020,5250,5380,5300
+"Uttar Pradesh",Fatehpur,Bindki,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",03/01/2020,5300,5400,5340
+"Uttar Pradesh",Fatehpur,Bindki,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",05/01/2020,5300,5400,5350
+"Uttar Pradesh",Fatehpur,Bindki,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",06/01/2020,5300,5430,5380
+"Uttar Pradesh",Fatehpur,Bindki,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",07/01/2020,5250,5450,5390
+"Uttar Pradesh",Fatehpur,Bindki,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",08/01/2020,5300,5440,5380
+"Uttar Pradesh",Fatehpur,Bindki,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",09/01/2020,5300,5440,5380
+"Uttar Pradesh",Fatehpur,Bindki,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",10/01/2020,5300,5440,5380
+"Uttar Pradesh",Fatehpur,Bindki,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",12/01/2020,5300,5440,5390
+"Uttar Pradesh",Fatehpur,Bindki,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",13/01/2020,5250,5500,5400
+"Uttar Pradesh",Fatehpur,Bindki,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",14/01/2020,5300,5430,5370
+"Uttar Pradesh",Fatehpur,Bindki,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",15/01/2020,5400,5500,5430
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",02/01/2020,5550,5700,5620
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",03/01/2020,5550,5700,5600
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",04/01/2020,5550,5700,5600
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",05/01/2020,5550,5700,5600
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",07/01/2020,5500,5650,5550
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",09/01/2020,5500,5650,5550
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",10/01/2020,5550,5700,5600
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",11/01/2020,5550,5700,5600
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",12/01/2020,5550,5700,5600
+"Uttar Pradesh","Gautam Budh Nagar",Dadri,"Arhar (Tur/Red Gram)(Whole)","Small (Whole)",13/01/2020,5550,5700,5600
+"Uttar Pradesh",Ghaziabad,Ghaziabad,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,5400,5600,5500
+"Uttar Pradesh",Ghaziabad,Ghaziabad,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,5450,5550,5500
+"Uttar Pradesh",Ghaziabad,Ghaziabad,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,5450,5550,5500
+"Uttar Pradesh",Ghaziabad,Ghaziabad,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,5450,5550,5500
+"Uttar Pradesh",Ghaziabad,Ghaziabad,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",05/01/2020,5400,5550,5475
+"Uttar Pradesh",Ghaziabad,Ghaziabad,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,5400,5500,5450
+"Uttar Pradesh",Ghaziabad,Ghaziabad,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,5500,5600,5550
+"Uttar Pradesh",Ghaziabad,Ghaziabad,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,5525,5625,5575
+"Uttar Pradesh",Ghaziabad,Ghaziabad,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,5525,5625,5575
+"Uttar Pradesh",Ghaziabad,Ghaziabad,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,5525,5625,5575
+"Uttar Pradesh",Ghaziabad,Ghaziabad,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",12/01/2020,5525,5625,5575
+"Uttar Pradesh",Ghaziabad,Ghaziabad,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,5530,5630,5580
+"Uttar Pradesh",Ghaziabad,Ghaziabad,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",15/01/2020,5600,5700,5650
+"Uttar Pradesh",Hamirpur,Muskara,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),02/01/2020,4840,5000,4950
+"Uttar Pradesh",Hamirpur,Muskara,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),03/01/2020,4880,5000,4940
+"Uttar Pradesh",Hamirpur,Muskara,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),04/01/2020,4890,5000,4950
+"Uttar Pradesh",Hamirpur,Muskara,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),05/01/2020,4880,5000,4950
+"Uttar Pradesh",Hamirpur,Muskara,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),07/01/2020,4880,5020,4960
+"Uttar Pradesh",Hamirpur,Muskara,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),08/01/2020,4950,5050,5000
+"Uttar Pradesh",Hamirpur,Muskara,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),09/01/2020,4950,5060,5000
+"Uttar Pradesh",Hamirpur,Muskara,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),10/01/2020,4940,5050,5000
+"Uttar Pradesh",Hamirpur,Muskara,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),11/01/2020,4950,5040,5000
+"Uttar Pradesh",Hamirpur,Muskara,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),12/01/2020,4950,5060,5020
+"Uttar Pradesh",Hamirpur,Muskara,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),14/01/2020,4960,5050,5000
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4900,5050,4950
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4900,5050,5000
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4900,5000,4950
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",05/01/2020,5000,5100,5050
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4800,4900,4850
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,4800,5000,4900
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4800,4900,4850
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4800,4900,4850
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,4800,4900,4850
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,4800,5000,4900
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",02/01/2020,7800,8050,7950
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",03/01/2020,4900,5050,4950
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",04/01/2020,7800,8050,7950
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",05/01/2020,7800,8000,7950
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",06/01/2020,7800,8050,7950
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",07/01/2020,7800,8150,7950
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",09/01/2020,7800,8100,7950
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",10/01/2020,7800,8100,7950
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",11/01/2020,7700,8050,7850
+"Uttar Pradesh",Hamirpur,Raath,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",13/01/2020,7700,8000,7850
+"Uttar Pradesh",Hathras,Haathras,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4000,4100,4051
+"Uttar Pradesh",Hathras,Haathras,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4000,4100,4050
+"Uttar Pradesh",Hathras,Haathras,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,4200,4250,4225
+"Uttar Pradesh",Hathras,Haathras,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,4100,4200,4150
+"Uttar Pradesh",Hathras,Haathras,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,3900,4100,4050
+"Uttar Pradesh",Hathras,Haathras,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,4000,4050,4025
+"Uttar Pradesh",Hathras,Haathras,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,4100,4300,4200
+"Uttar Pradesh",Hathras,Haathras,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,4200,4300,4250
+"Uttar Pradesh",Hathras,Haathras,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,4000,4100,4050
+"Uttar Pradesh",Hathras,Haathras,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",15/01/2020,4000,4400,4280
+"Uttar Pradesh",Jaunpur,Mugrabaadshahpur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",01/01/2020,8320,8360,8340
+"Uttar Pradesh",Jaunpur,Mugrabaadshahpur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",03/01/2020,8300,8360,8350
+"Uttar Pradesh",Jaunpur,Mugrabaadshahpur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",04/01/2020,8310,8360,8350
+"Uttar Pradesh",Jaunpur,Mugrabaadshahpur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",06/01/2020,8310,8360,8350
+"Uttar Pradesh",Jaunpur,Mugrabaadshahpur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",07/01/2020,8310,8370,8350
+"Uttar Pradesh",Jaunpur,Mugrabaadshahpur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",08/01/2020,8310,8370,8350
+"Uttar Pradesh",Jaunpur,Mugrabaadshahpur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",09/01/2020,8310,8370,8350
+"Uttar Pradesh",Jaunpur,Mugrabaadshahpur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",10/01/2020,7950,8050,8000
+"Uttar Pradesh",Jaunpur,Mugrabaadshahpur,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",13/01/2020,7850,8050,8000
+"Uttar Pradesh",Kanpur,Choubepur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,5165,5260,5210
+"Uttar Pradesh",Kanpur,Choubepur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,5170,5300,5240
+"Uttar Pradesh",Kanpur,Choubepur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,5180,5300,5240
+"Uttar Pradesh",Kanpur,Choubepur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,5380,5450,5400
+"Uttar Pradesh",Kanpur,Choubepur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,5370,5450,5400
+"Uttar Pradesh",Kanpur,Choubepur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,5375,5470,5420
+"Uttar Pradesh",Kanpur,Choubepur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,5200,5300,5250
+"Uttar Pradesh",Kanpur,Choubepur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,5230,5340,5280
+"Uttar Pradesh",Kanpur,Choubepur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,5100,5200,5150
+"Uttar Pradesh",Kanpur,Choubepur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,5125,5250,5170
+"Uttar Pradesh",Kanpur,Choubepur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,5180,5300,5240
+"Uttar Pradesh",Kanpur,Choubepur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",15/01/2020,5230,5300,5270
+"Uttar Pradesh",Kanpur,Jhijhank,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),02/01/2020,5200,5400,5350
+"Uttar Pradesh",Kanpur,Jhijhank,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),03/01/2020,5300,5400,5390
+"Uttar Pradesh",Kanpur,Jhijhank,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),04/01/2020,5200,5400,5360
+"Uttar Pradesh",Kanpur,Jhijhank,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),05/01/2020,5200,5400,5350
+"Uttar Pradesh",Kanpur,Jhijhank,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),07/01/2020,5200,5400,5380
+"Uttar Pradesh",Kanpur,Jhijhank,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),08/01/2020,5200,5400,5340
+"Uttar Pradesh",Kanpur,Jhijhank,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),09/01/2020,5200,5400,5320
+"Uttar Pradesh",Kanpur,Jhijhank,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),10/01/2020,5300,5500,5380
+"Uttar Pradesh",Kanpur,Jhijhank,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),11/01/2020,5100,5300,5260
+"Uttar Pradesh",Kanpur,Jhijhank,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),12/01/2020,5100,5300,5250
+"Uttar Pradesh",Kanpur,Jhijhank,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),13/01/2020,5100,5300,5250
+"Uttar Pradesh",Kanpur,Jhijhank,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),14/01/2020,5200,5400,5280
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,5200,5350,5300
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,5200,5300,5250
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,5100,5300,5200
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,5200,5350,5300
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,5300,5400,5350
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,5100,5250,5200
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,5100,5200,5150
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,5000,5200,5100
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,5000,5100,5050
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,5100,5250,5150
+"Uttar Pradesh",Kanpur,Kanpur(Grain),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,5100,5350,5200
+"Uttar Pradesh",Kanpur,Pukhrayan,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,4800,5100,4950
+"Uttar Pradesh",Kanpur,Pukhrayan,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",02/01/2020,4800,5000,4900
+"Uttar Pradesh",Kanpur,Pukhrayan,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",03/01/2020,4800,5200,5000
+"Uttar Pradesh",Kanpur,Pukhrayan,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,5000,5300,5100
+"Uttar Pradesh",Kanpur,Pukhrayan,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",05/01/2020,5000,5250,5150
+"Uttar Pradesh",Kanpur,Pukhrayan,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",07/01/2020,5000,5200,5100
+"Uttar Pradesh",Kanpur,Pukhrayan,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,5100,5300,5200
+"Uttar Pradesh",Kanpur,Pukhrayan,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,5000,5250,5150
+"Uttar Pradesh",Kanpur,Pukhrayan,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,5000,5220,5120
+"Uttar Pradesh",Kanpur,Pukhrayan,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,5000,5200,5100
+"Uttar Pradesh",Kanpur,Pukhrayan,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",12/01/2020,5000,5220,5120
+"Uttar Pradesh",Kanpur,Pukhrayan,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",14/01/2020,5100,5300,5200
+"Uttar Pradesh",Mahoba,Mahoba,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",01/01/2020,5075,5150,5110
+"Uttar Pradesh",Mahoba,Mahoba,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",04/01/2020,5100,5170,5125
+"Uttar Pradesh",Mahoba,Mahoba,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",06/01/2020,5140,5250,5175
+"Uttar Pradesh",Mahoba,Mahoba,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",08/01/2020,5165,5240,5200
+"Uttar Pradesh",Mahoba,Mahoba,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",09/01/2020,5125,5190,5165
+"Uttar Pradesh",Mahoba,Mahoba,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",10/01/2020,5080,5130,5110
+"Uttar Pradesh",Mahoba,Mahoba,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",11/01/2020,5050,5100,5085
+"Uttar Pradesh",Mahoba,Mahoba,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",12/01/2020,5040,5100,5070
+"Uttar Pradesh",Mahoba,Mahoba,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",13/01/2020,5060,5110,5080
+"Uttar Pradesh",Mahoba,Mahoba,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",15/01/2020,5000,5070,5025
+"Uttar Pradesh",Meerut,Meerut,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),01/01/2020,5420,6000,5500
+"Uttar Pradesh",Meerut,Meerut,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),03/01/2020,5500,6000,5500
+"Uttar Pradesh",Meerut,Meerut,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),04/01/2020,5500,6000,5510
+"Uttar Pradesh",Meerut,Meerut,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),07/01/2020,5500,6000,5600
+"Uttar Pradesh",Meerut,Meerut,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),08/01/2020,5620,6000,5700
+"Uttar Pradesh",Meerut,Meerut,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),10/01/2020,5625,6000,5750
+"Uttar Pradesh",Meerut,Meerut,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),11/01/2020,5625,6000,5765
+"Uttar Pradesh",Meerut,Meerut,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),13/01/2020,5650,6000,5800
+"Uttar Pradesh",Meerut,Meerut,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),14/01/2020,5650,6000,5800
+"Uttar Pradesh",Meerut,Meerut,"Arhar (Tur/Red Gram)(Whole)",Desi(Whole),15/01/2020,5650,7000,5810
+"West Bengal",Burdwan,Asansol,"Arhar (Tur/Red Gram)(Whole)",Other,01/01/2020,8200,8400,8300
+"West Bengal",Burdwan,Asansol,"Arhar (Tur/Red Gram)(Whole)",Other,02/01/2020,8200,8400,8300
+"West Bengal",Burdwan,Asansol,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,8220,8400,8300
+"West Bengal",Burdwan,Asansol,"Arhar (Tur/Red Gram)(Whole)",Other,04/01/2020,8220,8400,8300
+"West Bengal",Burdwan,Asansol,"Arhar (Tur/Red Gram)(Whole)",Other,05/01/2020,8200,8420,8300
+"West Bengal",Burdwan,Asansol,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,8200,8400,8300
+"West Bengal",Burdwan,Asansol,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,8220,8400,8300
+"West Bengal",Burdwan,Asansol,"Arhar (Tur/Red Gram)(Whole)",Other,08/01/2020,8220,8400,8300
+"West Bengal",Burdwan,Asansol,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,8220,8400,8300
+"West Bengal",Burdwan,Asansol,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,8200,8400,8300
+"West Bengal",Burdwan,Asansol,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,8220,8400,8300
+"West Bengal",Burdwan,Asansol,"Arhar (Tur/Red Gram)(Whole)",Other,12/01/2020,8220,8400,8300
+"West Bengal",Burdwan,Asansol,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,8220,8400,8300
+"West Bengal",Burdwan,Asansol,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,8200,8400,8300
+"West Bengal",Burdwan,Asansol,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,8200,8400,8300
+"West Bengal",Darjeeling,Siliguri,"Arhar (Tur/Red Gram)(Whole)",Other,03/01/2020,7500,8500,8000
+"West Bengal",Darjeeling,Siliguri,"Arhar (Tur/Red Gram)(Whole)",Other,06/01/2020,7500,8500,8000
+"West Bengal",Darjeeling,Siliguri,"Arhar (Tur/Red Gram)(Whole)",Other,07/01/2020,7500,8500,8000
+"West Bengal",Darjeeling,Siliguri,"Arhar (Tur/Red Gram)(Whole)",Other,09/01/2020,7500,8500,8000
+"West Bengal",Darjeeling,Siliguri,"Arhar (Tur/Red Gram)(Whole)",Other,10/01/2020,7500,8500,8000
+"West Bengal",Darjeeling,Siliguri,"Arhar (Tur/Red Gram)(Whole)",Other,11/01/2020,7500,8500,8000
+"West Bengal",Darjeeling,Siliguri,"Arhar (Tur/Red Gram)(Whole)",Other,13/01/2020,7500,8500,8000
+"West Bengal",Darjeeling,Siliguri,"Arhar (Tur/Red Gram)(Whole)",Other,14/01/2020,7500,8500,8000
+"West Bengal",Darjeeling,Siliguri,"Arhar (Tur/Red Gram)(Whole)",Other,15/01/2020,7500,8500,8000

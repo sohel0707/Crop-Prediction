@@ -1,0 +1,788 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Chattisgarh,Jashpur,Jaspur,"Ragi (Finger Millet)",Other,06/01/2021,2000,2000,2000
+Chattisgarh,Jashpur,Jaspur,"Ragi (Finger Millet)",Other,12/02/2021,2000,2000,2000
+Chattisgarh,Jashpur,Jaspur,"Ragi (Finger Millet)",Other,15/02/2021,2000,2000,2000
+Chattisgarh,Jashpur,Jaspur,"Ragi (Finger Millet)",Other,27/02/2021,2000,2000,2000
+Chattisgarh,Jashpur,Pathalgaon,"Ragi (Finger Millet)",Local,08/02/2021,2600,2600,2600
+Chattisgarh,Jashpur,Pathalgaon,"Ragi (Finger Millet)",Local,28/02/2021,2500,2500,2500
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,01/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,02/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,04/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,05/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,06/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,07/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,08/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,11/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,12/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,13/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,15/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,18/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,21/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,22/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,25/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,27/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,28/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,29/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,30/01/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,01/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,02/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,03/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,04/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,05/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,06/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,08/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,09/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,10/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,11/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,12/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,15/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,16/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,17/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,18/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,19/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,20/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,22/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,23/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,24/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,25/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,26/02/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,01/03/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,02/03/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,03/03/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,04/03/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,05/03/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,06/03/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,08/03/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,09/03/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Fine,10/03/2021,3100,3200,3150
+Karnataka,Bangalore,Bangalore,"Ragi (Finger Millet)",Medium,20/01/2021,3100,3200,3150
+Karnataka,Bellary,Bellary,"Ragi (Finger Millet)",Fine,04/01/2021,1911,1911,1911
+Karnataka,Bellary,Bellary,"Ragi (Finger Millet)",Fine,11/01/2021,1669,1669,1669
+Karnataka,Bellary,Bellary,"Ragi (Finger Millet)",Fine,12/01/2021,1701,1860,1778
+Karnataka,Bellary,Bellary,"Ragi (Finger Millet)",Fine,15/01/2021,1786,1786,1786
+Karnataka,Bellary,Bellary,"Ragi (Finger Millet)",Fine,29/01/2021,2021,2021,2021
+Karnataka,Bellary,Bellary,"Ragi (Finger Millet)",Fine,03/02/2021,1850,1850,1850
+Karnataka,Bellary,Bellary,"Ragi (Finger Millet)",Fine,05/02/2021,1600,1600,1600
+Karnataka,Bellary,Bellary,"Ragi (Finger Millet)",Fine,12/02/2021,1921,1921,1921
+Karnataka,Bellary,Bellary,"Ragi (Finger Millet)",Fine,22/02/2021,2052,2052,2052
+Karnataka,Bellary,Bellary,"Ragi (Finger Millet)",Fine,08/03/2021,2175,2175,2175
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,01/01/2021,2100,2221,2159
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,02/01/2021,1900,2111,2088
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,04/01/2021,2000,2266,2184
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,05/01/2021,2071,2171,2135
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,06/01/2021,2073,2161,2126
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,07/01/2021,1849,2216,2106
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,08/01/2021,1713,2189,2095
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,09/01/2021,2063,2103,2090
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,11/01/2021,2021,2231,2129
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,12/01/2021,2116,2163,2142
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,13/01/2021,2069,2176,2160
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,15/01/2021,2050,2211,2150
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,16/01/2021,2111,2151,2142
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,18/01/2021,1741,2385,2097
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,19/01/2021,2069,2166,2131
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,20/01/2021,2151,2189,2176
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,21/01/2021,1956,2401,2192
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,22/01/2021,2080,2258,2189
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,23/01/2021,2119,2260,2164
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,25/01/2021,2120,2325,2211
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,27/01/2021,2189,2281,2257
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,28/01/2021,2231,2351,2301
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,29/01/2021,2151,2325,2289
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,30/01/2021,2051,2411,2361
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,01/02/2021,2251,2321,2292
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,02/02/2021,2156,2421,2307
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,03/02/2021,2156,2323,2282
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,04/02/2021,2111,2341,2248
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,05/02/2021,2185,2461,2329
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,06/02/2021,2276,2289,2282
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,08/02/2021,2069,2463,2262
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,09/02/2021,2121,2315,2297
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,10/02/2021,2251,2316,2294
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,11/02/2021,2069,2365,2321
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,12/02/2021,2231,2355,2319
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,13/02/2021,2183,2569,2311
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,15/02/2021,2231,2569,2366
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,16/02/2021,2155,2281,2260
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,17/02/2021,2267,2301,2283
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,18/02/2021,2261,2461,2352
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,19/02/2021,2201,2321,2292
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,20/02/2021,2265,2321,2299
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,22/02/2021,2271,2511,2351
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,23/02/2021,2286,2471,2408
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,24/02/2021,2291,2315,2309
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,25/02/2021,2286,2512,2359
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,26/02/2021,2229,2521,2359
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,27/02/2021,2351,2504,2486
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,01/03/2021,2287,2512,2391
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,02/03/2021,2271,2479,2408
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,03/03/2021,2336,2456,2419
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,04/03/2021,2381,2522,2473
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,05/03/2021,2412,2556,2502
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,09/03/2021,2483,2483,2483
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,10/03/2021,2501,2501,2501
+Karnataka,Chikmagalur,Bagepalli,"Ragi (Finger Millet)",Local,03/03/2021,1900,2200,2000
+Karnataka,Chikmagalur,Kadur,"Ragi (Finger Millet)",Red,19/01/2021,2000,2000,2000
+Karnataka,Chikmagalur,Kadur,"Ragi (Finger Millet)",Red,06/02/2021,1700,1700,1700
+Karnataka,Chitradurga,Holalkere,"Ragi (Finger Millet)",Red,26/02/2021,3150,3150,3150
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,02/01/2021,1820,1820,1820
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,06/02/2021,2250,2480,2360
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,08/02/2021,2450,2490,2470
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,11/02/2021,2500,2500,2500
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,17/02/2021,2400,2560,2480
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,18/02/2021,2460,2460,2460
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,20/02/2021,2450,2450,2450
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,22/02/2021,1800,1800,1800
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,23/02/2021,2380,2380,2380
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,24/02/2021,2400,2500,2490
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,01/03/2021,2006,2430,2210
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,02/03/2021,2200,2430,2310
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,03/03/2021,2450,2450,2450
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,04/03/2021,2420,2420,2420
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,05/03/2021,2450,2450,2450
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,09/03/2021,2505,2505,2505
+Karnataka,Davangere,Davangere,"Ragi (Finger Millet)",Local,10/03/2021,2480,2510,2500
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,12/01/2021,2150,2175,2150
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,13/01/2021,2400,2400,2400
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,18/01/2021,2200,2300,2240
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,22/01/2021,2200,2400,2285
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,27/01/2021,2400,2400,2400
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,29/01/2021,2380,2425,2400
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,01/02/2021,2300,2300,2300
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,03/02/2021,2415,2440,2425
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,04/02/2021,2400,2400,2400
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,05/02/2021,2200,2200,2200
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,06/02/2021,2400,2400,2400
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,08/02/2021,2180,2500,2320
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,11/02/2021,2425,2425,2425
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,15/02/2021,2100,2180,2145
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,16/02/2021,2400,2400,2400
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,17/02/2021,2400,2400,2400
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,19/02/2021,2350,2430,2400
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,20/02/2021,2200,2400,2300
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,22/02/2021,2180,2180,2180
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,24/02/2021,2150,2450,2255
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,25/02/2021,2250,2450,2330
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,26/02/2021,2500,2500,2500
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,27/02/2021,2225,2250,2235
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,01/03/2021,2000,2255,2200
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,02/03/2021,2160,2250,2200
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,03/03/2021,2250,2320,2300
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,04/03/2021,2300,2450,2380
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,09/03/2021,2000,2200,2166
+Karnataka,Davangere,"Harappana Halli","Ragi (Finger Millet)",Local,10/03/2021,2400,2475,2433
+Karnataka,Gadag,Gadag,"Ragi (Finger Millet)",Local,02/01/2021,804,804,804
+Karnataka,Gadag,Gadag,"Ragi (Finger Millet)",Local,18/01/2021,1024,1024,1024
+Karnataka,Gadag,Gadag,"Ragi (Finger Millet)",Local,20/01/2021,1089,1089,1089
+Karnataka,Gadag,Gadag,"Ragi (Finger Millet)",Local,25/01/2021,904,904,904
+Karnataka,Gadag,Gadag,"Ragi (Finger Millet)",Local,27/01/2021,1027,1027,1027
+Karnataka,Gadag,Gadag,"Ragi (Finger Millet)",Local,10/02/2021,1029,1029,1029
+Karnataka,Gadag,Gadag,"Ragi (Finger Millet)",Local,20/02/2021,1011,1011,1011
+Karnataka,Gadag,Gadag,"Ragi (Finger Millet)",Local,25/02/2021,859,859,859
+Karnataka,Hassan,Arakalgud,"Ragi (Finger Millet)",Local,07/01/2021,2500,2500,2500
+Karnataka,Hassan,Arakalgud,"Ragi (Finger Millet)",Local,29/01/2021,2600,2600,2600
+Karnataka,Hassan,Arakalgud,"Ragi (Finger Millet)",Local,03/02/2021,2500,2500,2500
+Karnataka,Hassan,Arakalgud,"Ragi (Finger Millet)",Local,18/02/2021,1950,1950,1950
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,04/02/2021,2000,2000,2000
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,24/02/2021,2100,2100,2100
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,01/03/2021,1850,1850,1850
+Karnataka,Hassan,Belur,"Ragi (Finger Millet)",Fine,16/02/2021,2000,2000,2000
+Karnataka,Hassan,Channarayapatna,"Ragi (Finger Millet)",Fine,11/01/2021,1986,1986,1986
+Karnataka,Hassan,Channarayapatna,"Ragi (Finger Millet)",Fine,22/01/2021,2100,2100,2100
+Karnataka,Hassan,Channarayapatna,"Ragi (Finger Millet)",Fine,08/02/2021,2500,2500,2500
+Karnataka,Hassan,Channarayapatna,"Ragi (Finger Millet)",Local,12/01/2021,2500,2500,2500
+Karnataka,Hassan,Channarayapatna,"Ragi (Finger Millet)",Local,15/01/2021,2483,2483,2483
+Karnataka,Hassan,Hassan,"Ragi (Finger Millet)",Other,06/01/2021,2250,2250,2250
+Karnataka,Hassan,Hassan,"Ragi (Finger Millet)",Other,13/01/2021,1800,2255,2150
+Karnataka,Hassan,Hassan,"Ragi (Finger Millet)",Other,22/01/2021,2000,2390,2390
+Karnataka,Hassan,Hassan,"Ragi (Finger Millet)",Other,06/02/2021,2400,2400,2400
+Karnataka,Hassan,Holenarsipura,"Ragi (Finger Millet)",Local,27/01/2021,1900,1900,1900
+Karnataka,Hassan,Holenarsipura,"Ragi (Finger Millet)",Local,12/02/2021,2200,2200,2200
+Karnataka,Hassan,Holenarsipura,"Ragi (Finger Millet)",Local,15/02/2021,2000,2200,2000
+Karnataka,Hassan,Holenarsipura,"Ragi (Finger Millet)",Local,16/02/2021,2100,2200,2100
+Karnataka,Haveri,Haveri,"Ragi (Finger Millet)",Medium,15/01/2021,1500,1500,1500
+Karnataka,Haveri,Haveri,"Ragi (Finger Millet)",Medium,21/01/2021,1400,1400,1400
+Karnataka,Haveri,Haveri,"Ragi (Finger Millet)",Medium,30/01/2021,1400,1400,1400
+Karnataka,Haveri,Haveri,"Ragi (Finger Millet)",Medium,08/02/2021,1400,1500,1450
+Karnataka,Haveri,Haveri,"Ragi (Finger Millet)",Medium,11/02/2021,1400,1400,1400
+Karnataka,Haveri,Haveri,"Ragi (Finger Millet)",Medium,18/02/2021,1400,2000,1600
+Karnataka,Haveri,Haveri,"Ragi (Finger Millet)",Medium,25/02/2021,1500,1500,1500
+Karnataka,Haveri,Haveri,"Ragi (Finger Millet)",Medium,08/03/2021,1340,1600,1400
+Karnataka,Kolar,Bangarpet,"Ragi (Finger Millet)",Fine,19/02/2021,2320,2500,2400
+Karnataka,Kolar,Bangarpet,"Ragi (Finger Millet)",Local,05/02/2021,2200,2500,2300
+Karnataka,Kolar,Bangarpet,"Ragi (Finger Millet)",Local,16/02/2021,2100,2500,2300
+Karnataka,Kolar,Bangarpet,"Ragi (Finger Millet)",Local,22/02/2021,2320,2500,2400
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,04/01/2021,1900,2150,2000
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,11/01/2021,1900,2100,2000
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,18/01/2021,1900,2150,2000
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,19/01/2021,1900,2150,2000
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,25/01/2021,2000,2300,2150
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,26/01/2021,2000,2350,2200
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,01/02/2021,2000,2200,2100
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,08/02/2021,2000,2500,2200
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,11/02/2021,2000,2200,2100
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,15/02/2021,2000,2300,2100
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,16/02/2021,2000,2300,2150
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,22/02/2021,2000,2300,2200
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,23/02/2021,2000,2300,2200
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,24/02/2021,2000,2300,2200
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,01/03/2021,2000,2300,2200
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,08/03/2021,2100,2400,2300
+Karnataka,Kolar,Chintamani,"Ragi (Finger Millet)",Local,09/03/2021,2100,2400,2300
+Karnataka,Kolar,Malur,"Ragi (Finger Millet)",Local,15/01/2021,2800,3200,3000
+Karnataka,Mandya,Mandya,"Ragi (Finger Millet)",Local,08/02/2021,2750,2750,2750
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,01/01/2021,2600,2600,2600
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,03/01/2021,2300,2300,2300
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,06/01/2021,2400,2400,2400
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,07/01/2021,2000,2600,2600
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,08/01/2021,2300,2300,2300
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,12/01/2021,2197,2197,2197
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,14/01/2021,2600,2625,2625
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,19/01/2021,2200,2200,2200
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,22/01/2021,2600,2600,2600
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,29/01/2021,2250,2250,2250
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,31/01/2021,2200,2200,2200
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,02/02/2021,2200,2200,2200
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,04/02/2021,1990,1990,1990
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,05/02/2021,2200,2200,2200
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,10/02/2021,2200,2200,2200
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,12/02/2021,2500,2650,2650
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,19/02/2021,2600,2600,2600
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,22/02/2021,2400,2400,2400
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,24/02/2021,2300,2300,2300
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,03/03/2021,2800,2800,2800
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,05/03/2021,2600,2600,2600
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,01/01/2021,2070,2200,2144
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,02/01/2021,2075,2170,2080
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,05/01/2021,1820,2220,2065
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,06/01/2021,2118,2279,2120
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,07/01/2021,2076,2232,2100
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,08/01/2021,2164,2320,2170
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,09/01/2021,2156,2809,2160
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,11/01/2021,2163,2335,2190
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,12/01/2021,2029,2279,2184
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,13/01/2021,2109,2340,2215
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,15/01/2021,1979,2255,2120
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,16/01/2021,2035,2340,2205
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,19/01/2021,2115,2360,2183
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,20/01/2021,2215,2350,2250
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,21/01/2021,2198,2376,2200
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,22/01/2021,1909,2232,2174
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,23/01/2021,1855,2402,2228
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,25/01/2021,2161,2502,2278
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,29/01/2021,2139,2430,2242
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,01/02/2021,2070,2200,2167
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,02/02/2021,1919,2358,2210
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,03/02/2021,2146,2381,2200
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,04/02/2021,2063,2450,2276
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,05/02/2021,2101,2349,2154
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,06/02/2021,2161,2669,2397
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,08/02/2021,2008,2511,2349
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,09/02/2021,2190,2556,2366
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,11/02/2021,2201,2565,2371
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,13/02/2021,2250,2460,2324
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,16/02/2021,2179,2480,2351
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,17/02/2021,2149,2429,2333
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,18/02/2021,2150,2439,2321
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,20/02/2021,2101,2470,2351
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,22/02/2021,2206,2451,2368
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,23/02/2021,2201,2404,2379
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,24/02/2021,2053,2457,2321
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,25/02/2021,2142,2436,2327
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,26/02/2021,1902,2258,2177
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,27/02/2021,2258,2305,2298
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,01/03/2021,2319,2529,2398
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,02/03/2021,2360,2601,2527
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,03/03/2021,2200,2650,2533
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,04/03/2021,2200,2651,2533
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,05/03/2021,2451,2601,2527
+Karnataka,Mysore,"Mysore (Bandipalya)","Ragi (Finger Millet)",Local,06/03/2021,2410,2651,2520
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,01/01/2021,2500,2700,2600
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,02/01/2021,2500,2700,2600
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,04/01/2021,2500,2700,2600
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,05/01/2021,2500,2700,2600
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,06/01/2021,2500,2700,2600
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,07/01/2021,2500,2700,2600
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,08/01/2021,2500,2700,2600
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,11/01/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,12/01/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,15/01/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,16/01/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,18/01/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,19/01/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,20/01/2021,5000,12000,10000
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,21/01/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,22/01/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,25/01/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,27/01/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,28/01/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,29/01/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,30/01/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,01/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,02/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,03/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,04/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,05/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,06/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,08/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,10/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,11/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,12/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,15/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,16/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,18/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,19/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,20/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,22/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,23/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,24/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,25/02/2021,2800,3100,2950
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,01/03/2021,3000,3200,3100
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,02/03/2021,3000,3200,3100
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,03/03/2021,3000,3200,3100
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,04/03/2021,3000,3200,3100
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,06/03/2021,3000,3200,3100
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,08/03/2021,3000,3200,3100
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,09/03/2021,3000,3200,3100
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,10/03/2021,3000,3200,3100
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)","Feeds (Poultry Quality)",10/02/2021,2000,2000,2000
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)","Feeds (Poultry Quality)",15/02/2021,1800,1800,1800
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)",Local,04/01/2021,2000,2200,2000
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)",Local,11/01/2021,1700,2200,2200
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)",Local,18/01/2021,2000,2800,2200
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)",Local,20/01/2021,2000,2000,2000
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)",Local,25/01/2021,2000,2200,2200
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)",Local,28/01/2021,2200,2200,2200
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)",Local,01/02/2021,2000,2000,2000
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)",Local,05/02/2021,2000,2000,2000
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)",Local,08/02/2021,2200,2500,2200
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)",Local,10/02/2021,2100,2100,2100
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)",Local,15/02/2021,2000,2000,2000
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)",Local,17/02/2021,2300,2300,2300
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)",Local,22/02/2021,2000,2600,2000
+Karnataka,Tumkur,Gubbi,"Ragi (Finger Millet)",Local,08/03/2021,2000,2600,2100
+Karnataka,Tumkur,Huliyar,"Ragi (Finger Millet)",Local,05/02/2021,1950,2000,1950
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,13/01/2021,1800,2500,2300
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,02/02/2021,2200,2600,2500
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,05/02/2021,1800,2500,2000
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,03/03/2021,2000,2800,2500
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,01/01/2021,1600,2800,2200
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,05/01/2021,1650,2820,2150
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,08/01/2021,1600,2800,1850
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,22/01/2021,1600,2800,2100
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,28/01/2021,1600,2850,2200
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,29/01/2021,1650,2800,2100
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,30/01/2021,1600,2800,2200
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,02/02/2021,1600,2750,2100
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,04/02/2021,1650,2850,2200
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,05/02/2021,1700,2850,2450
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,09/02/2021,1600,2800,2400
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,10/02/2021,1650,2800,2200
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,11/02/2021,1800,2800,2400
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,12/02/2021,1600,2800,2200
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,15/02/2021,1650,2800,2400
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,16/02/2021,1600,2780,2350
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,17/02/2021,1580,2800,2400
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,18/02/2021,1500,2800,2400
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,22/02/2021,1650,2800,2050
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,08/03/2021,1500,3200,2400
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,01/01/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,02/01/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,04/01/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,05/01/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,06/01/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,14/01/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,15/01/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,16/01/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,18/01/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,19/01/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,21/01/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,22/01/2021,3300,3450,3400
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,23/01/2021,3300,3450,3400
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,25/01/2021,3300,3450,3400
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,27/01/2021,3300,3450,3400
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,28/01/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,29/01/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,30/01/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,01/02/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,02/02/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,03/02/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,04/02/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,05/02/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,06/02/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,09/02/2021,3300,3500,3425
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,10/02/2021,3300,3500,3425
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,11/02/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,12/02/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,13/02/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,15/02/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,16/02/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,17/02/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,18/02/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,20/02/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,22/02/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,23/02/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,24/02/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,25/02/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,27/02/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,01/03/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,02/03/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,03/03/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,04/03/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,05/03/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,06/03/2021,3300,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,08/03/2021,3350,3550,3500
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,09/03/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,10/03/2021,3350,3500,3450
+Maharashtra,Pune,Pune,"Ragi (Finger Millet)",Other,11/03/2021,3350,3500,3450
+Maharashtra,Raigad,Mangaon,"Ragi (Finger Millet)",Other,16/02/2021,2000,4000,3500
+Pondicherry,Pondicherry,Madagadipet,"Ragi (Finger Millet)",Other,02/02/2021,2260,2260,2260
+Pondicherry,Pondicherry,Madagadipet,"Ragi (Finger Millet)",Other,24/02/2021,2329,2329,2329
+Pondicherry,Pondicherry,Thattanchavady,"Ragi (Finger Millet)",Other,09/02/2021,2347,2367,2357
+Pondicherry,Pondicherry,Thattanchavady,"Ragi (Finger Millet)",Other,10/02/2021,1847,2400,2123
+Pondicherry,Pondicherry,Thattanchavady,"Ragi (Finger Millet)",Other,11/02/2021,2070,2320,2195
+Pondicherry,Pondicherry,Thattanchavady,"Ragi (Finger Millet)",Other,12/02/2021,2227,2227,2227
+Pondicherry,Pondicherry,Thattanchavady,"Ragi (Finger Millet)",Other,15/02/2021,2297,2340,2318
+Pondicherry,Pondicherry,Thattanchavady,"Ragi (Finger Millet)",Other,16/02/2021,2369,2369,2369
+Pondicherry,Pondicherry,Thattanchavady,"Ragi (Finger Millet)",Other,17/02/2021,2110,2350,2230
+Pondicherry,Pondicherry,Thattanchavady,"Ragi (Finger Millet)",Other,19/02/2021,2010,2250,2130
+Pondicherry,Pondicherry,Thattanchavady,"Ragi (Finger Millet)",Other,23/02/2021,2170,2440,2305
+"Tamil Nadu",Coimbatore,Thiruppur,"Ragi (Finger Millet)",Other,03/02/2021,2200,2400,2300
+"Tamil Nadu",Cuddalore,Cuddalore,"Ragi (Finger Millet)",Other,08/02/2021,2268,2268,2268
+"Tamil Nadu",Cuddalore,Cuddalore,"Ragi (Finger Millet)",Other,11/02/2021,2376,2376,2376
+"Tamil Nadu",Cuddalore,Virudhachalam,"Ragi (Finger Millet)",Other,17/02/2021,1711,2666,2656
+"Tamil Nadu",Namakkal,Namagiripettai,"Ragi (Finger Millet)",Other,04/01/2021,3600,4000,3800
+"Tamil Nadu",Namakkal,Namagiripettai,"Ragi (Finger Millet)",Other,06/01/2021,3600,4000,3800
+"Tamil Nadu",Namakkal,Namagiripettai,"Ragi (Finger Millet)",Other,03/02/2021,3500,3900,3750
+"Tamil Nadu",Namakkal,Namagiripettai,"Ragi (Finger Millet)",Other,19/02/2021,3700,4000,3850
+"Tamil Nadu",Namakkal,Namagiripettai,"Ragi (Finger Millet)",Other,22/02/2021,3600,4000,3750
+"Tamil Nadu",Namakkal,Namagiripettai,"Ragi (Finger Millet)",Other,23/02/2021,3600,4000,3800
+"Tamil Nadu",Namakkal,Namagiripettai,"Ragi (Finger Millet)",Other,24/02/2021,3700,4000,3850
+"Tamil Nadu",Namakkal,Namagiripettai,"Ragi (Finger Millet)",Other,27/02/2021,3600,4000,3800
+"Tamil Nadu",Namakkal,Namagiripettai,"Ragi (Finger Millet)",Other,01/03/2021,3600,4000,3800
+"Tamil Nadu",Namakkal,Namagiripettai,"Ragi (Finger Millet)",Other,02/03/2021,3600,4000,3900
+"Tamil Nadu",Namakkal,Namakkal,"Ragi (Finger Millet)",Other,11/01/2021,3600,3900,3700
+"Tamil Nadu",Namakkal,Namakkal,"Ragi (Finger Millet)",Other,13/01/2021,3600,3900,3700
+"Tamil Nadu",Namakkal,Namakkal,"Ragi (Finger Millet)",Other,22/01/2021,3600,3800,3700
+"Tamil Nadu",Namakkal,Namakkal,"Ragi (Finger Millet)",Other,27/01/2021,3600,3900,3750
+"Tamil Nadu",Namakkal,Namakkal,"Ragi (Finger Millet)",Other,08/02/2021,3600,4000,3850
+"Tamil Nadu",Namakkal,Namakkal,"Ragi (Finger Millet)",Other,17/02/2021,3600,3800,3700
+"Tamil Nadu",Namakkal,Namakkal,"Ragi (Finger Millet)",Other,23/02/2021,3600,3900,3800
+"Tamil Nadu",Namakkal,Rasipuram,"Ragi (Finger Millet)",Other,06/01/2021,3600,4000,3800
+"Tamil Nadu",Namakkal,Rasipuram,"Ragi (Finger Millet)",Other,27/01/2021,3600,3900,3750
+"Tamil Nadu",Namakkal,Rasipuram,"Ragi (Finger Millet)",Other,29/01/2021,3600,3900,3750
+"Tamil Nadu",Namakkal,Rasipuram,"Ragi (Finger Millet)",Other,09/02/2021,3600,3900,3750
+"Tamil Nadu",Namakkal,Rasipuram,"Ragi (Finger Millet)",Other,23/02/2021,3600,3900,3800
+"Tamil Nadu",Namakkal,Rasipuram,"Ragi (Finger Millet)",Other,24/02/2021,3600,3900,3800
+"Tamil Nadu",Namakkal,Tiruchengode,"Ragi (Finger Millet)",Other,29/01/2021,3600,4000,3700
+"Tamil Nadu",Namakkal,Tiruchengode,"Ragi (Finger Millet)",Other,03/02/2021,2500,3000,2800
+"Tamil Nadu",Namakkal,Tiruchengode,"Ragi (Finger Millet)",Other,25/02/2021,3700,4000,3800
+"Tamil Nadu",Namakkal,Tiruchengode,"Ragi (Finger Millet)",Other,08/03/2021,3600,4000,3750
+"Tamil Nadu",Salem,Attur,"Ragi (Finger Millet)",Other,19/01/2021,2000,2100,2050
+"Tamil Nadu",Salem,Attur,"Ragi (Finger Millet)",Other,18/02/2021,1390,1420,1400
+"Tamil Nadu",Salem,Gangavalli,"Ragi (Finger Millet)",Other,02/01/2021,3700,3900,3800
+"Tamil Nadu",Salem,Kolathur,"Ragi (Finger Millet)",Other,04/01/2021,3400,3600,3500
+"Tamil Nadu",Salem,Kolathur,"Ragi (Finger Millet)",Other,05/01/2021,3400,3600,3500
+"Tamil Nadu",Salem,Kolathur,"Ragi (Finger Millet)",Other,06/01/2021,3400,3600,3500
+"Tamil Nadu",Salem,Kolathur,"Ragi (Finger Millet)",Other,07/01/2021,3400,3600,3500
+"Tamil Nadu",Salem,Kolathur,"Ragi (Finger Millet)",Other,08/01/2021,3400,3600,3500
+"Tamil Nadu",Salem,Kolathur,"Ragi (Finger Millet)",Other,22/01/2021,2700,2800,2750
+"Tamil Nadu",Salem,Kolathur,"Ragi (Finger Millet)",Other,23/01/2021,2700,2800,2750
+"Tamil Nadu",Salem,Kolathur,"Ragi (Finger Millet)",Other,25/01/2021,2700,2800,2750
+"Tamil Nadu",Salem,Kolathur,"Ragi (Finger Millet)",Other,27/01/2021,2700,2800,2750
+"Tamil Nadu",Salem,Kolathur,"Ragi (Finger Millet)",Other,29/01/2021,2700,2800,2750
+"Tamil Nadu",Salem,Kolathur,"Ragi (Finger Millet)",Other,03/02/2021,2600,2800,2700
+"Tamil Nadu",Salem,Kolathur,"Ragi (Finger Millet)",Other,04/02/2021,2600,2800,2700
+"Tamil Nadu",Salem,Kolathur,"Ragi (Finger Millet)",Other,05/02/2021,2600,2800,2700
+"Tamil Nadu",Salem,Kolathur,"Ragi (Finger Millet)",Other,16/02/2021,2600,2800,2700
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,02/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,04/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,05/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,07/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,08/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,11/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,12/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,13/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,18/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,19/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,20/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,21/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,22/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,23/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,25/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,27/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,29/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,30/01/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,01/02/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,03/02/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,04/02/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,06/02/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,08/02/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,09/02/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,10/02/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,11/02/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,12/02/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,13/02/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,15/02/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,19/02/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,02/03/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,03/03/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,04/03/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,05/03/2021,3600,4000,3800
+"Tamil Nadu",Salem,Konganapuram,"Ragi (Finger Millet)",Other,09/03/2021,3600,4000,3800
+"Tamil Nadu",Salem,Omalur,"Ragi (Finger Millet)",Other,12/01/2021,3600,3740,3642
+"Tamil Nadu",Salem,Omalur,"Ragi (Finger Millet)",Other,27/01/2021,3600,3840,3698
+"Tamil Nadu",Salem,Salem,"Ragi (Finger Millet)",Other,04/01/2021,2250,2350,2300
+"Tamil Nadu",Salem,Salem,"Ragi (Finger Millet)",Other,06/01/2021,2200,2400,2325
+"Tamil Nadu",Salem,Salem,"Ragi (Finger Millet)",Other,08/01/2021,2100,2395,2245
+"Tamil Nadu",Salem,Salem,"Ragi (Finger Millet)",Other,12/01/2021,2000,2460,2240
+"Tamil Nadu",Salem,Salem,"Ragi (Finger Millet)",Other,27/01/2021,2100,2250,2175
+"Tamil Nadu",Salem,Salem,"Ragi (Finger Millet)",Other,02/02/2021,2100,2400,2310
+"Tamil Nadu",Salem,Salem,"Ragi (Finger Millet)",Other,11/02/2021,2000,2260,2140
+"Tamil Nadu",Salem,Salem,"Ragi (Finger Millet)",Other,22/02/2021,2400,2680,2510
+"Tamil Nadu",Salem,Salem,"Ragi (Finger Millet)",Other,23/02/2021,2400,2680,2510
+"Tamil Nadu",Salem,Salem,"Ragi (Finger Millet)",Other,24/02/2021,2460,2700,2500
+"Tamil Nadu",Salem,Salem,"Ragi (Finger Millet)",Other,01/03/2021,2200,2450,2400
+"Tamil Nadu",Salem,Salem,"Ragi (Finger Millet)",Other,09/03/2021,2000,2590,2380
+"Tamil Nadu",Salem,Thammampati,"Ragi (Finger Millet)",Other,05/01/2021,3700,3900,3800
+"Tamil Nadu",Salem,Thammampati,"Ragi (Finger Millet)",Other,11/01/2021,3700,3900,3800
+"Tamil Nadu",Salem,Thammampati,"Ragi (Finger Millet)",Other,12/01/2021,3700,3900,3800
+"Tamil Nadu",Salem,Thammampati,"Ragi (Finger Millet)",Other,25/01/2021,3700,3900,3800
+"Tamil Nadu",Salem,Thammampati,"Ragi (Finger Millet)",Other,27/01/2021,3700,3900,3800
+"Tamil Nadu",Salem,Thammampati,"Ragi (Finger Millet)",Other,30/01/2021,3700,3900,3800
+"Tamil Nadu",Salem,Thammampati,"Ragi (Finger Millet)",Other,03/02/2021,3500,3700,3600
+"Tamil Nadu",Salem,Thammampati,"Ragi (Finger Millet)",Other,12/02/2021,3500,3700,3600
+"Tamil Nadu",Salem,Thammampati,"Ragi (Finger Millet)",Other,09/03/2021,3500,3700,3600
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,04/01/2021,2913,2913,2913
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,06/01/2021,2300,2500,2400
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,08/01/2021,2875,2875,2875
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,11/01/2021,2319,2620,2500
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,12/01/2021,3130,3130,3130
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,13/01/2021,2265,2265,2265
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,18/01/2021,2733,3140,3000
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,19/01/2021,2612,2800,2800
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,20/01/2021,2750,2750,2750
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,21/01/2021,2710,3051,2800
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,25/01/2021,3060,3060,3060
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,27/01/2021,2401,2905,2800
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,29/01/2021,2236,2318,2300
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,01/02/2021,2210,3070,2800
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,02/02/2021,1669,1669,1669
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,03/02/2021,2200,2810,2700
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,04/02/2021,1900,2930,2800
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,05/02/2021,2410,2750,2600
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,08/02/2021,2660,2860,2800
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,09/02/2021,2720,2720,2720
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,10/02/2021,1832,2725,2500
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,11/02/2021,2460,2460,2460
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,12/02/2021,2860,2860,2860
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,15/02/2021,2500,2700,2700
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,16/02/2021,2510,2720,2600
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,18/02/2021,1982,3102,3000
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,23/02/2021,2301,2301,2301
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,24/02/2021,2385,2975,2800
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,25/02/2021,2410,2610,2500
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,26/02/2021,2151,2733,2600
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,01/03/2021,2650,2863,2800
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,02/03/2021,2631,2912,2800
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,03/03/2021,2610,2740,2700
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,04/03/2021,2121,2870,2800
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,08/03/2021,2051,2910,2800
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,09/03/2021,2620,2620,2620
+"Tamil Nadu",Vellore,Vellore,"Ragi (Finger Millet)",Other,10/03/2021,2410,2777,2700
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,04/01/2021,2910,2928,2919
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,05/01/2021,2214,2216,2215
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,07/01/2021,2308,2310,2309
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,08/01/2021,2269,2269,2269
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,11/01/2021,2910,2934,2922
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,12/01/2021,2133,2273,2203
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,13/01/2021,1348,1350,1349
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,18/01/2021,2029,2156,2093
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,19/01/2021,2169,2369,2269
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,20/01/2021,2113,2529,2321
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,21/01/2021,2199,2379,2289
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,25/01/2021,2071,2317,2194
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,27/01/2021,2071,2317,2194
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,29/01/2021,2073,2393,2233
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,02/02/2021,1959,2349,2154
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,03/02/2021,2089,2193,2141
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,04/02/2021,2029,2307,2168
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,05/02/2021,3019,3201,3110
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,08/02/2021,2849,2961,2905
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,09/02/2021,2093,2233,2163
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,10/02/2021,1933,2369,2151
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,17/02/2021,2217,2381,2299
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,18/02/2021,2043,2296,2170
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,22/02/2021,1943,2389,2136
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,23/02/2021,2188,2190,2189
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,25/02/2021,2289,2289,2289
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,01/03/2021,1212,2313,1763
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,02/03/2021,2011,2333,2172
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,03/03/2021,2129,2239,2184
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,04/03/2021,2213,2309,2261
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,05/03/2021,2189,2319,2254
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,08/03/2021,2259,2453,2356
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,09/03/2021,2469,2479,2479
+"Tamil Nadu",Villupuram,Gingee,"Ragi (Finger Millet)",Other,10/03/2021,2259,2453,2356
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,05/01/2021,2319,2319,2319
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,11/01/2021,2469,2469,2469
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,25/01/2021,2369,2369,2369
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,29/01/2021,2099,2479,2289
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,03/02/2021,2399,2489,2444
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,04/02/2021,2229,2570,2375
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,05/02/2021,2099,2369,2234
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,08/02/2021,2469,2469,2469
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,09/02/2021,2019,2399,2209
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,10/02/2021,2109,2300,2205
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,11/02/2021,2049,2299,2174
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,15/02/2021,1719,2399,2059
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,17/02/2021,1899,1899,1899
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,18/02/2021,1769,1769,1769
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,25/02/2021,2199,2299,2249
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,26/02/2021,2259,2259,2259
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,09/03/2021,2703,2703,2703
+"Tamil Nadu",Villupuram,Kallakurichi,"Ragi (Finger Millet)",Other,10/03/2021,2499,2499,2499
+"Tamil Nadu",Villupuram,Manalurpet,"Ragi (Finger Millet)",Other,08/01/2021,1839,1839,1839
+"Tamil Nadu",Villupuram,Manalurpet,"Ragi (Finger Millet)",Other,11/01/2021,2003,2003,2003
+"Tamil Nadu",Villupuram,Manalurpet,"Ragi (Finger Millet)",Other,18/01/2021,2049,2049,2049
+"Tamil Nadu",Villupuram,Manalurpet,"Ragi (Finger Millet)",Other,22/01/2021,2219,2219,2219
+"Tamil Nadu",Villupuram,Manalurpet,"Ragi (Finger Millet)",Other,27/01/2021,1929,2029,1979
+"Tamil Nadu",Villupuram,Manalurpet,"Ragi (Finger Millet)",Other,04/02/2021,1344,1344,1344
+"Tamil Nadu",Villupuram,Manalurpet,"Ragi (Finger Millet)",Other,08/02/2021,2025,2031,2028
+"Tamil Nadu",Villupuram,Manalurpet,"Ragi (Finger Millet)",Other,22/02/2021,2109,2229,2169
+"Tamil Nadu",Villupuram,Manalurpet,"Ragi (Finger Millet)",Other,08/03/2021,2130,2130,2130
+"Tamil Nadu",Villupuram,Sangarapuram,"Ragi (Finger Millet)",Other,03/02/2021,2239,2239,2239
+"Tamil Nadu",Villupuram,Sangarapuram,"Ragi (Finger Millet)",Other,18/02/2021,1599,1599,1599
+"Tamil Nadu",Villupuram,Sangarapuram,"Ragi (Finger Millet)",Other,04/03/2021,1600,1600,1600
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,04/01/2021,2189,2189,2189
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,06/01/2021,2139,2139,2139
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,07/01/2021,2049,2191,2120
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,08/01/2021,2149,2149,2149
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,11/01/2021,2029,2181,2105
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,12/01/2021,1969,2297,2133
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,13/01/2021,2091,2091,2091
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,19/01/2021,2049,2169,2109
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,20/01/2021,2049,2169,2109
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,21/01/2021,1150,1427,1289
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,22/01/2021,2236,2291,2264
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,27/01/2021,2370,2395,2382
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,29/01/2021,1681,2346,2014
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,08/02/2021,2006,2349,2178
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,10/02/2021,2269,2446,2358
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,11/02/2021,2420,2499,2460
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,12/02/2021,2029,2329,2179
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,15/02/2021,1969,2446,2208
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,16/02/2021,2029,2336,2183
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,17/02/2021,2089,2296,2193
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,18/02/2021,2239,2389,2314
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,19/02/2021,1949,2446,2198
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,22/02/2021,1949,2446,2198
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,23/02/2021,1809,2109,1959
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,24/02/2021,2276,2602,2300
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,02/03/2021,2230,2499,2365
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,03/03/2021,2091,2549,2319
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,08/03/2021,1809,2601,2205
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,09/03/2021,2119,2496,2308
+"Tamil Nadu",Villupuram,Thirukovilur,"Ragi (Finger Millet)",Other,10/03/2021,2291,2551,2421
+"Tamil Nadu",Villupuram,Thiryagadurgam,"Ragi (Finger Millet)",Other,05/01/2021,1909,1909,1909
+"Tamil Nadu",Villupuram,Thiryagadurgam,"Ragi (Finger Millet)",Other,05/02/2021,2109,2109,2109
+"Tamil Nadu",Villupuram,Thiryagadurgam,"Ragi (Finger Millet)",Other,08/02/2021,1890,1909,1909
+"Tamil Nadu",Villupuram,Thiryagadurgam,"Ragi (Finger Millet)",Other,10/02/2021,2109,2189,2189
+"Tamil Nadu",Villupuram,Thiryagadurgam,"Ragi (Finger Millet)",Other,11/02/2021,2209,2209,2209
+"Tamil Nadu",Villupuram,Thiryagadurgam,"Ragi (Finger Millet)",Other,12/02/2021,2259,2259,2259
+"Tamil Nadu",Villupuram,Thiryagadurgam,"Ragi (Finger Millet)",Other,15/02/2021,2559,2559,2559
+"Tamil Nadu",Villupuram,Thiryagadurgam,"Ragi (Finger Millet)",Other,16/02/2021,2259,2259,2259
+"Tamil Nadu",Villupuram,Thiryagadurgam,"Ragi (Finger Millet)",Other,18/02/2021,1909,1909,1909
+"Tamil Nadu",Villupuram,Thiryagadurgam,"Ragi (Finger Millet)",Other,02/03/2021,2159,2359,2359
+"Tamil Nadu",Villupuram,Thiryagadurgam,"Ragi (Finger Millet)",Other,04/03/2021,2269,2269,2269
+"Tamil Nadu",Villupuram,Thiryagadurgam,"Ragi (Finger Millet)",Other,08/03/2021,2260,2260,2260
+"Tamil Nadu",Villupuram,Thiryagadurgam,"Ragi (Finger Millet)",Other,09/03/2021,2279,2279,2279
+"Tamil Nadu",Villupuram,Thiryagadurgam,"Ragi (Finger Millet)",Other,10/03/2021,2259,2259,2259
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,06/01/2021,2400,2410,2410
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,08/01/2021,2300,2370,2350
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,11/01/2021,2200,2299,2290
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,12/01/2021,2300,2399,2390
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,18/01/2021,2300,2351,2350
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,19/01/2021,2300,2370,2350
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,21/01/2021,2300,2321,2320
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,25/01/2021,1900,1999,1950
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,27/01/2021,2399,2413,2413
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,29/01/2021,2389,2409,2400
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,03/02/2021,2427,2507,2447
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,04/02/2021,2200,2283,2280
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,05/02/2021,2200,2233,2230
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,08/02/2021,2299,2477,2467
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,09/02/2021,2347,2499,2446
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,10/02/2021,2299,2513,2452
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,12/02/2021,2099,2499,2459
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,15/02/2021,2362,2462,2422
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,16/02/2021,2470,2499,2490
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,18/02/2021,2443,2533,2503
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,19/02/2021,2299,2479,2300
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,22/02/2021,2339,2520,2490
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,23/02/2021,2399,2499,2450
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,24/02/2021,2229,2512,2500
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,25/02/2021,2400,2492,2490
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,26/02/2021,2460,2469,2465
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,02/03/2021,2390,2490,2450
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,03/03/2021,2380,2383,2381
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,04/03/2021,2425,2560,2555
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,05/03/2021,2420,2570,2500
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,08/03/2021,2399,2556,2550
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,09/03/2021,2333,2333,2333
+"Tamil Nadu",Villupuram,Tindivanam,"Ragi (Finger Millet)",Other,10/03/2021,2200,2510,2290
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,06/01/2021,2200,2219,2210
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,07/01/2021,2049,2059,2057
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,12/01/2021,1869,1869,1869
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,18/01/2021,2053,2053,2053
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,19/01/2021,2069,2069,2069
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,20/01/2021,2339,2339,2339
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,22/01/2021,1939,2169,2054
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,25/01/2021,1819,2149,2100
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,27/01/2021,2160,2160,2160
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,29/01/2021,2169,2229,2189
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,01/02/2021,2069,2229,2149
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,03/02/2021,1450,2290,1919
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,08/02/2021,1750,2686,2130
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,11/02/2021,1669,2439,2209
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,12/02/2021,2609,2609,2609
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,22/02/2021,2119,2689,2289
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,24/02/2021,1959,2589,2476
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,02/03/2021,2439,2439,2439
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,03/03/2021,1999,1999,1999
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,08/03/2021,2229,2559,2323
+"Tamil Nadu",Villupuram,Ulundurpettai,"Ragi (Finger Millet)",Other,10/03/2021,2289,2639,2609
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,07/01/2021,2370,2449,2430
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,11/01/2021,1829,2340,2020
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,12/01/2021,2309,2509,2400
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,18/01/2021,1890,2525,2073
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,19/01/2021,2500,2579,2540
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,20/01/2021,1820,2659,2609
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,21/01/2021,1970,2715,2709
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,22/01/2021,2600,2749,2699
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,27/01/2021,2600,2660,2650
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,29/01/2021,2600,2619,2602
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,02/02/2021,2500,2520,2510
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,03/02/2021,2259,2535,2489
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,04/02/2021,1920,2503,2469
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,05/02/2021,2420,2599,2489
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,08/02/2021,2313,2629,2549
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,09/02/2021,1870,2579,2500
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,10/02/2021,2289,2659,2489
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,15/02/2021,2489,2569,2500
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,17/02/2021,2589,2669,2600
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,18/02/2021,2480,2669,2589
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,19/02/2021,2389,2669,2589
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,22/02/2021,1820,2639,2579
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,23/02/2021,2609,2669,2650
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,24/02/2021,2569,2689,2609
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,25/02/2021,2369,2599,2400
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,26/02/2021,2559,2689,2589
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,02/03/2021,2409,2679,2509
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,03/03/2021,2580,2639,2599
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,04/03/2021,2569,2619,2589
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,05/03/2021,2596,2659,2629
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,08/03/2021,2389,2639,2459
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,09/03/2021,2509,2639,2579
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,10/03/2021,2559,2639,2609
+"Tamil Nadu",Villupuram,Vikkiravandi,"Ragi (Finger Millet)",Other,11/03/2021,2479,2609,2539

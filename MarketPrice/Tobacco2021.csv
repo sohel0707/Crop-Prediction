@@ -1,0 +1,56 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Chattisgarh,Balodabazar,Bhatapara,Tobacco,Beedi,21/02/2021,4500,4500,4500
+Chattisgarh,Balodabazar,Bhatapara,Tobacco,Other,31/01/2021,3900,5000,4500
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,27/01/2021,4800,4800,4800
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,27/02/2021,3700,3700,3700
+Chattisgarh,Jashpur,Pathalgaon,Tobacco,Other,28/02/2021,6000,6000,6000
+Chattisgarh,Korba,Katghora,Tobacco,Chewing,09/03/2021,6100,6100,6100
+Chattisgarh,Mahasamund,Bagbahra,Tobacco,Beedi,28/02/2021,1750,4600,3175
+Odisha,Mayurbhanja,Baripada,Tobacco,Other,07/02/2021,1500,2000,1800
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,12/01/2021,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,13/01/2021,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,20/01/2021,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,27/01/2021,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,10/02/2021,3100,3300,3200
+"Tamil Nadu",Coimbatore,Thiruppur,Tobacco,Other,13/01/2021,1900,2100,2000
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,05/01/2021,3000,3300,3100
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,07/01/2021,5000,5200,5100
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,08/01/2021,3000,3000,3000
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,11/01/2021,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,13/01/2021,3100,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,19/01/2021,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,20/01/2021,3000,4200,3600
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,21/01/2021,3000,3300,3100
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,22/01/2021,6900,7200,7050
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,25/01/2021,2800,3000,2900
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,30/01/2021,3000,3300,3100
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,02/02/2021,3050,3300,3100
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,06/02/2021,3000,3300,3100
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,08/02/2021,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,09/02/2021,3100,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,10/02/2021,3000,3000,3000
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,11/02/2021,3100,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,12/02/2021,3100,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,16/02/2021,3100,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,23/02/2021,3100,3300,3200
+"Uttar Pradesh",Ambedkarnagar,Akbarpur,Tobacco,Chewing,16/02/2021,9850,11600,11200
+"Uttar Pradesh",Ambedkarnagar,Akbarpur,Tobacco,Chewing,17/02/2021,9800,11300,11000
+"Uttar Pradesh",Ambedkarnagar,Akbarpur,Tobacco,Chewing,18/02/2021,9800,11000,10600
+"Uttar Pradesh",Ambedkarnagar,Akbarpur,Tobacco,Chewing,19/02/2021,1000,11000,10850
+"Uttar Pradesh",Ambedkarnagar,Akbarpur,Tobacco,Chewing,04/03/2021,9800,10600,10200
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,08/01/2021,4100,4200,4150
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,15/01/2021,8450,8600,8550
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,22/01/2021,4050,4150,4100
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,29/01/2021,4000,4100,4050
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,05/02/2021,4200,4300,4250
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,12/02/2021,4100,4300,4200
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,19/02/2021,4100,4300,4200
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,26/02/2021,4100,4300,4200
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,08/01/2021,8800,8900,8850
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,15/01/2021,4100,4200,4150
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,22/01/2021,8800,8900,8850
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,29/01/2021,8600,8800,8700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,05/02/2021,8500,8600,8550
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,12/02/2021,8600,8800,8700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,19/02/2021,8600,8800,8700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,26/02/2021,8700,8900,8800

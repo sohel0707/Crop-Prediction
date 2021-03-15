@@ -1,0 +1,556 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Chattisgarh,Balodabazar,Bhatapara,Tobacco,Other,30/01/2020,4000,6300,5100
+Chattisgarh,Balodabazar,Bhatapara,Tobacco,Other,30/06/2020,4023,5457,5150
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,13/01/2020,3500,6000,4750
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,20/01/2020,3800,7800,5800
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,28/01/2020,4000,4000,4000
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,10/02/2020,3800,4000,3900
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,17/02/2020,4000,4200,4100
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,24/02/2020,3500,5000,4250
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,29/02/2020,4700,4700,4700
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,09/03/2020,3500,5000,4300
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,26/03/2020,5000,5000,5000
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,04/07/2020,5000,5000,5000
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,11/07/2020,5000,5000,5000
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,21/07/2020,5000,5000,5000
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,22/07/2020,5000,5000,5000
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,31/07/2020,3400,3400,3400
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,14/08/2020,4300,4300,4300
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,31/08/2020,4000,4800,4400
+Chattisgarh,Balrampur,Ramanujganj,Tobacco,Other,07/09/2020,4200,4200,4200
+Chattisgarh,Jashpur,Jaspur,Tobacco,Other,31/08/2020,3300,3300,3300
+Chattisgarh,Jashpur,Pathalgaon,Tobacco,Other,29/02/2020,8000,8000,8000
+Chattisgarh,Koria,Manendragarh,Tobacco,Other,17/03/2020,3500,3500,3500
+Chattisgarh,Koria,Manendragarh,Tobacco,Other,24/07/2020,5200,5200,5200
+Chattisgarh,Koria,Manendragarh,Tobacco,Other,30/08/2020,4800,5100,4900
+Chattisgarh,Mahasamund,Bagbahra,Tobacco,Beedi,30/04/2020,4200,4200,4200
+Chattisgarh,Surguja,Ambikapur,Tobacco,Other,30/06/2020,3500,6500,5000
+Chattisgarh,Surguja,Ambikapur,Tobacco,Other,12/09/2020,5000,5000,5000
+Chattisgarh,Surguja,Ambikapur,Tobacco,Other,13/09/2020,5000,5000,5000
+Chattisgarh,Surguja,Ambikapur,Tobacco,Other,14/09/2020,5100,5100,5100
+Gujarat,Banaskanth,Deesa,Tobacco,Other,12/05/2020,4100,6255,5000
+Gujarat,Banaskanth,Deesa,Tobacco,Other,14/05/2020,4250,6700,5250
+Gujarat,Banaskanth,Deesa,Tobacco,Other,15/05/2020,4250,6565,5250
+Gujarat,Banaskanth,Deesa,Tobacco,Other,16/05/2020,4500,6655,5500
+Gujarat,Banaskanth,Deesa,Tobacco,Other,18/05/2020,4500,6775,5500
+Gujarat,Banaskanth,Deesa,Tobacco,Other,23/05/2020,4500,6755,5500
+Gujarat,Banaskanth,Deesa,Tobacco,Other,25/05/2020,4000,6555,5000
+Gujarat,Banaskanth,Deesa,Tobacco,Other,26/05/2020,4005,6505,5000
+Gujarat,Banaskanth,Deesa,Tobacco,Other,27/05/2020,4000,6275,5000
+Gujarat,Banaskanth,Deesa,Tobacco,Other,28/05/2020,4500,6375,5500
+Gujarat,Banaskanth,Deesa,Tobacco,Other,29/05/2020,4500,6305,5400
+Gujarat,Banaskanth,Deesa,Tobacco,Other,02/06/2020,5000,7305,5750
+Gujarat,Banaskanth,Deesa,Tobacco,Other,03/06/2020,5000,7110,5750
+Gujarat,Banaskanth,Deesa,Tobacco,Other,04/06/2020,5250,7155,5650
+Gujarat,Banaskanth,Deesa,Tobacco,Other,06/06/2020,5250,7355,6000
+Gujarat,Banaskanth,Deesa,Tobacco,Other,08/06/2020,5000,7155,5900
+Gujarat,Banaskanth,Deesa,Tobacco,Other,09/06/2020,5250,7175,5800
+Gujarat,Banaskanth,Deesa,Tobacco,Other,10/06/2020,5000,6900,5750
+Gujarat,Banaskanth,Deesa,Tobacco,Other,11/06/2020,5250,7305,6000
+Gujarat,Banaskanth,Deesa,Tobacco,Other,12/06/2020,5500,7500,6000
+Gujarat,Banaskanth,Deesa,Tobacco,Other,13/06/2020,5250,7055,5750
+Gujarat,Banaskanth,Deesa,Tobacco,Other,16/06/2020,5305,6855,5600
+Gujarat,Banaskanth,Deesa,Tobacco,Other,17/06/2020,5000,6905,5750
+Gujarat,Banaskanth,Deesa,Tobacco,Other,18/06/2020,5805,7155,6000
+Gujarat,Banaskanth,Deesa,Tobacco,Other,19/06/2020,5355,7355,6250
+Gujarat,Banaskanth,Deesa,Tobacco,Other,20/06/2020,5500,7005,6250
+Gujarat,Banaskanth,Deesa,Tobacco,Other,22/06/2020,5555,7360,6250
+Gujarat,Banaskanth,Deesa,Tobacco,Other,25/06/2020,6425,7555,7150
+Gujarat,Banaskanth,Deesa,Tobacco,Other,29/06/2020,6250,9005,7000
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,11/05/2020,4350,5065,4750
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,12/05/2020,4000,5305,4625
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,13/05/2020,4000,5900,4800
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,14/05/2020,4000,5890,5000
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,15/05/2020,4000,6125,5500
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,16/05/2020,4000,6655,5605
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,18/05/2020,4500,5780,5300
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,19/05/2020,4250,6330,5250
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,20/05/2020,4000,5875,5325
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,21/05/2020,3500,5925,5250
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,22/05/2020,4000,5555,5155
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,23/05/2020,4000,5905,5000
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,25/05/2020,4255,6235,5355
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,26/05/2020,4000,5755,5250
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,27/05/2020,4000,5855,5000
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,28/05/2020,4000,6000,5255
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,29/05/2020,4000,5910,5000
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,30/05/2020,4000,5900,5275
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,01/06/2020,4815,6435,5755
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,02/06/2020,4795,6450,5755
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,03/06/2020,5250,6700,6305
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,04/06/2020,4665,6800,6005
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,06/06/2020,4665,6800,6005
+Gujarat,Banaskanth,Deesa(Bhildi),Tobacco,Other,09/06/2020,6055,6300,6225
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,05/05/2020,4305,5505,4905
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,06/05/2020,3750,6005,4877.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,08/05/2020,4005,5550,4777.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,09/05/2020,3655,5625,4640
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,11/05/2020,3750,5550,4650
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,12/05/2020,3750,5450,4600
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,13/05/2020,3915,5975,4945
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,14/05/2020,3800,6055,4927.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,15/05/2020,3900,6505,5202.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,16/05/2020,4175,6460,5317.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,18/05/2020,3875,6460,5167.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,19/05/2020,3950,6000,4975
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,20/05/2020,4400,6010,5205
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,21/05/2020,4250,5850,5050
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,22/05/2020,4750,5900,5325
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,23/05/2020,4000,5550,4775
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,25/05/2020,4250,6000,5125
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,26/05/2020,4000,5900,4950
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,27/05/2020,4205,6025,5115
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,28/05/2020,4000,6500,5250
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,29/05/2020,4405,5975,5190
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,01/06/2020,4450,6375,5412.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,02/06/2020,4900,6705,5802.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,03/06/2020,5400,6805,6102.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,04/06/2020,5405,6725,6065
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,06/06/2020,5650,6615,6132.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,08/06/2020,4500,6875,5687.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,09/06/2020,5900,6610,6255
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,10/06/2020,5250,6425,5837.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,11/06/2020,4750,6300,5525
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,12/06/2020,5690,6260,5975
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,15/06/2020,5625,6155,5890
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,18/06/2020,5310,6375,5842.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,22/06/2020,5250,6555,5902.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,24/06/2020,6500,6660,6580
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,26/06/2020,6000,6625,6312.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,01/07/2020,6900,7175,7037.5
+Gujarat,Banaskanth,Thara(Shihori),Tobacco,Beedi,07/07/2020,6000,7300,6650
+Gujarat,Mehsana,Unava,Tobacco,Other,09/05/2020,3250,9255,4750
+Gujarat,Mehsana,Unava,Tobacco,Other,11/05/2020,3260,6580,4800
+Gujarat,Mehsana,Unava,Tobacco,Other,12/05/2020,3255,7005,4920
+Gujarat,Mehsana,Unava,Tobacco,Other,13/05/2020,3250,6775,4900
+Gujarat,Mehsana,Unava,Tobacco,Other,14/05/2020,3255,6840,5000
+Gujarat,Mehsana,Unava,Tobacco,Other,15/05/2020,3000,7155,5005
+Gujarat,Mehsana,Unava,Tobacco,Other,18/05/2020,3255,7405,5300
+Gujarat,Mehsana,Unava,Tobacco,Other,19/05/2020,3255,6775,5025
+Gujarat,Mehsana,Unava,Tobacco,Other,20/05/2020,3255,7500,4800
+Gujarat,Mehsana,Unava,Tobacco,Other,21/05/2020,3255,7305,4900
+Gujarat,Mehsana,Unava,Tobacco,Other,22/05/2020,3255,7760,4875
+Gujarat,Mehsana,Unava,Tobacco,Other,23/05/2020,2755,7240,4900
+Gujarat,Mehsana,Unava,Tobacco,Other,26/05/2020,3255,7375,4875
+Gujarat,Mehsana,Unava,Tobacco,Other,29/05/2020,3105,7000,5010
+Gujarat,Mehsana,Unava,Tobacco,Other,30/05/2020,3255,7460,5075
+Gujarat,Mehsana,Unava,Tobacco,Other,01/06/2020,3750,8115,5500
+Gujarat,Mehsana,Unava,Tobacco,Other,02/06/2020,4055,8055,5750
+Gujarat,Mehsana,Unava,Tobacco,Other,03/06/2020,4000,8000,5750
+Gujarat,Mehsana,Unava,Tobacco,Other,04/06/2020,4055,8500,5850
+Gujarat,Mehsana,Unava,Tobacco,Other,05/06/2020,4005,12500,6100
+Gujarat,Mehsana,Unava,Tobacco,Other,06/06/2020,3750,8250,6375
+Gujarat,Mehsana,Unava,Tobacco,Other,09/06/2020,4255,7505,6250
+Gujarat,Mehsana,Unava,Tobacco,Other,10/06/2020,4005,7630,6000
+Gujarat,Mehsana,Unava,Tobacco,Other,13/06/2020,4675,7260,6150
+Gujarat,Mehsana,Unava,Tobacco,Other,15/06/2020,3755,7450,6000
+Gujarat,Mehsana,Unava,Tobacco,Other,16/06/2020,4755,7315,6150
+Gujarat,Mehsana,Unava,Tobacco,Other,17/06/2020,4755,7375,6375
+Gujarat,Mehsana,Unava,Tobacco,Other,18/06/2020,5005,7705,6500
+Gujarat,Mehsana,Unava,Tobacco,Other,19/06/2020,4500,7760,6500
+Gujarat,Mehsana,Unava,Tobacco,Other,20/06/2020,4500,8405,6500
+Gujarat,Mehsana,Unava,Tobacco,Other,22/06/2020,4500,7725,6500
+Gujarat,Mehsana,Unava,Tobacco,Other,23/06/2020,5500,7680,6505
+Gujarat,Mehsana,Unava,Tobacco,Other,24/06/2020,4000,7300,6625
+Gujarat,Mehsana,Unava,Tobacco,Other,26/06/2020,5255,7355,6500
+Gujarat,Mehsana,Unava,Tobacco,Other,27/06/2020,5500,7580,6500
+Gujarat,Mehsana,Unava,Tobacco,Other,29/06/2020,5000,7835,6625
+Gujarat,Mehsana,Unava,Tobacco,Other,30/06/2020,5855,6665,6500
+Gujarat,Mehsana,Unava,Tobacco,Other,02/07/2020,6275,7175,6500
+Gujarat,Mehsana,Unava,Tobacco,Other,03/07/2020,6810,7305,7000
+Gujarat,Mehsana,Unava,Tobacco,Other,04/07/2020,6655,7005,6925
+Gujarat,Mehsana,Unava,Tobacco,Other,06/07/2020,6570,7115,6900
+Gujarat,Mehsana,Unava,Tobacco,Other,08/07/2020,6255,7160,7000
+Gujarat,Mehsana,Unava,Tobacco,Other,09/07/2020,6755,6755,6755
+Gujarat,Mehsana,Unava,Tobacco,Other,13/07/2020,6575,6875,6755
+Gujarat,Mehsana,Unava,Tobacco,Other,16/07/2020,6105,6375,6255
+Gujarat,Mehsana,Unava,Tobacco,Other,20/07/2020,6555,6555,6555
+Gujarat,Mehsana,Unava,Tobacco,Other,30/07/2020,6505,6505,6505
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,06/01/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,09/01/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,13/01/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,14/01/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,21/01/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,23/01/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,03/02/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,10/02/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,11/02/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,27/02/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,07/03/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,10/03/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,12/03/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,13/03/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,16/03/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,20/03/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,23/03/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,10/07/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,15/07/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,16/07/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,21/07/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,23/07/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,27/07/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,03/08/2020,3000,3200,3100
+"Tamil Nadu",Coimbatore,Annur,Tobacco,Other,18/08/2020,3000,3200,3100
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,03/01/2020,2200,2900,2500
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,04/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,06/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,07/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,08/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,09/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,10/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,17/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,18/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,20/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,21/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,22/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,23/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,24/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,25/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,27/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,28/01/2020,5000,5340,5140
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,29/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,30/01/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,31/01/2020,3200,3300,3300
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,07/02/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,08/02/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,10/02/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,11/02/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,12/02/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,14/02/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,15/02/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,17/02/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,18/02/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,19/02/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,21/02/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,22/02/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,25/02/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,28/02/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,02/03/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,03/03/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,06/03/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,07/03/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,09/03/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,10/03/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,13/03/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,14/03/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,16/03/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,17/03/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,18/03/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,19/03/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,20/03/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,21/03/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,01/06/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,02/06/2020,3000,3500,3300
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,03/06/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,04/06/2020,3000,3000,3000
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,05/06/2020,3200,3500,3300
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,08/06/2020,3000,3500,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,09/06/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,10/06/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,12/06/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,13/06/2020,3200,3500,3300
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,15/06/2020,3000,3500,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,16/06/2020,3200,3500,3300
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,18/06/2020,3200,3500,3300
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,19/06/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,20/06/2020,2800,7300,7200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,22/06/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,23/06/2020,7050,7300,7200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,24/06/2020,7210,7300,7270
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,25/06/2020,7050,7300,7200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,26/06/2020,1400,1600,1500
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,03/07/2020,1400,1600,1500
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,06/07/2020,1400,1600,1500
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,08/07/2020,2800,3000,2900
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,21/07/2020,2200,2500,2300
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,22/07/2020,2800,3000,2900
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,23/07/2020,2800,3000,2900
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,24/07/2020,2800,3000,2900
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,29/07/2020,3100,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,04/08/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,06/08/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,12/08/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,13/08/2020,3000,3200,3100
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,14/08/2020,2460,2810,2610
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,17/08/2020,3000,3200,3100
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,19/08/2020,3000,3200,3100
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,31/08/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,03/09/2020,3100,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,07/09/2020,3200,3500,3300
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,09/09/2020,3200,3500,3300
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,11/09/2020,2500,2500,2500
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,12/09/2020,3000,3300,3200
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,14/09/2020,3000,3000,3000
+"Tamil Nadu",Erode,Punchaipuliyampatti,Tobacco,Other,15/09/2020,3000,3000,3000
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,04/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,05/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,06/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,07/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,08/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,09/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,10/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,11/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,12/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,13/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,16/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,17/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,18/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,19/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,20/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,22/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,23/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,24/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,25/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,27/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,28/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,29/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,30/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,31/01/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,01/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,02/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,03/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,04/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,05/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,09/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,10/02/2020,1800,2000,1900
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,11/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,13/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,14/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,15/02/2020,1800,2000,1900
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,16/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,17/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,18/02/2020,1800,2000,1900
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,19/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,23/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,24/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,25/02/2020,1800,2000,1900
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,26/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,28/02/2020,1800,2000,1900
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,29/02/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,01/03/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,02/03/2020,1800,2000,1900
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,03/03/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,04/03/2020,1800,2000,1900
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,05/03/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,06/03/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,12/03/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,17/03/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,18/03/2020,2200,2400,2300
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,19/03/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,20/03/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,21/03/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,15/05/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,16/05/2020,2200,2400,2300
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,18/05/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,19/05/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,20/05/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,21/05/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,22/05/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,24/05/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,25/05/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,26/05/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,27/05/2020,2200,2400,2300
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,28/05/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,29/05/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,30/05/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,31/05/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,01/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,02/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,03/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,04/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,05/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,06/06/2020,2200,2400,2300
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,07/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,09/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,10/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,11/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,12/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,13/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,14/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,15/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,16/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,17/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,18/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,19/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,20/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,21/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,22/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,23/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,24/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,25/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,26/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,27/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,28/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,29/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,30/06/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,01/07/2020,2000,2200,2100
+"Uttar Pradesh",Etah,Aliganj,Tobacco,Beedi,02/07/2020,2000,2200,2100
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,02/01/2020,4600,4800,4700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,03/01/2020,4600,4800,4700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,04/01/2020,4600,4800,4700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,06/01/2020,4700,4850,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,07/01/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,08/01/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,09/01/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,11/01/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,13/01/2020,7800,8000,7900
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,14/01/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,15/01/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,16/01/2020,4700,4800,4750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,17/01/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,18/01/2020,4700,4900,4850
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,20/01/2020,7800,8000,7900
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,21/01/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,22/01/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,23/01/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,24/01/2020,4700,4800,4780
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,25/01/2020,4700,4800,4750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,27/01/2020,4700,4800,4750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,28/01/2020,4700,4800,4750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,29/01/2020,4700,4800,4750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,30/01/2020,4700,4800,4750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,31/01/2020,4700,4800,4750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,01/02/2020,4700,4800,4750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,03/02/2020,4700,4800,4750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,05/02/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,07/02/2020,7700,7800,7760
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,08/02/2020,7700,7800,7750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,10/02/2020,4600,4800,4700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,11/02/2020,4650,4750,4700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,12/02/2020,4700,4900,4780
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,13/02/2020,4600,4700,4650
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,14/02/2020,4700,4900,4840
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,15/02/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,17/02/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,18/02/2020,4700,4800,4750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,19/02/2020,4700,4800,4780
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,20/02/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,21/02/2020,4700,4800,4750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,22/02/2020,4700,4850,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,24/02/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,25/02/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,27/02/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,28/02/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,29/02/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,02/03/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,03/03/2020,4700,4900,4850
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,04/03/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,05/03/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,06/03/2020,4700,4900,4825
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,07/03/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,09/03/2020,4700,4880,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,11/03/2020,4700,4800,4750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,12/03/2020,4650,4800,4700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,13/03/2020,4650,4750,4700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,14/03/2020,4600,4800,4700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,16/03/2020,4600,4700,4650
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,17/03/2020,4700,4800,4750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,18/03/2020,4600,4800,4700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,19/03/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,20/03/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,21/03/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,23/03/2020,4700,4900,4820
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,24/03/2020,4650,4750,4700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,22/05/2020,4000,4100,4050
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,19/06/2020,6500,6700,6600
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,26/06/2020,3200,3300,3250
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,03/07/2020,3250,3350,3300
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,17/07/2020,3850,3950,3900
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,24/07/2020,3900,4100,4000
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,31/07/2020,8800,9000,8900
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,14/08/2020,4100,4300,4200
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,28/08/2020,4100,4300,4200
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,04/09/2020,4200,4400,4300
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,11/09/2020,4200,4320,4280
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Beedi,18/09/2020,4200,4300,4280
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,02/01/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,03/01/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,04/01/2020,7600,7800,7700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,06/01/2020,7700,7800,7750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,07/01/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,08/01/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,09/01/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,11/01/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,13/01/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,14/01/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,15/01/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,16/01/2020,7700,7900,7850
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,17/01/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,18/01/2020,7700,7900,7850
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,20/01/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,21/01/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,22/01/2020,4700,4800,4750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,23/01/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,24/01/2020,7700,7800,7760
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,25/01/2020,7700,7800,7750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,27/01/2020,7700,7800,7750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,28/01/2020,7700,7800,7780
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,29/01/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,30/01/2020,7700,7800,7750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,31/01/2020,7700,7800,7750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,01/02/2020,7700,7800,7750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,03/02/2020,7700,7800,7750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,05/02/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,07/02/2020,4700,4800,4750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,08/02/2020,4680,4750,4700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,10/02/2020,7650,7750,7700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,11/02/2020,7650,7760,7700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,12/02/2020,7700,7800,7750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,13/02/2020,7700,7800,7760
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,14/02/2020,7700,7900,7820
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,15/02/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,17/02/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,18/02/2020,7700,7800,7750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,19/02/2020,7700,7800,7750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,20/02/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,21/02/2020,7750,7900,7860
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,22/02/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,24/02/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,25/02/2020,7700,7800,7750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,26/02/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,27/02/2020,7600,7800,7700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,28/02/2020,7700,7800,7750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,29/02/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,02/03/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,03/03/2020,7800,7900,7850
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,04/03/2020,4700,4900,4800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,05/03/2020,7700,7800,7750
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,06/03/2020,7700,7900,7840
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,07/03/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,09/03/2020,7600,7800,7700
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,11/03/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,12/03/2020,7700,7900,7850
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,13/03/2020,7750,7850,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,14/03/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,16/03/2020,7800,9000,7900
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,17/03/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,18/03/2020,7800,7900,7825
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,19/03/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,20/03/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,21/03/2020,7700,7900,7820
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,23/03/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,24/03/2020,7700,7900,7800
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,22/05/2020,6800,7000,6900
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,19/06/2020,3100,3300,3200
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,26/06/2020,6400,6500,6450
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,03/07/2020,6250,6450,6350
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,17/07/2020,6000,6100,6050
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,24/07/2020,6000,6200,6100
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,31/07/2020,4200,4400,4300
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,14/08/2020,9200,9400,9300
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,28/08/2020,9400,9600,9500
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,04/09/2020,9800,9900,9850
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,11/09/2020,9800,9900,9850
+"Uttar Pradesh",Farukhabad,Farukhabad,Tobacco,Chewing,18/09/2020,9800,9900,9850
+"Uttar Pradesh",Ghazipur,Yusufpur,Tobacco,Chewing,01/03/2020,3200,3300,3250
+"Uttar Pradesh",Gonda,Nawabganj,Tobacco,Chewing,05/09/2020,3350,0,3420
+"Uttar Pradesh",Gonda,Nawabganj,Tobacco,Other,17/07/2020,3300,3388,3388
+"Uttar Pradesh",Gonda,Nawabganj,Tobacco,Other,20/07/2020,3300,3800,3350
+"Uttar Pradesh",Gonda,Nawabganj,Tobacco,Other,22/07/2020,3300,0,3400
+"Uttar Pradesh",Gonda,Nawabganj,Tobacco,Other,23/07/2020,3300,0,3380
+"Uttar Pradesh",Gonda,Nawabganj,Tobacco,Other,24/07/2020,3300,0,3420
+"Uttar Pradesh",Gonda,Nawabganj,Tobacco,Other,27/07/2020,3350,0,3450
+"Uttar Pradesh",Gonda,Nawabganj,Tobacco,Other,29/07/2020,3350,0,3420
+"Uttar Pradesh",Gonda,Nawabganj,Tobacco,Other,30/07/2020,3300,0,3420
+"Uttar Pradesh",Gonda,Nawabganj,Tobacco,Other,31/07/2020,3300,0,3410
+"West Bengal",Coochbehar,Mekhliganj,Tobacco,Other,01/04/2020,400,500,450

@@ -1,0 +1,971 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",01/01/2021,2700,3000,2750
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",02/01/2021,2000,3000,2500
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",03/01/2021,2600,3000,2800
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",05/01/2021,2800,3000,2900
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",06/01/2021,2600,3000,2800
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",07/01/2021,2800,3000,2900
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",08/01/2021,2600,3000,2800
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",09/01/2021,2500,3000,2750
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",10/01/2021,2700,3000,2850
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",12/01/2021,1000,1200,1100
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",13/01/2021,1000,1200,1100
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",14/01/2021,800,1000,900
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",15/01/2021,1000,1400,1200
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",16/01/2021,1200,1400,1300
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",17/01/2021,1000,1400,1200
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",19/01/2021,1200,1400,1300
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",20/01/2021,1200,1300,1250
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",21/01/2021,1200,1400,1300
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",22/01/2021,1400,1500,1450
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",23/01/2021,1000,1200,1100
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",24/01/2021,1000,1400,1200
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",27/01/2021,1000,1300,1200
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",28/01/2021,1000,1500,1250
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",29/01/2021,1000,1400,1200
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",30/01/2021,1200,1400,1300
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",31/01/2021,1400,1600,1500
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",02/02/2021,1200,1400,1300
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",03/02/2021,1000,1500,1250
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",04/02/2021,1000,1400,1200
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",05/02/2021,1000,1100,1050
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",06/02/2021,800,1000,900
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",07/02/2021,1000,1400,1200
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",09/02/2021,1000,1400,1200
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",10/02/2021,800,1200,1000
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",11/02/2021,1000,1200,1100
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",12/02/2021,800,1200,1000
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",13/02/2021,1000,1200,1100
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",14/02/2021,800,1200,1000
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",16/02/2021,1000,1200,1100
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",17/02/2021,1000,1200,1100
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",18/02/2021,1000,1200,1100
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",19/02/2021,1000,1200,1100
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",20/02/2021,1000,1500,1250
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",21/02/2021,1200,1300,1250
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",23/02/2021,1000,1200,1100
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",24/02/2021,1200,1400,1300
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",25/02/2021,1000,1400,1200
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",26/02/2021,1200,1400,1300
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",27/02/2021,1000,1400,1200
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",28/02/2021,1000,1400,1200
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",02/03/2021,1200,1400,1300
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",03/03/2021,1300,1400,1350
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",04/03/2021,1200,1600,1400
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",05/03/2021,1000,1200,1100
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",06/03/2021,800,1200,1000
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",07/03/2021,1000,1200,1100
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",09/03/2021,900,1100,1000
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",10/03/2021,800,1000,900
+Chattisgarh,Durg,Durg,"Papaya (Raw)","Papaya (Raw)",11/03/2021,700,1000,850
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",07/01/2021,1000,1500,1250
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",11/01/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",29/01/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",30/01/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",01/02/2021,1000,1500,1250
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",02/02/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",04/02/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",05/02/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",06/02/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",08/02/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",09/02/2021,1000,1150,1025
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",10/02/2021,1000,1500,1250
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",12/02/2021,1000,1500,1250
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",13/02/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",15/02/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",17/02/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",18/02/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",19/02/2021,1000,1500,1250
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",22/02/2021,1000,1500,1250
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",23/02/2021,1000,1500,1250
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",24/02/2021,1000,1500,1250
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",26/02/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",01/03/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",03/03/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",04/03/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",05/03/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",06/03/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",08/03/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",09/03/2021,1000,1250,1125
+Gujarat,Surendranagar,Vadhvan,"Papaya (Raw)","Papaya (Raw)",10/03/2021,1000,1250,1125
+Kerala,Ernakulam,Keezhampara,"Papaya (Raw)",Other,28/02/2021,1500,1500,1500
+Kerala,Ernakulam,Piravam,"Papaya (Raw)",Other,26/01/2021,1000,1500,1200
+Kerala,Ernakulam,Piravam,"Papaya (Raw)",Other,16/02/2021,2500,3000,2800
+Kerala,Ernakulam,Piravam,"Papaya (Raw)",Other,23/02/2021,3000,4000,3500
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,12/01/2021,2600,2700,2650
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,13/01/2021,2400,2500,2450
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,14/01/2021,2450,2600,2500
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,15/01/2021,2800,2900,2850
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,16/01/2021,2350,2450,2400
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,18/01/2021,2700,2800,2750
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,19/01/2021,2450,2550,2500
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,20/01/2021,2800,2950,2850
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,22/01/2021,2500,2600,2550
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,23/01/2021,2500,2600,2550
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,25/01/2021,2600,2700,2650
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,27/01/2021,2500,2600,2550
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,29/01/2021,2450,2550,2500
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,15/02/2021,2400,2500,2450
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,16/02/2021,2500,2600,2550
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,17/02/2021,2500,2600,2550
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,18/02/2021,2400,2500,2450
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,19/02/2021,2500,2600,2550
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,20/02/2021,2500,2600,2550
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,22/02/2021,2500,2600,2550
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,23/02/2021,2500,2600,2550
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,24/02/2021,2450,2550,2500
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,25/02/2021,2400,2500,2450
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,26/02/2021,2450,2600,2590
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,27/02/2021,2450,2550,2500
+Kerala,Thiruvananthapuram,Nedumangadu,"Papaya (Raw)",Other,07/01/2021,1500,3000,1600
+Kerala,Thiruvananthapuram,Nedumangadu,"Papaya (Raw)",Other,12/01/2021,1500,4000,3600
+Kerala,Thiruvananthapuram,Nedumangadu,"Papaya (Raw)",Other,16/01/2021,2300,5100,5000
+Kerala,Thiruvananthapuram,Nedumangadu,"Papaya (Raw)",Other,21/01/2021,1500,4000,4000
+Kerala,Thiruvananthapuram,Nedumangadu,"Papaya (Raw)",Other,28/01/2021,1500,5000,3600
+Kerala,Thiruvananthapuram,Nedumangadu,"Papaya (Raw)",Other,12/02/2021,2000,2500,2100
+Kerala,Thiruvananthapuram,Nedumangadu,"Papaya (Raw)",Other,18/02/2021,2500,5100,5100
+Kerala,Thiruvananthapuram,Nedumangadu,"Papaya (Raw)",Other,23/02/2021,2000,2300,2300
+Odisha,Angul,Angul,"Papaya (Raw)",Other,02/01/2021,800,1200,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,04/01/2021,800,1200,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,05/01/2021,800,1000,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,06/01/2021,800,1000,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,07/01/2021,800,1200,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,08/01/2021,800,1200,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,09/01/2021,800,1200,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,10/01/2021,800,1000,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,11/01/2021,800,1000,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,15/01/2021,800,1000,900
+Odisha,Angul,Angul,"Papaya (Raw)",Other,16/01/2021,800,1200,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,17/01/2021,1000,1200,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,19/01/2021,1000,1200,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,20/01/2021,1000,1200,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,21/01/2021,800,1000,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,23/01/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,24/01/2021,800,1200,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,25/01/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,26/01/2021,800,1000,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,27/01/2021,800,1000,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,28/01/2021,800,1200,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,29/01/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,30/01/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,31/01/2021,800,1200,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,01/02/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,03/02/2021,800,1000,1000
+Odisha,Angul,Angul,"Papaya (Raw)",Other,07/02/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,08/02/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,09/02/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,13/02/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,14/02/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,15/02/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,16/02/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,18/02/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,19/02/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,21/02/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,24/02/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,25/02/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,03/03/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,07/03/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,08/03/2021,1000,1500,1200
+Odisha,Angul,Angul,"Papaya (Raw)",Other,11/03/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,01/01/2021,800,1000,1000
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,02/01/2021,800,1000,1000
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,03/01/2021,800,1000,1000
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,04/01/2021,800,1000,1000
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,05/01/2021,800,1000,1000
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,06/01/2021,800,1000,1000
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,07/01/2021,800,1200,1000
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,08/01/2021,800,1200,1000
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,09/01/2021,800,1200,1000
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,15/01/2021,800,1200,1000
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,16/01/2021,800,1200,1000
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,17/01/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,18/01/2021,800,1200,1000
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,19/01/2021,1000,1200,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,21/01/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,22/01/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,23/01/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,24/01/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,25/01/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,26/01/2021,800,1200,1000
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,27/01/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,29/01/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,30/01/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,31/01/2021,800,1000,1000
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,01/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,02/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,03/02/2021,1000,1200,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,07/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,08/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,09/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,10/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,11/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,12/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,13/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,14/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,15/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,16/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,18/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,19/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,22/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,23/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,24/02/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,28/02/2021,1000,1600,1300
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,06/03/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,07/03/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,08/03/2021,1000,1500,1200
+Odisha,Angul,Angul(Jarapada),"Papaya (Raw)",Other,09/03/2021,1000,1500,1200
+Odisha,Bargarh,Attabira,"Papaya (Raw)",Other,11/01/2021,1200,1500,1200
+Odisha,Bargarh,Attabira,"Papaya (Raw)",Other,25/01/2021,1000,1200,1000
+Odisha,Bargarh,Godabhaga,"Papaya (Raw)",Other,14/01/2021,1500,2000,1500
+Odisha,Bargarh,Godabhaga,"Papaya (Raw)",Other,21/01/2021,2000,2500,2000
+Odisha,Bhadrak,Bhadrak,"Papaya (Raw)",Other,10/02/2021,1000,1600,1300
+Odisha,Bhadrak,Bhadrak,"Papaya (Raw)",Other,18/02/2021,1200,1500,1300
+Odisha,Bhadrak,Bhadrak,"Papaya (Raw)",Other,22/02/2021,1200,1600,1400
+Odisha,Bhadrak,Bhadrak,"Papaya (Raw)",Other,06/03/2021,1400,1800,1600
+Odisha,Bhadrak,Sahidngar,"Papaya (Raw)",Other,02/02/2021,1200,1800,1400
+Odisha,Cuttack,Kendupatna,"Papaya (Raw)",Other,03/03/2021,1200,1500,1500
+Odisha,Cuttack,Kendupatna,"Papaya (Raw)",Other,06/03/2021,1200,1300,1200
+Odisha,Cuttack,Kendupatna,"Papaya (Raw)",Other,07/03/2021,1200,1400,1200
+Odisha,Cuttack,Kendupatna,"Papaya (Raw)",Other,08/03/2021,1250,1400,1300
+Odisha,Cuttack,Kendupatna,"Papaya (Raw)",Other,09/03/2021,1300,1500,1400
+Odisha,Cuttack,Kendupatna(Niali),"Papaya (Raw)",Other,02/03/2021,700,1000,800
+Odisha,Cuttack,Kendupatna(Niali),"Papaya (Raw)",Other,03/03/2021,1200,1400,1300
+Odisha,Cuttack,Kendupatna(Niali),"Papaya (Raw)",Other,04/03/2021,1200,1400,1300
+Odisha,Cuttack,Kendupatna(Niali),"Papaya (Raw)",Other,05/03/2021,1200,1350,1300
+Odisha,Cuttack,Kendupatna(Niali),"Papaya (Raw)",Other,06/03/2021,1200,1400,1400
+Odisha,Cuttack,Kendupatna(Niali),"Papaya (Raw)",Other,07/03/2021,1300,1500,1400
+Odisha,Cuttack,Kendupatna(Niali),"Papaya (Raw)",Other,09/03/2021,2750,3000,2800
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,01/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,02/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,03/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,04/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,05/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,06/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,07/01/2021,1500,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,08/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,10/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,11/01/2021,1500,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,12/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,13/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,14/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,15/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,16/01/2021,1000,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,17/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,18/01/2021,1000,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,19/01/2021,1500,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,20/01/2021,1000,1500,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,21/01/2021,1500,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,22/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,23/01/2021,2000,2500,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,24/01/2021,1000,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,25/01/2021,2000,2500,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,26/01/2021,1000,1500,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,27/01/2021,1500,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,28/01/2021,1000,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,29/01/2021,2000,2500,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,30/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,31/01/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,01/02/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,02/02/2021,1000,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,03/02/2021,1000,1500,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,05/02/2021,1500,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,06/02/2021,1000,1500,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,07/02/2021,1000,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,08/02/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,09/02/2021,1500,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,10/02/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,11/02/2021,1500,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,12/02/2021,1000,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,13/02/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,14/02/2021,1000,1500,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,15/02/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,16/02/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,17/02/2021,1000,1500,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,18/02/2021,1000,1500,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,19/02/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,20/02/2021,1000,1500,1000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,21/02/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,22/02/2021,1000,1500,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,23/02/2021,1000,1500,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,24/02/2021,1000,1500,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,25/02/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,26/02/2021,1500,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,27/02/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,28/02/2021,1000,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,01/03/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,02/03/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,03/03/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,04/03/2021,1500,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,06/03/2021,1500,2000,2000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,07/03/2021,1000,2000,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,08/03/2021,1000,1200,1000
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,09/03/2021,1000,1500,1500
+Odisha,Dhenkanal,Mottagaon,"Papaya (Raw)",Other,10/03/2021,1500,2000,1500
+Odisha,Jajpur,Jajpur,"Papaya (Raw)",Other,30/01/2021,1000,1600,1200
+Odisha,Jajpur,Jajpur,"Papaya (Raw)",Other,06/02/2021,1000,2000,1500
+Odisha,Jajpur,Jajpur,"Papaya (Raw)",Other,27/02/2021,1400,2000,2000
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",18/01/2021,1500,2000,2000
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",21/01/2021,1600,2500,2000
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",22/01/2021,1400,1800,1600
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",23/01/2021,1200,2000,2000
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",24/01/2021,1400,2000,1600
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",25/01/2021,1200,2000,1600
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",27/01/2021,1000,1400,1200
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",29/01/2021,1000,1600,1200
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",31/01/2021,1200,1800,1600
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",02/02/2021,1200,1800,1400
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",05/02/2021,1200,2000,1600
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",09/02/2021,1200,1800,1800
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",10/02/2021,1200,2000,1600
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",11/02/2021,1200,2000,1600
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",17/02/2021,1200,2000,2000
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",18/02/2021,1000,2000,1500
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",19/02/2021,1000,2000,1500
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",20/02/2021,1400,2000,1600
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",21/02/2021,1500,2000,2000
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",22/02/2021,1400,2000,1600
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",25/02/2021,1200,2000,1400
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",01/03/2021,1500,2500,2000
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",04/03/2021,1200,2000,2000
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",05/03/2021,1400,2000,2000
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",06/03/2021,1400,2000,2000
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",08/03/2021,1200,2000,2000
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",09/03/2021,1200,1600,1600
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",10/03/2021,1200,1800,1800
+Odisha,Jajpur,Jajpur,"Papaya (Raw)","Papaya (Raw)",11/03/2021,1200,2000,2000
+Odisha,Kalahandi,Kesinga,"Papaya (Raw)",Other,11/01/2021,2500,2500,2500
+Odisha,Kalahandi,Kesinga,"Papaya (Raw)",Other,19/01/2021,2000,2500,2200
+Odisha,Kalahandi,Kesinga,"Papaya (Raw)",Other,24/01/2021,1500,2000,1600
+Odisha,Kalahandi,Kesinga,"Papaya (Raw)",Other,07/02/2021,1500,2000,1800
+Odisha,Kalahandi,Kesinga,"Papaya (Raw)",Other,11/02/2021,1500,1600,1550
+Odisha,Kalahandi,Kesinga,"Papaya (Raw)",Other,19/02/2021,2000,2000,2000
+Odisha,Kalahandi,Kesinga,"Papaya (Raw)",Other,25/02/2021,1600,2000,1800
+Odisha,Kalahandi,Kesinga,"Papaya (Raw)",Other,03/03/2021,1500,1500,1500
+Odisha,Keonjhar,Keonjhar,"Papaya (Raw)",Other,04/01/2021,900,1000,1000
+Odisha,Keonjhar,Keonjhar,"Papaya (Raw)",Other,10/01/2021,900,1000,1000
+Odisha,Keonjhar,Keonjhar,"Papaya (Raw)",Other,07/02/2021,900,1000,1000
+Odisha,Keonjhar,Keonjhar(Dhekikote),"Papaya (Raw)",Other,16/01/2021,900,1000,1000
+Odisha,Keonjhar,Keonjhar(Dhekikote),"Papaya (Raw)",Other,23/01/2021,900,1000,1000
+Odisha,Keonjhar,Keonjhar(Dhekikote),"Papaya (Raw)",Other,30/01/2021,900,1000,1000
+Odisha,Keonjhar,Keonjhar(Dhekikote),"Papaya (Raw)",Other,06/02/2021,900,1000,1000
+Odisha,Keonjhar,Keonjhar(Dhekikote),"Papaya (Raw)",Other,27/02/2021,900,1000,1000
+Odisha,Keonjhar,Keonjhar(Dhekikote),"Papaya (Raw)",Other,06/03/2021,900,1000,1000
+Odisha,Keonjhar,Saharpada,"Papaya (Raw)",Other,10/01/2021,900,1000,1000
+Odisha,Keonjhar,Saharpada,"Papaya (Raw)",Other,28/02/2021,900,1000,1000
+Odisha,Koraput,Koraput,"Papaya (Raw)",Other,20/01/2021,1100,1200,1150
+Odisha,Koraput,Koraput,"Papaya (Raw)",Other,08/03/2021,1800,2000,1900
+Odisha,Koraput,Koraput(Semilguda),"Papaya (Raw)",Other,19/01/2021,1000,1200,1100
+Odisha,Koraput,Koraput(Semilguda),"Papaya (Raw)",Other,03/02/2021,1200,1300,1250
+Odisha,Koraput,Koraput(Semilguda),"Papaya (Raw)",Other,24/02/2021,2000,2200,2100
+Odisha,Koraput,Koraput(Semilguda),"Papaya (Raw)",Other,03/03/2021,1900,2100,2000
+Odisha,Malkangiri,Malkanagiri,"Papaya (Raw)",Other,15/01/2021,600,800,700
+Odisha,Malkangiri,Malkangiri(Korakunda),"Papaya (Raw)",Other,22/01/2021,1900,1900,1900
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,02/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,03/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,05/01/2021,1500,2000,1800
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,07/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,08/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,09/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,10/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,13/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,21/01/2021,1500,2000,1800
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,22/01/2021,1500,2000,1800
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,24/01/2021,1500,2000,1800
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,25/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,27/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,28/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,30/01/2021,1500,2000,1800
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,31/01/2021,1500,2000,1800
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,03/02/2021,1500,2000,1800
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,05/02/2021,1500,2000,1800
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,06/02/2021,1500,2000,1800
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,07/02/2021,1500,2000,1800
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,11/02/2021,1200,1800,1500
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,13/02/2021,1500,2000,1800
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,15/02/2021,1500,2000,1800
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,18/02/2021,1200,1800,1500
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,19/02/2021,1500,2000,1800
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,21/02/2021,1200,1800,1500
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,25/02/2021,1500,2000,1800
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,28/02/2021,1400,2000,1500
+Odisha,Mayurbhanja,Baripada,"Papaya (Raw)",Other,07/03/2021,1000,1500,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,01/01/2021,1300,1400,1300
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,02/01/2021,1200,1300,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,03/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,04/01/2021,1200,1250,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,05/01/2021,1100,1200,1100
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,06/01/2021,1100,1100,1100
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,07/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,08/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,09/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,10/01/2021,1300,1400,1300
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,11/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,12/01/2021,1100,1200,1100
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,13/01/2021,1300,1300,1300
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,15/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,16/01/2021,1100,1200,1100
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,17/01/2021,1100,1200,1100
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,18/01/2021,1200,1300,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,19/01/2021,1200,1250,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,20/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,21/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,22/01/2021,1200,1300,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,23/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,24/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,25/01/2021,1300,1300,1300
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,26/01/2021,1200,1300,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,27/01/2021,1000,1100,1000
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,28/01/2021,1100,1200,1100
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,29/01/2021,1100,1200,1100
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,30/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,31/01/2021,1100,1200,1100
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,01/02/2021,1100,1100,1100
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,02/02/2021,1100,1200,1100
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,03/02/2021,1100,1100,1100
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,06/02/2021,1100,1100,1100
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,07/02/2021,1200,1200,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,08/02/2021,1200,1200,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,09/02/2021,1200,1300,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,10/02/2021,1300,1300,1300
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,11/02/2021,1300,1300,1300
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,12/02/2021,1200,1300,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,13/02/2021,1200,1200,1200
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,14/02/2021,1300,1300,1300
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,15/02/2021,1300,1400,1300
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,16/02/2021,1300,1400,1300
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,17/02/2021,1400,1500,1400
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,18/02/2021,1400,1500,1400
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,19/02/2021,1300,1300,1300
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,20/02/2021,1400,1400,1400
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,21/02/2021,1400,1400,1400
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,22/02/2021,1400,1500,1400
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,23/02/2021,1300,1400,1300
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,24/02/2021,1400,1400,1400
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,27/02/2021,1300,1300,1300
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,28/02/2021,1400,1500,1400
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,03/03/2021,1500,1600,1500
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,04/03/2021,1500,1550,1500
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,05/03/2021,1400,1500,1400
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,06/03/2021,1500,1500,1500
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,07/03/2021,1400,1400,1400
+Odisha,Mayurbhanja,Chuliaposi,"Papaya (Raw)",Other,08/03/2021,1400,1450,1400
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,02/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,06/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,09/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,13/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,21/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,23/01/2021,1500,2000,1800
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,25/01/2021,1500,1800,1600
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,30/01/2021,1200,1500,1400
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,03/02/2021,1500,2000,1800
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,04/02/2021,1500,2000,1800
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,06/02/2021,1200,1800,1500
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,09/02/2021,1500,1800,1600
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,10/02/2021,1500,2000,1800
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,13/02/2021,1500,1800,1600
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,17/02/2021,1200,1800,1500
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,19/02/2021,1200,1800,1500
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,20/02/2021,1200,1800,1500
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,22/02/2021,1200,1500,1400
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,24/02/2021,1200,1500,1400
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,25/02/2021,1500,2000,1600
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,27/02/2021,1400,2000,1500
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,06/03/2021,1000,1500,1200
+Odisha,Mayurbhanja,Saraskana,"Papaya (Raw)",Other,08/03/2021,1200,1500,1400
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,01/01/2021,1200,1300,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,02/01/2021,1200,1250,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,03/01/2021,1100,1200,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,04/01/2021,1200,1300,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,05/01/2021,1100,1200,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,06/01/2021,1100,1100,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,07/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,08/01/2021,1100,1200,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,10/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,13/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,15/01/2021,1200,1300,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,16/01/2021,1200,1250,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,17/01/2021,1100,1100,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,18/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,19/01/2021,1100,1200,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,21/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,22/01/2021,1100,1200,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,23/01/2021,1200,1300,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,24/01/2021,1200,1200,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,25/01/2021,1300,1300,1300
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,26/01/2021,1200,1300,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,27/01/2021,1000,1100,1000
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,28/01/2021,1100,1100,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,29/01/2021,1000,1100,1000
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,30/01/2021,1100,1150,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,31/01/2021,1100,1200,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,01/02/2021,1100,1200,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,02/02/2021,1100,1200,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,03/02/2021,1100,1200,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,04/02/2021,1200,1200,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,05/02/2021,1100,1200,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,06/02/2021,1100,1140,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,07/02/2021,1200,1200,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,08/02/2021,1200,1250,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,09/02/2021,1100,1200,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,10/02/2021,1200,1200,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,12/02/2021,1100,1200,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,13/02/2021,1100,1200,1100
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,14/02/2021,1300,1300,1300
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,15/02/2021,1300,1300,1300
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,16/02/2021,1200,1300,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,17/02/2021,1300,1400,1300
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,19/02/2021,1200,1300,1200
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,20/02/2021,1300,1400,1300
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,21/02/2021,1400,1500,1400
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,22/02/2021,1400,1400,1400
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,23/02/2021,1300,1400,1300
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,24/02/2021,1300,1300,1300
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,28/02/2021,1400,1400,1400
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,03/03/2021,1400,1450,1400
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,04/03/2021,1500,1500,1500
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,05/03/2021,1400,1500,1400
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,06/03/2021,1400,1500,1400
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,07/03/2021,1400,1500,1400
+Odisha,Mayurbhanja,Udala,"Papaya (Raw)",Other,08/03/2021,1400,1500,1400
+Punjab,Muktsar,Bariwala,"Papaya (Raw)",Other,13/01/2021,2000,2000,2000
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",07/01/2021,2000,2500,2200
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",08/01/2021,1500,2000,1800
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",09/01/2021,1500,2000,1800
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",11/01/2021,1500,2000,1800
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",15/01/2021,1000,2000,1500
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",16/01/2021,1200,2000,1800
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",19/01/2021,1600,2000,1800
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",20/01/2021,1200,2000,1500
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",21/01/2021,1000,2000,1500
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",22/01/2021,1500,2000,1800
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",28/01/2021,1800,2000,1900
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",11/02/2021,1800,2200,2000
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",13/02/2021,1800,2200,2000
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",16/02/2021,1500,2200,1800
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",18/02/2021,1200,1800,1600
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",20/02/2021,1800,2200,2000
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",22/02/2021,1500,2000,1800
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",23/02/2021,1500,2000,1800
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",24/02/2021,1800,2200,2000
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",25/02/2021,1500,2000,1800
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",05/03/2021,1900,2200,2000
+Punjab,Muktsar,Malout,"Papaya (Raw)","Papaya (Raw)",08/03/2021,1800,2500,2000
+Punjab,Nawanshahr,Balachaur,"Papaya (Raw)",Other,11/02/2021,3000,3000,3000
+Punjab,Patiala,Samana,"Papaya (Raw)",Other,04/01/2021,1200,1200,1200
+Punjab,Patiala,Samana,"Papaya (Raw)",Other,08/01/2021,1200,1200,1200
+Punjab,Patiala,Samana,"Papaya (Raw)",Other,10/01/2021,1200,1200,1200
+Punjab,Patiala,Samana,"Papaya (Raw)",Other,17/01/2021,1200,1200,1200
+Punjab,Patiala,Samana,"Papaya (Raw)",Other,03/02/2021,1200,1200,1200
+Punjab,Patiala,Samana,"Papaya (Raw)",Other,04/02/2021,1200,1200,1200
+Punjab,Patiala,Samana,"Papaya (Raw)",Other,17/02/2021,1200,1200,1200
+Punjab,Patiala,Samana,"Papaya (Raw)",Other,26/02/2021,1200,1200,1200
+Tripura,Dhalai,Masli,"Papaya (Raw)","Papaya (Raw)",05/01/2021,1000,1500,1200
+Tripura,Dhalai,Masli,"Papaya (Raw)","Papaya (Raw)",12/01/2021,1000,1400,1200
+Tripura,Dhalai,Masli,"Papaya (Raw)","Papaya (Raw)",19/01/2021,1000,1500,1200
+Tripura,Dhalai,Masli,"Papaya (Raw)","Papaya (Raw)",26/01/2021,1000,1500,1200
+Tripura,Dhalai,Masli,"Papaya (Raw)","Papaya (Raw)",09/02/2021,1000,1500,1200
+Tripura,Dhalai,Masli,"Papaya (Raw)","Papaya (Raw)",23/02/2021,1000,1500,1200
+Tripura,Dhalai,Masli,"Papaya (Raw)","Papaya (Raw)",02/03/2021,1000,1500,1200
+Tripura,Dhalai,Masli,"Papaya (Raw)","Papaya (Raw)",09/03/2021,1000,1500,1200
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",02/01/2021,1500,1800,1600
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",03/01/2021,1500,2000,1800
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",04/01/2021,1500,1800,1600
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",05/01/2021,1500,1700,1600
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",06/01/2021,1500,1800,1600
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",07/01/2021,1500,2000,1800
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",08/01/2021,1500,2000,1800
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",09/01/2021,1500,1800,1600
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",12/01/2021,1800,2200,2000
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",13/01/2021,1800,2000,1900
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",16/01/2021,1800,2200,2000
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",19/01/2021,1200,1800,1500
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",20/01/2021,1500,2000,1800
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",21/01/2021,1200,1500,1400
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",22/01/2021,1200,1600,1400
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",23/01/2021,1500,2000,1800
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",24/01/2021,1800,2200,2000
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",25/01/2021,1400,1800,1600
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",26/01/2021,1500,1800,1600
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",28/01/2021,1800,2200,2000
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",29/01/2021,1800,2200,2000
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",30/01/2021,1800,2200,2000
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",31/01/2021,1800,2200,2000
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",02/02/2021,1800,2200,2000
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",04/02/2021,2000,2500,2200
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",05/02/2021,1800,2200,2000
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",06/02/2021,1800,2200,2000
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",07/02/2021,1800,2200,2000
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",08/02/2021,1800,2200,2000
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",09/02/2021,2000,2500,2200
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",13/02/2021,2000,2500,2200
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",15/02/2021,2000,2500,2200
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",16/02/2021,2000,2500,2200
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",20/02/2021,1500,1800,1600
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",22/02/2021,1400,1600,1500
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",23/02/2021,1200,1500,1400
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",25/02/2021,1200,1500,1400
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",28/02/2021,1200,1500,1400
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",02/03/2021,1200,1500,1400
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",04/03/2021,1200,1600,1400
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",06/03/2021,1400,1600,1500
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",07/03/2021,1200,1500,1400
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",08/03/2021,1200,1600,1500
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",09/03/2021,1200,1600,1400
+Tripura,Sepahijala,Bishalgarh,"Papaya (Raw)","Papaya (Raw)",10/03/2021,1200,1600,1400
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,01/01/2021,1400,1600,1500
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,03/01/2021,1200,1400,1300
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,06/01/2021,1200,1400,1300
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,07/01/2021,1200,1400,1300
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,08/01/2021,1200,1400,1300
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,10/01/2021,1000,1200,1100
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,14/01/2021,1000,1200,1100
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,15/01/2021,1000,1200,1100
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,21/01/2021,2000,2500,2200
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,24/01/2021,2000,2500,2200
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,28/01/2021,1000,1200,1100
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,30/01/2021,1000,1200,1100
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,31/01/2021,1000,1200,1100
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,04/02/2021,1000,1400,1200
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,07/02/2021,1000,1200,1100
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,11/02/2021,900,1100,1000
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,14/02/2021,1000,1200,1100
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,18/02/2021,1100,1300,1200
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,21/02/2021,900,1100,1000
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,25/02/2021,800,1100,1000
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,28/02/2021,800,1000,900
+Tripura,Sepahijala,Boxonagar,"Papaya (Raw)",Other,07/03/2021,1000,1200,1100
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",02/01/2021,1200,1400,1300
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",04/01/2021,1200,1400,1300
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",06/01/2021,1200,1400,1300
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",08/01/2021,1000,1200,1100
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",09/01/2021,1000,1200,1100
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",11/01/2021,1200,1400,1300
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",12/01/2021,1000,1300,1200
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",13/01/2021,1000,1200,1100
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",14/01/2021,1000,1300,1200
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",15/01/2021,1000,1200,1100
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",16/01/2021,1000,1200,1100
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",18/01/2021,1000,1200,1100
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",20/01/2021,1000,1200,1100
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",21/01/2021,1100,1300,1200
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",22/01/2021,1000,1300,1200
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",23/01/2021,1000,1200,1100
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",25/01/2021,1000,1200,1100
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",29/01/2021,800,1000,900
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",30/01/2021,900,1100,1000
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",01/02/2021,1000,1200,1100
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",03/02/2021,1000,1200,1100
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",06/02/2021,900,1100,1000
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",07/02/2021,1200,1400,1300
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",10/02/2021,800,1000,900
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",12/02/2021,900,1200,1000
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",13/02/2021,900,1200,1000
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",15/02/2021,1000,1200,1100
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",17/02/2021,1000,1200,1100
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",20/02/2021,900,1100,1000
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",22/02/2021,900,1100,1000
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",24/02/2021,900,1100,1000
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",26/02/2021,800,1000,900
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",27/02/2021,800,1000,900
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",01/03/2021,800,1000,900
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",03/03/2021,800,1000,900
+Tripura,Sepahijala,Sonamura,"Papaya (Raw)","Papaya (Raw)",08/03/2021,800,1000,900
+Tripura,"South District",Manubazar,"Papaya (Raw)","Papaya (Raw)",12/01/2021,1500,3000,2000
+Tripura,"South District","Santir Bazar","Papaya (Raw)",Other,14/01/2021,800,1000,900
+Tripura,"South District","Santir Bazar","Papaya (Raw)",Other,21/01/2021,800,1000,900
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",01/01/2021,2200,2500,2400
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",02/01/2021,2200,2500,2400
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",03/01/2021,2200,2500,2400
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",05/01/2021,2000,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",06/01/2021,2000,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",07/01/2021,2200,2400,2250
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",08/01/2021,2200,2500,2400
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",09/01/2021,2050,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",10/01/2021,2000,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",11/01/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",12/01/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",13/01/2021,2050,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",15/01/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",16/01/2021,2000,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",17/01/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",18/01/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",19/01/2021,2000,2260,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",20/01/2021,1600,2000,1800
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",21/01/2021,1800,2000,1860
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",22/01/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",23/01/2021,1650,2000,1800
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",24/01/2021,2200,2500,2350
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",25/01/2021,1600,2000,1800
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",26/01/2021,2200,2400,2250
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",27/01/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",28/01/2021,2060,2250,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",29/01/2021,2000,2250,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",30/01/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",31/01/2021,2200,2500,2400
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",01/02/2021,2000,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",02/02/2021,2000,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",03/02/2021,2000,2260,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",04/02/2021,2200,2400,2260
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",05/02/2021,2000,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",06/02/2021,2000,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",07/02/2021,2000,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",08/02/2021,2050,2250,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",09/02/2021,2200,2400,2260
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",10/02/2021,2050,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",11/02/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",12/02/2021,2050,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",13/02/2021,1600,2000,1800
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",14/02/2021,2050,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",16/02/2021,2050,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",17/02/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",18/02/2021,2000,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",19/02/2021,2050,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",20/02/2021,2200,2500,2400
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",21/02/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",22/02/2021,1750,2000,1800
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",23/02/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",24/02/2021,2200,2500,2400
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",25/02/2021,2000,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",27/02/2021,2000,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",28/02/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",01/03/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",02/03/2021,2000,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",03/03/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",04/03/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",05/03/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",06/03/2021,2000,2400,2200
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",07/03/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",08/03/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",09/03/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",10/03/2021,1800,2200,2000
+Tripura,Unokoti,Pabiacherra,"Papaya (Raw)","Papaya (Raw)",11/03/2021,2000,2250,2200
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",01/01/2021,2400,2600,2500
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",02/01/2021,2600,2700,2650
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",04/01/2021,2500,2600,2550
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",06/01/2021,2500,2600,2560
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",07/01/2021,2400,2580,2460
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",09/01/2021,2300,2500,2400
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",10/01/2021,2400,2500,2450
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",11/01/2021,2400,2550,2480
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",13/01/2021,2400,2550,2450
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",15/01/2021,2400,2560,2480
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",18/01/2021,2500,2600,2550
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",22/01/2021,2400,2600,2500
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",25/01/2021,2100,2300,2200
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",26/01/2021,2100,2250,2180
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",27/01/2021,2300,2500,2400
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",30/01/2021,2200,2400,2300
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",01/02/2021,2300,2500,2400
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",02/02/2021,2400,2600,2500
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",03/02/2021,2500,2600,2550
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",04/02/2021,2400,2600,2500
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",06/02/2021,2400,2600,2480
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",08/02/2021,2500,2650,2550
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",09/02/2021,2400,2600,2500
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",10/02/2021,2300,2500,2430
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",11/02/2021,2400,2550,2450
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",12/02/2021,2300,2500,2400
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",13/02/2021,2400,2550,2480
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",15/02/2021,2400,2550,2450
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",16/02/2021,2500,2650,2600
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",17/02/2021,2400,2550,2470
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",25/02/2021,2400,2550,2500
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",26/02/2021,2500,2600,2550
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",27/02/2021,2300,2500,2400
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",28/02/2021,2450,2600,2500
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",01/03/2021,2400,2600,2500
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",02/03/2021,2500,2600,2550
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",03/03/2021,2500,2650,2580
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",05/03/2021,2400,2600,2500
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",06/03/2021,2500,2630,2550
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",07/03/2021,2400,2550,2500
+Tripura,Unokoti,Panichowki,"Papaya (Raw)","Papaya (Raw)",09/03/2021,2500,2650,2580
+Tripura,"West District",Kamalghat,"Papaya (Raw)","Papaya (Raw)",06/02/2021,1700,1900,1800
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",01/01/2021,900,1000,950
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",02/01/2021,900,1000,960
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",03/01/2021,900,1000,970
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",04/01/2021,900,1000,940
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",05/01/2021,900,1000,950
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",06/01/2021,900,1000,960
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",07/01/2021,900,1000,970
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",08/01/2021,900,1000,940
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",09/01/2021,900,1000,950
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",10/01/2021,900,1000,960
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",11/01/2021,900,1000,970
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",12/01/2021,900,1000,940
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",15/01/2021,900,1000,950
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",16/01/2021,900,1000,960
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",17/01/2021,900,1000,970
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",18/01/2021,900,1000,940
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",19/01/2021,900,1000,950
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",20/01/2021,900,1000,960
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",22/01/2021,900,1000,950
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",23/01/2021,900,1000,960
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",24/01/2021,900,1000,970
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",25/01/2021,900,1000,940
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",26/01/2021,900,1000,950
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",27/01/2021,900,1000,960
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",28/01/2021,900,1000,970
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",29/01/2021,900,1000,940
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",30/01/2021,900,1000,950
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",01/02/2021,1000,1100,1050
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",02/02/2021,1000,1100,1060
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",03/02/2021,1000,1100,1070
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",04/02/2021,1000,1100,1040
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",05/02/2021,1000,1100,1050
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",06/02/2021,1000,1100,1060
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",07/02/2021,1000,1100,1070
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",08/02/2021,1000,1100,1040
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",09/02/2021,1000,1100,1050
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",10/02/2021,1000,1100,1060
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",12/02/2021,1000,1100,1050
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",13/02/2021,1000,1200,1120
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",14/02/2021,1000,1200,1150
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",15/02/2021,1000,1100,1050
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",16/02/2021,1000,1100,1060
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",17/02/2021,1000,1100,1070
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",18/02/2021,1000,1100,1040
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",01/03/2021,900,1000,950
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",02/03/2021,900,1000,960
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",03/03/2021,900,1000,970
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",04/03/2021,900,1000,940
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",05/03/2021,900,1000,950
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",06/03/2021,900,1000,960
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",07/03/2021,900,1000,970
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",08/03/2021,900,1000,940
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",09/03/2021,900,1000,950
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",10/03/2021,900,1000,960
+"Uttar Pradesh",Muzaffarnagar,Thanabhawan,"Papaya (Raw)","Papaya (Raw)",11/03/2021,900,1000,970
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,01/01/2021,1700,1950,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,02/01/2021,1700,1900,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,03/01/2021,1700,1900,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,04/01/2021,1600,1800,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,05/01/2021,1600,1800,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,06/01/2021,1600,1850,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,07/01/2021,1700,1900,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,08/01/2021,1700,1900,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,09/01/2021,1700,1900,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,10/01/2021,1700,1800,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,11/01/2021,1600,1800,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,12/01/2021,1500,1725,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,13/01/2021,1500,1725,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,14/01/2021,1300,1400,1400
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,15/01/2021,1500,1700,1500
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,16/01/2021,1500,1725,1500
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,17/01/2021,1500,1650,1500
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,18/01/2021,1500,1800,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,19/01/2021,1500,1800,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,20/01/2021,1500,1800,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,21/01/2021,1500,1800,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,22/01/2021,1500,1700,1500
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,23/01/2021,1400,1650,1500
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,24/01/2021,1500,1750,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,25/01/2021,1500,1700,1500
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,26/01/2021,1500,1750,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,27/01/2021,1500,1700,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,28/01/2021,1600,1800,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,29/01/2021,1600,1800,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,30/01/2021,1700,1825,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,31/01/2021,1600,1850,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,01/02/2021,1600,1900,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,02/02/2021,1600,1800,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,03/02/2021,1600,1900,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,04/02/2021,1500,1800,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,05/02/2021,1400,1700,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,06/02/2021,1500,1800,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,07/02/2021,1500,1750,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,08/02/2021,1600,1900,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,09/02/2021,1600,1875,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,10/02/2021,1700,2000,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,11/02/2021,1800,2000,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,12/02/2021,1700,2000,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,13/02/2021,1700,1900,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,14/02/2021,1700,1800,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,15/02/2021,1600,1700,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,16/02/2021,1600,1900,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,17/02/2021,1700,1800,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,18/02/2021,1700,2000,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,19/02/2021,1800,2000,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,20/02/2021,1600,1900,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,21/02/2021,1500,1800,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,22/02/2021,1600,1800,1600
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,23/02/2021,1700,1800,1700
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,24/02/2021,1700,2000,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,25/02/2021,1800,2000,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,26/02/2021,1800,2100,2000
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,27/02/2021,1800,2250,2000
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,28/02/2021,1900,2100,2000
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,01/03/2021,1800,2100,2000
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,02/03/2021,1800,1900,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,03/03/2021,1600,1900,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,04/03/2021,1700,2000,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,05/03/2021,1700,2000,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,06/03/2021,1800,2000,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,07/03/2021,1800,2000,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,08/03/2021,1800,2000,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,09/03/2021,1700,2000,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,10/03/2021,1800,2000,1800
+"West Bengal","North 24 Parganas",Habra,"Papaya (Raw)",Other,11/03/2021,1900,2200,2000
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,01/01/2021,2800,3200,3000
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,02/01/2021,2400,2600,2500
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,03/01/2021,2100,2500,2400
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,10/01/2021,2500,3000,2800
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,11/01/2021,2200,2600,2400
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,12/01/2021,2100,2400,2200
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,13/01/2021,2600,2800,2700
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,14/01/2021,2000,2200,2100
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,15/01/2021,2100,2300,2200
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,16/01/2021,2100,2400,2300
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,17/01/2021,1800,2100,2000
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,18/01/2021,1700,1900,1800
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,19/01/2021,2000,2200,2100
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,20/01/2021,1800,2200,2000
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,21/01/2021,1800,2200,2000
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,22/01/2021,1800,2100,2000
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,23/01/2021,1600,2000,1800
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,24/01/2021,2000,2300,2100
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,25/01/2021,2400,2600,2500
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,26/01/2021,1800,2100,2000
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,27/01/2021,2000,2200,2100
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,28/01/2021,1800,2100,1900
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,30/01/2021,1800,2400,2000
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,31/01/2021,2500,2800,2600
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,05/02/2021,2000,2400,2200
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,06/02/2021,1800,2100,2000
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,07/02/2021,2100,2300,2200
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,09/02/2021,2000,2300,2200
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,11/02/2021,1800,2200,2000
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,12/02/2021,1900,2200,2100
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,13/02/2021,1800,2300,2000
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,15/02/2021,2200,2500,2400
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,16/02/2021,2200,3000,2500
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,21/02/2021,2000,2200,2100
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,22/02/2021,2200,2400,2300
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,23/02/2021,2200,2400,2300
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,24/02/2021,2200,2500,2400
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,28/02/2021,2500,2700,2600
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,02/03/2021,2200,2600,2400
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,03/03/2021,2500,2700,2600
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,04/03/2021,2200,2500,2400
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,05/03/2021,2200,2400,2300
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,06/03/2021,2400,2600,2500
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,07/03/2021,2500,2650,2600
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,08/03/2021,2600,3000,2800
+"West Bengal","Sounth 24 Parganas",Baruipur(Canning),"Papaya (Raw)",Other,09/03/2021,2500,3000,2800
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,16/02/2021,3200,3400,3300
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,17/02/2021,3400,3500,3450
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,18/02/2021,3400,3500,3450
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,19/02/2021,3500,3600,3550
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,22/02/2021,3500,3600,3550
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,23/02/2021,3500,3600,3550
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,24/02/2021,3500,3600,3550
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,25/02/2021,3300,3400,3350
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,26/02/2021,3600,3800,3700
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,02/03/2021,3000,3200,3100
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,03/03/2021,2800,3200,3000
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,04/03/2021,3500,3600,3550
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,05/03/2021,3500,3600,3550
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,06/03/2021,3000,3250,3200
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,07/03/2021,3000,3300,3200
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,08/03/2021,3100,3400,3200
+"West Bengal","Sounth 24 Parganas","Diamond Harbour(South 24-pgs)","Papaya (Raw)",Other,09/03/2021,2800,3000,2900

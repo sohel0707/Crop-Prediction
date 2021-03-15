@@ -1,0 +1,1899 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Gujarat,Amreli,Rajula,Beans,Local,01/01/2021,6580,6580,6580
+Gujarat,Amreli,Rajula,Beans,Local,02/01/2021,7125,7125,7125
+Gujarat,Amreli,Rajula,Beans,Local,04/01/2021,5625,5625,5625
+Gujarat,Amreli,Rajula,Beans,Local,08/01/2021,4300,4300,4300
+Gujarat,Amreli,Rajula,Beans,Local,11/01/2021,5005,5005,5005
+Gujarat,Amreli,Rajula,Beans,Local,13/01/2021,4860,4860,4860
+Gujarat,Amreli,Rajula,Beans,Local,27/01/2021,2750,2750,2750
+Gujarat,Amreli,Rajula,Beans,Local,30/01/2021,2660,2660,2660
+Gujarat,Anand,Tarapur,Beans,Other,29/01/2021,3250,3875,3250
+Gujarat,Anand,Tarapur,Beans,Other,09/03/2021,3875,4575,4533
+Gujarat,Jamnagar,Jamnagar,Beans,Other,01/01/2021,3400,5250,4325
+Gujarat,Jamnagar,Jamnagar,Beans,Other,04/01/2021,4050,5750,4900
+Gujarat,Jamnagar,Jamnagar,Beans,Other,06/01/2021,4750,6150,4938
+Gujarat,Jamnagar,Jamnagar,Beans,Other,07/01/2021,4525,6925,5725
+Gujarat,Jamnagar,Jamnagar,Beans,Other,09/01/2021,4000,4625,4313
+Gujarat,Jamnagar,Jamnagar,Beans,Other,11/01/2021,6775,7075,6925
+Gujarat,Jamnagar,Jamnagar,Beans,Other,12/01/2021,6800,7225,7013
+Gujarat,Jamnagar,Jamnagar,Beans,Other,13/01/2021,5300,6700,6000
+Gujarat,Jamnagar,Jamnagar,Beans,Other,15/01/2021,4200,4725,4463
+Gujarat,Jamnagar,Jamnagar,Beans,Other,16/01/2021,3500,3750,3625
+Gujarat,Jamnagar,Jamnagar,Beans,Other,18/01/2021,5500,7175,6338
+Gujarat,Jamnagar,Jamnagar,Beans,Other,19/01/2021,6525,6775,6650
+Gujarat,Jamnagar,Jamnagar,Beans,Other,20/01/2021,6000,6325,6163
+Gujarat,Jamnagar,Jamnagar,Beans,Other,21/01/2021,7500,7600,7550
+Gujarat,Jamnagar,Jamnagar,Beans,Other,22/01/2021,3500,3850,3675
+Gujarat,Jamnagar,Jamnagar,Beans,Other,25/01/2021,5000,5350,5175
+Gujarat,Jamnagar,Jamnagar,Beans,Other,27/01/2021,4975,6000,5488
+Gujarat,Jamnagar,Jamnagar,Beans,Other,29/01/2021,5000,7000,6000
+Gujarat,Jamnagar,Jamnagar,Beans,Other,01/02/2021,3300,5500,4150
+Gujarat,Jamnagar,Jamnagar,Beans,Other,02/02/2021,3500,6125,4813
+Gujarat,Jamnagar,Jamnagar,Beans,Other,09/02/2021,4900,7275,6088
+Gujarat,Jamnagar,Jamnagar,Beans,Other,11/02/2021,4500,5025,4763
+Gujarat,Jamnagar,Jamnagar,Beans,Other,12/02/2021,3500,6025,4763
+Gujarat,Jamnagar,Jamnagar,Beans,Other,13/02/2021,3000,3825,3413
+Gujarat,Jamnagar,Jamnagar,Beans,Other,15/02/2021,5500,6425,5963
+Gujarat,Jamnagar,Jamnagar,Beans,Other,16/02/2021,4200,4500,4350
+Gujarat,Junagarh,Junagadh,Beans,"Beans (Whole)",19/01/2021,2500,4505,3750
+Gujarat,Junagarh,Junagadh,Beans,"Beans (Whole)",20/01/2021,4080,4080,4080
+Gujarat,Porbandar,Porbandar,Beans,"Beans (Whole)",23/01/2021,0,6000,6000
+Gujarat,Rajkot,Jasdan,Beans,Other,04/01/2021,3750,3750,3750
+Gujarat,Rajkot,Jasdan,Beans,Other,06/01/2021,5290,5290,5290
+Gujarat,Rajkot,Jasdan,Beans,Other,08/01/2021,4500,4500,4500
+Gujarat,Rajkot,Jasdan,Beans,Other,11/01/2021,3750,4700,4000
+Gujarat,Rajkot,Jasdan,Beans,Other,12/01/2021,4500,4500,4500
+Gujarat,Rajkot,Jasdan,Beans,Other,19/01/2021,4500,4500,4500
+Gujarat,Rajkot,Jasdan,Beans,Other,20/01/2021,2000,4900,4000
+Gujarat,Rajkot,Jasdan,Beans,Other,22/01/2021,3500,5125,4750
+Gujarat,Rajkot,Jasdan,Beans,Other,23/01/2021,4500,4500,4500
+Gujarat,Rajkot,Jasdan,Beans,Other,25/01/2021,3750,5000,4750
+Gujarat,Rajkot,Jasdan,Beans,Other,27/01/2021,3000,4755,4255
+Gujarat,Rajkot,Jasdan,Beans,Other,28/01/2021,4500,4500,4500
+Gujarat,Rajkot,Jasdan,Beans,Other,29/01/2021,4000,4755,4500
+Gujarat,Rajkot,Jasdan,Beans,Other,30/01/2021,4500,5000,4750
+Gujarat,Rajkot,Jasdan,Beans,Other,03/02/2021,3750,4845,4250
+Gujarat,Rajkot,Jasdan,Beans,Other,04/02/2021,2900,5000,4500
+Gujarat,Rajkot,Jasdan,Beans,Other,05/02/2021,2000,4500,3900
+Gujarat,Rajkot,Jasdan,Beans,Other,06/02/2021,3500,5050,4750
+Gujarat,Rajkot,Jasdan,Beans,Other,08/02/2021,4125,5125,4750
+Gujarat,Rajkot,Jasdan,Beans,Other,09/02/2021,3500,5650,4500
+Gujarat,Rajkot,Jasdan,Beans,Other,10/02/2021,3500,5255,4750
+Gujarat,Rajkot,Jasdan,Beans,Other,11/02/2021,2000,4775,3750
+Gujarat,Rajkot,Jasdan,Beans,Other,12/02/2021,2500,5000,3750
+Gujarat,Rajkot,Jasdan,Beans,Other,13/02/2021,2500,5000,4000
+Gujarat,Rajkot,Jasdan,Beans,Other,15/02/2021,2000,5050,4500
+Gujarat,Rajkot,Jasdan,Beans,Other,16/02/2021,2500,5050,4250
+Gujarat,Rajkot,Jasdan,Beans,Other,17/02/2021,4000,5500,5000
+Gujarat,Rajkot,Jasdan,Beans,Other,18/02/2021,4250,5375,4750
+Gujarat,Rajkot,Jasdan,Beans,Other,19/02/2021,4500,5500,5250
+Gujarat,Rajkot,Jasdan,Beans,Other,20/02/2021,3500,5275,4750
+Gujarat,Rajkot,Jasdan,Beans,Other,22/02/2021,2750,4850,4250
+Gujarat,Rajkot,Jasdan,Beans,Other,23/02/2021,3500,5050,4755
+Gujarat,Rajkot,Jasdan,Beans,Other,24/02/2021,3500,4985,4400
+Gujarat,Rajkot,Jasdan,Beans,Other,25/02/2021,2500,5000,4000
+Gujarat,Rajkot,Jasdan,Beans,Other,26/02/2021,4000,5500,5250
+Gujarat,Rajkot,Jasdan,Beans,Other,27/02/2021,4000,5125,4750
+Gujarat,Rajkot,Jasdan,Beans,Other,08/03/2021,3500,5000,4500
+Gujarat,Rajkot,Jasdan,Beans,Other,09/03/2021,3500,5000,4750
+Gujarat,Surat,Mandvi,Beans,Other,10/02/2021,2750,2750,2750
+Gujarat,Surat,Mandvi,Beans,Other,24/02/2021,7000,7000,7000
+Gujarat,Surat,Mandvi,Beans,Other,26/02/2021,6000,6500,6250
+Gujarat,Surat,Mandvi,Beans,Other,05/03/2021,6250,6250,6250
+Gujarat,Surat,Mandvi,Beans,Other,06/03/2021,6000,6250,6125
+Gujarat,Surat,Mandvi,Beans,Other,07/03/2021,6250,6250,6250
+Gujarat,Surat,Mandvi,Beans,Other,08/03/2021,4500,6500,5500
+Gujarat,Surat,Mandvi,Beans,Other,09/03/2021,6250,6400,6325
+Gujarat,Surat,Mandvi,Beans,Other,10/03/2021,6000,6000,6000
+Gujarat,Surat,S.Mandvi,Beans,Other,10/02/2021,2750,2750,2750
+Gujarat,Surat,S.Mandvi,Beans,Other,24/02/2021,7000,7000,7000
+Gujarat,Surat,S.Mandvi,Beans,Other,26/02/2021,6000,6500,6250
+Gujarat,Surat,S.Mandvi,Beans,Other,05/03/2021,6250,6250,6250
+Gujarat,Surat,S.Mandvi,Beans,Other,06/03/2021,6000,6250,6125
+Gujarat,Surat,S.Mandvi,Beans,Other,07/03/2021,6250,6250,6250
+Gujarat,Surat,S.Mandvi,Beans,Other,08/03/2021,4500,6500,5500
+Gujarat,Surat,S.Mandvi,Beans,Other,09/03/2021,6250,6400,6325
+Gujarat,Surat,S.Mandvi,Beans,Other,10/03/2021,6000,6000,6000
+Gujarat,Surat,Songadh,Beans,"Beans (Whole)",22/02/2021,6515,6515,6515
+Gujarat,Surat,Songadh,Beans,"Beans (Whole)",26/02/2021,6550,6550,6550
+Gujarat,Surat,Songadh,Beans,"Beans (Whole)",03/03/2021,6070,6070,6070
+Gujarat,Surat,Songadh,Beans,"Beans (Whole)",04/03/2021,6400,6505,6452
+Gujarat,Surat,Songadh,Beans,"Beans (Whole)",08/03/2021,6565,6725,6645
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",01/01/2021,2600,2800,2700
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",02/01/2021,2600,3000,2800
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",04/01/2021,1400,2800,1600
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",05/01/2021,1500,1800,1700
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",06/01/2021,1200,1600,1400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",07/01/2021,1000,1200,1100
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",08/01/2021,1400,1600,1500
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",11/01/2021,3000,3600,3400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",12/01/2021,3000,3400,3200
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",13/01/2021,3200,3600,3400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",15/01/2021,3200,3600,3400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",16/01/2021,3200,3600,3400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",18/01/2021,2400,3000,2800
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",19/01/2021,2300,2900,2700
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",20/01/2021,2400,3000,2800
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",21/01/2021,2300,2900,2700
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",22/01/2021,2400,3000,2800
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",25/01/2021,3000,3800,3600
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",27/01/2021,3000,3800,3600
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",28/01/2021,3100,3900,3700
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",29/01/2021,3000,3800,3600
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",30/01/2021,3400,3800,3600
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",01/02/2021,3400,3800,3600
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",02/02/2021,3500,3900,3700
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",03/02/2021,3400,3800,3600
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",04/02/2021,3000,3200,3100
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",05/02/2021,3000,3200,3100
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",06/02/2021,3000,3200,3100
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",08/02/2021,3000,3400,3200
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",09/02/2021,3000,3400,3200
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",10/02/2021,2900,3300,3100
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",11/02/2021,3000,3200,3100
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",12/02/2021,3100,3300,3200
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",15/02/2021,3000,3200,3100
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",16/02/2021,2900,3100,3000
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",17/02/2021,3000,3200,3100
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",18/02/2021,3100,3300,3200
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",19/02/2021,3000,3200,3100
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",20/02/2021,3100,3300,3200
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",22/02/2021,2600,3000,2800
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",23/02/2021,2700,3100,2900
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",24/02/2021,2600,3000,2800
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",25/02/2021,2700,3100,2900
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",26/02/2021,2600,3000,2800
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",01/03/2021,2700,3100,2900
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",02/03/2021,2600,3000,2800
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",03/03/2021,2800,3200,3000
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",04/03/2021,2800,3200,3000
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",05/03/2021,2600,3000,2800
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",06/03/2021,2600,3000,2800
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",08/03/2021,2800,3800,3000
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",09/03/2021,2900,3600,3000
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beans,"Beans (Whole)",10/03/2021,2500,3200,2800
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",05/01/2021,1800,2400,2000
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",06/01/2021,1800,2400,2000
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",08/01/2021,1800,2400,2000
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",11/01/2021,1800,2400,2000
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",12/01/2021,1800,2400,2000
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",13/01/2021,1600,2400,2000
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",15/01/2021,1800,2400,2000
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",16/01/2021,2800,4000,3400
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",18/01/2021,2800,4000,3400
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",19/01/2021,2800,4000,3400
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",20/01/2021,2800,4000,3400
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",21/01/2021,2800,4000,3400
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",22/01/2021,2800,4000,3400
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",23/01/2021,2800,4000,3200
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",25/01/2021,2800,4000,3500
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",27/01/2021,2800,4000,3500
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",28/01/2021,2800,4000,3400
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",29/01/2021,2800,4000,3500
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",30/01/2021,3000,3500,3200
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",01/02/2021,3000,3500,3100
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",02/02/2021,2500,3500,3000
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",03/02/2021,3000,3500,3100
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",04/02/2021,3000,3500,3100
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",05/02/2021,3000,3500,3100
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",08/02/2021,3000,3500,3100
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",09/02/2021,3000,3500,3200
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",10/02/2021,3000,3500,3100
+Karnataka,Bangalore,"Doddaballa Pur",Beans,"Beans (Whole)",11/02/2021,3000,3500,3100
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",01/01/2021,2000,2800,2400
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",02/01/2021,2000,3000,2500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",03/01/2021,1600,2400,2000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",04/01/2021,1600,2400,2000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",05/01/2021,1600,2400,2000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",06/01/2021,1400,2000,1600
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",07/01/2021,2000,2800,2400
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",08/01/2021,2000,2800,2400
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",09/01/2021,2000,3200,2600
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",10/01/2021,2400,4000,3200
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",11/01/2021,3200,4400,4000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",12/01/2021,4000,6000,5000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",13/01/2021,4000,6000,5000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",14/01/2021,4000,6000,5000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",15/01/2021,3000,4000,3600
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",16/01/2021,3000,4000,3600
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",17/01/2021,3600,4400,4000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",18/01/2021,3000,4000,3500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",19/01/2021,5000,6000,5500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",20/01/2021,4000,5000,4500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",21/01/2021,4000,5000,4500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",22/01/2021,4000,5200,4400
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",23/01/2021,4000,6000,5000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",24/01/2021,3000,4000,3500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",25/01/2021,3200,4000,3600
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",26/01/2021,3000,4000,3600
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",27/01/2021,3000,4000,3500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",28/01/2021,3200,4400,4000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",29/01/2021,3000,4800,4000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",30/01/2021,4000,6000,5000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",01/02/2021,3000,4000,3500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",02/02/2021,3200,4000,3600
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",03/02/2021,3000,4000,3600
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",04/02/2021,3200,4800,4000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",05/02/2021,3000,4000,3500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",06/02/2021,3000,4400,3600
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",07/02/2021,3600,4400,4000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",08/02/2021,3600,4400,4000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",09/02/2021,4000,6000,5000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",10/02/2021,4000,4800,4400
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",11/02/2021,3600,4800,4000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",12/02/2021,4000,6000,5000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",13/02/2021,5000,6000,5500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",14/02/2021,4000,6000,5000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",15/02/2021,4000,5600,4800
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",16/02/2021,4400,5500,5000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",17/02/2021,4000,4800,4400
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",18/02/2021,3000,4000,3500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",19/02/2021,3000,4000,3500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",20/02/2021,3000,4000,3500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",21/02/2021,3000,4000,3600
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",22/02/2021,2400,3200,2800
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",23/02/2021,2000,3200,2800
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",24/02/2021,2000,3200,2500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",25/02/2021,2000,3200,2400
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",26/02/2021,2000,3000,2500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",27/02/2021,2000,3200,2500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",01/03/2021,2400,3200,2800
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",02/03/2021,2000,3000,2400
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",03/03/2021,2000,3000,2400
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",04/03/2021,2400,3200,2800
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",05/03/2021,3600,4800,4000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",06/03/2021,4000,5000,4500
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",07/03/2021,2800,3200,3000
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",08/03/2021,2800,3600,3200
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",09/03/2021,2400,3200,2800
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",10/03/2021,2400,3200,2800
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",11/03/2021,3000,4800,4000
+Karnataka,Bellary,Hospet,Beans,"Beans (Whole)",02/01/2021,2400,2500,2500
+Karnataka,Bellary,Hospet,Beans,"Beans (Whole)",04/01/2021,2000,2200,2200
+Karnataka,Bellary,Hospet,Beans,"Beans (Whole)",09/01/2021,1800,1800,1800
+Karnataka,Bellary,Hospet,Beans,"Beans (Whole)",10/01/2021,1800,2500,1800
+Karnataka,Bellary,Hospet,Beans,"Beans (Whole)",13/01/2021,1600,1600,1600
+Karnataka,Bellary,Hospet,Beans,"Beans (Whole)",29/01/2021,1200,1800,1600
+Karnataka,Bellary,Hospet,Beans,"Beans (Whole)",03/02/2021,1400,1400,1400
+Karnataka,Bellary,Hospet,Beans,"Beans (Whole)",15/02/2021,1400,1400,1400
+Karnataka,Bellary,Hospet,Beans,"Beans (Whole)",19/02/2021,1500,1500,1500
+Karnataka,Bellary,Hospet,Beans,"Beans (Whole)",22/02/2021,2000,2500,2500
+Karnataka,Bellary,Hospet,Beans,"Beans (Whole)",03/03/2021,1000,1800,1000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",01/01/2021,1500,2300,1800
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",02/01/2021,1500,2600,2000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",04/01/2021,600,1400,1000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",05/01/2021,500,1200,1000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",06/01/2021,1000,2000,1500
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",07/01/2021,1000,1500,1250
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",08/01/2021,1500,2000,1800
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",09/01/2021,1500,2200,1800
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",11/01/2021,1500,2200,2000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",12/01/2021,2500,2800,2600
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",13/01/2021,2000,3500,2500
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",14/01/2021,2500,3500,3000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",15/01/2021,2500,3500,3000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",16/01/2021,3000,4500,3800
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",18/01/2021,3000,4500,3800
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",19/01/2021,3000,4600,3500
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",20/01/2021,2500,4000,3300
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",21/01/2021,2500,3500,3000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",22/01/2021,3000,4500,4000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",23/01/2021,3500,4500,4000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",25/01/2021,2500,3700,3000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",27/01/2021,2500,3900,3000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",28/01/2021,3500,4000,3800
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",29/01/2021,3500,4500,4000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",30/01/2021,2500,5000,3500
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",01/02/2021,2500,4000,3000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",02/02/2021,3000,4700,4000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",03/02/2021,3500,5000,4000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",04/02/2021,3500,4000,3800
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",05/02/2021,3000,3800,3500
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",06/02/2021,3500,4500,4000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",08/02/2021,2500,4500,3500
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",09/02/2021,2400,2900,2600
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",10/02/2021,2500,3500,3000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",11/02/2021,2500,3500,3000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",12/02/2021,3000,4500,3800
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",13/02/2021,3500,4500,4000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",15/02/2021,2200,4500,3800
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",16/02/2021,3000,5000,4000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",17/02/2021,2500,4400,3500
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",18/02/2021,2000,2600,2300
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",19/02/2021,2400,3800,3000
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",20/02/2021,2500,4000,3200
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",22/02/2021,2000,4700,3200
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",23/02/2021,2000,3500,2750
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",24/02/2021,2000,2900,2450
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",25/02/2021,2000,3000,2500
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",26/02/2021,2500,3500,2750
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",27/02/2021,2000,3500,2750
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",01/03/2021,1000,2800,1900
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",02/03/2021,1000,2800,2400
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",03/03/2021,1000,1300,1150
+Karnataka,Chamrajnagar,"Chamaraj Nagar",Beans,"Beans (Whole)",04/03/2021,2000,4200,3100
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",01/01/2021,2300,2300,2300
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",02/01/2021,2400,2400,2400
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",04/01/2021,1600,1600,1600
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",05/01/2021,1200,1200,1200
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",06/01/2021,900,900,900
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",07/01/2021,800,1300,800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",08/01/2021,1800,1800,1800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",11/01/2021,1800,2000,1800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",12/01/2021,1400,2000,1400
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",15/01/2021,2800,2800,2800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",18/01/2021,3800,3800,3800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",19/01/2021,3800,3800,3800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",20/01/2021,3000,3000,3000
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",22/01/2021,4800,4800,4800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",25/01/2021,4800,4800,4800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",27/01/2021,4000,4200,4000
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",28/01/2021,4000,4000,4000
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",29/01/2021,3500,3500,3500
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",30/01/2021,3700,3700,3700
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",01/02/2021,3500,3500,3500
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",02/02/2021,2800,2800,2800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",03/02/2021,2800,2800,2800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",04/02/2021,2200,2200,2200
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",05/02/2021,2000,2200,2000
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",06/02/2021,2500,2500,2500
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",08/02/2021,2500,2500,2500
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",09/02/2021,3000,3000,3000
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",10/02/2021,3500,3500,3500
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",11/02/2021,3500,3500,3500
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",12/02/2021,3500,3500,3500
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",15/02/2021,3800,4300,3800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",16/02/2021,4300,4300,4300
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",17/02/2021,3800,3800,3800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",18/02/2021,2800,2800,2800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",19/02/2021,2000,2000,2000
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",20/02/2021,2400,2400,2400
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",22/02/2021,1900,2000,1900
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",23/02/2021,2000,2000,2000
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",24/02/2021,1800,1800,1800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",25/02/2021,2000,2000,2000
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",26/02/2021,2200,2200,2200
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",01/03/2021,1800,1800,1800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",03/03/2021,2080,2080,2080
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",04/03/2021,2800,2800,2800
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",05/03/2021,2700,2800,2700
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",06/03/2021,3300,3300,3300
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",08/03/2021,3600,3600,3600
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",09/03/2021,3600,3600,3600
+Karnataka,Chamrajnagar,Gundlupet,Beans,"Beans (Whole)",10/03/2021,3500,3500,3500
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",02/01/2021,1100,1500,1320
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",04/01/2021,1400,2000,1720
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",05/01/2021,1000,1400,1220
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",06/01/2021,1200,1600,1450
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",07/01/2021,1200,1600,1450
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",11/01/2021,1200,1600,1460
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",12/01/2021,1200,1600,1450
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",13/01/2021,1300,1700,1500
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",16/01/2021,1400,1700,1560
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",18/01/2021,1400,1900,1650
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",19/01/2021,1400,2000,1680
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",20/01/2021,1800,2200,2000
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",21/01/2021,1800,2200,2000
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",23/01/2021,2200,2800,2565
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",02/02/2021,1800,2400,2100
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",03/02/2021,2000,2600,2300
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",04/02/2021,1800,2600,2250
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",06/02/2021,2200,2800,2650
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",08/02/2021,2400,2900,2580
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",09/02/2021,2400,3000,2650
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",10/02/2021,2400,3000,2650
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",11/02/2021,2200,2800,2510
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",15/02/2021,2200,2800,2465
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",16/02/2021,2400,3000,2600
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",17/02/2021,1800,2600,2400
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",18/02/2021,2400,3000,2700
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",22/02/2021,1800,2800,2300
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",23/02/2021,2200,2800,2550
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",24/02/2021,2200,3000,2650
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",25/02/2021,2000,3000,2560
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",27/02/2021,2000,2800,2480
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",01/03/2021,2000,2600,2300
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",02/03/2021,2200,2700,2530
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",03/03/2021,2400,3000,2790
+Karnataka,Chikmagalur,Bagepalli,Beans,"Beans (Whole)",04/03/2021,1800,2400,2200
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",01/01/2021,1660,2060,1860
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",02/01/2021,1735,2135,1935
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",04/01/2021,1480,1880,1680
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",05/01/2021,1166,1166,1166
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",06/01/2021,1294,1694,1494
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",07/01/2021,2578,2978,2778
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",08/01/2021,1415,1615,1515
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",11/01/2021,800,980,880
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",12/01/2021,1812,2212,2012
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",13/01/2021,2107,2507,2307
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",15/01/2021,1728,2128,1928
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",16/01/2021,2741,3241,2941
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",18/01/2021,1945,2345,2145
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",19/01/2021,1960,2360,2160
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",20/01/2021,1786,2186,1986
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",25/01/2021,3041,3441,3241
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",27/01/2021,3096,3296,3196
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",28/01/2021,3073,3673,3473
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",29/01/2021,2775,2975,2875
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",30/01/2021,2578,2978,2778
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",01/02/2021,2830,3230,3030
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",02/02/2021,2830,3230,3030
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",03/02/2021,2400,2700,2500
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",05/02/2021,1804,2204,2004
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",06/02/2021,2181,2581,2381
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",08/02/2021,2364,2764,2564
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",09/02/2021,2333,2533,2333
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",10/02/2021,2412,2812,2612
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",11/02/2021,2525,2525,2525
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",12/02/2021,1315,1715,1515
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",15/02/2021,3294,3644,3494
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",16/02/2021,3466,3866,3666
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",17/02/2021,3273,3673,3473
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",19/02/2021,3382,3882,3682
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",20/02/2021,2521,2921,2721
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",22/02/2021,2496,2896,2696
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",24/02/2021,2282,2682,2482
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",26/02/2021,1844,2244,2044
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",01/03/2021,2245,2645,2445
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",03/03/2021,3186,3386,3286
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",05/03/2021,2898,3298,3098
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",06/03/2021,3355,3755,3555
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",08/03/2021,3598,3998,3798
+Karnataka,Chikmagalur,Chikkamagalore,Beans,"Beans (Whole)",10/03/2021,3371,3771,3571
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",02/01/2021,1000,1000,1000
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",04/01/2021,1000,1000,1000
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",06/01/2021,1390,1390,1390
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",08/01/2021,1666,1666,1666
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",11/01/2021,1040,1189,1110
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",12/01/2021,1388,1388,1388
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",13/01/2021,1040,1040,1040
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",15/01/2021,1388,1388,1388
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",16/01/2021,1665,1665,1665
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",19/01/2021,1110,1110,1110
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",25/01/2021,1665,1665,1665
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",27/01/2021,1665,1665,1665
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",29/01/2021,1388,1388,1388
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",30/01/2021,1665,1665,1665
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",06/02/2021,1387,1387,1387
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",08/02/2021,1388,1665,1388
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",09/02/2021,1388,1388,1388
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",11/02/2021,1189,1189,1189
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",15/02/2021,1387,1387,1387
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",20/02/2021,1387,1387,1387
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",22/02/2021,1189,1388,1387
+Karnataka,Chikmagalur,Kadur,Beans,"Beans (Whole)",06/03/2021,1666,1666,1666
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",01/01/2021,2500,3000,2800
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",05/01/2021,1800,2200,2000
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",06/01/2021,1500,2000,1800
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",07/01/2021,1500,2000,1800
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",08/01/2021,500,1000,800
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",12/01/2021,2200,2600,2400
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",13/01/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",15/01/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",16/01/2021,1800,2200,2000
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",19/01/2021,3000,3500,3300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",20/01/2021,2500,3000,2800
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",21/01/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",22/01/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",27/01/2021,500,1000,800
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",28/01/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",29/01/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",30/01/2021,2000,3000,2800
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",02/02/2021,3000,3500,3300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",03/02/2021,2500,3000,2800
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",04/02/2021,2000,3000,2500
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",05/02/2021,2400,2800,2600
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",06/02/2021,2500,3000,2800
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",09/02/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",10/02/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",11/02/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",12/02/2021,2500,3000,2800
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",16/02/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",17/02/2021,1800,2200,2000
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",18/02/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",19/02/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",20/02/2021,1500,2000,1800
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",23/02/2021,1600,2000,1800
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",24/02/2021,1500,2000,1800
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",25/02/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",26/02/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",02/03/2021,2200,2600,2400
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",03/03/2021,2200,2600,2400
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",04/03/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",05/03/2021,2500,3000,2800
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",06/03/2021,2000,2500,2300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",09/03/2021,3000,3500,3300
+Karnataka,Davangere,Davangere,Beans,"Beans (Whole)",10/03/2021,2500,3000,2800
+Karnataka,Davangere,Honnali,Beans,"Beans (Whole)",08/01/2021,1500,1500,1500
+Karnataka,Davangere,Honnali,Beans,"Beans (Whole)",11/01/2021,1600,1800,1700
+Karnataka,Davangere,Honnali,Beans,"Beans (Whole)",15/01/2021,1600,1600,1600
+Karnataka,Davangere,Honnali,Beans,"Beans (Whole)",18/01/2021,2200,2200,2200
+Karnataka,Davangere,Honnali,Beans,"Beans (Whole)",22/01/2021,2500,2500,2500
+Karnataka,Davangere,Honnali,Beans,"Beans (Whole)",27/01/2021,2600,2600,2600
+Karnataka,Davangere,Honnali,Beans,"Beans (Whole)",08/02/2021,1800,2000,1900
+Karnataka,Davangere,Honnali,Beans,"Beans (Whole)",01/03/2021,1600,1600,1600
+Karnataka,Davangere,Honnali,Beans,"Beans (Whole)",02/03/2021,1600,1600,1600
+Karnataka,Davangere,Honnali,Beans,"Beans (Whole)",04/03/2021,1600,1600,1600
+Karnataka,Davangere,Honnali,Beans,"Beans (Whole)",06/03/2021,1600,1800,1700
+Karnataka,Davangere,Honnali,Beans,"Beans (Whole)",08/03/2021,1600,1600,1600
+Karnataka,Hassan,Channarayapatna,Beans,"Beans (Whole)",07/01/2021,1500,2000,2000
+Karnataka,Hassan,Channarayapatna,Beans,"Beans (Whole)",12/01/2021,2000,2000,2000
+Karnataka,Hassan,Channarayapatna,Beans,"Beans (Whole)",13/01/2021,2500,3000,2500
+Karnataka,Hassan,Channarayapatna,Beans,"Beans (Whole)",22/01/2021,4000,4000,4000
+Karnataka,Hassan,Channarayapatna,Beans,"Beans (Whole)",23/01/2021,5000,5000,5000
+Karnataka,Hassan,Channarayapatna,Beans,"Beans (Whole)",04/02/2021,3500,3500,3500
+Karnataka,Hassan,Channarayapatna,Beans,"Beans (Whole)",17/02/2021,3000,3000,3000
+Karnataka,Hassan,Channarayapatna,Beans,"Beans (Whole)",18/02/2021,3000,3000,3000
+Karnataka,Hassan,Channarayapatna,Beans,"Beans (Whole)",05/03/2021,3000,4000,3000
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",06/01/2021,1000,2445,1650
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",03/02/2021,2600,2600,2600
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",04/02/2021,3000,3000,3000
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",10/02/2021,2000,2540,2500
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",24/02/2021,3500,3500,3500
+Karnataka,Hassan,Holenarsipura,Beans,"Beans (Whole)",04/02/2021,3000,3000,3000
+Karnataka,Hassan,Holenarsipura,Beans,"Beans (Whole)",19/02/2021,4000,4000,4000
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",01/01/2021,1000,1800,1500
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",02/01/2021,1500,2000,1800
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",04/01/2021,1800,2000,1900
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",05/01/2021,1800,2000,1900
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",06/01/2021,800,1200,1000
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",07/01/2021,900,1200,1000
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",08/01/2021,1200,1800,1600
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",09/01/2021,1200,2000,1800
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",11/01/2021,1500,2000,1800
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",12/01/2021,1500,2200,1800
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",13/01/2021,1500,2000,1800
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",14/01/2021,1200,1500,1300
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",15/01/2021,1200,1800,1500
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",16/01/2021,2000,2500,2200
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",18/01/2021,2000,2500,2200
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",19/01/2021,1500,2000,1800
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",20/01/2021,1200,2000,1500
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",21/01/2021,1500,3000,2500
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",22/01/2021,1500,2800,2200
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",23/01/2021,2000,3200,2500
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",25/01/2021,2000,3500,2500
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",26/01/2021,2000,3500,2500
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",27/01/2021,2000,3200,2200
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",28/01/2021,1500,3000,2000
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",29/01/2021,1600,3000,1800
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",30/01/2021,1500,2800,2000
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",01/02/2021,1500,2500,2000
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",02/02/2021,1500,2500,2000
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",03/02/2021,1500,2500,2000
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",04/02/2021,1000,2000,1500
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",05/02/2021,1500,2000,1800
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",06/02/2021,1500,2500,2000
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",08/02/2021,1500,2500,2000
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",09/02/2021,1500,2000,1800
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",10/02/2021,1500,2500,2000
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",11/02/2021,2500,3500,2800
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",12/02/2021,3000,3500,3200
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",13/02/2021,2000,2500,2200
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",15/02/2021,2500,2800,2600
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",16/02/2021,2000,2800,2200
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",17/02/2021,300,400,330
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",18/02/2021,1800,2000,1900
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",19/02/2021,1500,2000,1800
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",20/02/2021,1400,1500,1450
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",22/02/2021,800,1500,1000
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",23/02/2021,800,1300,1000
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",24/02/2021,600,800,700
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",25/02/2021,800,1200,1000
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",26/02/2021,800,1000,900
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",27/02/2021,800,1200,1000
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",01/03/2021,1300,2000,1500
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",02/03/2021,1000,1500,1200
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",04/03/2021,1000,1500,1200
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",06/03/2021,2000,3000,2500
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",08/03/2021,1500,2000,1800
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",09/03/2021,1300,2000,1500
+Karnataka,Kolar,Bangarpet,Beans,"Beans (Whole)",10/03/2021,1800,2500,2000
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",01/01/2021,1200,1600,1400
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",02/01/2021,1400,1800,1600
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",03/01/2021,1000,1600,1300
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",04/01/2021,1000,1200,1100
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",05/01/2021,800,1200,1000
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",06/01/2021,1000,1200,1100
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",08/01/2021,1200,1400,1300
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",09/01/2021,1000,1600,1300
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",10/01/2021,1500,2000,1750
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",11/01/2021,1400,1800,1600
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",12/01/2021,1400,2000,1700
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",13/01/2021,1400,1800,1600
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",15/01/2021,2000,2800,2400
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",16/01/2021,2000,3000,2500
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",17/01/2021,2000,3000,2500
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",18/01/2021,2000,3000,2500
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",19/01/2021,2000,2800,2400
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",20/01/2021,2000,2800,2400
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",22/01/2021,2400,3200,2800
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",23/01/2021,2500,3400,3000
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",24/01/2021,2400,3200,2800
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",25/01/2021,2500,3400,3000
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",26/01/2021,2500,3500,3000
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",27/01/2021,2500,3500,3000
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",29/01/2021,2000,3000,2500
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",30/01/2021,2500,3000,2750
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",31/01/2021,2000,2800,2400
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",01/02/2021,2000,2800,2400
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",02/02/2021,2000,2500,2250
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",03/02/2021,2000,2500,2250
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",05/02/2021,2000,2500,2250
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",06/02/2021,2000,2500,2250
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",07/02/2021,2000,2400,2200
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",08/02/2021,2000,2600,2300
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",09/02/2021,2000,2600,2300
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",10/02/2021,2000,2800,2400
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",12/02/2021,2000,3000,2500
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",13/02/2021,2000,3000,2500
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",14/02/2021,2000,2900,2500
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",15/02/2021,2000,2900,2500
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",16/02/2021,2000,3000,2500
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",17/02/2021,2000,3000,2500
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",19/02/2021,1300,2200,1800
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",20/02/2021,1300,2000,1700
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",21/02/2021,1000,1500,1250
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",22/02/2021,1200,1600,1400
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",23/02/2021,1200,1600,1400
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",24/02/2021,1200,1600,1400
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",26/02/2021,1400,1900,1600
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",27/02/2021,1400,2000,1700
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",28/02/2021,1800,2200,2000
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",01/03/2021,1400,2000,1700
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",02/03/2021,1400,2000,1700
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",03/03/2021,1400,2000,1650
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",05/03/2021,1600,2200,1900
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",07/03/2021,1800,2800,2300
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",08/03/2021,2400,3000,2700
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",09/03/2021,1800,2400,2100
+Karnataka,Kolar,Chickkaballapura,Beans,"Beans (Whole)",10/03/2021,1600,2200,1900
+Karnataka,Kolar,Chintamani,Beans,"Beans (Whole)",01/01/2021,1500,2000,1750
+Karnataka,Kolar,Chintamani,Beans,"Beans (Whole)",04/01/2021,1800,2000,1900
+Karnataka,Kolar,Chintamani,Beans,"Beans (Whole)",19/01/2021,2000,2500,2250
+Karnataka,Kolar,Chintamani,Beans,"Beans (Whole)",24/01/2021,2500,3000,2750
+Karnataka,Kolar,Chintamani,Beans,"Beans (Whole)",25/01/2021,2500,3000,2750
+Karnataka,Kolar,Chintamani,Beans,"Beans (Whole)",26/01/2021,2500,3000,2750
+Karnataka,Kolar,Chintamani,Beans,"Beans (Whole)",28/01/2021,2500,3000,2750
+Karnataka,Kolar,Chintamani,Beans,"Beans (Whole)",31/01/2021,3000,3500,3250
+Karnataka,Kolar,Chintamani,Beans,"Beans (Whole)",01/02/2021,2500,3000,2750
+Karnataka,Kolar,Chintamani,Beans,"Beans (Whole)",02/02/2021,3000,3500,3250
+Karnataka,Kolar,Gowribidanoor,Beans,"Beans (Whole)",01/01/2021,1200,1500,1300
+Karnataka,Kolar,Gowribidanoor,Beans,"Beans (Whole)",06/01/2021,900,1050,1000
+Karnataka,Kolar,Gowribidanoor,Beans,"Beans (Whole)",15/01/2021,1000,1300,1100
+Karnataka,Kolar,Gowribidanoor,Beans,"Beans (Whole)",21/01/2021,1600,1750,1700
+Karnataka,Kolar,Gowribidanoor,Beans,"Beans (Whole)",28/01/2021,1600,1800,1700
+Karnataka,Kolar,Gowribidanoor,Beans,"Beans (Whole)",01/02/2021,1000,1200,1150
+Karnataka,Kolar,Gowribidanoor,Beans,"Beans (Whole)",11/02/2021,1400,1700,1500
+Karnataka,Kolar,Gowribidanoor,Beans,"Beans (Whole)",18/02/2021,1350,1500,1450
+Karnataka,Kolar,Gowribidanoor,Beans,"Beans (Whole)",25/02/2021,1100,2000,1500
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",01/01/2021,1500,2500,2000
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",03/01/2021,2000,2500,2300
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",04/01/2021,2000,2500,2300
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",05/01/2021,1500,2200,1900
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",06/01/2021,1000,1500,1300
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",07/01/2021,1000,1800,1400
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",08/01/2021,2000,2200,2100
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",10/01/2021,2000,2500,2300
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",11/01/2021,1500,2500,2000
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",12/01/2021,2000,3000,2500
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",13/01/2021,2000,4000,3000
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",14/01/2021,1500,2000,1700
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",15/01/2021,1500,2500,2000
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",17/01/2021,3000,4500,3700
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",18/01/2021,2500,3500,3000
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",19/01/2021,3200,4000,3500
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",20/01/2021,2000,4000,3000
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",21/01/2021,2000,4000,3000
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",22/01/2021,2000,5000,3500
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",24/01/2021,4000,4800,4400
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",25/01/2021,3000,5000,4000
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",26/01/2021,2500,4500,3500
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",27/01/2021,2000,4000,3000
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",28/01/2021,2000,5000,3500
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",29/01/2021,2500,4500,3500
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",31/01/2021,3000,3500,3300
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",01/02/2021,2000,4000,3000
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",02/02/2021,2500,3500,3000
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",03/02/2021,2000,3500,2700
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",04/02/2021,2000,3500,2200
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",05/02/2021,2500,3000,2700
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",07/02/2021,2000,3000,2500
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",08/02/2021,2000,3000,2500
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",09/02/2021,2800,3400,3100
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",10/02/2021,2000,3500,2700
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",11/02/2021,3500,4000,3700
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",12/02/2021,2000,4000,3000
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",14/02/2021,2500,3500,3000
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",15/02/2021,2000,4000,3000
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",16/02/2021,3000,3500,3300
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",17/02/2021,2000,3500,2700
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",18/02/2021,2000,3000,2500
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",19/02/2021,2000,3000,2500
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",21/02/2021,2000,2200,2100
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",22/02/2021,1000,2000,1500
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",23/02/2021,1000,1500,1300
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",24/02/2021,800,1200,900
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",25/02/2021,1000,1400,1200
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",26/02/2021,1000,1500,1300
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",28/02/2021,1000,2000,1500
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",01/03/2021,1500,2200,1900
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",02/03/2021,2000,2500,2300
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",03/03/2021,2000,3000,2500
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",04/03/2021,2000,2500,2300
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",05/03/2021,2500,2800,2600
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",07/03/2021,2000,2500,2300
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",08/03/2021,1500,3000,2300
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",09/03/2021,2000,3000,2500
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",10/03/2021,2000,2600,2300
+Karnataka,Kolar,Kolar,Beans,"Beans (Whole)",11/03/2021,1700,2200,2000
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",01/01/2021,2000,3500,2192
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",02/01/2021,1800,2800,2115
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",04/01/2021,1800,2500,2000
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",05/01/2021,1800,2500,2000
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",06/01/2021,1500,2500,1882
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",07/01/2021,1500,2200,2000
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",08/01/2021,1200,1800,1400
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",11/01/2021,1500,2200,1990
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",12/01/2021,1800,2200,2000
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",13/01/2021,1800,2200,2000
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",15/01/2021,1800,2200,2000
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",19/01/2021,2800,3500,3070
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",20/01/2021,2800,3500,3005
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",21/01/2021,2800,3500,3014
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",22/01/2021,1800,3000,2054
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",27/01/2021,2800,3500,3100
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",28/01/2021,2300,3000,2450
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",29/01/2021,2000,3500,3025
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",30/01/2021,2800,3500,3079
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",02/02/2021,2800,3200,3065
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",03/02/2021,2800,3200,3030
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",04/02/2021,2000,3000,2777
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",05/02/2021,2500,3500,3070
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",06/02/2021,2500,3500,3012
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",08/02/2021,2500,3500,3061
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",09/02/2021,2500,3500,3086
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",10/02/2021,2800,3500,3030
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",11/02/2021,2800,3500,3086
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",12/02/2021,2800,3200,3012
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",15/02/2021,2800,3500,3061
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",16/02/2021,2500,3500,3061
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",18/02/2021,2800,3500,3070
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",19/02/2021,2800,3500,3076
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",22/02/2021,2500,3000,2777
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",23/02/2021,800,1500,1004
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",24/02/2021,800,1500,1002
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",01/03/2021,2800,3200,3030
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",04/03/2021,1500,2200,1984
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",06/03/2021,1800,2500,2150
+Karnataka,Kolar,Malur,Beans,"Beans (Whole)",08/03/2021,2000,3000,2500
+Karnataka,Kolar,Mulabagilu,Beans,"Beans (Whole)",31/01/2021,2500,3500,3000
+Karnataka,Kolar,Mulabagilu,Beans,"Beans (Whole)",28/02/2021,800,1400,1000
+Karnataka,Mandya,"K.R. Pet",Beans,"Beans (Whole)",09/02/2021,2500,2500,2500
+Karnataka,Mandya,"K.R. Pet",Beans,"Beans (Whole)",15/02/2021,2500,2500,2500
+Karnataka,Mandya,"K.R. Pet",Beans,"Beans (Whole)",16/02/2021,2500,2500,2500
+Karnataka,Mandya,"K.R. Pet",Beans,"Beans (Whole)",18/02/2021,2500,2500,2500
+Karnataka,Mandya,"K.R. Pet",Beans,"Beans (Whole)",22/02/2021,2500,2500,2500
+Karnataka,Mandya,"K.R. Pet",Beans,"Beans (Whole)",23/02/2021,2500,2500,2500
+Karnataka,Mandya,"K.R. Pet",Beans,"Beans (Whole)",25/02/2021,2500,2500,2500
+Karnataka,Mandya,"K.R. Pet",Beans,"Beans (Whole)",26/02/2021,2000,2500,2000
+Karnataka,Mandya,"K.R. Pet",Beans,"Beans (Whole)",05/03/2021,1800,1800,1800
+Karnataka,Mysore,Hunsur,Beans,"Beans (Whole)",08/01/2021,2000,2000,2000
+Karnataka,Mysore,Hunsur,Beans,"Beans (Whole)",11/01/2021,2000,2000,2000
+Karnataka,Mysore,Hunsur,Beans,"Beans (Whole)",12/01/2021,2000,2000,2000
+Karnataka,Mysore,Hunsur,Beans,"Beans (Whole)",15/01/2021,2000,2500,2200
+Karnataka,Mysore,Hunsur,Beans,"Beans (Whole)",16/01/2021,2000,2000,2000
+Karnataka,Mysore,Hunsur,Beans,"Beans (Whole)",18/01/2021,2000,2000,2000
+Karnataka,Mysore,Hunsur,Beans,"Beans (Whole)",19/01/2021,2000,2000,2000
+Karnataka,Mysore,Hunsur,Beans,"Beans (Whole)",20/01/2021,2000,2500,2500
+Karnataka,Mysore,Hunsur,Beans,"Beans (Whole)",21/01/2021,2000,2000,2000
+Karnataka,Mysore,Hunsur,Beans,"Beans (Whole)",22/01/2021,2000,2000,2000
+Karnataka,Mysore,Hunsur,Beans,"Beans (Whole)",01/02/2021,3000,3000,3000
+Karnataka,Mysore,Hunsur,Beans,"Beans (Whole)",04/02/2021,3000,3000,3000
+Karnataka,Mysore,Hunsur,Beans,"Beans (Whole)",19/02/2021,3000,3000,3000
+Karnataka,Mysore,Hunsur,Beans,"Beans (Whole)",01/03/2021,2000,2000,2000
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",01/01/2021,2500,2700,2600
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",02/01/2021,2800,3000,2900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",03/01/2021,1600,1800,1700
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",04/01/2021,800,1000,900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",05/01/2021,800,1000,950
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",06/01/2021,1300,1500,1450
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",07/01/2021,1800,2000,1950
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",08/01/2021,1800,2000,1900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",10/01/2021,2000,2200,2100
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",11/01/2021,2000,2200,2100
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",12/01/2021,2300,2500,2400
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",13/01/2021,2300,2500,2400
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",14/01/2021,2000,3000,2900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",15/01/2021,3000,4000,3500
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",17/01/2021,3800,4000,3900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",18/01/2021,3800,4000,3900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",19/01/2021,3000,4000,3500
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",20/01/2021,4300,4500,4400
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",21/01/2021,3000,5000,4000
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",22/01/2021,3000,5000,4000
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",24/01/2021,3000,5000,4000
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",25/01/2021,4300,4500,4400
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",26/01/2021,3000,5000,4000
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",27/01/2021,3000,5000,4000
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",28/01/2021,4300,4500,4400
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",29/01/2021,3800,4000,3900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",31/01/2021,3500,3700,3600
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",01/02/2021,3100,3300,3200
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",02/02/2021,2800,3000,2900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",03/02/2021,2000,2200,2100
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",04/02/2021,2000,2200,2100
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",05/02/2021,2300,2500,2400
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",07/02/2021,2500,2700,2600
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",08/02/2021,2800,3000,2900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",09/02/2021,3300,3500,3400
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",10/02/2021,3300,3500,3400
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",11/02/2021,3500,3700,3600
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",12/02/2021,3800,4000,3900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",14/02/2021,4000,4200,4100
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",15/02/2021,4000,4200,4100
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",16/02/2021,3800,4000,3900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",17/02/2021,2800,3000,2900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",18/02/2021,2000,2200,2100
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",19/02/2021,2000,2200,2100
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",21/02/2021,1800,2000,1900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",22/02/2021,1800,2000,1900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",23/02/2021,1800,2000,1900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",24/02/2021,2000,2200,2100
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",25/02/2021,2000,2200,2100
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",28/02/2021,1600,1800,1700
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",01/03/2021,1600,1800,1700
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",02/03/2021,2800,3000,2950
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",03/03/2021,2800,3000,2900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",04/03/2021,2800,3000,2900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",05/03/2021,3200,3500,3400
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",07/03/2021,3800,4000,3900
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",08/03/2021,3600,3800,3750
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",09/03/2021,3100,3300,3200
+Karnataka,Mysore,"Mysore (Bandipalya)",Beans,"Beans (Whole)",10/03/2021,2500,2700,2600
+Karnataka,Mysore,Nanjangud,Beans,"Beans (Whole)",01/01/2021,2500,2700,2600
+Karnataka,Mysore,Nanjangud,Beans,"Beans (Whole)",02/01/2021,2500,2700,2600
+Karnataka,Mysore,Nanjangud,Beans,"Beans (Whole)",03/01/2021,2500,2700,2600
+Karnataka,Mysore,Nanjangud,Beans,"Beans (Whole)",04/01/2021,2500,2700,2600
+Karnataka,Mysore,Nanjangud,Beans,"Beans (Whole)",05/01/2021,2500,2700,2600
+Karnataka,Mysore,Nanjangud,Beans,"Beans (Whole)",06/01/2021,2500,2700,2600
+Karnataka,Mysore,Nanjangud,Beans,"Beans (Whole)",07/01/2021,1800,2000,1950
+Karnataka,Mysore,Nanjangud,Beans,"Beans (Whole)",08/01/2021,1800,2000,1900
+Karnataka,Mysore,Nanjangud,Beans,"Beans (Whole)",09/01/2021,1800,2000,1900
+Karnataka,Mysore,Nanjangud,Beans,"Beans (Whole)",10/01/2021,2000,2200,2100
+Karnataka,Mysore,Nanjangud,Beans,"Beans (Whole)",11/01/2021,2000,2200,2100
+Karnataka,Mysore,Nanjangud,Beans,"Beans (Whole)",12/01/2021,2300,2500,2400
+Karnataka,Mysore,Nanjangud,Beans,"Beans (Whole)",13/01/2021,2300,2500,2400
+Karnataka,Mysore,Nanjangud,Beans,"Beans (Whole)",14/01/2021,2000,3000,2900
+Karnataka,Mysore,Nanjangud,Beans,"Beans (Whole)",16/01/2021,3000,4000,3500
+Karnataka,Mysore,Santhesargur,Beans,"Beans (Whole)",08/02/2021,1383,1383,1383
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",01/01/2021,1000,1600,1500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",02/01/2021,1200,2000,1500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",03/01/2021,1500,2000,1800
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",05/01/2021,1000,1500,1300
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",06/01/2021,600,1500,1000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",08/01/2021,1000,2500,1500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",09/01/2021,1500,2200,1800
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",10/01/2021,1000,2500,2000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",12/01/2021,1500,3000,2000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",13/01/2021,3000,3000,3000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",14/01/2021,2000,3000,2500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",16/01/2021,2500,3000,2800
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",17/01/2021,4500,4500,4500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",19/01/2021,3000,4500,3500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",20/01/2021,2000,4000,3000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",21/01/2021,3500,3500,3500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",22/01/2021,3000,4000,3500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",23/01/2021,2000,4000,3000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",24/01/2021,3000,4000,3500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",27/01/2021,2500,4000,3500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",28/01/2021,2500,4000,3500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",29/01/2021,3500,4000,4000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",30/01/2021,3500,5000,4000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",31/01/2021,3000,4000,3500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",02/02/2021,2000,5000,3500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",03/02/2021,2500,4000,3000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",04/02/2021,3000,3000,3000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",05/02/2021,2500,3500,3000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",06/02/2021,1000,4000,3000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",07/02/2021,2500,5000,3000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",09/02/2021,3000,4000,3500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",10/02/2021,4000,4000,4000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",11/02/2021,2500,4000,3500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",12/02/2021,3000,4000,3000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",13/02/2021,3500,5000,4000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",14/02/2021,3000,5000,4000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",16/02/2021,4000,5000,4000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",17/02/2021,4000,5000,4500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",18/02/2021,1500,4000,3000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",19/02/2021,2000,3500,3000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",20/02/2021,3000,4000,4000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",21/02/2021,2500,4500,3500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",23/02/2021,2000,3000,2500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",24/02/2021,2000,3000,2000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",25/02/2021,2000,3000,2500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",26/02/2021,1500,3000,2000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",27/02/2021,2000,3000,2500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",28/02/2021,2000,3000,3000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",02/03/2021,2000,3000,2500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",04/03/2021,2000,2500,2500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",05/03/2021,2000,3000,2500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",06/03/2021,3000,4000,3500
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",07/03/2021,2500,4000,3000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",09/03/2021,2000,4000,3000
+Karnataka,Mysore,"T. Narasipura",Beans,"Beans (Whole)",10/03/2021,3000,3000,3000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",01/01/2021,2600,3000,2800
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",04/01/2021,2000,3500,2750
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",05/01/2021,2000,2600,2300
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",06/01/2021,2000,2600,2300
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",07/01/2021,2000,3000,2500
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",08/01/2021,1600,2000,1800
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",11/01/2021,1600,2400,2000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",12/01/2021,3000,3100,3000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",13/01/2021,1500,1500,1500
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",15/01/2021,3000,3000,3000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",18/01/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",19/01/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",20/01/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",21/01/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",22/01/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",25/01/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",27/01/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",28/01/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",29/01/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",01/02/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",02/02/2021,3000,4000,3500
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",03/02/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",04/02/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",08/02/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",09/02/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",10/02/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",11/02/2021,3500,4000,3600
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",12/02/2021,4500,4500,4500
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",15/02/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",16/02/2021,4000,4000,4000
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",17/02/2021,3000,4000,3500
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",18/02/2021,3000,4000,3500
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",19/02/2021,3000,4000,3500
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",22/02/2021,2600,3000,2900
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",23/02/2021,2600,3000,2750
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",24/02/2021,2600,3000,2800
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",25/02/2021,2600,3000,2800
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",26/02/2021,2600,3000,2800
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",01/03/2021,2000,3000,2500
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",02/03/2021,2000,3000,2500
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",03/03/2021,3800,4000,3900
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",04/03/2021,3800,4000,3900
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",05/03/2021,4000,4500,4250
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",08/03/2021,4000,5000,4500
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",09/03/2021,3800,4000,3900
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",10/03/2021,3800,4000,3900
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",01/01/2021,2500,3000,2800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",02/01/2021,2500,3000,2800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",04/01/2021,2500,3000,2800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",05/01/2021,2500,3000,2800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",06/01/2021,1500,2000,1800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",07/01/2021,1500,2000,1800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",08/01/2021,1500,2000,1800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",11/01/2021,1500,2000,1800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",12/01/2021,1500,2000,1800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",13/01/2021,2600,3000,2800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",15/01/2021,2600,3000,2800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",16/01/2021,2600,3000,2800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",18/01/2021,2600,3000,2800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",19/01/2021,2600,3000,2800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",20/01/2021,3500,4000,3800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",21/01/2021,3500,4000,3800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",22/01/2021,3500,4000,3800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",25/01/2021,3500,4000,3800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",27/01/2021,4000,4500,4200
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",28/01/2021,4000,4500,4200
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",29/01/2021,4000,4500,4200
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",30/01/2021,4000,4500,4200
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",01/02/2021,4000,4500,4200
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",02/02/2021,4000,4500,4200
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",03/02/2021,2500,3500,3000
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",04/02/2021,2500,3500,3000
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",05/02/2021,2500,3500,3000
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",06/02/2021,2500,3500,3000
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",08/02/2021,2500,3500,3000
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",09/02/2021,2500,3500,3000
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",10/02/2021,3600,4000,3800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",11/02/2021,3600,4000,3800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",12/02/2021,3600,4000,3800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",15/02/2021,3600,4000,3800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",16/02/2021,3600,4000,3800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",17/02/2021,2300,2700,2500
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",18/02/2021,2300,2700,2500
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",19/02/2021,2300,2700,2500
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",20/02/2021,2300,2700,2500
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",22/02/2021,2300,2700,2500
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",23/02/2021,2300,2700,2500
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",24/02/2021,2500,3000,2800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",25/02/2021,2500,3000,2800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",26/02/2021,2500,3000,2800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",01/03/2021,2500,3000,2800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",02/03/2021,2500,3000,2800
+Karnataka,Udupi,Udupi,Beans,"Beans (Whole)",03/03/2021,2000,2700,2500
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",03/01/2021,2500,4500,3500
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",07/01/2021,2800,4500,3800
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",08/01/2021,3000,5000,4000
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",11/01/2021,3000,5000,4000
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",12/01/2021,3000,4500,4000
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",14/01/2021,4000,5000,5000
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",16/01/2021,2500,4000,3500
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",19/01/2021,3000,4000,3500
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",21/01/2021,3800,4500,4500
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",27/01/2021,3000,4000,4000
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",28/01/2021,7000,8000,7000
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",31/01/2021,6000,8000,7000
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",07/02/2021,7000,8000,8000
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",11/02/2021,6000,8000,7000
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",17/02/2021,6000,8000,7000
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",18/02/2021,7000,8000,8000
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",22/02/2021,4000,6000,5000
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",25/02/2021,5000,7000,6000
+Kerala,Idukki,Munnar,Beans,"Beans (Whole)",28/02/2021,3000,6000,4500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",01/01/2021,3100,3300,3200
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",02/01/2021,3200,3600,3500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",03/01/2021,3500,3500,3500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",04/01/2021,3400,3500,3500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",05/01/2021,2200,2400,2400
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",06/01/2021,2000,2300,2300
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",07/01/2021,2300,2500,2400
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",08/01/2021,3000,3100,3100
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",09/01/2021,2600,2900,2800
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",10/01/2021,2500,2500,2500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",11/01/2021,2100,2400,2300
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",12/01/2021,2400,2600,2600
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",13/01/2021,2400,2600,2500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",14/01/2021,2500,2600,2600
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",15/01/2021,2300,2400,2400
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",16/01/2021,2300,2500,2400
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",17/01/2021,2400,2500,2500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",18/01/2021,4100,4300,4200
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",19/01/2021,3500,3600,3600
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",20/01/2021,4200,4200,4200
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",21/01/2021,3000,3200,3100
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",22/01/2021,3600,3800,3700
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",23/01/2021,3500,3600,3500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",25/01/2021,4300,4400,4400
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",26/01/2021,5600,5600,5600
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",27/01/2021,5600,5600,5600
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",28/01/2021,3100,3200,3200
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",29/01/2021,5500,5500,5500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",30/01/2021,5500,5500,5500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",31/01/2021,4200,4500,4500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",01/02/2021,4000,4000,4000
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",02/02/2021,4100,4200,4200
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",03/02/2021,4200,4500,4500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",04/02/2021,3200,3500,3400
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",05/02/2021,3600,3800,3800
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",09/02/2021,3500,3800,3600
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",10/02/2021,3200,3500,3400
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",11/02/2021,3500,3600,3600
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",12/02/2021,3100,3300,3300
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",13/02/2021,4000,4500,4200
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",14/02/2021,3200,3600,3500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",15/02/2021,3400,3600,3500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",16/02/2021,3100,3300,3200
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",17/02/2021,3200,3600,3500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",18/02/2021,2300,2500,2400
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",20/02/2021,4000,4200,4200
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",25/02/2021,3300,3600,3500
+Kerala,Malappuram,Thirurrangadi,Beans,"Beans (Whole)",09/03/2021,3200,3200,3200
+Kerala,Thiruvananthapuram,Parassala,Beans,"Beans (Whole)",01/01/2021,6000,6500,6000
+Kerala,Thiruvananthapuram,Parassala,Beans,"Beans (Whole)",08/01/2021,6000,6200,6000
+"Madhya Pradesh",Satna,Mehar,Beans,"Beans (Whole)",01/03/2021,4100,4100,4100
+"Madhya Pradesh",Satna,Mehar,Beans,"Beans (Whole)",09/03/2021,4025,4025,4025
+"Madhya Pradesh",Satna,Ramnagar,Beans,"Beans (Whole)",02/03/2021,4100,4100,4100
+"Madhya Pradesh",Satna,Ramnagar,Beans,"Beans (Whole)",03/03/2021,4100,4200,4100
+"Madhya Pradesh",Satna,Ramnagar,Beans,"Beans (Whole)",06/03/2021,4200,4200,4200
+"Madhya Pradesh",Satna,Ramnagar,Beans,"Beans (Whole)",09/03/2021,4000,4000,4000
+Maharashtra,Ahmednagar,Ahmednagar,Beans,Other,15/01/2021,2000,2200,2100
+Maharashtra,Ahmednagar,Ahmednagar,Beans,Other,14/02/2021,2500,3500,3000
+Maharashtra,Ahmednagar,Ahmednagar,Beans,Other,19/02/2021,2000,3000,2500
+Maharashtra,Ahmednagar,Ahmednagar,Beans,Other,28/02/2021,2000,3000,2500
+Maharashtra,Ahmednagar,Rahata,Beans,Other,14/01/2021,3000,3000,3000
+Maharashtra,Ahmednagar,Rahata,Beans,Other,03/02/2021,2200,2200,2200
+Maharashtra,Ahmednagar,Rahata,Beans,Other,16/02/2021,4500,4500,4500
+Maharashtra,Ahmednagar,Rahata,Beans,Other,17/02/2021,4500,4500,4500
+Maharashtra,Ahmednagar,Rahata,Beans,Other,18/02/2021,3000,4500,3750
+Maharashtra,Ahmednagar,Rahata,Beans,Other,23/02/2021,3000,3000,3000
+Maharashtra,Ahmednagar,Rahata,Beans,Other,24/02/2021,2500,2500,2500
+Maharashtra,Ahmednagar,Rahata,Beans,Other,25/02/2021,3500,3500,3500
+Maharashtra,Ahmednagar,Rahata,Beans,Other,03/03/2021,3000,3000,3000
+Maharashtra,Ahmednagar,Rahata,Beans,Other,04/03/2021,3000,3000,3000
+Maharashtra,Ahmednagar,Rahata,Beans,Other,07/03/2021,2500,3200,2850
+Maharashtra,Ahmednagar,Rahata,Beans,Other,08/03/2021,3000,3000,3000
+Maharashtra,Ahmednagar,Rahata,Beans,Other,10/03/2021,3000,3000,3000
+Maharashtra,Ahmednagar,Rahata,Beans,Other,11/03/2021,2500,3000,2750
+Maharashtra,Jalgaon,Bhusaval,Beans,Other,03/01/2021,1000,1000,1000
+Maharashtra,Jalgaon,Bhusaval,Beans,Other,05/01/2021,1000,1000,1000
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,02/01/2021,1200,3000,2800
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,11/01/2021,1000,3000,2800
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,19/01/2021,1000,3000,2800
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,20/01/2021,1000,3000,2500
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,22/01/2021,1500,3000,2500
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,30/01/2021,1500,2500,1800
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,01/02/2021,1000,3000,2600
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,04/02/2021,2500,3500,2800
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,06/02/2021,1300,3200,2600
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,09/02/2021,2000,3500,2600
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,13/02/2021,2000,3500,2800
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,16/02/2021,2000,3000,2800
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,17/02/2021,1800,3000,2600
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,20/02/2021,1200,3000,2800
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,22/02/2021,1000,2500,1800
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,23/02/2021,1500,3000,2600
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,26/02/2021,1000,3000,2600
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,01/03/2021,2000,3000,2800
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,03/03/2021,1000,3000,2600
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,06/03/2021,2000,3000,2800
+Maharashtra,Kolhapur,Vadgaonpeth,Beans,Other,09/03/2021,1500,3500,2800
+Maharashtra,Mumbai,Mumbai,Beans,Other,01/01/2021,3000,3400,3200
+Maharashtra,Mumbai,Mumbai,Beans,Other,02/01/2021,3000,3400,3200
+Maharashtra,Mumbai,Mumbai,Beans,Other,05/01/2021,2200,3200,2700
+Maharashtra,Mumbai,Mumbai,Beans,Other,06/01/2021,2600,3000,2800
+Maharashtra,Mumbai,Mumbai,Beans,Other,14/01/2021,2500,3500,3000
+Maharashtra,Mumbai,Mumbai,Beans,Other,15/01/2021,3600,4000,3800
+Maharashtra,Mumbai,Mumbai,Beans,Other,16/01/2021,2500,3500,3000
+Maharashtra,Mumbai,Mumbai,Beans,Other,18/01/2021,2500,3500,3000
+Maharashtra,Mumbai,Mumbai,Beans,Other,19/01/2021,2500,3000,2800
+Maharashtra,Mumbai,Mumbai,Beans,Other,20/01/2021,2500,3000,2800
+Maharashtra,Mumbai,Mumbai,Beans,Other,21/01/2021,2500,3000,2800
+Maharashtra,Mumbai,Mumbai,Beans,Other,22/01/2021,2500,3000,2800
+Maharashtra,Mumbai,Mumbai,Beans,Other,23/01/2021,2500,3000,2800
+Maharashtra,Mumbai,Mumbai,Beans,Other,25/01/2021,2000,3000,2500
+Maharashtra,Mumbai,Mumbai,Beans,Other,27/01/2021,2000,3000,2500
+Maharashtra,Mumbai,Mumbai,Beans,Other,28/01/2021,2000,3000,2500
+Maharashtra,Mumbai,Mumbai,Beans,Other,29/01/2021,2000,2800,2400
+Maharashtra,Mumbai,Mumbai,Beans,Other,02/02/2021,2000,2500,2300
+Maharashtra,Mumbai,Mumbai,Beans,Other,03/02/2021,2000,2500,2300
+Maharashtra,Mumbai,Mumbai,Beans,Other,04/02/2021,2600,3000,2800
+Maharashtra,Mumbai,Mumbai,Beans,Other,05/02/2021,2400,3000,2700
+Maharashtra,Mumbai,Mumbai,Beans,Other,08/02/2021,2000,3000,2500
+Maharashtra,Mumbai,Mumbai,Beans,Other,09/02/2021,2000,3000,2500
+Maharashtra,Mumbai,Mumbai,Beans,Other,10/02/2021,2500,3000,2800
+Maharashtra,Mumbai,Mumbai,Beans,Other,11/02/2021,3000,3500,3300
+Maharashtra,Mumbai,Mumbai,Beans,Other,12/02/2021,3000,3500,3300
+Maharashtra,Mumbai,Mumbai,Beans,Other,13/02/2021,3000,3500,3300
+Maharashtra,Mumbai,Mumbai,Beans,Other,15/02/2021,3000,3500,3300
+Maharashtra,Mumbai,Mumbai,Beans,Other,16/02/2021,3500,4500,4000
+Maharashtra,Mumbai,Mumbai,Beans,Other,18/02/2021,3600,4400,4000
+Maharashtra,Mumbai,Mumbai,Beans,Other,19/02/2021,3600,4400,4000
+Maharashtra,Mumbai,Mumbai,Beans,Other,20/02/2021,3200,4000,3600
+Maharashtra,Mumbai,Mumbai,Beans,Other,22/02/2021,3200,4000,3600
+Maharashtra,Mumbai,Mumbai,Beans,Other,23/02/2021,3200,4000,3600
+Maharashtra,Mumbai,Mumbai,Beans,Other,24/02/2021,2500,3500,3000
+Maharashtra,Mumbai,Mumbai,Beans,Other,25/02/2021,2500,3500,3000
+Maharashtra,Mumbai,Mumbai,Beans,Other,26/02/2021,2500,3500,3000
+Maharashtra,Mumbai,Mumbai,Beans,Other,27/02/2021,2500,3500,3000
+Maharashtra,Mumbai,Mumbai,Beans,Other,01/03/2021,2500,3500,3000
+Maharashtra,Mumbai,Mumbai,Beans,Other,02/03/2021,2500,3500,3000
+Maharashtra,Mumbai,Mumbai,Beans,Other,03/03/2021,2500,3500,3000
+Maharashtra,Mumbai,Mumbai,Beans,Other,04/03/2021,2800,3000,2900
+Maharashtra,Mumbai,Mumbai,Beans,Other,05/03/2021,2000,3000,2500
+Maharashtra,Mumbai,Mumbai,Beans,Other,06/03/2021,2000,3000,2500
+Maharashtra,Mumbai,Mumbai,Beans,Other,08/03/2021,3500,4000,3800
+Maharashtra,Nashik,Nasik,Beans,Other,01/01/2021,1200,2700,1800
+Maharashtra,Nashik,Nasik,Beans,Other,02/01/2021,1400,2500,1800
+Maharashtra,Nashik,Nasik,Beans,Other,03/01/2021,1500,3400,2300
+Maharashtra,Nashik,Nasik,Beans,Other,04/01/2021,1500,2500,2000
+Maharashtra,Nashik,Nasik,Beans,Other,13/01/2021,800,1700,1200
+Maharashtra,Nashik,Nasik,Beans,Other,15/01/2021,1500,4500,3000
+Maharashtra,Nashik,Nasik,Beans,Other,16/01/2021,1500,4500,3200
+Maharashtra,Nashik,Nasik,Beans,Other,17/01/2021,2000,3200,2500
+Maharashtra,Nashik,Nasik,Beans,Other,18/01/2021,1500,3500,2700
+Maharashtra,Nashik,Nasik,Beans,Other,19/01/2021,1200,3000,1800
+Maharashtra,Nashik,Nasik,Beans,Other,20/01/2021,500,2000,1000
+Maharashtra,Nashik,Nasik,Beans,Other,22/01/2021,500,2000,1000
+Maharashtra,Nashik,Nasik,Beans,Other,23/01/2021,1700,2500,2000
+Maharashtra,Nashik,Nasik,Beans,Other,24/01/2021,700,2000,1500
+Maharashtra,Nashik,Nasik,Beans,Other,25/01/2021,1500,3500,2500
+Maharashtra,Nashik,Nasik,Beans,Other,26/01/2021,2000,3000,2500
+Maharashtra,Nashik,Nasik,Beans,Other,27/01/2021,1500,2600,2000
+Maharashtra,Nashik,Nasik,Beans,Other,29/01/2021,2000,3200,2600
+Maharashtra,Nashik,Nasik,Beans,Other,30/01/2021,1500,4000,3300
+Maharashtra,Nashik,Nasik,Beans,Other,01/02/2021,1200,3000,2000
+Maharashtra,Nashik,Nasik,Beans,Other,02/02/2021,1800,3200,2700
+Maharashtra,Nashik,Nasik,Beans,Other,03/02/2021,1500,3200,2200
+Maharashtra,Nashik,Nasik,Beans,Other,07/02/2021,1500,3600,2500
+Maharashtra,Nashik,Nasik,Beans,Other,09/02/2021,3000,4000,3500
+Maharashtra,Nashik,Nasik,Beans,Other,10/02/2021,2500,4500,3300
+Maharashtra,Nashik,Nasik,Beans,Other,12/02/2021,3000,4000,3500
+Maharashtra,Nashik,Nasik,Beans,Other,13/02/2021,1500,4000,3000
+Maharashtra,Nashik,Nasik,Beans,Other,14/02/2021,2500,4500,3500
+Maharashtra,Nashik,Nasik,Beans,Other,15/02/2021,2500,4400,3200
+Maharashtra,Nashik,Nasik,Beans,Other,16/02/2021,2400,4000,3200
+Maharashtra,Nashik,Nasik,Beans,Other,19/02/2021,2000,3500,2500
+Maharashtra,Nashik,Nasik,Beans,Other,22/02/2021,2000,4000,3000
+Maharashtra,Nashik,Nasik,Beans,Other,23/02/2021,2200,3400,2700
+Maharashtra,Nashik,Nasik,Beans,Other,24/02/2021,2500,4250,3600
+Maharashtra,Nashik,Nasik,Beans,Other,25/02/2021,2400,3500,2700
+Maharashtra,Nashik,Nasik,Beans,Other,26/02/2021,2450,4100,3300
+Maharashtra,Nashik,Nasik,Beans,Other,27/02/2021,2500,4100,3400
+Maharashtra,Nashik,Nasik,Beans,Other,28/02/2021,2500,3500,3000
+Maharashtra,Nashik,Nasik,Beans,Other,01/03/2021,2100,3600,3000
+Maharashtra,Nashik,Nasik,Beans,Other,02/03/2021,2500,4000,3400
+Maharashtra,Nashik,Nasik,Beans,Other,03/03/2021,1800,4500,3500
+Maharashtra,Nashik,Nasik,Beans,Other,05/03/2021,2700,3500,3000
+Maharashtra,Pune,Maanachar,Beans,Other,01/01/2021,800,3700,2350
+Maharashtra,Pune,Maanachar,Beans,Other,03/01/2021,1000,3600,2785
+Maharashtra,Pune,Maanachar,Beans,Other,05/01/2021,800,3510,2285
+Maharashtra,Pune,Maanachar,Beans,Other,10/01/2021,1000,4110,2685
+Maharashtra,Pune,Maanachar,Beans,Other,14/01/2021,1200,3500,2385
+Maharashtra,Pune,Maanachar,Beans,Other,15/01/2021,1000,3700,2485
+Maharashtra,Pune,Maanachar,Beans,Other,17/01/2021,1000,4500,2985
+Maharashtra,Pune,Maanachar,Beans,Other,18/01/2021,1000,4250,2650
+Maharashtra,Pune,Maanachar,Beans,Other,19/01/2021,1000,4000,2550
+Maharashtra,Pune,Maanachar,Beans,Other,20/01/2021,1000,3700,2150
+Maharashtra,Pune,Maanachar,Beans,Other,21/01/2021,700,2500,1550
+Maharashtra,Pune,Maanachar,Beans,Other,22/01/2021,1000,3000,1950
+Maharashtra,Pune,Maanachar,Beans,Other,24/01/2021,1000,3500,2685
+Maharashtra,Pune,Maanachar,Beans,Other,26/01/2021,1000,3500,2255
+Maharashtra,Pune,Maanachar,Beans,Other,27/01/2021,1000,3150,2175
+Maharashtra,Pune,Maanachar,Beans,Other,28/01/2021,700,3080,1900
+Maharashtra,Pune,Maanachar,Beans,Other,29/01/2021,1200,3000,2150
+Maharashtra,Pune,Maanachar,Beans,Other,31/01/2021,1000,3500,2350
+Maharashtra,Pune,Maanachar,Beans,Other,01/02/2021,1000,3500,2150
+Maharashtra,Pune,Maanachar,Beans,Other,02/02/2021,1000,3300,2585
+Maharashtra,Pune,Maanachar,Beans,Other,04/02/2021,1300,3550,2425
+Maharashtra,Pune,Maanachar,Beans,Other,05/02/2021,1000,4000,2550
+Maharashtra,Pune,Maanachar,Beans,Other,07/02/2021,1500,4010,2755
+Maharashtra,Pune,Maanachar,Beans,Other,08/02/2021,2000,4100,3150
+Maharashtra,Pune,Maanachar,Beans,Other,09/02/2021,1500,4110,2850
+Maharashtra,Pune,Maanachar,Beans,Other,10/02/2021,2000,4000,3000
+Maharashtra,Pune,Maanachar,Beans,Other,15/02/2021,2300,4100,3200
+Maharashtra,Pune,Maanachar,Beans,Other,16/02/2021,1000,4000,2250
+Maharashtra,Pune,Maanachar,Beans,Other,17/02/2021,1000,4200,2600
+Maharashtra,Pune,Maanachar,Beans,Other,18/02/2021,1000,4000,2500
+Maharashtra,Pune,Maanachar,Beans,Other,19/02/2021,1000,4000,2060
+Maharashtra,Pune,Maanachar,Beans,Other,21/02/2021,1000,4000,2550
+Maharashtra,Pune,Maanachar,Beans,Other,22/02/2021,1000,3500,1850
+Maharashtra,Pune,Maanachar,Beans,Other,23/02/2021,1500,3300,2400
+Maharashtra,Pune,Maanachar,Beans,Other,24/02/2021,1000,3500,2450
+Maharashtra,Pune,Maanachar,Beans,Other,25/02/2021,1000,4500,2750
+Maharashtra,Pune,Maanachar,Beans,Other,26/02/2021,1000,3210,2150
+Maharashtra,Pune,Maanachar,Beans,Other,01/03/2021,650,3620,2075
+Maharashtra,Pune,Maanachar,Beans,Other,02/03/2021,800,3500,2150
+Maharashtra,Pune,Maanachar,Beans,Other,03/03/2021,1100,3400,2250
+Maharashtra,Pune,Maanachar,Beans,Other,04/03/2021,1000,3200,1925
+Maharashtra,Pune,Maanachar,Beans,Other,05/03/2021,500,3500,2000
+Maharashtra,Pune,Maanachar,Beans,Other,07/03/2021,1000,3500,2150
+Maharashtra,Pune,Maanachar,Beans,Other,08/03/2021,1000,3300,2150
+Maharashtra,Pune,Pune,Beans,Other,01/01/2021,2000,5000,3500
+Maharashtra,Pune,Pune,Beans,Other,03/01/2021,2000,4000,3000
+Maharashtra,Pune,Pune,Beans,Other,04/01/2021,1500,4000,2750
+Maharashtra,Pune,Pune,Beans,Other,05/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,06/01/2021,2000,3000,2500
+Maharashtra,Pune,Pune,Beans,Other,14/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,15/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,17/01/2021,1500,3000,2300
+Maharashtra,Pune,Pune,Beans,Other,18/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,19/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,20/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,21/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,22/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,24/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,25/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,27/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,28/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,29/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,31/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,01/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune,Beans,Other,02/02/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,03/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune,Beans,Other,04/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune,Beans,Other,05/02/2021,1500,3000,2250
+Maharashtra,Pune,Pune,Beans,Other,07/02/2021,1500,3000,2300
+Maharashtra,Pune,Pune,Beans,Other,09/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune,Beans,Other,10/02/2021,2500,3200,2850
+Maharashtra,Pune,Pune,Beans,Other,11/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune,Beans,Other,12/02/2021,2000,3500,2750
+Maharashtra,Pune,Pune,Beans,Other,14/02/2021,2000,4500,3250
+Maharashtra,Pune,Pune,Beans,Other,15/02/2021,2000,4500,3250
+Maharashtra,Pune,Pune,Beans,Other,16/02/2021,2500,3500,3000
+Maharashtra,Pune,Pune,Beans,Other,17/02/2021,2000,4000,3000
+Maharashtra,Pune,Pune,Beans,Other,18/02/2021,2000,4000,3000
+Maharashtra,Pune,Pune,Beans,Other,19/02/2021,2000,4500,3250
+Maharashtra,Pune,Pune,Beans,Other,21/02/2021,2000,4000,3000
+Maharashtra,Pune,Pune,Beans,Other,22/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune,Beans,Other,23/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune,Beans,Other,24/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune,Beans,Other,25/02/2021,2000,3500,2750
+Maharashtra,Pune,Pune,Beans,Other,26/02/2021,2500,3500,3000
+Maharashtra,Pune,Pune,Beans,Other,28/02/2021,2500,4000,3250
+Maharashtra,Pune,Pune,Beans,Other,01/03/2021,2000,4000,3000
+Maharashtra,Pune,Pune,Beans,Other,02/03/2021,2000,4000,3000
+Maharashtra,Pune,Pune,Beans,Other,03/03/2021,2000,3500,2750
+Maharashtra,Pune,Pune,Beans,Other,04/03/2021,2000,4000,3000
+Maharashtra,Pune,Pune,Beans,Other,05/03/2021,2000,3000,2500
+Maharashtra,Pune,Pune,Beans,Other,07/03/2021,2000,3000,2500
+Maharashtra,Pune,Pune,Beans,Other,08/03/2021,2000,3500,2750
+Maharashtra,Pune,Pune,Beans,Other,09/03/2021,2000,3000,2500
+Maharashtra,Pune,Pune,Beans,Other,10/03/2021,2000,3000,2500
+Maharashtra,Pune,Pune,Beans,Other,11/03/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Khadiki),Beans,Other,01/01/2021,1500,1700,1600
+Maharashtra,Pune,Pune(Khadiki),Beans,Other,03/01/2021,1800,2200,2000
+Maharashtra,Pune,Pune(Khadiki),Beans,Other,28/01/2021,2800,2800,2800
+Maharashtra,Pune,Pune(Khadiki),Beans,Other,29/01/2021,2700,2900,2800
+Maharashtra,Pune,Pune(Khadiki),Beans,Other,02/02/2021,2400,2600,2500
+Maharashtra,Pune,Pune(Khadiki),Beans,Other,04/02/2021,2000,2400,2200
+Maharashtra,Pune,Pune(Khadiki),Beans,Other,11/02/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Khadiki),Beans,Other,18/02/2021,200,300,250
+Maharashtra,Pune,Pune(Khadiki),Beans,Other,21/02/2021,2100,2300,2200
+Maharashtra,Pune,Pune(Khadiki),Beans,Other,04/03/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Khadiki),Beans,Other,09/03/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Manjri),Beans,Other,02/01/2021,3000,4500,3500
+Maharashtra,Pune,Pune(Manjri),Beans,Other,16/01/2021,2000,4000,3000
+Maharashtra,Pune,Pune(Manjri),Beans,Other,17/01/2021,3000,4500,4000
+Maharashtra,Pune,Pune(Manjri),Beans,Other,18/01/2021,2500,3000,2700
+Maharashtra,Pune,Pune(Manjri),Beans,Other,20/01/2021,2000,4000,3000
+Maharashtra,Pune,Pune(Manjri),Beans,Other,24/01/2021,3000,4000,3500
+Maharashtra,Pune,Pune(Manjri),Beans,Other,25/01/2021,3500,4500,4000
+Maharashtra,Pune,Pune(Manjri),Beans,Other,27/01/2021,3000,4000,3500
+Maharashtra,Pune,Pune(Manjri),Beans,Other,28/01/2021,3000,4000,3500
+Maharashtra,Pune,Pune(Manjri),Beans,Other,09/02/2021,3000,4000,3500
+Maharashtra,Pune,Pune(Manjri),Beans,Other,13/02/2021,3000,4000,3500
+Maharashtra,Pune,Pune(Manjri),Beans,Other,16/02/2021,4000,4000,4000
+Maharashtra,Pune,Pune(Manjri),Beans,Other,17/02/2021,3000,4500,4000
+Maharashtra,Pune,Pune(Manjri),Beans,Other,24/02/2021,2500,3000,2700
+Maharashtra,Pune,Pune(Manjri),Beans,Other,27/02/2021,3000,4000,3500
+Maharashtra,Pune,Pune(Manjri),Beans,Other,03/03/2021,3000,4000,3500
+Maharashtra,Pune,Pune(Manjri),Beans,Other,06/03/2021,3000,3500,3200
+Maharashtra,Pune,Pune(Manjri),Beans,Other,08/03/2021,3000,4000,3500
+Maharashtra,Pune,Pune(Manjri),Beans,Other,09/03/2021,3000,3500,3200
+Maharashtra,Pune,Pune(Moshi),Beans,Other,01/01/2021,2500,3500,3000
+Maharashtra,Pune,Pune(Moshi),Beans,Other,02/01/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Moshi),Beans,Other,03/01/2021,2500,3500,3000
+Maharashtra,Pune,Pune(Moshi),Beans,Other,04/01/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,05/01/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,14/01/2021,2000,4000,3000
+Maharashtra,Pune,Pune(Moshi),Beans,Other,15/01/2021,2000,2500,2250
+Maharashtra,Pune,Pune(Moshi),Beans,Other,16/01/2021,3000,3500,3250
+Maharashtra,Pune,Pune(Moshi),Beans,Other,17/01/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,18/01/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,19/01/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Moshi),Beans,Other,21/01/2021,1500,2500,2000
+Maharashtra,Pune,Pune(Moshi),Beans,Other,22/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune(Moshi),Beans,Other,23/01/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Moshi),Beans,Other,24/01/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,25/01/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,28/01/2021,1000,3000,2000
+Maharashtra,Pune,Pune(Moshi),Beans,Other,29/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune(Moshi),Beans,Other,30/01/2021,1200,3000,2100
+Maharashtra,Pune,Pune(Moshi),Beans,Other,31/01/2021,1500,3000,2250
+Maharashtra,Pune,Pune(Moshi),Beans,Other,01/02/2021,1500,3000,2750
+Maharashtra,Pune,Pune(Moshi),Beans,Other,02/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,04/02/2021,1800,3000,2400
+Maharashtra,Pune,Pune(Moshi),Beans,Other,05/02/2021,1500,3000,2250
+Maharashtra,Pune,Pune(Moshi),Beans,Other,06/02/2021,1500,3000,2250
+Maharashtra,Pune,Pune(Moshi),Beans,Other,07/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,08/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,09/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,11/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,12/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,13/02/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Moshi),Beans,Other,14/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,15/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,16/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,18/02/2021,2500,3500,3000
+Maharashtra,Pune,Pune(Moshi),Beans,Other,19/02/2021,2000,3500,2750
+Maharashtra,Pune,Pune(Moshi),Beans,Other,20/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,21/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,22/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,23/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,25/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,26/02/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Moshi),Beans,Other,27/02/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,28/02/2021,2000,2500,2250
+Maharashtra,Pune,Pune(Moshi),Beans,Other,01/03/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,02/03/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,04/03/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Moshi),Beans,Other,05/03/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,06/03/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,07/03/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,08/03/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Moshi),Beans,Other,09/03/2021,1600,2500,2050
+Maharashtra,Pune,Pune(Moshi),Beans,Other,11/03/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,02/01/2021,2500,3500,3000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,03/01/2021,3200,3500,3350
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,04/01/2021,3000,3000,3000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,05/01/2021,3600,3600,3600
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,06/01/2021,2000,2500,2250
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,11/01/2021,2000,2000,2000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,14/01/2021,3000,3000,3000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,16/01/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,17/01/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,18/01/2021,2500,2500,2500
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,20/01/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,21/01/2021,2200,3000,2600
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,22/01/2021,2000,3000,2500
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,23/01/2021,1500,2500,2000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,24/01/2021,1800,2500,2150
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,25/01/2021,2000,2500,2250
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,27/01/2021,2600,2600,2600
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,28/01/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,29/01/2021,2500,2800,2650
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,31/01/2021,2000,2500,2250
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,01/02/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,02/02/2021,3000,3000,3000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,03/02/2021,2500,2500,2500
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,04/02/2021,2500,2500,2500
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,06/02/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,08/02/2021,3000,3000,3000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,09/02/2021,2800,2800,2800
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,10/02/2021,2000,2500,2250
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,11/02/2021,2200,3000,2600
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,12/02/2021,3000,3000,3000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,13/02/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,14/02/2021,3000,3000,3000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,15/02/2021,3000,3000,3000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,17/02/2021,3000,4000,3500
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,18/02/2021,3000,4200,3600
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,19/02/2021,3500,3500,3500
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,20/02/2021,2000,2000,2000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,22/02/2021,3000,3000,3000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,23/02/2021,3000,4000,3500
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,24/02/2021,2300,2500,2400
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,25/02/2021,3000,3500,3250
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,26/02/2021,3000,3000,3000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,27/02/2021,3000,3000,3000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,28/02/2021,3250,4200,3500
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,01/03/2021,3000,3200,3100
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,02/03/2021,3200,3200,3200
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,03/03/2021,2000,2200,2100
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,04/03/2021,2000,2000,2000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,05/03/2021,2500,3000,2750
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,06/03/2021,3000,3000,3000
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,07/03/2021,3000,3500,3250
+Maharashtra,Pune,Pune(Pimpri),Beans,Other,08/03/2021,2700,2700,2700
+Maharashtra,Raigad,Panvel,Beans,Other,01/01/2021,3000,3200,3100
+Maharashtra,Raigad,Panvel,Beans,Other,02/01/2021,2800,3200,3000
+Maharashtra,Raigad,Panvel,Beans,Other,04/01/2021,2800,3000,2900
+Maharashtra,Raigad,Panvel,Beans,Other,05/01/2021,2500,2800,2600
+Maharashtra,Raigad,Panvel,Beans,Other,13/01/2021,3500,3700,3600
+Maharashtra,Raigad,Panvel,Beans,Other,14/01/2021,3000,3200,3100
+Maharashtra,Raigad,Panvel,Beans,Other,15/01/2021,3400,4000,3800
+Maharashtra,Raigad,Panvel,Beans,Other,16/01/2021,3200,3400,3300
+Maharashtra,Raigad,Panvel,Beans,Other,18/01/2021,3800,4000,3900
+Maharashtra,Raigad,Panvel,Beans,Other,19/01/2021,2400,2800,2600
+Maharashtra,Raigad,Panvel,Beans,Other,20/01/2021,2400,2800,2600
+Maharashtra,Raigad,Panvel,Beans,Other,21/01/2021,2300,2500,2400
+Maharashtra,Raigad,Panvel,Beans,Other,22/01/2021,2800,3000,2900
+Maharashtra,Raigad,Panvel,Beans,Other,20/02/2021,2000,2400,2200
+Maharashtra,Raigad,Panvel,Beans,Other,05/03/2021,2800,3000,2900
+Maharashtra,Raigad,Panvel,Beans,Other,10/03/2021,3200,3500,3400
+Maharashtra,Ratnagiri,"Ratnagiri (Nachane)",Beans,Other,11/01/2021,3000,4000,3500
+Maharashtra,Ratnagiri,"Ratnagiri (Nachane)",Beans,Other,13/01/2021,4000,5000,4500
+Maharashtra,Ratnagiri,"Ratnagiri (Nachane)",Beans,Other,18/01/2021,4000,5000,4500
+Maharashtra,Ratnagiri,"Ratnagiri (Nachane)",Beans,Other,20/01/2021,3000,4500,3500
+Maharashtra,Ratnagiri,"Ratnagiri (Nachane)",Beans,Other,27/01/2021,2500,3500,3000
+Maharashtra,Ratnagiri,"Ratnagiri (Nachane)",Beans,Other,29/01/2021,3000,4000,3500
+Maharashtra,Ratnagiri,"Ratnagiri (Nachane)",Beans,Other,10/02/2021,3500,4500,4000
+Maharashtra,Ratnagiri,"Ratnagiri (Nachane)",Beans,Other,11/02/2021,4000,4500,4300
+Maharashtra,Ratnagiri,"Ratnagiri (Nachane)",Beans,Other,12/02/2021,4000,4500,4200
+Maharashtra,Ratnagiri,"Ratnagiri (Nachane)",Beans,Other,17/02/2021,3500,4000,3800
+Maharashtra,Ratnagiri,"Ratnagiri (Nachane)",Beans,Other,19/02/2021,3000,4000,3500
+Maharashtra,Ratnagiri,"Ratnagiri (Nachane)",Beans,Other,20/02/2021,3000,4000,3500
+Maharashtra,Ratnagiri,"Ratnagiri (Nachane)",Beans,Other,01/03/2021,3000,3500,3300
+Maharashtra,Ratnagiri,"Ratnagiri (Nachane)",Beans,Other,02/03/2021,2500,3500,3000
+Maharashtra,Ratnagiri,"Ratnagiri (Nachane)",Beans,Other,04/03/2021,3000,3500,3300
+Maharashtra,Sangli,Palus,Beans,Other,19/01/2021,2500,3500,3000
+Maharashtra,Sangli,Palus,Beans,Other,22/01/2021,3000,4000,3500
+Maharashtra,Sangli,Palus,Beans,Other,29/01/2021,2500,3000,2700
+Maharashtra,Satara,Karad,Beans,Other,02/01/2021,3000,4000,4000
+Maharashtra,Satara,Karad,Beans,Other,06/01/2021,2500,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,14/01/2021,2500,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,16/01/2021,2000,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,17/01/2021,2000,2500,2500
+Maharashtra,Satara,Karad,Beans,Other,18/01/2021,2500,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,19/01/2021,2500,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,20/01/2021,2000,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,21/01/2021,2000,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,23/01/2021,2000,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,24/01/2021,2000,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,25/01/2021,2000,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,27/01/2021,3000,3500,3500
+Maharashtra,Satara,Karad,Beans,Other,28/01/2021,2000,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,30/01/2021,2000,2500,2500
+Maharashtra,Satara,Karad,Beans,Other,31/01/2021,2000,2500,2500
+Maharashtra,Satara,Karad,Beans,Other,01/02/2021,2000,2500,2500
+Maharashtra,Satara,Karad,Beans,Other,02/02/2021,2000,2500,2500
+Maharashtra,Satara,Karad,Beans,Other,03/02/2021,2000,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,04/02/2021,2000,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,06/02/2021,2500,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,07/02/2021,2500,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,09/02/2021,2500,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,10/02/2021,2000,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,11/02/2021,2500,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,13/02/2021,2500,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,14/02/2021,3000,3500,3500
+Maharashtra,Satara,Karad,Beans,Other,15/02/2021,3000,3500,3500
+Maharashtra,Satara,Karad,Beans,Other,16/02/2021,2500,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,17/02/2021,2500,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,18/02/2021,2000,2200,2200
+Maharashtra,Satara,Karad,Beans,Other,20/02/2021,2500,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,21/02/2021,2000,2500,2500
+Maharashtra,Satara,Karad,Beans,Other,22/02/2021,3000,4000,4000
+Maharashtra,Satara,Karad,Beans,Other,23/02/2021,2000,2500,2500
+Maharashtra,Satara,Karad,Beans,Other,24/02/2021,2000,2500,2500
+Maharashtra,Satara,Karad,Beans,Other,25/02/2021,2000,2500,2500
+Maharashtra,Satara,Karad,Beans,Other,27/02/2021,2500,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,01/03/2021,2500,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,02/03/2021,2500,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,03/03/2021,2000,2500,2500
+Maharashtra,Satara,Karad,Beans,Other,04/03/2021,2000,2500,2500
+Maharashtra,Satara,Karad,Beans,Other,06/03/2021,1500,2500,2500
+Maharashtra,Satara,Karad,Beans,Other,07/03/2021,2000,2500,2500
+Maharashtra,Satara,Karad,Beans,Other,08/03/2021,2000,3000,3000
+Maharashtra,Satara,Karad,Beans,Other,09/03/2021,2000,2500,2500
+Maharashtra,Sholapur,Pandharpur,Beans,Other,02/01/2021,2000,3000,2500
+Maharashtra,Sholapur,Pandharpur,Beans,Other,04/01/2021,1000,2500,1500
+Maharashtra,Sholapur,Pandharpur,Beans,Other,05/01/2021,1000,2700,1400
+Maharashtra,Sholapur,Pandharpur,Beans,Other,01/02/2021,500,2000,1000
+Maharashtra,Sholapur,Pandharpur,Beans,Other,02/02/2021,2000,2000,2000
+Maharashtra,Sholapur,Pandharpur,Beans,Other,03/02/2021,500,2000,1000
+Maharashtra,Sholapur,Pandharpur,Beans,Other,04/02/2021,1000,3000,2000
+Maharashtra,Sholapur,Pandharpur,Beans,Other,09/02/2021,1500,3500,2500
+Maharashtra,Sholapur,Pandharpur,Beans,Other,10/02/2021,1000,3000,2000
+Maharashtra,Sholapur,Pandharpur,Beans,Other,11/02/2021,1500,1500,1500
+Maharashtra,Sholapur,Pandharpur,Beans,Other,12/02/2021,2500,3000,2500
+Maharashtra,Sholapur,Pandharpur,Beans,Other,15/02/2021,1000,2000,1500
+Maharashtra,Sholapur,Pandharpur,Beans,Other,16/02/2021,1000,3000,2000
+Maharashtra,Sholapur,Pandharpur,Beans,Other,17/02/2021,500,3500,2000
+Maharashtra,Sholapur,Pandharpur,Beans,Other,18/02/2021,2000,2000,2000
+Maharashtra,Sholapur,Pandharpur,Beans,Other,19/02/2021,1000,2500,1500
+Maharashtra,Sholapur,Pandharpur,Beans,Other,20/02/2021,1500,2500,2000
+Maharashtra,Sholapur,Pandharpur,Beans,Other,24/02/2021,1000,3500,2000
+Maharashtra,Sholapur,Pandharpur,Beans,Other,25/02/2021,1000,3000,2000
+Maharashtra,Sholapur,Pandharpur,Beans,Other,26/02/2021,1000,3000,2000
+Maharashtra,Sholapur,Pandharpur,Beans,Other,27/02/2021,1000,2800,2000
+Maharashtra,Sholapur,Pandharpur,Beans,Other,01/03/2021,1000,2500,2000
+Maharashtra,Sholapur,Pandharpur,Beans,Other,02/03/2021,1000,2500,2200
+Maharashtra,Sholapur,Pandharpur,Beans,Other,03/03/2021,1200,2000,2000
+Maharashtra,Sholapur,Pandharpur,Beans,Other,04/03/2021,1500,2500,2300
+Maharashtra,Sholapur,Pandharpur,Beans,Other,05/03/2021,1000,2800,2500
+Maharashtra,Sholapur,Pandharpur,Beans,Other,06/03/2021,1000,2600,1500
+Maharashtra,Sholapur,Pandharpur,Beans,Other,08/03/2021,1000,2000,1500
+Maharashtra,Sholapur,Pandharpur,Beans,Other,09/03/2021,1000,2200,1500
+Maharashtra,Sholapur,Pandharpur,Beans,Other,10/03/2021,1000,1500,1100
+Maharashtra,Sholapur,Pandharpur,Beans,Other,11/03/2021,3000,3000,3000
+Maharashtra,Sholapur,Solapur,Beans,Other,01/01/2021,1500,3000,2000
+Maharashtra,Sholapur,Solapur,Beans,Other,02/01/2021,2000,3500,2500
+Maharashtra,Sholapur,Solapur,Beans,Other,04/01/2021,2000,3250,2500
+Maharashtra,Sholapur,Solapur,Beans,Other,05/01/2021,600,3000,2000
+Maharashtra,Sholapur,Solapur,Beans,Other,15/01/2021,2000,4000,2500
+Maharashtra,Sholapur,Solapur,Beans,Other,16/01/2021,1500,2500,2000
+Maharashtra,Sholapur,Solapur,Beans,Other,19/01/2021,1000,3250,2000
+Maharashtra,Sholapur,Solapur,Beans,Other,20/01/2021,1000,3000,1500
+Maharashtra,Sholapur,Solapur,Beans,Other,21/01/2021,1200,2500,2000
+Maharashtra,Sholapur,Solapur,Beans,Other,22/01/2021,1000,2500,1500
+Maharashtra,Sholapur,Solapur,Beans,Other,23/01/2021,1000,2200,1500
+Maharashtra,Sholapur,Solapur,Beans,Other,25/01/2021,1500,3000,2000
+Maharashtra,Sholapur,Solapur,Beans,Other,27/01/2021,2000,2500,2200
+Maharashtra,Sholapur,Solapur,Beans,Other,28/01/2021,1000,2500,1700
+Maharashtra,Sholapur,Solapur,Beans,Other,29/01/2021,1200,2500,2000
+Maharashtra,Sholapur,Solapur,Beans,Other,30/01/2021,1500,3000,2000
+Maharashtra,Sholapur,Solapur,Beans,Other,01/02/2021,1500,3500,2000
+Maharashtra,Sholapur,Solapur,Beans,Other,03/02/2021,1800,2500,2000
+Maharashtra,Sholapur,Solapur,Beans,Other,04/02/2021,1000,2300,1500
+Maharashtra,Sholapur,Solapur,Beans,Other,05/02/2021,1000,2500,1500
+Maharashtra,Sholapur,Solapur,Beans,Other,09/02/2021,650,2500,1500
+Maharashtra,Sholapur,Solapur,Beans,Other,10/02/2021,1500,2000,1700
+Maharashtra,Sholapur,Solapur,Beans,Other,11/02/2021,2000,3000,2500
+Maharashtra,Sholapur,Solapur,Beans,Other,12/02/2021,2000,2500,2300
+Maharashtra,Sholapur,Solapur,Beans,Other,15/02/2021,2000,3000,2500
+Maharashtra,Sholapur,Solapur,Beans,Other,16/02/2021,2000,3000,2500
+Maharashtra,Sholapur,Solapur,Beans,Other,17/02/2021,2000,2500,2300
+Maharashtra,Sholapur,Solapur,Beans,Other,18/02/2021,1000,2500,2000
+Maharashtra,Sholapur,Solapur,Beans,Other,20/02/2021,2000,3000,2500
+Maharashtra,Sholapur,Solapur,Beans,Other,26/02/2021,1000,3000,2000
+Maharashtra,Sholapur,Solapur,Beans,Other,27/02/2021,1000,2500,1500
+Maharashtra,Sholapur,Solapur,Beans,Other,02/03/2021,1000,2500,1800
+Maharashtra,Sholapur,Solapur,Beans,Other,03/03/2021,700,2500,1500
+Maharashtra,Sholapur,Solapur,Beans,Other,04/03/2021,1000,2500,1500
+Maharashtra,Sholapur,Solapur,Beans,Other,05/03/2021,1000,2500,1500
+Maharashtra,Sholapur,Solapur,Beans,Other,06/03/2021,1000,2500,1200
+Maharashtra,Sholapur,Solapur,Beans,Other,08/03/2021,1500,2500,2000
+Maharashtra,Sholapur,Solapur,Beans,Other,10/03/2021,1250,2000,1500
+Maharashtra,Thane,Kalyan,Beans,Other,01/01/2021,3200,3600,3400
+Maharashtra,Thane,Kalyan,Beans,Other,02/01/2021,3000,3500,3250
+Maharashtra,Thane,Kalyan,Beans,Other,04/01/2021,3000,3500,3250
+Maharashtra,Thane,Kalyan,Beans,Other,05/01/2021,2800,3200,3000
+Maharashtra,Thane,Kalyan,Beans,Other,11/01/2021,2400,2800,2600
+Maharashtra,Thane,Kalyan,Beans,Other,14/01/2021,3200,3600,3400
+Maharashtra,Thane,Kalyan,Beans,Other,15/01/2021,3000,3600,3300
+Maharashtra,Thane,Kalyan,Beans,Other,16/01/2021,3200,4000,3600
+Maharashtra,Thane,Kalyan,Beans,Other,18/01/2021,2800,3200,3000
+Maharashtra,Thane,Kalyan,Beans,Other,19/01/2021,2500,3000,2750
+Maharashtra,Thane,Kalyan,Beans,Other,20/01/2021,2500,3000,2750
+Maharashtra,Thane,Kalyan,Beans,Other,21/01/2021,2500,2800,2750
+Maharashtra,Thane,Kalyan,Beans,Other,22/01/2021,2500,2700,2600
+Maharashtra,Thane,Kalyan,Beans,Other,23/01/2021,2400,2800,2600
+Maharashtra,Thane,Kalyan,Beans,Other,27/01/2021,2400,2800,2600
+Maharashtra,Thane,Kalyan,Beans,Other,28/01/2021,2400,2800,2600
+Maharashtra,Thane,Kalyan,Beans,Other,29/01/2021,2400,2800,2600
+Maharashtra,Thane,Kalyan,Beans,Other,30/01/2021,2500,2800,2650
+Maharashtra,Thane,Kalyan,Beans,Other,01/02/2021,2400,2800,2600
+Maharashtra,Thane,Kalyan,Beans,Other,02/02/2021,2500,3500,3000
+Maharashtra,Thane,Kalyan,Beans,Other,03/02/2021,2500,3000,2750
+Maharashtra,Thane,Kalyan,Beans,Other,09/02/2021,2800,3200,3000
+Maharashtra,Thane,Kalyan,Beans,Other,10/02/2021,4000,4400,4250
+Maharashtra,Thane,Kalyan,Beans,Other,11/02/2021,3800,4400,4100
+Maharashtra,Thane,Kalyan,Beans,Other,12/02/2021,4000,4400,4250
+Maharashtra,Thane,Kalyan,Beans,Other,15/02/2021,4000,4400,4200
+Maharashtra,Thane,Kalyan,Beans,Other,16/02/2021,4000,4400,4200
+Maharashtra,Thane,Kalyan,Beans,Other,17/02/2021,4000,4400,4200
+Maharashtra,Thane,Kalyan,Beans,Other,18/02/2021,2400,2800,2600
+Maharashtra,Thane,Kalyan,Beans,Other,19/02/2021,2400,2800,2600
+Maharashtra,Thane,Kalyan,Beans,Other,23/02/2021,3600,4000,3800
+Maharashtra,Thane,Kalyan,Beans,Other,25/02/2021,3600,4200,3900
+Maharashtra,Thane,Kalyan,Beans,Other,01/03/2021,3500,3800,3750
+Maharashtra,Thane,Kalyan,Beans,Other,02/03/2021,2400,2800,2600
+Maharashtra,Thane,Kalyan,Beans,Other,05/03/2021,2800,3200,3000
+Maharashtra,Thane,Kalyan,Beans,Other,08/03/2021,2800,3200,3000
+Meghalaya,"South West Garo Hills",Ampati,Beans,Other,16/01/2021,2500,3500,3000
+Meghalaya,"South West Garo Hills",Ampati,Beans,Other,23/01/2021,2500,3500,3000
+Meghalaya,"South West Garo Hills",Ampati,Beans,Other,13/02/2021,2700,3600,3000
+Nagaland,Dimapur,Dimapur,Beans,Other,04/01/2021,5200,6000,5500
+Nagaland,Dimapur,Dimapur,Beans,Other,05/01/2021,5500,6500,6000
+Nagaland,Dimapur,Dimapur,Beans,Other,06/01/2021,5700,6500,6200
+Nagaland,Dimapur,Dimapur,Beans,Other,07/01/2021,5500,6300,5800
+Nagaland,Dimapur,Dimapur,Beans,Other,08/01/2021,5600,6300,6000
+Nagaland,Dimapur,Dimapur,Beans,Other,09/01/2021,5300,6000,5600
+Nagaland,Dimapur,Dimapur,Beans,Other,11/01/2021,5500,6300,5800
+Nagaland,Dimapur,Dimapur,Beans,Other,12/01/2021,5200,6000,5500
+Nagaland,Dimapur,Dimapur,Beans,Other,13/01/2021,5700,6500,6000
+Nagaland,Dimapur,Dimapur,Beans,Other,18/01/2021,5000,5600,5300
+Nagaland,Dimapur,Dimapur,Beans,Other,19/01/2021,4800,5600,5200
+Nagaland,Dimapur,Dimapur,Beans,Other,20/01/2021,4700,5300,5000
+Nagaland,Dimapur,Dimapur,Beans,Other,21/01/2021,4500,5200,4800
+Nagaland,Dimapur,Dimapur,Beans,Other,22/01/2021,4700,5300,5000
+Nagaland,Dimapur,Dimapur,Beans,Other,23/01/2021,4500,5200,4800
+Nagaland,Dimapur,Dimapur,Beans,Other,25/01/2021,4800,5300,5000
+Nagaland,Dimapur,Dimapur,Beans,Other,26/01/2021,4700,5300,5000
+Nagaland,Dimapur,Dimapur,Beans,Other,27/01/2021,5000,5500,5300
+Nagaland,Dimapur,Dimapur,Beans,Other,28/01/2021,5200,5800,5500
+Nagaland,Dimapur,Dimapur,Beans,Other,29/01/2021,5000,5500,5200
+Nagaland,Dimapur,Dimapur,Beans,Other,30/01/2021,4700,5500,5200
+Nagaland,Dimapur,Dimapur,Beans,Other,01/02/2021,4800,5500,5300
+Nagaland,Dimapur,Dimapur,Beans,Other,02/02/2021,4700,5400,5000
+Nagaland,Dimapur,Dimapur,Beans,Other,03/02/2021,5000,5600,5300
+Nagaland,Dimapur,Dimapur,Beans,Other,04/02/2021,5200,5800,5500
+Nagaland,Dimapur,Dimapur,Beans,Other,05/02/2021,5300,6000,5500
+Nagaland,Dimapur,Dimapur,Beans,Other,06/02/2021,5000,0,5300
+Nagaland,Dimapur,Dimapur,Beans,Other,08/02/2021,4700,5300,5000
+Nagaland,Dimapur,Dimapur,Beans,Other,09/02/2021,4700,5500,5000
+Nagaland,Dimapur,Dimapur,Beans,Other,10/02/2021,4500,5300,4800
+Nagaland,Dimapur,Dimapur,Beans,Other,11/02/2021,5000,5800,5500
+Nagaland,Dimapur,Dimapur,Beans,Other,12/02/2021,5000,5500,5300
+Nagaland,Dimapur,Dimapur,Beans,Other,13/02/2021,5000,5600,5300
+Nagaland,Dimapur,Dimapur,Beans,Other,15/02/2021,4700,5300,5000
+Nagaland,Dimapur,Dimapur,Beans,Other,16/02/2021,4800,5300,5000
+Nagaland,Dimapur,Dimapur,Beans,Other,17/02/2021,5000,6000,5400
+Nagaland,Dimapur,Dimapur,Beans,Other,18/02/2021,5000,5800,5400
+Nagaland,Dimapur,Dimapur,Beans,Other,19/02/2021,5000,5800,5500
+Nagaland,Dimapur,Dimapur,Beans,Other,20/02/2021,4500,5500,5000
+Nagaland,Dimapur,Dimapur,Beans,Other,22/02/2021,5000,6000,5500
+Nagaland,Dimapur,Dimapur,Beans,Other,23/02/2021,4700,5500,5000
+Nagaland,Dimapur,Dimapur,Beans,Other,24/02/2021,4500,5200,4800
+Nagaland,Dimapur,Dimapur,Beans,Other,25/02/2021,4000,5000,4500
+Nagaland,Dimapur,Dimapur,Beans,Other,26/02/2021,4200,5000,4500
+Nagaland,Dimapur,Dimapur,Beans,Other,27/02/2021,3700,4500,4200
+Nagaland,Dimapur,Dimapur,Beans,Other,01/03/2021,3800,4300,4000
+Nagaland,Dimapur,Dimapur,Beans,Other,02/03/2021,3500,4300,3800
+Nagaland,Dimapur,Dimapur,Beans,Other,03/03/2021,4000,5000,4500
+Nagaland,Dimapur,Dimapur,Beans,Other,04/03/2021,3800,4500,4000
+Nagaland,Dimapur,Dimapur,Beans,Other,05/03/2021,3700,4300,4000
+Nagaland,Dimapur,Dimapur,Beans,Other,06/03/2021,3500,4200,3800
+Nagaland,Dimapur,Dimapur,Beans,Other,08/03/2021,4200,4700,4500
+Nagaland,Dimapur,Dimapur,Beans,Other,09/03/2021,4000,4500,4300
+Odisha,Cuttack,Kendupatna,Beans,Other,01/03/2021,3000,4000,3500
+Odisha,Cuttack,Kendupatna,Beans,Other,02/03/2021,3200,4000,3500
+Odisha,Cuttack,Kendupatna,Beans,Other,05/03/2021,2500,3000,2500
+Odisha,Cuttack,Kendupatna,Beans,Other,06/03/2021,8000,10000,8000
+Odisha,Cuttack,Kendupatna,Beans,Other,07/03/2021,2500,3000,2500
+Odisha,Cuttack,Kendupatna,Beans,Other,08/03/2021,3000,3500,3500
+Odisha,Cuttack,Kendupatna,Beans,Other,09/03/2021,2500,3600,3000
+Odisha,Cuttack,Kendupatna(Niali),Beans,Other,01/03/2021,3500,4000,3500
+Odisha,Cuttack,Kendupatna(Niali),Beans,Other,02/03/2021,30000,35000,30000
+Odisha,Dhenkanal,Hindol,Beans,Other,03/01/2021,3000,3200,3100
+Odisha,Dhenkanal,Hindol,Beans,Other,04/01/2021,3000,3400,3200
+Odisha,Dhenkanal,Hindol,Beans,Other,05/01/2021,3300,3500,3400
+Odisha,Dhenkanal,Hindol,Beans,Other,06/01/2021,2800,3000,2900
+Odisha,Dhenkanal,Hindol,Beans,Other,07/01/2021,3300,3500,3400
+Odisha,Dhenkanal,Hindol,Beans,Other,08/01/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,09/01/2021,3000,3400,3200
+Odisha,Dhenkanal,Hindol,Beans,Other,10/01/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,11/01/2021,2800,3000,2900
+Odisha,Dhenkanal,Hindol,Beans,Other,12/01/2021,3000,3400,3200
+Odisha,Dhenkanal,Hindol,Beans,Other,13/01/2021,2800,3000,2900
+Odisha,Dhenkanal,Hindol,Beans,Other,14/01/2021,2700,3000,2800
+Odisha,Dhenkanal,Hindol,Beans,Other,15/01/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,16/01/2021,2700,3000,2800
+Odisha,Dhenkanal,Hindol,Beans,Other,17/01/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,18/01/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,19/01/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,20/01/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,21/01/2021,2800,3000,2900
+Odisha,Dhenkanal,Hindol,Beans,Other,22/01/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,23/01/2021,2800,3000,2900
+Odisha,Dhenkanal,Hindol,Beans,Other,24/01/2021,3000,3400,3200
+Odisha,Dhenkanal,Hindol,Beans,Other,25/01/2021,2800,3000,2900
+Odisha,Dhenkanal,Hindol,Beans,Other,26/01/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,27/01/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,29/01/2021,3000,3400,3200
+Odisha,Dhenkanal,Hindol,Beans,Other,30/01/2021,2800,3000,2900
+Odisha,Dhenkanal,Hindol,Beans,Other,31/01/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,05/02/2021,2800,3000,2900
+Odisha,Dhenkanal,Hindol,Beans,Other,06/02/2021,2700,3000,2800
+Odisha,Dhenkanal,Hindol,Beans,Other,07/02/2021,2700,3000,2800
+Odisha,Dhenkanal,Hindol,Beans,Other,08/02/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,09/02/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,10/02/2021,2000,2500,2200
+Odisha,Dhenkanal,Hindol,Beans,Other,11/02/2021,2000,2500,2200
+Odisha,Dhenkanal,Hindol,Beans,Other,12/02/2021,2000,2500,2200
+Odisha,Dhenkanal,Hindol,Beans,Other,13/02/2021,2000,2400,2200
+Odisha,Dhenkanal,Hindol,Beans,Other,14/02/2021,2000,2500,2200
+Odisha,Dhenkanal,Hindol,Beans,Other,15/02/2021,2200,2500,2400
+Odisha,Dhenkanal,Hindol,Beans,Other,16/02/2021,2300,2500,2400
+Odisha,Dhenkanal,Hindol,Beans,Other,17/02/2021,2000,2500,2200
+Odisha,Dhenkanal,Hindol,Beans,Other,18/02/2021,2300,2500,2400
+Odisha,Dhenkanal,Hindol,Beans,Other,19/02/2021,2200,2500,2400
+Odisha,Dhenkanal,Hindol,Beans,Other,20/02/2021,2300,2500,2400
+Odisha,Dhenkanal,Hindol,Beans,Other,21/02/2021,2000,2500,2200
+Odisha,Dhenkanal,Hindol,Beans,Other,22/02/2021,2000,2500,2200
+Odisha,Dhenkanal,Hindol,Beans,Other,23/02/2021,2400,2600,2500
+Odisha,Dhenkanal,Hindol,Beans,Other,24/02/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,25/02/2021,2500,3000,2800
+Odisha,Dhenkanal,Hindol,Beans,Other,26/02/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,27/02/2021,2500,3000,2800
+Odisha,Dhenkanal,Hindol,Beans,Other,28/02/2021,2800,3000,2900
+Odisha,Dhenkanal,Hindol,Beans,Other,03/03/2021,3400,3600,3500
+Odisha,Dhenkanal,Hindol,Beans,Other,04/03/2021,3300,3500,3400
+Odisha,Dhenkanal,Hindol,Beans,Other,05/03/2021,3400,3600,3500
+Odisha,Dhenkanal,Hindol,Beans,Other,06/03/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,07/03/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,08/03/2021,3000,3500,3200
+Odisha,Dhenkanal,Hindol,Beans,Other,09/03/2021,3200,3500,3400
+Odisha,Dhenkanal,Hindol,Beans,Other,10/03/2021,2800,3200,3000
+Odisha,Dhenkanal,Hindol,Beans,Other,11/03/2021,2800,3200,3000
+Odisha,Kalahandi,Bhawanipatna,Beans,Local,31/01/2021,4000,5000,4000
+Odisha,Kalahandi,Bhawanipatna,Beans,Local,02/02/2021,4000,5000,4500
+Odisha,Kalahandi,Bhawanipatna,Beans,Local,03/02/2021,3000,4000,3000
+Odisha,Kalahandi,Bhawanipatna,Beans,Local,04/02/2021,3000,4000,3500
+Odisha,Kalahandi,Bhawanipatna,Beans,Local,05/02/2021,2000,3000,2500
+Odisha,Kalahandi,Bhawanipatna,Beans,Local,08/02/2021,4000,4000,4000
+Odisha,Kalahandi,Kesinga,Beans,Other,04/01/2021,6000,6000,6000
+Odisha,Kalahandi,Kesinga,Beans,Other,09/01/2021,6000,6000,6000
+Odisha,Kalahandi,Kesinga,Beans,Other,14/01/2021,5000,5500,5200
+Odisha,Kalahandi,Kesinga,Beans,Other,15/01/2021,5000,5000,5000
+Odisha,Kalahandi,Kesinga,Beans,Other,18/01/2021,5000,6000,5500
+Odisha,Kalahandi,Kesinga,Beans,Other,21/01/2021,4000,5000,4500
+Odisha,Kalahandi,Kesinga,Beans,Other,26/01/2021,4000,4500,4200
+Odisha,Kalahandi,Kesinga,Beans,Other,29/01/2021,4000,4000,4000
+Odisha,Kalahandi,Kesinga,Beans,Other,02/02/2021,3500,4000,3800
+Odisha,Kalahandi,Kesinga,Beans,Other,05/02/2021,3500,4000,3800
+Odisha,Kalahandi,Kesinga,Beans,Other,15/02/2021,5000,6000,5500
+Odisha,Kalahandi,Kesinga,Beans,Other,19/02/2021,4500,5000,4800
+Odisha,Kalahandi,Kesinga,Beans,Other,20/02/2021,5000,6000,5500
+Odisha,Kalahandi,Kesinga,Beans,Other,24/02/2021,5000,6000,5500
+Odisha,Kalahandi,Kesinga,Beans,Other,01/03/2021,5000,6000,5500
+Odisha,Kalahandi,Kesinga,Beans,Other,06/03/2021,6000,6500,6200
+Odisha,Koraput,Koraput,Beans,Other,12/01/2021,2000,2200,2100
+Odisha,Koraput,Koraput,Beans,Other,16/01/2021,3000,3200,3100
+Odisha,Koraput,Koraput,Beans,Other,19/01/2021,3000,3200,3100
+Odisha,Koraput,Koraput,Beans,Other,04/03/2021,2900,3100,3000
+Odisha,Koraput,Koraput,Beans,Other,08/03/2021,2900,3100,3000
+Odisha,Koraput,Koraput(Semilguda),Beans,Other,20/01/2021,3000,3200,3100
+Odisha,Koraput,Koraput(Semilguda),Beans,Other,04/02/2021,3000,3200,3100
+Odisha,Koraput,Koraput(Semilguda),Beans,Other,01/03/2021,2900,3100,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,01/01/2021,3800,4200,4000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,02/01/2021,3500,4200,4000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,06/01/2021,2800,4000,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,07/01/2021,3000,4000,3500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,08/01/2021,3000,4000,3500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,09/01/2021,3000,4000,3500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,10/01/2021,3000,4000,3500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,11/01/2021,3000,4200,4000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,12/01/2021,2000,3000,2500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,13/01/2021,2000,3000,2500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,14/01/2021,2000,3000,2500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,15/01/2021,2500,4000,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,16/01/2021,2500,3500,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,17/01/2021,2500,3500,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,18/01/2021,2500,3500,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,19/01/2021,2500,3500,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,20/01/2021,2000,2500,2200
+Odisha,Mayurbhanja,Betnoti,Beans,Other,21/01/2021,2000,3000,2500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,22/01/2021,1800,2500,2000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,23/01/2021,1800,2200,2000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,24/01/2021,1800,2500,2000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,25/01/2021,1800,2500,2000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,27/01/2021,1800,2500,2000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,29/01/2021,1800,2200,2000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,02/02/2021,2000,3000,2500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,03/02/2021,1800,2500,2000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,04/02/2021,1800,2200,2000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,05/02/2021,1800,2500,2000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,07/02/2021,2000,3000,2500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,08/02/2021,2000,3000,2500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,09/02/2021,2000,3000,2500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,10/02/2021,2500,3500,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,11/02/2021,2500,3500,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,12/02/2021,1800,2500,2000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,13/02/2021,1800,2500,2000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,14/02/2021,1800,2500,2000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,15/02/2021,2000,3000,2500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,16/02/2021,2000,3000,2500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,17/02/2021,2000,3000,2500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,18/02/2021,2000,3000,2500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,19/02/2021,2500,4000,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,20/02/2021,2500,4000,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,21/02/2021,2500,4000,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,23/02/2021,2500,3500,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,24/02/2021,2500,3500,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,25/02/2021,2500,3500,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,26/02/2021,2500,3500,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,28/02/2021,2500,3500,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,01/03/2021,2500,3500,3000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,02/03/2021,3500,4200,4000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,04/03/2021,3000,4000,3500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,05/03/2021,3000,4000,3500
+Odisha,Mayurbhanja,Betnoti,Beans,Other,07/03/2021,3500,4200,4000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,08/03/2021,3500,4200,4000
+Odisha,Mayurbhanja,Betnoti,Beans,Other,10/03/2021,3500,4200,4000
+Odisha,Sambalpur,Kuchinda,Beans,Other,08/01/2021,6000,6000,6000
+Odisha,Sambalpur,Kuchinda,Beans,Other,11/01/2021,4000,4500,4200
+Odisha,Sambalpur,Kuchinda,Beans,Other,14/01/2021,4000,5000,4500
+Odisha,Sambalpur,Kuchinda,Beans,Other,16/01/2021,4000,4500,4200
+Odisha,Sambalpur,Kuchinda,Beans,Other,19/01/2021,4000,4000,4000
+Odisha,Sambalpur,Kuchinda,Beans,Other,20/01/2021,4000,4000,4000
+Odisha,Sambalpur,Kuchinda,Beans,Other,21/01/2021,4000,4500,4200
+Odisha,Sambalpur,Kuchinda,Beans,Other,22/01/2021,3500,4000,3800
+Odisha,Sambalpur,Kuchinda,Beans,Other,24/01/2021,4000,4000,4000
+Odisha,Sambalpur,Kuchinda,Beans,Other,25/01/2021,3500,4000,3700
+Odisha,Sambalpur,Kuchinda,Beans,Other,26/01/2021,4000,4000,4000
+Odisha,Sambalpur,Kuchinda,Beans,Other,27/01/2021,3500,4000,3700
+Odisha,Sambalpur,Kuchinda,Beans,Other,28/01/2021,4000,4500,4200
+Odisha,Sambalpur,Kuchinda,Beans,Other,30/01/2021,3000,3500,3200
+Odisha,Sambalpur,Kuchinda,Beans,Other,31/01/2021,4500,4500,4500
+Odisha,Sambalpur,Kuchinda,Beans,Other,05/02/2021,3500,4000,3700
+Odisha,Sambalpur,Kuchinda,Beans,Other,06/02/2021,3500,4000,3700
+Odisha,Sambalpur,Kuchinda,Beans,Other,08/02/2021,2500,3000,2700
+Odisha,Sambalpur,Kuchinda,Beans,Other,09/02/2021,3500,4000,3700
+Odisha,Sambalpur,Kuchinda,Beans,Other,10/02/2021,3000,3500,3200
+Odisha,Sambalpur,Kuchinda,Beans,Other,11/02/2021,4000,4000,4000
+Odisha,Sambalpur,Kuchinda,Beans,Other,12/02/2021,3000,3500,3200
+Odisha,Sambalpur,Kuchinda,Beans,Other,14/02/2021,3000,3500,3200
+Odisha,Sambalpur,Kuchinda,Beans,Other,15/02/2021,3500,3700,3500
+Odisha,Sambalpur,Kuchinda,Beans,Other,17/02/2021,3500,4000,3700
+Odisha,Sambalpur,Kuchinda,Beans,Other,19/02/2021,3800,4000,4000
+Odisha,Sambalpur,Kuchinda,Beans,Other,23/02/2021,3500,4000,3700
+Odisha,Sambalpur,Kuchinda,Beans,Other,24/02/2021,3000,3500,3200
+Odisha,Sambalpur,Kuchinda,Beans,Other,26/02/2021,3200,3400,3300
+Odisha,Sambalpur,Kuchinda,Beans,Other,27/02/2021,3500,4000,4000
+Odisha,Sambalpur,Kuchinda,Beans,Other,28/02/2021,2000,2200,2200
+Odisha,Sambalpur,Kuchinda,Beans,Other,03/03/2021,3000,3500,3200
+Odisha,Sambalpur,Kuchinda,Beans,Other,04/03/2021,3000,3200,3100
+Odisha,Sambalpur,Kuchinda,Beans,Other,07/03/2021,3000,3500,3200
+Odisha,Sambalpur,Kuchinda,Beans,Other,08/03/2021,3200,3600,3400
+Odisha,Sambalpur,Kuchinda,Beans,Other,09/03/2021,3000,3500,3200
+Odisha,Sambalpur,Kuchinda,Beans,Other,10/03/2021,3000,3500,3200
+Punjab,Muktsar,Muktsar,Beans,"Beans (Whole)",17/02/2021,2000,3000,2500
+Punjab,Muktsar,Muktsar,Beans,"Beans (Whole)",22/02/2021,2000,2500,2200
+Tripura,Dhalai,Gandacharra,Beans,Local,19/02/2021,3200,3500,3350
+Tripura,Dhalai,Kulai,Beans,Local,21/02/2021,1200,1400,1300
+Tripura,Dhalai,Kulai,Beans,Local,22/02/2021,1300,1500,1400
+Tripura,Dhalai,Kulai,Beans,Local,23/02/2021,1300,1500,1400
+Tripura,Dhalai,Kulai,Beans,Local,24/02/2021,1200,1400,1300
+Tripura,Dhalai,Kulai,Beans,Local,27/02/2021,1100,1300,1200
+Tripura,Dhalai,Kulai,Beans,Local,28/02/2021,1100,1300,1200
+Uttrakhand,Nanital,Haldwani,Beans,Other,25/02/2021,1800,2200,1950
+Uttrakhand,Nanital,Haldwani,Beans,Other,26/02/2021,1800,2500,1950
+Uttrakhand,Nanital,Haldwani,Beans,Other,28/02/2021,1500,2200,1900
+Uttrakhand,UdhamSinghNagar,Kashipur,Beans,Other,13/02/2021,900,1100,1000
+Uttrakhand,UdhamSinghNagar,Kashipur,Beans,Other,17/02/2021,700,900,800
+Uttrakhand,UdhamSinghNagar,Kashipur,Beans,Other,18/02/2021,600,800,700

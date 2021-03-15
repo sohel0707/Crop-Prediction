@@ -1,0 +1,916 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+"West Bengal",Burdwan,Kalna,Jute,TD-5,01/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,02/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,06/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,07/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,08/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,09/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,11/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,12/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,13/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,14/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,15/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,16/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,18/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,19/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,20/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,21/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,22/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,23/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,25/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,26/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,27/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,28/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,29/01/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,02/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,03/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,04/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,05/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,08/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,09/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,10/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,11/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,12/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,13/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,15/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,16/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,17/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,18/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,19/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,20/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,22/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,23/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,24/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,25/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,26/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,27/02/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,01/03/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,02/03/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,03/03/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,04/03/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,05/03/2021,4900,5000,4900
+"West Bengal",Burdwan,Kalna,Jute,TD-5,06/03/2021,4900,5000,5000
+"West Bengal",Burdwan,Kalna,Jute,TD-5,08/03/2021,5000,5100,5000
+"West Bengal",Burdwan,Kalna,Jute,TD-5,09/03/2021,5000,5100,5000
+"West Bengal",Burdwan,Kalna,Jute,TD-5,10/03/2021,5000,5100,5000
+"West Bengal",Burdwan,Kalna,Jute,TD-5,11/03/2021,5000,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,02/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,04/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,05/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,06/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,07/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,08/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,09/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,11/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,12/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,13/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,14/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,15/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,16/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,18/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,19/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,20/01/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,21/01/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,22/01/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,23/01/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,25/01/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,27/01/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,28/01/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,29/01/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,30/01/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,01/02/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,02/02/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,03/02/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,04/02/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,05/02/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,06/02/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,08/02/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,09/02/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,10/02/2021,4900,5100,5000
+"West Bengal",Burdwan,Katwa,Jute,TD-5,11/02/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,12/02/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,13/02/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,15/02/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,17/02/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,18/02/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,19/02/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,20/02/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,22/02/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,23/02/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,24/02/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,25/02/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,26/02/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,27/02/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,01/03/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,02/03/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,03/03/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,04/03/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,05/03/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,06/03/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,08/03/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,09/03/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,10/03/2021,5000,5200,5100
+"West Bengal",Burdwan,Katwa,Jute,TD-5,11/03/2021,5000,5200,5100
+"West Bengal",Coochbehar,Baxirhat,Jute,TD-5,15/01/2021,6100,6250,6200
+"West Bengal",Coochbehar,Baxirhat,Jute,TD-5,07/03/2021,6500,6700,6600
+"West Bengal",Coochbehar,Coochbehar,Jute,TD-5,03/01/2021,6100,6300,6200
+"West Bengal",Coochbehar,Coochbehar,Jute,TD-5,10/01/2021,6200,6400,6300
+"West Bengal",Coochbehar,Coochbehar,Jute,TD-5,02/02/2021,6100,6300,6200
+"West Bengal",Coochbehar,Coochbehar,Jute,TD-5,16/02/2021,6300,6500,6400
+"West Bengal",Coochbehar,Coochbehar,Jute,TD-5,20/02/2021,6300,6500,6400
+"West Bengal",Coochbehar,Coochbehar,Jute,TD-5,26/02/2021,6300,6500,6400
+"West Bengal",Coochbehar,Coochbehar,Jute,TD-5,06/03/2021,6500,6700,6600
+"West Bengal",Coochbehar,Coochbehar,Jute,TD-5,09/03/2021,6500,6700,6600
+"West Bengal",Coochbehar,Pundibari,Jute,TD-5,28/02/2021,6300,6500,6400
+"West Bengal",Coochbehar,Toofanganj,Jute,TD-5,04/01/2021,6100,6300,6200
+"West Bengal",Coochbehar,Toofanganj,Jute,TD-5,07/01/2021,6100,6300,6200
+"West Bengal",Coochbehar,Toofanganj,Jute,TD-5,11/01/2021,6200,6300,6250
+"West Bengal",Coochbehar,Toofanganj,Jute,TD-5,14/01/2021,6100,6300,6200
+"West Bengal",Coochbehar,Toofanganj,Jute,TD-5,18/01/2021,6200,6400,6300
+"West Bengal",Coochbehar,Toofanganj,Jute,TD-5,21/01/2021,6200,6300,6250
+"West Bengal",Coochbehar,Toofanganj,Jute,TD-5,25/01/2021,6100,6300,6200
+"West Bengal",Coochbehar,Toofanganj,Jute,TD-5,28/01/2021,6100,6300,6200
+"West Bengal",Coochbehar,Toofanganj,Jute,TD-5,01/02/2021,6100,6200,6150
+"West Bengal",Coochbehar,Toofanganj,Jute,TD-5,04/02/2021,6100,6200,6150
+"West Bengal",Coochbehar,Toofanganj,Jute,TD-5,08/02/2021,6100,6300,6200
+"West Bengal",Coochbehar,Toofanganj,Jute,TD-5,18/02/2021,6200,6400,6300
+"West Bengal",Coochbehar,Toofanganj,Jute,TD-5,25/02/2021,6200,6400,6300
+"West Bengal",Coochbehar,Toofanganj,Jute,TD-5,01/03/2021,6200,6400,6300
+"West Bengal",Hooghly,Champadanga,Jute,Other,01/01/2021,4550,4750,4650
+"West Bengal",Hooghly,Champadanga,Jute,Other,02/01/2021,4550,4750,4650
+"West Bengal",Hooghly,Champadanga,Jute,Other,04/01/2021,4550,4750,4650
+"West Bengal",Hooghly,Champadanga,Jute,Other,05/01/2021,4550,4750,4650
+"West Bengal",Hooghly,Champadanga,Jute,Other,06/01/2021,4550,4750,4650
+"West Bengal",Hooghly,Champadanga,Jute,Other,07/01/2021,4550,4750,4650
+"West Bengal",Hooghly,Champadanga,Jute,Other,08/01/2021,4550,4750,4650
+"West Bengal",Hooghly,Champadanga,Jute,Other,09/01/2021,4800,4900,4850
+"West Bengal",Hooghly,Champadanga,Jute,Other,11/01/2021,4800,4900,4850
+"West Bengal",Hooghly,Champadanga,Jute,Other,12/01/2021,4800,4900,4850
+"West Bengal",Hooghly,Champadanga,Jute,Other,13/01/2021,4800,4900,4850
+"West Bengal",Hooghly,Champadanga,Jute,Other,15/01/2021,4800,4900,4850
+"West Bengal",Hooghly,Champadanga,Jute,Other,16/01/2021,4800,4900,4850
+"West Bengal",Hooghly,Champadanga,Jute,Other,18/01/2021,4800,5000,4900
+"West Bengal",Hooghly,Champadanga,Jute,Other,19/01/2021,4800,5000,4900
+"West Bengal",Hooghly,Champadanga,Jute,Other,20/01/2021,4800,5000,4900
+"West Bengal",Hooghly,Champadanga,Jute,Other,21/01/2021,4800,5000,4900
+"West Bengal",Hooghly,Champadanga,Jute,Other,22/01/2021,4800,5000,4900
+"West Bengal",Hooghly,Champadanga,Jute,Other,23/01/2021,4800,5000,4900
+"West Bengal",Hooghly,Champadanga,Jute,Other,25/01/2021,4800,5000,4900
+"West Bengal",Hooghly,Champadanga,Jute,Other,26/01/2021,4800,5000,4900
+"West Bengal",Hooghly,Champadanga,Jute,Other,27/01/2021,4800,5000,4900
+"West Bengal",Hooghly,Champadanga,Jute,Other,28/01/2021,4800,5000,4900
+"West Bengal",Hooghly,Champadanga,Jute,Other,29/01/2021,4800,5000,4900
+"West Bengal",Hooghly,Champadanga,Jute,Other,30/01/2021,4800,5000,4900
+"West Bengal",Malda,Gajol,Jute,TD-5,01/01/2021,6000,6200,6100
+"West Bengal",Malda,Gajol,Jute,TD-5,03/01/2021,6200,6400,6300
+"West Bengal",Malda,Gajol,Jute,TD-5,04/01/2021,5800,6200,6000
+"West Bengal",Malda,Gajol,Jute,TD-5,05/01/2021,5800,6200,6000
+"West Bengal",Malda,Gajol,Jute,TD-5,06/01/2021,6000,6300,6200
+"West Bengal",Malda,Gajol,Jute,TD-5,09/01/2021,5800,6200,6000
+"West Bengal",Malda,Gajol,Jute,TD-5,10/01/2021,6000,6200,6100
+"West Bengal",Malda,Gajol,Jute,TD-5,11/01/2021,5800,6200,6000
+"West Bengal",Malda,Gajol,Jute,TD-5,12/01/2021,6000,6300,6200
+"West Bengal",Malda,Gajol,Jute,TD-5,14/01/2021,5800,6200,6000
+"West Bengal",Malda,Gajol,Jute,TD-5,15/01/2021,5800,6200,6000
+"West Bengal",Malda,Gajol,Jute,TD-5,16/01/2021,5800,6200,6000
+"West Bengal",Malda,Gajol,Jute,TD-5,17/01/2021,5800,6200,6000
+"West Bengal",Malda,Gajol,Jute,TD-5,18/01/2021,6100,6300,6200
+"West Bengal",Malda,Gajol,Jute,TD-5,19/01/2021,6100,6300,6200
+"West Bengal",Malda,Gajol,Jute,TD-5,20/01/2021,6100,6300,6200
+"West Bengal",Malda,Gajol,Jute,TD-5,21/01/2021,6200,6500,6300
+"West Bengal",Malda,Gajol,Jute,TD-5,22/01/2021,6200,6500,6400
+"West Bengal",Malda,Gajol,Jute,TD-5,23/01/2021,6200,6500,6400
+"West Bengal",Malda,Gajol,Jute,TD-5,24/01/2021,6300,6500,6400
+"West Bengal",Malda,Gajol,Jute,TD-5,25/01/2021,6300,6500,6400
+"West Bengal",Malda,Gajol,Jute,TD-5,27/01/2021,6300,6600,6500
+"West Bengal",Malda,Gajol,Jute,TD-5,28/01/2021,6300,6500,6400
+"West Bengal",Malda,Gajol,Jute,TD-5,29/01/2021,6300,6600,6500
+"West Bengal",Malda,Gajol,Jute,TD-5,30/01/2021,6300,6600,6500
+"West Bengal",Malda,Gajol,Jute,TD-5,31/01/2021,6200,6400,6300
+"West Bengal",Malda,Gajol,Jute,TD-5,01/02/2021,6300,6500,6400
+"West Bengal",Malda,Gajol,Jute,TD-5,02/02/2021,6300,6500,6400
+"West Bengal",Malda,Gajol,Jute,TD-5,03/02/2021,6300,6500,6400
+"West Bengal",Malda,Gajol,Jute,TD-5,04/02/2021,6200,6500,6400
+"West Bengal",Malda,Gajol,Jute,TD-5,05/02/2021,6300,6500,6400
+"West Bengal",Malda,Gajol,Jute,TD-5,06/02/2021,6200,6500,6400
+"West Bengal",Malda,Gajol,Jute,TD-5,07/02/2021,6200,6500,6400
+"West Bengal",Malda,Gajol,Jute,TD-5,08/02/2021,6300,6500,6400
+"West Bengal",Malda,Gajol,Jute,TD-5,09/02/2021,6300,6500,6400
+"West Bengal",Malda,Gajol,Jute,TD-5,10/02/2021,6100,6300,6200
+"West Bengal",Malda,Gajol,Jute,TD-5,11/02/2021,6200,6500,6400
+"West Bengal",Malda,Gajol,Jute,TD-5,12/02/2021,6500,6800,6700
+"West Bengal",Malda,Gajol,Jute,TD-5,13/02/2021,6500,6700,6600
+"West Bengal",Malda,Gajol,Jute,TD-5,14/02/2021,6500,6800,6600
+"West Bengal",Malda,Gajol,Jute,TD-5,15/02/2021,6500,6800,6700
+"West Bengal",Malda,Gajol,Jute,TD-5,16/02/2021,6600,6900,6800
+"West Bengal",Malda,Gajol,Jute,TD-5,17/02/2021,6600,6900,6800
+"West Bengal",Malda,Gajol,Jute,TD-5,18/02/2021,6600,6800,6700
+"West Bengal",Malda,Gajol,Jute,TD-5,19/02/2021,6500,6800,6700
+"West Bengal",Malda,Gajol,Jute,TD-5,20/02/2021,6500,6800,6700
+"West Bengal",Malda,Gajol,Jute,TD-5,21/02/2021,6500,6800,6700
+"West Bengal",Malda,Gajol,Jute,TD-5,22/02/2021,6600,6850,6700
+"West Bengal",Malda,Gajol,Jute,TD-5,23/02/2021,6500,6800,6700
+"West Bengal",Malda,Gajol,Jute,TD-5,24/02/2021,6500,6800,6700
+"West Bengal",Malda,Gajol,Jute,TD-5,25/02/2021,6800,7200,7000
+"West Bengal",Malda,Gajol,Jute,TD-5,26/02/2021,7000,7400,7200
+"West Bengal",Malda,Samsi,Jute,TD-5,01/01/2021,5300,5500,5400
+"West Bengal",Malda,Samsi,Jute,TD-5,02/01/2021,5200,5400,5300
+"West Bengal",Malda,Samsi,Jute,TD-5,03/01/2021,5300,5500,5400
+"West Bengal",Malda,Samsi,Jute,TD-5,04/01/2021,5200,5400,5300
+"West Bengal",Malda,Samsi,Jute,TD-5,05/01/2021,5200,5400,5300
+"West Bengal",Malda,Samsi,Jute,TD-5,06/01/2021,5200,5400,5300
+"West Bengal",Malda,Samsi,Jute,TD-5,07/01/2021,5200,5400,5300
+"West Bengal",Malda,Samsi,Jute,TD-5,08/01/2021,5400,5600,5500
+"West Bengal",Malda,Samsi,Jute,TD-5,10/01/2021,5500,5700,5600
+"West Bengal",Malda,Samsi,Jute,TD-5,11/01/2021,5400,5600,5500
+"West Bengal",Malda,Samsi,Jute,TD-5,12/01/2021,5400,5600,5500
+"West Bengal",Malda,Samsi,Jute,TD-5,13/01/2021,5400,5600,5500
+"West Bengal",Malda,Samsi,Jute,TD-5,14/01/2021,5400,5600,5500
+"West Bengal",Malda,Samsi,Jute,TD-5,15/01/2021,5300,5500,5400
+"West Bengal",Malda,Samsi,Jute,TD-5,16/01/2021,5300,5500,5400
+"West Bengal",Malda,Samsi,Jute,TD-5,17/01/2021,5300,5500,5400
+"West Bengal",Malda,Samsi,Jute,TD-5,18/01/2021,5200,5400,5300
+"West Bengal",Malda,Samsi,Jute,TD-5,19/01/2021,5200,5400,5300
+"West Bengal",Malda,Samsi,Jute,TD-5,20/01/2021,5200,5400,5300
+"West Bengal",Malda,Samsi,Jute,TD-5,21/01/2021,5400,5600,5500
+"West Bengal",Malda,Samsi,Jute,TD-5,22/01/2021,5400,5600,5500
+"West Bengal",Malda,Samsi,Jute,TD-5,23/01/2021,5400,5600,5500
+"West Bengal",Malda,Samsi,Jute,TD-5,24/01/2021,5300,5500,5400
+"West Bengal",Malda,Samsi,Jute,TD-5,25/01/2021,5400,5600,5500
+"West Bengal",Malda,Samsi,Jute,TD-5,26/01/2021,5400,5600,5500
+"West Bengal",Malda,Samsi,Jute,TD-5,27/01/2021,5300,5500,5400
+"West Bengal",Malda,Samsi,Jute,TD-5,28/01/2021,5300,5500,5400
+"West Bengal",Malda,Samsi,Jute,TD-5,03/02/2021,5600,5800,5700
+"West Bengal",Malda,Samsi,Jute,TD-5,04/02/2021,5600,5800,5700
+"West Bengal",Malda,Samsi,Jute,TD-5,05/02/2021,5600,5900,5700
+"West Bengal",Malda,Samsi,Jute,TD-5,06/02/2021,5600,5800,5700
+"West Bengal",Malda,Samsi,Jute,TD-5,08/02/2021,5700,5900,5800
+"West Bengal",Malda,Samsi,Jute,TD-5,09/02/2021,5600,5800,5700
+"West Bengal",Malda,Samsi,Jute,TD-5,10/02/2021,5600,5800,5700
+"West Bengal",Malda,Samsi,Jute,TD-5,11/02/2021,5600,5800,5700
+"West Bengal",Malda,Samsi,Jute,TD-5,12/02/2021,5900,6100,6000
+"West Bengal",Malda,Samsi,Jute,TD-5,13/02/2021,6100,6300,6200
+"West Bengal",Malda,Samsi,Jute,TD-5,14/02/2021,6100,6300,6200
+"West Bengal",Malda,Samsi,Jute,TD-5,15/02/2021,6100,6300,6200
+"West Bengal",Malda,Samsi,Jute,TD-5,16/02/2021,6100,6300,6200
+"West Bengal",Malda,Samsi,Jute,TD-5,18/02/2021,6200,6400,6300
+"West Bengal",Malda,Samsi,Jute,TD-5,19/02/2021,6100,6300,6200
+"West Bengal",Malda,Samsi,Jute,TD-5,20/02/2021,6100,6300,6200
+"West Bengal",Malda,Samsi,Jute,TD-5,21/02/2021,6000,6200,6100
+"West Bengal",Malda,Samsi,Jute,TD-5,22/02/2021,6200,6400,6300
+"West Bengal",Malda,Samsi,Jute,TD-5,23/02/2021,6200,6400,6300
+"West Bengal",Malda,Samsi,Jute,TD-5,24/02/2021,6200,6400,6300
+"West Bengal",Malda,Samsi,Jute,TD-5,25/02/2021,6200,6400,6300
+"West Bengal",Malda,Samsi,Jute,TD-5,26/02/2021,6200,6400,6300
+"West Bengal",Malda,Samsi,Jute,TD-5,27/02/2021,6200,6400,6300
+"West Bengal",Malda,Samsi,Jute,TD-5,28/02/2021,6200,6400,6300
+"West Bengal",Malda,Samsi,Jute,TD-5,01/03/2021,6200,6400,6300
+"West Bengal",Malda,Samsi,Jute,TD-5,02/03/2021,6200,6400,6300
+"West Bengal",Malda,Samsi,Jute,TD-5,03/03/2021,6200,6400,6300
+"West Bengal",Malda,Samsi,Jute,TD-5,04/03/2021,6200,6400,6300
+"West Bengal",Malda,Samsi,Jute,TD-5,05/03/2021,6200,6400,6300
+"West Bengal",Malda,Samsi,Jute,TD-5,06/03/2021,6600,6800,6700
+"West Bengal",Malda,Samsi,Jute,TD-5,07/03/2021,6600,6800,6700
+"West Bengal",Malda,Samsi,Jute,TD-5,08/03/2021,6700,6900,6800
+"West Bengal",Malda,Samsi,Jute,TD-5,09/03/2021,6700,6900,6800
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,01/01/2021,5200,5360,5350
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,04/01/2021,5200,5400,5300
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,05/01/2021,5250,5400,5300
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,06/01/2021,5200,5350,5300
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,07/01/2021,5250,5350,5300
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,08/01/2021,5250,5350,5300
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,09/01/2021,5200,5400,5300
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,11/01/2021,5200,5300,5250
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,12/01/2021,5200,5290,5250
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,13/01/2021,5200,5350,5300
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,14/01/2021,5300,5400,5350
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,15/01/2021,5300,5400,5350
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,16/01/2021,5300,5450,5400
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,18/01/2021,5300,5450,5400
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,19/01/2021,4800,5500,4900
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,20/01/2021,5400,5460,5450
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,21/01/2021,5400,5500,5450
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,22/01/2021,5300,5400,5350
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,24/01/2021,5400,5500,5450
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,25/01/2021,5300,5400,5350
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,26/01/2021,5400,5500,5450
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,27/01/2021,5350,5450,5400
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,28/01/2021,5200,5400,5300
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,29/01/2021,5200,5350,5300
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,30/01/2021,5300,5450,5400
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,01/02/2021,5300,5500,5400
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,03/02/2021,5500,5650,5600
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,04/02/2021,5400,5500,5450
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,06/02/2021,5400,5500,5450
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,08/02/2021,5350,5470,5400
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,09/02/2021,5400,5600,5500
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,10/02/2021,5350,5450,5400
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,11/02/2021,5400,5600,5500
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,12/02/2021,5400,5600,5500
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,13/02/2021,5400,5500,5450
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,16/02/2021,5500,5700,5600
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,17/02/2021,5600,5800,5700
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,18/02/2021,5600,5700,5650
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,20/02/2021,5600,5800,5700
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,21/02/2021,5600,5700,5650
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,22/02/2021,5600,5700,5650
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,24/02/2021,5700,5800,5750
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,25/02/2021,5700,5800,5750
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,26/02/2021,5600,5700,5650
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,28/02/2021,5700,5800,5750
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,02/03/2021,6200,6350,6300
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,03/03/2021,6000,6150,6100
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,04/03/2021,5900,5980,5950
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,05/03/2021,5900,5930,5910
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,06/03/2021,5900,5930,5910
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,07/03/2021,5900,6000,5950
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,01/01/2021,5380,5450,5400
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,02/01/2021,5500,5600,5550
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,03/01/2021,5500,5600,5550
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,04/01/2021,5500,5600,5550
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,05/01/2021,5480,5550,5500
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,06/01/2021,5480,5550,5500
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,07/01/2021,5490,5550,5500
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,08/01/2021,5480,5550,5500
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,09/01/2021,5500,5600,5550
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,10/01/2021,5500,5600,5550
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,11/01/2021,5500,5600,5550
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,12/01/2021,5500,5600,5550
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,13/01/2021,5500,5600,5550
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,14/01/2021,5500,5600,5550
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,15/01/2021,5500,5600,5550
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,16/01/2021,5490,5550,5500
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,17/01/2021,5480,5550,5500
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,18/01/2021,5490,5550,5500
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,19/01/2021,5480,5550,5500
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,20/01/2021,5480,5550,5500
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,21/01/2021,5500,5600,5550
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,22/01/2021,5500,5600,5550
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,23/01/2021,5550,5610,5600
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,24/01/2021,5550,5610,5600
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,25/01/2021,5550,5610,5600
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,26/01/2021,5550,5620,5600
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,27/01/2021,5550,5620,5600
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,28/01/2021,5550,5620,5600
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,29/01/2021,5550,5620,5600
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,31/01/2021,5550,5620,5600
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,01/02/2021,5550,5620,5600
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,02/02/2021,5550,5620,5600
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,03/02/2021,5650,5750,5700
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,04/02/2021,5780,5850,5800
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,05/02/2021,5780,5850,5800
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,09/02/2021,5980,6050,6000
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,10/02/2021,6080,6150,6100
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,11/02/2021,6080,6150,6100
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,12/02/2021,6080,6150,6100
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,13/02/2021,6050,6150,6100
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,14/02/2021,6080,6150,6100
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,15/02/2021,6080,6150,6100
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,16/02/2021,6080,6150,6100
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,17/02/2021,6100,6200,6150
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,18/02/2021,6100,6200,6150
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,19/02/2021,6150,6210,6200
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,20/02/2021,6150,6225,6200
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,21/02/2021,6380,6450,6400
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,22/02/2021,6480,6510,6500
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,23/02/2021,6480,6520,6500
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,24/02/2021,6490,6520,6500
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,25/02/2021,6550,6650,6600
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,26/02/2021,6780,6810,6800
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,27/02/2021,6730,6800,6750
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,28/02/2021,6740,6800,6750
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,01/03/2021,6740,6800,6750
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,02/03/2021,6730,6800,6750
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,03/03/2021,6740,6810,6800
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,04/03/2021,6750,6810,6800
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,05/03/2021,6750,6810,6800
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,07/03/2021,6800,6900,6850
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,08/03/2021,7150,7225,7200
+"West Bengal",Murshidabad,Beldanga,Jute,TD-5,09/03/2021,7150,7225,7200
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,01/01/2021,4820,4975,4900
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,02/01/2021,4820,4975,4900
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,03/01/2021,4820,4975,4900
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,04/01/2021,4850,4975,4900
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,05/01/2021,4850,5000,4930
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,06/01/2021,4850,5000,4930
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,07/01/2021,4840,5000,4930
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,08/01/2021,4835,5000,4925
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,10/01/2021,4840,5000,4925
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,11/01/2021,4840,5000,4925
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,12/01/2021,4850,5000,4925
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,13/01/2021,4880,5025,4960
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,14/01/2021,4870,5025,4950
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,15/01/2021,4870,5025,4950
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,16/01/2021,4870,5025,4950
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,17/01/2021,4870,5025,4950
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,18/01/2021,4880,5080,4990
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,19/01/2021,4950,5100,5030
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,20/01/2021,4950,5100,5030
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,21/01/2021,4940,5100,5010
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,22/01/2021,4940,5100,5010
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,23/01/2021,4950,5100,5020
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,24/01/2021,4950,5100,5020
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,25/01/2021,4950,5100,5020
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,26/01/2021,4970,5130,5060
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,27/01/2021,4970,5130,5060
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,28/01/2021,5010,5150,5070
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,29/01/2021,5000,5150,5075
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,30/01/2021,5000,5150,5085
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,31/01/2021,5000,5150,5085
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,01/02/2021,4985,5125,5060
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,02/02/2021,4985,5125,5055
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,03/02/2021,4955,5100,5020
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,04/02/2021,4950,5100,5030
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,05/02/2021,4950,5100,5030
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,06/02/2021,4950,5100,5030
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,07/02/2021,4950,5100,5020
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,08/02/2021,4965,5135,5045
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,09/02/2021,4980,5150,5080
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,10/02/2021,4990,5150,5080
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,11/02/2021,5055,5200,5120
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,12/02/2021,5050,5200,5120
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,13/02/2021,5040,5200,5125
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,14/02/2021,5070,5200,5125
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,15/02/2021,5070,5225,5155
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,16/02/2021,5070,5225,5160
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,17/02/2021,5070,5225,5160
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,18/02/2021,5070,5225,5160
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,19/02/2021,5050,5200,5120
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,20/02/2021,5050,5200,5130
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,21/02/2021,5050,5200,5130
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,22/02/2021,5040,5200,5125
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,23/02/2021,5040,5200,5125
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,24/02/2021,5265,5400,5320
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,25/02/2021,5260,5400,5330
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,26/02/2021,5260,5400,5330
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,28/02/2021,5260,5400,5325
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,01/03/2021,5400,5550,5480
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,02/03/2021,5400,5550,5480
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,03/03/2021,5400,5550,5480
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,04/03/2021,5400,5550,5480
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,05/03/2021,5400,5550,5470
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,06/03/2021,5400,5550,5470
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,07/03/2021,5400,5550,5480
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,08/03/2021,5450,5600,5520
+"West Bengal",Murshidabad,Jangipur,Jute,TD-5,09/03/2021,5450,5600,5520
+"West Bengal",Murshidabad,Jiaganj,Jute,Other,03/01/2021,4800,4925,4825
+"West Bengal",Murshidabad,Jiaganj,Jute,Other,10/01/2021,4850,4950,4890
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,04/01/2021,4790,4950,4850
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,05/01/2021,4750,4975,4850
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,06/01/2021,4890,5000,4980
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,08/01/2021,4800,4950,4850
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,09/01/2021,4850,4980,4925
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,12/01/2021,4890,5000,4960
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,13/01/2021,4900,5000,4925
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,14/01/2021,4850,4950,4900
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,15/01/2021,4890,5030,4960
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,18/01/2021,4800,4900,4850
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,19/01/2021,4680,4900,4850
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,20/01/2021,4580,4850,4750
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,21/01/2021,4800,4850,4825
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,22/01/2021,4800,4860,4825
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,23/01/2021,4800,4860,4825
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,25/01/2021,4750,4825,4800
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,26/01/2021,4750,4825,4800
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,27/01/2021,4650,4800,4750
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,28/01/2021,4750,4825,4780
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,29/01/2021,4700,4775,4750
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,30/01/2021,4750,4800,4775
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,31/01/2021,4720,4820,4750
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,04/02/2021,4520,4650,4590
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,05/02/2021,4520,4600,4560
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,06/02/2021,4500,4575,4525
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,08/02/2021,4650,4725,4685
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,09/02/2021,4560,4750,4650
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,10/02/2021,4750,4825,4775
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,11/02/2021,4550,4700,4650
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,12/02/2021,4500,4650,4550
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,13/02/2021,4250,4650,4450
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,14/02/2021,4250,4650,4400
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,15/02/2021,4250,4550,4450
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,16/02/2021,4350,4650,4450
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,17/02/2021,4250,4550,4460
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,18/02/2021,4450,4550,4500
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,19/02/2021,4450,4650,4550
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,20/02/2021,4250,4450,4400
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,21/02/2021,4350,4560,4450
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,22/02/2021,4350,4600,4450
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,23/02/2021,4560,4750,4650
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,24/02/2021,4550,4750,4650
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,25/02/2021,4500,4650,4550
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,26/02/2021,4500,4575,4525
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,27/02/2021,4000,4150,4100
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,28/02/2021,4100,4250,4150
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,03/03/2021,4250,4425,4350
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,04/03/2021,4250,4350,4285
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,06/03/2021,4250,4400,4300
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,07/03/2021,4250,4450,4350
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,08/03/2021,4200,4250,4225
+"West Bengal",Murshidabad,Jiaganj,Jute,TD-5,09/03/2021,4150,4250,4225
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,01/01/2021,5430,5600,5500
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,02/01/2021,5430,5600,5500
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,03/01/2021,5430,5600,5500
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,04/01/2021,5500,5650,5550
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,05/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,06/01/2021,5530,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,07/01/2021,5490,5600,5500
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,08/01/2021,5490,5650,5550
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,09/01/2021,5480,5650,5550
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,10/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,11/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,12/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,13/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,14/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,15/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,16/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,17/01/2021,5580,5750,5650
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,18/01/2021,5580,5750,5650
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,19/01/2021,5580,5750,5650
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,20/01/2021,5620,5800,5700
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,21/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,22/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,23/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,24/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,25/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,26/01/2021,5500,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,27/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,28/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,29/01/2021,5520,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,30/01/2021,5530,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,31/01/2021,5530,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,02/02/2021,5530,5700,5600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,03/02/2021,5580,5750,5650
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,04/02/2021,5630,5800,5700
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,05/02/2021,5730,5900,5800
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,06/02/2021,5730,5900,5800
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,07/02/2021,5730,5900,5800
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,08/02/2021,5730,5900,5800
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,09/02/2021,5730,5900,5800
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,10/02/2021,5800,5950,5850
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,11/02/2021,5820,6000,5900
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,12/02/2021,5820,6000,5900
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,13/02/2021,5820,6000,5900
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,14/02/2021,5820,6000,5900
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,15/02/2021,5910,6100,6000
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,16/02/2021,5910,6100,6000
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,17/02/2021,6010,6200,6100
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,18/02/2021,6010,6200,6100
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,19/02/2021,6100,6300,6200
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,20/02/2021,6100,6300,6200
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,21/02/2021,6200,6400,6300
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,22/02/2021,6300,6500,6400
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,23/02/2021,6300,6500,6400
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,24/02/2021,6500,6700,6600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,25/02/2021,6500,6700,6600
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,26/02/2021,6700,6900,6800
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,27/02/2021,6700,6900,6800
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,28/02/2021,6700,6900,6800
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,01/03/2021,6700,6900,6800
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,02/03/2021,6700,6900,6800
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,03/03/2021,6700,6900,6800
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,04/03/2021,6700,6900,6800
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,05/03/2021,6800,7000,6900
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,06/03/2021,6800,7000,6900
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,07/03/2021,6900,7100,7000
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,08/03/2021,6900,7100,7000
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,09/03/2021,5900,7100,7000
+"West Bengal",Murshidabad,Kasimbazar,Jute,TD-5,10/03/2021,6950,7150,7050
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,03/01/2021,4780,4900,4850
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,04/01/2021,4750,4950,4860
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,05/01/2021,4780,4950,4860
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,06/01/2021,4780,4980,4850
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,08/01/2021,4850,4960,4925
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,09/01/2021,4850,4960,4920
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,10/01/2021,4760,4980,4850
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,12/01/2021,4850,4950,4900
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,13/01/2021,4800,4950,4850
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,14/01/2021,4850,4950,4900
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,15/01/2021,4890,5050,4950
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,16/01/2021,4890,5000,4950
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,17/01/2021,4850,5020,4960
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,18/01/2021,4860,5030,4950
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,19/01/2021,4850,4950,4900
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,20/01/2021,4750,4900,4850
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,21/01/2021,4800,4925,4850
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,22/01/2021,4800,4850,4825
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,23/01/2021,4800,4850,4825
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,25/01/2021,4850,4900,4875
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,26/01/2021,4725,4775,4750
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,27/01/2021,4750,4850,4790
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,28/01/2021,4750,4850,4800
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,29/01/2021,4700,4780,4725
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,30/01/2021,4580,4825,4750
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,31/01/2021,4650,4780,4725
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,04/02/2021,4750,4925,4850
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,05/02/2021,4500,4600,4520
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,06/02/2021,4520,4650,4580
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,08/02/2021,4575,4700,4650
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,09/02/2021,4680,4800,4750
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,10/02/2021,4575,4750,4650
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,11/02/2021,4575,4750,4650
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,12/02/2021,4500,4650,4550
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,13/02/2021,4550,4700,4650
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,14/02/2021,4500,4650,4550
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,15/02/2021,4250,4650,4550
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,16/02/2021,4500,4650,4580
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,18/02/2021,4250,4550,4400
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,19/02/2021,4250,4550,4400
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,20/02/2021,4500,4650,4550
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,21/02/2021,4350,4650,4450
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,22/02/2021,4360,4600,4460
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,23/02/2021,4560,4700,4650
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,24/02/2021,4250,4650,4450
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,25/02/2021,4500,4550,4525
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,27/02/2021,4000,4250,4150
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,28/02/2021,4200,4350,4250
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,03/03/2021,4525,4725,4650
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,04/03/2021,4200,4350,4250
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,05/03/2021,4250,4650,4450
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,06/03/2021,4250,4450,4350
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,07/03/2021,4250,4460,4350
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,08/03/2021,4250,4450,4350
+"West Bengal",Murshidabad,Lalbagh,Jute,TD-5,09/03/2021,4250,4450,4350
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,04/01/2021,5200,5400,5300
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,05/01/2021,5200,5400,5300
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,06/01/2021,5300,5500,5400
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,07/01/2021,5300,5500,5400
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,09/01/2021,5300,5400,5350
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,10/01/2021,5250,5350,5300
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,11/01/2021,5300,5400,5350
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,12/01/2021,5300,5400,5350
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,14/01/2021,5200,5300,5250
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,15/01/2021,5200,5300,5250
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,16/01/2021,5200,5300,5250
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,17/01/2021,5250,5350,5300
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,22/01/2021,5200,5300,5250
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,23/01/2021,5200,5300,5250
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,24/01/2021,5250,5350,5300
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,25/01/2021,5250,5350,5300
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,26/01/2021,5250,5350,5300
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,27/01/2021,5250,5350,5300
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,28/01/2021,5200,5300,5250
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,29/01/2021,5250,5350,5300
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,30/01/2021,5200,5300,5250
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,31/01/2021,5200,5300,5250
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,01/02/2021,5200,5300,5250
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,02/02/2021,5200,5300,5250
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,05/02/2021,5500,5600,5550
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,06/02/2021,5550,5650,5600
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,07/02/2021,5600,5700,5650
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,08/02/2021,5600,5700,5650
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,11/02/2021,5500,5600,5550
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,12/02/2021,5500,5600,5550
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,13/02/2021,5500,5600,5550
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,14/02/2021,5550,5650,5600
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,16/02/2021,5450,5550,5500
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,17/02/2021,5500,5600,5550
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,18/02/2021,5500,5600,5550
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,19/02/2021,5500,5600,5550
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,23/02/2021,5400,5500,5450
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,24/02/2021,5450,5550,5500
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,25/02/2021,5450,5550,5500
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,26/02/2021,5450,5550,5500
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,27/02/2021,6050,6150,6100
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,28/02/2021,6050,6150,6100
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,01/03/2021,5900,6100,6000
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,02/03/2021,6050,6150,6100
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,06/03/2021,5950,6050,6000
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,07/03/2021,5950,6050,6000
+"West Bengal",Nadia,Bethuadahari,Jute,TD-5,08/03/2021,5950,6050,6000
+"West Bengal",Nadia,Karimpur,Jute,Other,01/01/2021,5700,5800,5780
+"West Bengal",Nadia,Karimpur,Jute,Other,02/01/2021,5600,5700,5695
+"West Bengal",Nadia,Nadia,Jute,TD-5,01/01/2021,5100,5300,5200
+"West Bengal",Nadia,Nadia,Jute,TD-5,02/01/2021,5100,5300,5200
+"West Bengal",Nadia,Nadia,Jute,TD-5,04/01/2021,5200,5300,5250
+"West Bengal",Nadia,Nadia,Jute,TD-5,05/01/2021,5250,5400,5350
+"West Bengal",Nadia,Nadia,Jute,TD-5,06/01/2021,5350,5500,5450
+"West Bengal",Nadia,Nadia,Jute,TD-5,07/01/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,08/01/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,09/01/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,11/01/2021,5250,5400,5350
+"West Bengal",Nadia,Nadia,Jute,TD-5,12/01/2021,5200,5400,5300
+"West Bengal",Nadia,Nadia,Jute,TD-5,13/01/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,14/01/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,15/01/2021,5200,5400,5300
+"West Bengal",Nadia,Nadia,Jute,TD-5,16/01/2021,5200,5400,5300
+"West Bengal",Nadia,Nadia,Jute,TD-5,18/01/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,19/01/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,20/01/2021,5400,5600,5500
+"West Bengal",Nadia,Nadia,Jute,TD-5,21/01/2021,5400,5600,5500
+"West Bengal",Nadia,Nadia,Jute,TD-5,22/01/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,23/01/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,25/01/2021,5250,5400,5350
+"West Bengal",Nadia,Nadia,Jute,TD-5,26/01/2021,5200,5400,5300
+"West Bengal",Nadia,Nadia,Jute,TD-5,27/01/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,28/01/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,29/01/2021,5200,5400,5300
+"West Bengal",Nadia,Nadia,Jute,TD-5,30/01/2021,5200,5400,5300
+"West Bengal",Nadia,Nadia,Jute,TD-5,01/02/2021,5150,5300,5250
+"West Bengal",Nadia,Nadia,Jute,TD-5,02/02/2021,5250,5400,5350
+"West Bengal",Nadia,Nadia,Jute,TD-5,03/02/2021,5400,5600,5500
+"West Bengal",Nadia,Nadia,Jute,TD-5,04/02/2021,5500,5700,5600
+"West Bengal",Nadia,Nadia,Jute,TD-5,05/02/2021,5500,5700,5600
+"West Bengal",Nadia,Nadia,Jute,TD-5,06/02/2021,5400,5600,5500
+"West Bengal",Nadia,Nadia,Jute,TD-5,08/02/2021,5600,5800,5700
+"West Bengal",Nadia,Nadia,Jute,TD-5,09/02/2021,5500,5700,5600
+"West Bengal",Nadia,Nadia,Jute,TD-5,10/02/2021,5500,5700,5600
+"West Bengal",Nadia,Nadia,Jute,TD-5,12/02/2021,5500,5700,5600
+"West Bengal",Nadia,Nadia,Jute,TD-5,13/02/2021,5400,5600,5500
+"West Bengal",Nadia,Nadia,Jute,TD-5,15/02/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,16/02/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,17/02/2021,5400,5600,5500
+"West Bengal",Nadia,Nadia,Jute,TD-5,18/02/2021,5400,5600,5500
+"West Bengal",Nadia,Nadia,Jute,TD-5,19/02/2021,5400,5600,5500
+"West Bengal",Nadia,Nadia,Jute,TD-5,20/02/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,22/02/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,23/02/2021,5400,5600,5500
+"West Bengal",Nadia,Nadia,Jute,TD-5,24/02/2021,5300,5500,5400
+"West Bengal",Nadia,Nadia,Jute,TD-5,25/02/2021,5500,5700,5600
+"West Bengal",Nadia,Nadia,Jute,TD-5,26/02/2021,5500,5700,5600
+"West Bengal",Nadia,Nadia,Jute,TD-5,27/02/2021,5400,5600,5500
+"West Bengal",Nadia,Nadia,Jute,TD-5,01/03/2021,5800,6000,5900
+"West Bengal",Nadia,Nadia,Jute,TD-5,02/03/2021,6000,6200,6100
+"West Bengal",Nadia,Nadia,Jute,TD-5,03/03/2021,6100,6300,6200
+"West Bengal",Nadia,Nadia,Jute,TD-5,04/03/2021,6250,6400,6350
+"West Bengal",Nadia,Nadia,Jute,TD-5,05/03/2021,6200,6400,6300
+"West Bengal",Nadia,Nadia,Jute,TD-5,06/03/2021,6200,6400,6300
+"West Bengal",Nadia,Nadia,Jute,TD-5,08/03/2021,6100,6300,6200
+"West Bengal",Nadia,Nadia,Jute,TD-5,09/03/2021,5900,6100,6000
+"West Bengal",Nadia,Nadia,Jute,TD-5,10/03/2021,5700,5900,5800
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,02/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,03/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,04/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,05/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,06/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,07/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,08/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,09/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,10/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,11/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,12/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,13/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,14/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,15/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,16/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,17/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,18/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,19/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,20/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,21/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,22/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,23/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,24/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,25/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,26/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,27/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,28/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,29/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,30/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,31/01/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,02/02/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,03/02/2021,6300,6500,6400
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,05/02/2021,6500,6700,6600
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,06/02/2021,6500,6700,6600
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,07/02/2021,6500,6700,6600
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,08/02/2021,6500,6700,6600
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,09/02/2021,6500,6700,6600
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,10/02/2021,6500,6700,6600
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,11/02/2021,6500,6700,6600
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,12/02/2021,6500,6700,6600
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,13/02/2021,6500,6700,6600
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,14/02/2021,6500,6700,6600
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,15/02/2021,6500,6700,6600
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,16/02/2021,7000,7200,7100
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,17/02/2021,7000,7200,7100
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,18/02/2021,7000,7200,7100
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,19/02/2021,7000,7200,7100
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,20/02/2021,7000,7200,7100
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,21/02/2021,7000,7200,7100
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,22/02/2021,7000,7200,7100
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,23/02/2021,7000,7200,7100
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,24/02/2021,7000,7200,7100
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,25/02/2021,7000,7200,7100
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,26/02/2021,7400,7600,7500
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,27/02/2021,7400,7600,7500
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,28/02/2021,7400,7600,7500
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,02/03/2021,7400,7600,7500
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,03/03/2021,7400,7600,7500
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,04/03/2021,7500,7700,7600
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,05/03/2021,7500,7700,7600
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,06/03/2021,7700,7900,7800
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,07/03/2021,7700,7900,7800
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,08/03/2021,7700,7900,7800
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,09/03/2021,7700,7900,7800
+"West Bengal","Uttar Dinajpur",Islampur,Jute,TD-5,10/03/2021,7700,7900,7800
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,02/01/2021,6100,6300,6200
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,03/01/2021,6100,6300,6200
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,04/01/2021,6100,6300,6200
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,05/01/2021,6100,6300,6200
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,06/01/2021,6100,6300,6200
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,07/01/2021,6100,6300,6200
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,08/01/2021,6100,6300,6200
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,11/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,12/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,13/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,14/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,15/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,18/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,19/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,20/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,25/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,26/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,27/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,28/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,29/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,01/02/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,02/02/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,03/02/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,06/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,07/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,08/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,09/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,10/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,11/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,14/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,15/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,16/02/2021,6800,7000,6900
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,17/02/2021,6800,7000,6900
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,18/02/2021,6800,7000,6900
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,20/02/2021,6900,7100,7000
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,21/02/2021,6900,7100,7000
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,22/02/2021,6900,7100,7000
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,23/02/2021,6900,7100,7000
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,26/02/2021,7000,7200,7100
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,27/02/2021,7200,7400,7300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,28/02/2021,7200,7400,7300
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,02/03/2021,7400,7600,7500
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,03/03/2021,7400,7600,7500
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,04/03/2021,7400,7600,7500
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,05/03/2021,7400,7600,7500
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,08/03/2021,7500,7700,7600
+"West Bengal","Uttar Dinajpur",Kaliaganj,Jute,TD-5,09/03/2021,7500,7700,7600
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,02/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,03/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,04/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,05/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,06/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,07/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,08/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,09/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,10/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,11/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,12/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,13/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,14/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,15/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,16/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,17/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,18/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,19/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,20/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,21/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,22/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,23/01/2021,6100,6300,6200
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,24/01/2021,6100,6300,6200
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,25/01/2021,6100,6300,6200
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,26/01/2021,6100,6300,6200
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,27/01/2021,6100,6300,6200
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,28/01/2021,6100,6300,6200
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,29/01/2021,6100,6300,6200
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,30/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,31/01/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,02/02/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,03/02/2021,6200,6400,6300
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,05/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,06/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,07/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,08/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,09/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,10/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,11/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,12/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,13/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,14/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,15/02/2021,6400,6600,6500
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,16/02/2021,6900,7100,7000
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,17/02/2021,6900,7100,7000
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,18/02/2021,6900,7100,7000
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,19/02/2021,6900,7100,7000
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,20/02/2021,6900,7100,7000
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,21/02/2021,6900,7200,7100
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,22/02/2021,6900,7100,7000
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,23/02/2021,6900,7100,7000
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,24/02/2021,6900,7100,7000
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,25/02/2021,6900,7100,7000
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,26/02/2021,7300,7500,7400
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,27/02/2021,7300,7500,7400
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,28/02/2021,7300,7500,7400
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,02/03/2021,7300,7500,7400
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,03/03/2021,7300,7500,7400
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,04/03/2021,7400,7600,7500
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,05/03/2021,7400,7600,7500
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,06/03/2021,7600,7800,7700
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,07/03/2021,7600,7800,7700
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,08/03/2021,7600,7800,7700
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,09/03/2021,7600,7800,7700
+"West Bengal","Uttar Dinajpur",Raiganj,Jute,TD-5,10/03/2021,7600,7800,7700
